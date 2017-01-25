@@ -1,0 +1,5 @@
+﻿2016-09-23 13:18:17.111 -0600	START		Running Index.script
+2016-09-23 13:18:17.206 -0600	typetext		[windowsKey]r	1	on_index	Index.script
+2016-09-23 13:18:18.157 -0600	typetext		cmd /administrator[enter]	2	on_index	Index.script
+2016-09-23 13:18:18.539 -0600	EndTestCase		(Duration:"1.426701", Errors:"0", Exceptions:"0", StartTime:"2016-09-23 13:18:17 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-09-23 13:18:18.543 -0600	SUCCESS		Execution Time 0:00:01 Index.script

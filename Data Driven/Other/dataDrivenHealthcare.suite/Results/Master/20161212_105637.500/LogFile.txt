@@ -1,0 +1,13 @@
+﻿2016-12-12 10:56:37.501 -0700	START		Running dataDriven.script
+2016-12-12 10:56:37.801 -0700	Log		222222,Mr,Bruce,A,Wayne,6/13/06,113-83-3798,Male,Single	20	on_datadriven	dataDriven.script
+2016-12-12 10:56:37.854 -0700	Log		333333,Mrs,Carrie,B,Underwood,3/16/14,583-00-6387,Female,Married	20	on_datadriven	dataDriven.script
+2016-12-12 10:56:37.908 -0700	Log		444444,Ms,Wonder,C,Woman,4/24/03,580-71-8520,Female,Divorced	20	on_datadriven	dataDriven.script
+2016-12-12 10:56:37.961 -0700	Log		555555,Dr,Darth,D,Vader,12/23/87,744-85-1232,Male,Widowed	20	on_datadriven	dataDriven.script
+2016-12-12 10:56:38.011 -0700	Log		666666,Dr,James,E,Bond,7/30/81,973-13-0224,Male,Single	20	on_datadriven	dataDriven.script
+2016-12-12 10:56:38.063 -0700	Log		777777,Mr,Homer,F,Simpson,9/1/80,557-31-0655,Male,Married	20	on_datadriven	dataDriven.script
+2016-12-12 10:56:38.115 -0700	Log		888888,Dr,Optimus,G,Prime,9/19/85,521-26-0727,Other,Divorced	20	on_datadriven	dataDriven.script
+2016-12-12 10:56:38.154 -0700	Log		999999,Dr,Mickey,H,Mouse,6/14/00,984-56-3166,Male,Single	20	on_datadriven	dataDriven.script
+2016-12-12 10:56:38.215 -0700	Log		101010,Mr,SpongeBob,I,SquarePants,6/14/00,984-56-3166,Male,Single	20	on_datadriven	dataDriven.script
+2016-12-12 10:56:38.257 -0700	pausescript			72	on_datadriven	dataDriven.script
+2016-12-12 10:58:20.295 -0700	EndTestCase		(Duration:"102.792504", Errors:"1", Exceptions:"0", StartTime:"2016-12-12 10:56:37 -0700", Successes:"0", TestCase:"dataDriven.script", Warnings:"0")
+2016-12-12 10:58:20.296 -0700	ABORTED		Execution Time 0:01:42 dataDriven.script

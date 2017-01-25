@@ -1,0 +1,9 @@
+﻿2016-10-17 12:54:39.039 -0600	START		Running index.script
+2016-10-17 12:54:39.119 -0600	Log		Randy	2	on_createnewpatient	index.script
+2016-10-17 12:54:39.126 -0600	Log		Hesse	3	on_createnewpatient	index.script
+2016-10-17 12:54:39.173 -0600	Log		Randy	2	on_createnewpatient	index.script
+2016-10-17 12:54:39.182 -0600	Log		Hesse	3	on_createnewpatient	index.script
+2016-10-17 12:54:39.226 -0600	Log		Randy	2	on_createnewpatient	index.script
+2016-10-17 12:54:39.231 -0600	Log		Hesse	3	on_createnewpatient	index.script
+2016-10-17 12:54:39.603 -0600	EndTestCase		(Duration:"0.562432", Errors:"0", Exceptions:"0", StartTime:"2016-10-17 12:54:39 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-10-17 12:54:39.612 -0600	SUCCESS		Execution Time 0:00:00 index.script

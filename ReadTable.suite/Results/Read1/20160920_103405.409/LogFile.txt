@@ -1,0 +1,7 @@
+﻿2016-09-20 10:34:05.410 -0600	START		Running Read1.script
+2016-09-20 10:34:05.970 -0600	imagelocation	List	at (220, 80)	5	on_read1	Read1.script
+2016-09-20 10:34:06.229 -0600	Log		(320,160,420,780)	8	on_read1	Read1.script
+2016-09-20 10:34:06.627 -0600	readtext		(320,160,420,780)
+2016-09-20 10:34:06.628 -0600	Log		Bulbasaur\nIvysaur\nVenusaur\nCharmander\nCharmeleon\nCharizard\nSquirtle\nWartortle\nBlastoise\nCaterpie\nMetapod\nButterfree\nWeedle\nKakuna\nBeedrill\nPidgey\nPidoeotto\nPj Pidgeotto\nRattata\nRaticate\nSpearow\nFearow\nEkans	9	on_read1	Read1.script
+2016-09-20 10:34:06.991 -0600	EndTestCase		(Duration:"1.579756", Errors:"0", Exceptions:"0", StartTime:"2016-09-20 10:34:05 -0600", Successes:"1", TestCase:"Read1.script", Warnings:"0")
+2016-09-20 10:34:06.998 -0600	SUCCESS		Execution Time 0:00:01 Read1.script

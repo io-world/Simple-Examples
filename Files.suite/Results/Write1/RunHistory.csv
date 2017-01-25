@@ -1,0 +1,14 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-11-07 13:13:40.089 -0700,"Failure",0:00:00,1,0,0,"20161107_131340.089/LogFile.txt","","STFileException -- Attempt to access unopened file: 1,2,71,45,Joe\n3,4\n90,123\n12,88\nMike\nAshley Milne",0
+2016-11-07 13:13:58.075 -0700,"Failure",0:00:00,1,0,0,"20161107_131358.075/LogFile.txt","","STFileAccessException -- Unable to open file /1,2,71,45,Joe\n3,4\n90,123\n12,88\nMike\nAshley Milne as requested",0
+2016-11-07 13:22:08.165 -0700,"Failure",0:00:00,1,0,0,"20161107_132208.165/LogFile.txt","","STFileException -- Attempt to access unopened file: MyFileVar",0
+2016-11-07 13:22:18.998 -0700,"Success",0:00:00,0,0,0,"20161107_132218.998/LogFile.txt","","",1
+2016-11-07 13:22:40.784 -0700,"Failure",0:00:00,1,0,0,"20161107_132240.784/LogFile.txt","","STFileException -- Attempt to access unopened file: /Users/randyhesse/Desktop/TestRead",0
+2016-11-07 13:23:52.985 -0700,"Success",0:00:00,0,0,0,"20161107_132352.985/LogFile.txt","","",1
+2016-11-07 13:28:07.688 -0700,"Success",0:00:00,0,0,0,"20161107_132807.688/LogFile.txt","","",1
+2016-12-20 16:48:44.670 -0700,"Failure",0:00:00,1,0,0,"20161220_164844.670/LogFile.txt","","STFileException -- Attempt to access unopened file: 1,2,71,45,Joe\n3,4\n90,123\n12,88\nMike\nAshley Milne\nmy name is what?\nmy name is what?\nmy name is what?",0
+2016-12-20 16:49:56.851 -0700,"Failure",0:00:00,1,0,0,"20161220_164956.851/LogFile.txt","","InvalidCommandOrRange -- Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters)",0
+2016-12-20 16:50:22.532 -0700,"Success",0:00:00,0,0,0,"20161220_165022.532/LogFile.txt","","",1
+2016-12-20 16:55:36.227 -0700,"Failure",0:00:00,1,0,0,"20161220_165536.227/LogFile.txt","","InvalidCommandOrRange -- Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters)",0
+2016-12-21 08:46:12.398 -0700,"Success",0:00:00,0,0,0,"20161221_084612.398/LogFile.txt","","",1
+2016-12-21 08:46:22.826 -0700,"Success",0:00:00,0,0,0,"20161221_084622.826/LogFile.txt","","",1

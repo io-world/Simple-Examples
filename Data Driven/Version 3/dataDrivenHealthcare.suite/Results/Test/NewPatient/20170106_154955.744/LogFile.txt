@@ -1,0 +1,11 @@
+﻿2017-01-06 15:49:55.745 -0700	START		Running Test/NewPatient.script	24	on_index	Index.script
+2017-01-06 15:49:55.768 -0700	Log		Medical Record Number	8	on_test_newpatient	Test/NewPatient.script
+2017-01-06 15:49:55.771 -0700	Log		Prefix	9	on_test_newpatient	Test/NewPatient.script
+2017-01-06 15:49:55.774 -0700	Log		First Name	10	on_test_newpatient	Test/NewPatient.script
+2017-01-06 15:49:55.776 -0700	Log		Last Name	11	on_test_newpatient	Test/NewPatient.script
+2017-01-06 15:49:55.779 -0700	Log		Date of Birth	12	on_test_newpatient	Test/NewPatient.script
+2017-01-06 15:49:55.796 -0700	Log		Social Security Number	13	on_test_newpatient	Test/NewPatient.script
+2017-01-06 15:49:55.810 -0700	Log		Gender	14	on_test_newpatient	Test/NewPatient.script
+2017-01-06 15:49:55.815 -0700	Log		Marital Status	15	on_test_newpatient	Test/NewPatient.script
+2017-01-06 15:49:55.827 -0700	EndTestCase		(Duration:"0.080449", Errors:"0", Exceptions:"0", StartTime:"2017-01-06 15:49:55 -0700", Successes:"1", TestCase:"Test/NewPatient.script", Warnings:"0")	24	on_index	Index.script
+2017-01-06 15:49:55.863 -0700	SUCCESS		Execution Time 0:00:00 Test/NewPatient.script	24	on_index	Index.script

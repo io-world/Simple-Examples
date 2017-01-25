@@ -1,0 +1,4 @@
+﻿2017-01-04 14:29:31.366 -0700	START		Running index.script
+2017-01-04 14:29:32.526 -0700	click	Start Icon	at (26, 881)	1	on_index	index.script
+2017-01-04 14:29:32.782 -0700	EndTestCase		(Duration:"1.413914", Errors:"0", Exceptions:"0", StartTime:"2017-01-04 14:29:31 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-01-04 14:29:32.787 -0700	SUCCESS		Execution Time 0:00:01 index.script

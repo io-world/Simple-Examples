@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="login">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2015-09-11 16:09:32 -0700</FirstRun>
+  <LastRun>2015-09-11 16:09:34 -0700</LastRun>
+  <TotalTimeOnSuccess>0.189977</TotalTimeOnSuccess>
+ </script>
+ <script name="addPatient">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2015-09-11 16:09:33 -0700</FirstRun>
+  <LastRun>2015-09-11 16:09:34 -0700</LastRun>
+  <TotalTimeOnSuccess>0.218183</TotalTimeOnSuccess>
+ </script>
+ <script name="dataDriven">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>28</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2015-05-22 12:29:44 -0600</FirstRun>
+  <LastRun>2015-09-11 16:09:31 -0700</LastRun>
+  <TotalTimeOnSuccess>24.159474</TotalTimeOnSuccess>
+ </script>
+ <script name="logout">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2015-09-11 16:09:33 -0700</FirstRun>
+  <LastRun>2015-09-11 16:09:34 -0700</LastRun>
+  <TotalTimeOnSuccess>0.123471</TotalTimeOnSuccess>
+ </script>
+</statistics>

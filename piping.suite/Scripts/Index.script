@@ -1,0 +1,22 @@
+﻿put "C:\output.txt" into outputFile
+put "netstat" into OutputCommand
+
+TypeText windowsKey & "r"
+TypeText "cmd /administrator" , enterkey
+waitfor 10, "CMD Icon"
+TypeText <<del ">> & outputFile & <<">> ,enterkey
+TypeText OutputCommand && ">" && outputFile, enterkey
+wait 5
+TypeText "exit", enterkey
+----------------------------
+TypeText windowsKey & "r"
+TypeText outputFile , enterkey
+waitfor 3,"NotePad Icon"
+TypeText controlKey & "a"
+TypeText controlKey & "c"
+TypeText altKey & F4
+
+log RemoteClipboard(10)
+
+
+

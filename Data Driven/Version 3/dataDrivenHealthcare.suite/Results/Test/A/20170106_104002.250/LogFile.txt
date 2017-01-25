@@ -1,0 +1,10 @@
+﻿2017-01-06 10:40:02.252 -0700	START		Running Test/A.script	20	on_index	Index.script
+2017-01-06 10:40:02.257 -0700	Log		code for Navigation for TestA 	4	on_test_a	Test/A.script
+2017-01-06 10:40:02.640 -0700	imagefound	Test/A/image0001	found at (561, 243)	7	on_imagec	Modules/Verify.script
+2017-01-06 10:40:02.643 -0700	Log		Image was found: Test/A/image0001	8	on_imagec	Modules/Verify.script
+2017-01-06 10:40:03.347 -0700	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(111,171), ImageRectangle:(100,167,122,176), Language:"English", searchRectangle:(0,0,500,500), text:"plan", TextPlatform:"Generic OCR", Waitfor:"5")	found at (111, 171)	11	on_textc	Modules/Verify.script
+2017-01-06 10:40:03.389 -0700	Log		Text was found: plan	12	on_textc	Modules/Verify.script
+2017-01-06 10:40:05.171 -0700	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(111,171), ImageRectangle:(100,167,122,176), Language:"English", searchRectangle:(0,0,1440,900), text:"plan", TextPlatform:"Generic OCR", Waitfor:"3")	found at (111, 171)	11	on_textc	Modules/Verify.script
+2017-01-06 10:40:05.214 -0700	Log		Text was found: plan	12	on_textc	Modules/Verify.script
+2017-01-06 10:40:05.223 -0700	EndTestCase		(Duration:"2.96988", Errors:"0", Exceptions:"0", StartTime:"2017-01-06 10:40:02 -0700", Successes:"1", TestCase:"Test/A.script", Warnings:"0")	20	on_index	Index.script
+2017-01-06 10:40:05.259 -0700	SUCCESS		Execution Time 0:00:02 Test/A.script	20	on_index	Index.script

@@ -1,0 +1,28 @@
+﻿put "/Users/randyhesse/Desktop/TestRead"  into MyFileVar  
+open  file MyFileVar
+
+
+put ("banana","pear","strawberry","apple") into GLIST
+
+put the number of items of glist into max
+
+repeat max times
+	
+	put item repeatindex()  of glist after WriteALL
+	put return after WriteALL
+	
+	
+end repeat
+
+log WriteALL
+
+
+write WriteALL to file MyFileVar at eof
+close file MyFileVar
+
+
+put ("banana","pear","strawberry","apple") into GLIST
+
+sort Glist alphabetically
+
+log glist

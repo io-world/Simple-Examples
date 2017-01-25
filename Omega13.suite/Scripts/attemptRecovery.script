@@ -1,0 +1,3 @@
+﻿log "Chrome errored out, restarting Chrome"
+TypeText windowsKey & "r"
+TypeText "chrome.exe", returnkey

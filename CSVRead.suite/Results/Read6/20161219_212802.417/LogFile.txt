@@ -1,0 +1,16 @@
+﻿2016-12-19 21:28:02.418 -0800	START		Running Read6.script
+2016-12-19 21:28:02.565 -0800	Log		Prefix,First_Name,Middle_Name,Last_Name,Medical_Record_Number,Date_of_Birth,Social_Security_Number,Gender,Marital_Status	10	on_read6	Read6.script
+2016-12-19 21:28:02.600 -0800	Log		Mr,Bruce,,Wayne,222222,6/13/06,113-83-3798,Male,Single	10	on_read6	Read6.script
+2016-12-19 21:28:02.636 -0800	Log		Mrs,Carrie,,Underwood,333333,3/16/14,583-00-6387,Female,Married	10	on_read6	Read6.script
+2016-12-19 21:28:02.673 -0800	Log		Ms,Wonder,,Woman,444444,4/24/03,580-71-8520,Female,Divorced	10	on_read6	Read6.script
+2016-12-19 21:28:02.705 -0800	Log		Dr,Darth,A,Vader,555555,12/23/87,744-85-1232,Male,Widowed	10	on_read6	Read6.script
+2016-12-19 21:28:02.736 -0800	Log		Dr,James,,Bond,666666,7/30/81,973-13-0224,Male,Single	10	on_read6	Read6.script
+2016-12-19 21:28:02.786 -0800	Log		Mr,Homer,,Simpson,777777,9/1/80,557-31-0655,Male,Married	10	on_read6	Read6.script
+2016-12-19 21:28:02.822 -0800	Log		Dr,Optimus,,Prime,888888,9/19/85,521-26-0727,Other,Divorced	10	on_read6	Read6.script
+2016-12-19 21:28:02.853 -0800	Log		Dr,Mickey,,Mouse,999999,6/14/00,984-56-3166,Male,Single	10	on_read6	Read6.script
+2016-12-19 21:28:02.881 -0800	Log		Mr,SpongeBob,,SquarePants,101010,6/14/00,984-56-3166,Male,Single	10	on_read6	Read6.script
+2016-12-19 21:28:02.890 -0800	Log		PropList	25	on_read6	Read6.script
+2016-12-19 21:28:02.906 -0800	Log			26	on_read6	Read6.script
+2016-12-19 21:28:02.919 -0800	Log			30	on_read6	Read6.script
+2016-12-19 21:28:03.160 -0800	EndTestCase		(Duration:"0.740909", Errors:"0", Exceptions:"0", StartTime:"2016-12-19 21:28:02 -0800", Successes:"1", TestCase:"Read6.script", Warnings:"0")
+2016-12-19 21:28:03.173 -0800	SUCCESS		Execution Time 0:00:00 Read6.script

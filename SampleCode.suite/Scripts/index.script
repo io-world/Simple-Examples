@@ -1,0 +1,17 @@
+﻿click "Start Icon"
+Click "Chrome Icon"
+Click (Image:"Refresh Icon", WaitFor:3.6)
+TypeText "www.testplant.com" , returnKey
+click text:"your industry"
+click text:"Automotive"
+
+wait 5
+
+if imagefound("Banner") then
+	LogSuccess "Image was found"
+else
+	logwarning "Image was not found "
+	
+end if
+
+TypeText altKey & F4

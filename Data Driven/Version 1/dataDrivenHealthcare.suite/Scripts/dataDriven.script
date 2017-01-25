@@ -1,0 +1,39 @@
+﻿// edit the string to point to your static info data source
+put file "/Users/randyhesse/Desktop/datadriven/Version 1/StaticInfo.csv" into StaticInfoCSVFile
+
+// edit the string to point to your test info data source
+put file "/Users/randyhesse/Desktop/datadriven/Version 1/StaticInfo.csv" into TestInfoCSVFile
+
+log StaticInfoCSVFile
+
+// repeat the test with each line of TestInfoCSV file
+repeat with currentLine = 2 to the number of lines in TestInfoCSVFile
+	
+	
+	// create static info variables named here
+	Put item 1 of line 2 of file StaticInfoCSVFile into Username
+	Put item 2 of line 2 of file StaticInfoCSVFile into Password
+	
+	
+	// create test info variables with names of column headers
+	repeat with columnHeader = each item in line 1 of TestInfoCSVFile
+		put item Repeatindex() of line currentLine of  TestInfoCSVFile into ItemValue
+		put columnHeader into varName
+		do "put" && quote & itemValue & quote && "into" && varName
+		
+	end repeat
+	
+	
+	// build up a test case by calling multiple test scripts
+	// pass parameters to test scripts
+	// runWithNewResults "scriptName", param, param2
+	runWithNewResults "login", username, password
+	runWithNewResults "addPatient", first, last, DOB, SSN
+	runWithNewResults "logout"
+	
+	// execute cleanup script to reset test environment
+	run "cleanup"
+	
+end repeat
+
+PauseScript

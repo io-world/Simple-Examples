@@ -1,0 +1,4 @@
+﻿2016-09-14 20:56:05.025 -0400	START		Running index.script
+2016-09-14 20:56:05.206 -0400	Log		John	1	on_module	Module.script
+2016-09-14 20:56:05.406 -0400	EndTestCase		(Duration:"0.379425", Errors:"0", Exceptions:"0", StartTime:"2016-09-14 20:56:05 -0400", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-09-14 20:56:05.412 -0400	SUCCESS		Execution Time 0:00:00 index.script

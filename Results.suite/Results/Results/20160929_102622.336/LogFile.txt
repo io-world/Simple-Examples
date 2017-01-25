@@ -1,0 +1,5 @@
+﻿2016-09-29 10:26:22.337 -0600	START		Running Results.script
+2016-09-29 10:26:22.389 -0600	Log		/Users/randyhesse/Documents/Simple Examples/Variables.suite/Results/index/20160929_101815.774/LogFile.txt	5	on_results	Results.script
+2016-09-29 10:26:22.414 -0600	Log		2016-09-29 10:18:15.860 -0600\tLog\t\t10\t6\ton_index\tindex.script	11	on_results	Results.script
+2016-09-29 10:26:22.679 -0600	EndTestCase		(Duration:"0.341329", Errors:"0", Exceptions:"0", StartTime:"2016-09-29 10:26:22 -0600", Successes:"1", TestCase:"Results.script", Warnings:"0")
+2016-09-29 10:26:22.685 -0600	SUCCESS		Execution Time 0:00:00 Results.script

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Write1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>13</NumberOfRuns>
+  <NumberOfFails>7</NumberOfFails>
+  <FirstRun>2016-11-07 13:13:40 -0700</FirstRun>
+  <LastRun>2016-12-21 08:46:22 -0700</LastRun>
+  <TotalTimeOnSuccess>2.894485</TotalTimeOnSuccess>
+ </script>
+ <script name="Index">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>29</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2016-09-27 10:44:09 -0600</FirstRun>
+  <LastRun>2016-11-01 21:52:29 -0400</LastRun>
+  <TotalTimeOnSuccess>17.954950</TotalTimeOnSuccess>
+ </script>
+ <script name="Loop2">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-11-01 21:55:19 -0400</FirstRun>
+  <LastRun>2016-11-01 21:55:19 -0400</LastRun>
+  <TotalTimeOnSuccess>0.570145</TotalTimeOnSuccess>
+ </script>
+ <script name="Write2">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-12-20 16:56:07 -0700</FirstRun>
+  <LastRun>2016-12-21 08:46:53 -0700</LastRun>
+  <TotalTimeOnSuccess>1.719471</TotalTimeOnSuccess>
+ </script>
+ <script name="Loop1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-11-01 21:53:17 -0400</FirstRun>
+  <LastRun>2016-11-01 21:54:05 -0400</LastRun>
+  <TotalTimeOnSuccess>1.664396</TotalTimeOnSuccess>
+ </script>
+</statistics>

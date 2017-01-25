@@ -1,0 +1,21 @@
+﻿2016-12-22 10:26:24.813 -0700	START		Running BUILD.script
+2016-12-22 10:26:25.440 -0700	typetext		Wayne	9	on_somepatient	somePatient.script
+2016-12-22 10:26:25.442 -0700	Log		6/13/06	15	on_somepatient	somePatient.script
+2016-12-22 10:26:26.260 -0700	typetext		Underwood	9	on_somepatient	somePatient.script
+2016-12-22 10:26:26.264 -0700	Log		3/16/14	15	on_somepatient	somePatient.script
+2016-12-22 10:26:27.029 -0700	typetext		Woman	9	on_somepatient	somePatient.script
+2016-12-22 10:26:27.032 -0700	Log		4/24/03	15	on_somepatient	somePatient.script
+2016-12-22 10:26:27.799 -0700	typetext		Vader	9	on_somepatient	somePatient.script
+2016-12-22 10:26:27.802 -0700	Log		12/23/87	15	on_somepatient	somePatient.script
+2016-12-22 10:26:28.555 -0700	typetext		Bond	9	on_somepatient	somePatient.script
+2016-12-22 10:26:28.558 -0700	Log		7/30/81	15	on_somepatient	somePatient.script
+2016-12-22 10:26:29.350 -0700	typetext		Simpson	9	on_somepatient	somePatient.script
+2016-12-22 10:26:29.353 -0700	Log		9/1/80	15	on_somepatient	somePatient.script
+2016-12-22 10:26:30.121 -0700	typetext		Prime	9	on_somepatient	somePatient.script
+2016-12-22 10:26:30.123 -0700	Log		9/19/85	15	on_somepatient	somePatient.script
+2016-12-22 10:26:30.891 -0700	typetext		Mouse	9	on_somepatient	somePatient.script
+2016-12-22 10:26:30.894 -0700	Log		6/14/00	15	on_somepatient	somePatient.script
+2016-12-22 10:26:31.734 -0700	typetext		SquarePants	9	on_somepatient	somePatient.script
+2016-12-22 10:26:31.737 -0700	Log		6/14/00	15	on_somepatient	somePatient.script
+2016-12-22 10:26:32.018 -0700	EndTestCase		(Duration:"7.203783", Errors:"0", Exceptions:"0", StartTime:"2016-12-22 10:26:24 -0700", Successes:"1", TestCase:"BUILD.script", Warnings:"0")
+2016-12-22 10:26:32.061 -0700	SUCCESS		Execution Time 0:00:07 BUILD.script

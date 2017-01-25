@@ -1,0 +1,8 @@
+﻿2016-12-19 22:03:23.190 -0800	START		Running Read6.script
+2016-12-19 22:03:23.766 -0800	Log		(Date_of_Birth:"12/23/87", First_Name:"Darth", Gender:"Male", Last_Name:"Vader", Marital_Status:"Widowed", Medical_Record_Number:"555555", Middle_Name:"A", Prefix:"Dr", Social_Security_Number:"744-85-1232")	27	on_read6	Read6.script
+2016-12-19 22:03:24.217 -0800	Log		(Date_of_Birth:"12/23/87", First_Name:"Darth", Gender:"Male", Last_Name:"Vader", Marital_Status:"Widowed", Medical_Record_Number:"555555", Middle_Name:"A", Prefix:"Dr", Social_Security_Number:"744-85-1232")	27	on_read6	Read6.script
+2016-12-19 22:03:24.667 -0800	Log		(Date_of_Birth:"12/23/87", First_Name:"Darth", Gender:"Male", Last_Name:"Vader", Marital_Status:"Widowed", Medical_Record_Number:"555555", Middle_Name:"A", Prefix:"Dr", Social_Security_Number:"744-85-1232")	27	on_read6	Read6.script
+2016-12-19 22:03:25.110 -0800	Log		(Date_of_Birth:"12/23/87", First_Name:"Darth", Gender:"Male", Last_Name:"Vader", Marital_Status:"Widowed", Medical_Record_Number:"555555", Middle_Name:"A", Prefix:"Dr", Social_Security_Number:"744-85-1232")	27	on_read6	Read6.script
+2016-12-19 22:03:25.543 -0800	Log		(Date_of_Birth:"12/23/87", First_Name:"Darth", Gender:"Male", Last_Name:"Vader", Marital_Status:"Widowed", Medical_Record_Number:"555555", Middle_Name:"A", Prefix:"Dr", Social_Security_Number:"744-85-1232")	27	on_read6	Read6.script
+2016-12-19 22:03:25.701 -0800	EndTestCase		(Duration:"2.509793", Errors:"0", Exceptions:"0", StartTime:"2016-12-19 22:03:23 -0800", Successes:"1", TestCase:"Read6.script", Warnings:"0")
+2016-12-19 22:03:25.712 -0800	SUCCESS		Execution Time 0:00:02 Read6.script

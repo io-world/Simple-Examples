@@ -1,0 +1,268 @@
+﻿<?xml version="1.0"?>
+<runHistory script="index">
+ <run>
+  <RunDate>2016-08-31 08:53:28.371 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.953072</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160831_085328.371/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 08:53:56.767 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.940917</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160831_085356.767/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;madd&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 08:54:15.463 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.017210</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160831_085415.463/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;numone&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 08:54:32.504 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.003275</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160831_085432.504/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in index:
+Syntax Error at line 5: Syntax Error - can&#x27;t understand &quot;6&quot; at or near character 42</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 08:55:16.834 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.989805</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160831_085516.834/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;numone&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 08:55:28.062 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.989174</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160831_085528.062/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;numone&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 08:56:59.790 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.029442</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160831_085659.790/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;numone&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 08:57:20.708 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.042179</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160831_085720.708/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;numone&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 08:58:12.742 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.052670</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160831_085812.742/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 08:58:33.344 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.894787</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160831_085833.344/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;subtractnum&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 08:59:49.187 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.984029</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160831_085949.187/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 09:00:29.741 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.000442</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160831_090029.741/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 09:00:41.437 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.015851</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160831_090041.437/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 09:04:56.489 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.052332</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160831_090456.489/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 09:05:27.674 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.021860</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160831_090527.674/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;genericnum&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 09:05:46.114 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.122952</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160831_090546.114/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;numeTwo&#x27; and &#x27;(2,7)&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 09:05:58.243 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.102804</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160831_090558.243/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;numeTwo&#x27; and &#x27;2&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 09:06:13.696 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.131025</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160831_090613.696/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 09:06:30.361 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.177833</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160831_090630.361/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 09:08:06.947 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.200024</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160831_090806.947/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 09:08:23.222 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.185623</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160831_090823.222/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-08-31 09:09:08.253 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.148939</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160831_090908.253/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

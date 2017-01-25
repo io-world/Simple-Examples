@@ -1,0 +1,4 @@
+﻿2016-08-31 08:53:56.768 -0600	START		Running index.script
+2016-08-31 08:53:56.931 -0600	Log		-1	4	on_msubtract	Library.script
+2016-08-31 08:53:57.709 -0600	EndTestCase		(Duration:"0.939199", Errors:"1", Exceptions:"0", StartTime:"2016-08-31 08:53:56 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-08-31 08:53:58.092 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'madd' -- Execution Time 0:00:00 index.script

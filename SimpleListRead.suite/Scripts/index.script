@@ -1,0 +1,10 @@
+﻿
+put ImageLocation("ClassSchedule") into ILC
+put (ilc +(20,60) , ilc +(430,85)) into SR
+repeat 7 times
+	log ReadText(SR)
+	put SR +((0,29),(0,29)) into SR	
+end repeat
+
+
+

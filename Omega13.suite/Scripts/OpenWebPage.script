@@ -1,0 +1,7 @@
+﻿TypeText windowsKey & "r"
+TypeText "chrome.exe", returnkey
+TypeText controlKey & "l" 
+wait 5
+waitfor 5,"Refresh Icon"
+TypeText  "www.amazon.com" , enterKey
+

@@ -1,0 +1,16 @@
+﻿put "Jane doe!" into name
+delete last character  of name
+log name
+
+put "Jane doe!" into name
+delete first character  of name
+log name
+
+
+put "Jane doe!" into name
+delete "!" in name
+split  name by " "
+log name
+
+
+

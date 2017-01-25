@@ -1,0 +1,14 @@
+﻿2016-11-01 22:23:10.579 -0400	START		Running Read1.script
+2016-11-01 22:23:10.698 -0400	Log		10	7	on_read1	Read1.script
+2016-11-01 22:23:10.738 -0400	Log		Prefix	13	on_read1	Read1.script
+2016-11-01 22:23:10.765 -0400	Log		Mr	13	on_read1	Read1.script
+2016-11-01 22:23:10.793 -0400	Log		Mrs	13	on_read1	Read1.script
+2016-11-01 22:23:10.821 -0400	Log		Ms	13	on_read1	Read1.script
+2016-11-01 22:23:10.840 -0400	Log		Dr	13	on_read1	Read1.script
+2016-11-01 22:23:10.868 -0400	Log		Dr	13	on_read1	Read1.script
+2016-11-01 22:23:10.890 -0400	Log		Mr	13	on_read1	Read1.script
+2016-11-01 22:23:10.922 -0400	Log		Dr	13	on_read1	Read1.script
+2016-11-01 22:23:10.941 -0400	Log		Dr	13	on_read1	Read1.script
+2016-11-01 22:23:10.974 -0400	Log		Mr	13	on_read1	Read1.script
+2016-11-01 22:23:11.318 -0400	EndTestCase		(Duration:"0.737463", Errors:"0", Exceptions:"0", StartTime:"2016-11-01 22:23:10 -0400", Successes:"1", TestCase:"Read1.script", Warnings:"0")
+2016-11-01 22:23:11.349 -0400	SUCCESS		Execution Time 0:00:00 Read1.script

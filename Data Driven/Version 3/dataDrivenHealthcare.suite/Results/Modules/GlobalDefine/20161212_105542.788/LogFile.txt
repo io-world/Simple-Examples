@@ -1,0 +1,24 @@
+﻿2016-12-12 10:55:42.789 -0700	START		Running dataDriven.script
+2016-12-12 10:55:43.115 -0700	Log		Medical Record Number,Prefix,First Name,Middle Name,Last Name,Date of Birth,Social Security Number,Gender,Marital Status	20	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.137 -0700	Log		patient	35	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.200 -0700	Log		222222,Mr,Bruce,A,Wayne,6/13/06,113-83-3798,Male,Single	20	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.222 -0700	Log		patient	35	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.274 -0700	Log		333333,Mrs,Carrie,B,Underwood,3/16/14,583-00-6387,Female,Married	20	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.284 -0700	Log		patient	35	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.336 -0700	Log		444444,Ms,Wonder,C,Woman,4/24/03,580-71-8520,Female,Divorced	20	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.346 -0700	Log		patient	35	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.397 -0700	Log		555555,Dr,Darth,D,Vader,12/23/87,744-85-1232,Male,Widowed	20	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.421 -0700	Log		patient	35	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.460 -0700	Log		666666,Dr,James,E,Bond,7/30/81,973-13-0224,Male,Single	20	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.469 -0700	Log		patient	35	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.523 -0700	Log		777777,Mr,Homer,F,Simpson,9/1/80,557-31-0655,Male,Married	20	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.533 -0700	Log		patient	35	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.590 -0700	Log		888888,Dr,Optimus,G,Prime,9/19/85,521-26-0727,Other,Divorced	20	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.599 -0700	Log		patient	35	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.653 -0700	Log		999999,Dr,Mickey,H,Mouse,6/14/00,984-56-3166,Male,Single	20	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.663 -0700	Log		patient	35	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.719 -0700	Log		101010,Mr,SpongeBob,I,SquarePants,6/14/00,984-56-3166,Male,Single	20	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.728 -0700	Log		patient	35	on_datadriven	dataDriven.script
+2016-12-12 10:55:43.794 -0700	pausescript			72	on_datadriven	dataDriven.script
+2016-12-12 10:55:52.453 -0700	EndTestCase		(Duration:"9.662385", Errors:"1", Exceptions:"0", StartTime:"2016-12-12 10:55:42 -0700", Successes:"0", TestCase:"dataDriven.script", Warnings:"0")
+2016-12-12 10:55:52.454 -0700	ABORTED		Execution Time 0:00:09 dataDriven.script

@@ -1,0 +1,14 @@
+﻿2016-12-12 15:29:10.334 -0800	START		Running Master.script
+2016-12-12 15:29:10.548 -0800	runwithnewresults		login.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/login/20161212_152910.548/LogFile.txt)	19	on_master	Master.script
+2016-12-12 15:29:12.407 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_152912.406/LogFile.txt)	33	on_master	Master.script
+2016-12-12 15:29:13.471 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_152913.470/LogFile.txt)	33	on_master	Master.script
+2016-12-12 15:29:14.426 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_152914.425/LogFile.txt)	33	on_master	Master.script
+2016-12-12 15:29:15.497 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_152915.497/LogFile.txt)	33	on_master	Master.script
+2016-12-12 15:29:16.490 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_152916.489/LogFile.txt)	33	on_master	Master.script
+2016-12-12 15:29:17.378 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_152917.378/LogFile.txt)	33	on_master	Master.script
+2016-12-12 15:29:18.369 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_152918.369/LogFile.txt)	33	on_master	Master.script
+2016-12-12 15:29:19.378 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_152919.377/LogFile.txt)	33	on_master	Master.script
+2016-12-12 15:29:20.375 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_152920.374/LogFile.txt)	33	on_master	Master.script
+2016-12-12 15:29:20.509 -0800	runwithnewresults		logout.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/logout/20161212_152920.509/LogFile.txt)	37	on_master	Master.script
+2016-12-12 15:29:20.856 -0800	EndTestCase		(Duration:"10.52097", Errors:"0", Exceptions:"0", StartTime:"2016-12-12 15:29:10 -0800", Successes:"12", TestCase:"Master.script", Warnings:"0")
+2016-12-12 15:29:20.862 -0800	SUCCESS		Execution Time 0:00:10 Master.script

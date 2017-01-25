@@ -1,0 +1,13 @@
+﻿2016-12-22 09:58:49.236 -0700	START		Running BUILD.script
+2016-12-22 09:58:49.313 -0700	Log		Medical Record Number,Prefix,First Name,Middle Name,Last Name,Date of Birth,Social Security Number,Gender,Marital Status	13	on_build	BUILD.script
+2016-12-22 09:58:49.328 -0700	Log		222222,Mr,Bruce,A,Wayne,6/13/06,113-83-3798,Male,Single	13	on_build	BUILD.script
+2016-12-22 09:58:49.340 -0700	Log		333333,Mrs,Carrie,B,Underwood,3/16/14,583-00-6387,Female,Married	13	on_build	BUILD.script
+2016-12-22 09:58:49.363 -0700	Log		444444,Ms,Wonder,C,Woman,4/24/03,580-71-8520,Female,Divorced	13	on_build	BUILD.script
+2016-12-22 09:58:49.375 -0700	Log		555555,Dr,Darth,D,Vader,12/23/87,744-85-1232,Male,Widowed	13	on_build	BUILD.script
+2016-12-22 09:58:49.389 -0700	Log		666666,Dr,James,E,Bond,7/30/81,973-13-0224,Male,Single	13	on_build	BUILD.script
+2016-12-22 09:58:49.404 -0700	Log		777777,Mr,Homer,F,Simpson,9/1/80,557-31-0655,Male,Married	13	on_build	BUILD.script
+2016-12-22 09:58:49.420 -0700	Log		888888,Dr,Optimus,G,Prime,9/19/85,521-26-0727,Other,Divorced	13	on_build	BUILD.script
+2016-12-22 09:58:49.437 -0700	Log		999999,Dr,Mickey,H,Mouse,6/14/00,984-56-3166,Male,Single	13	on_build	BUILD.script
+2016-12-22 09:58:49.455 -0700	Log		101010,Mr,SpongeBob,I,SquarePants,6/14/00,984-56-3166,Male,Single	13	on_build	BUILD.script
+2016-12-22 09:58:49.688 -0700	EndTestCase		(Duration:"0.450901", Errors:"0", Exceptions:"0", StartTime:"2016-12-22 09:58:49 -0700", Successes:"1", TestCase:"BUILD.script", Warnings:"0")
+2016-12-22 09:58:49.709 -0700	SUCCESS		Execution Time 0:00:00 BUILD.script

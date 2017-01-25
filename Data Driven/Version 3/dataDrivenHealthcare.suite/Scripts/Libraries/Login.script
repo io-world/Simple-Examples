@@ -1,0 +1,22 @@
+﻿
+
+
+
+
+Log global Userinformation.Username
+Log global Userinformation.Password
+
+
+
+
+
+
+TypeText global username
+
+
+
+Set the scriptlogging to Silent
+TypeText global password
+Set the scriptlogging to On
+
+

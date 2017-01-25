@@ -1,0 +1,20 @@
+﻿GlobalDefine
+
+
+
+ZeroState
+
+
+RunWithNewResults "TestA"
+RunWithNewResults "TestB"
+
+
+ZeroState
+
+
+BeginTestCase A
+
+//code
+
+
+EndTestCase A

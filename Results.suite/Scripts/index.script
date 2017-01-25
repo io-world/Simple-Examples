@@ -1,0 +1,8 @@
+﻿
+
+put 10 into var
+
+
+log var
+
+

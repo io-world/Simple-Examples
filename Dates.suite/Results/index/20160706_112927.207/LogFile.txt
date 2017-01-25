@@ -1,0 +1,5 @@
+﻿2016-07-06 11:29:27.208 -0600	START		Running index.script
+2016-07-06 11:29:27.327 -0600	Log		Randy Hesse 	5	on_index	index.script
+2016-07-06 11:29:27.328 -0600	Log		07/06/16	5	on_index	index.script
+2016-07-06 11:29:27.731 -0600	EndTestCase		(Duration:"0.522178", Errors:"0", Exceptions:"0", StartTime:"2016-07-06 11:29:27 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-07-06 11:29:27.736 -0600	SUCCESS		Execution Time 0:00:00 index.script

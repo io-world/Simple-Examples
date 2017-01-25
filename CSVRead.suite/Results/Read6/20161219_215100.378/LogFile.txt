@@ -1,0 +1,5 @@
+﻿2016-12-19 21:51:00.379 -0800	START		Running Read6.script
+2016-12-19 21:51:00.879 -0800	runwithnewresults		Test.script (/Users/randyhesse/Documents/Simple Examples/CSVRead.suite/Results/Test/20161219_215100.879/LogFile.txt)	20	on_read6	Read6.script
+2016-12-19 21:51:01.386 -0800	runwithnewresults		Test.script (/Users/randyhesse/Documents/Simple Examples/CSVRead.suite/Results/Test/20161219_215101.386/LogFile.txt)	20	on_read6	Read6.script
+2016-12-19 21:51:01.705 -0800	EndTestCase		(Duration:"1.324587", Errors:"0", Exceptions:"0", StartTime:"2016-12-19 21:51:00 -0800", Successes:"3", TestCase:"Read6.script", Warnings:"0")
+2016-12-19 21:51:01.720 -0800	SUCCESS		Execution Time 0:00:01 Read6.script

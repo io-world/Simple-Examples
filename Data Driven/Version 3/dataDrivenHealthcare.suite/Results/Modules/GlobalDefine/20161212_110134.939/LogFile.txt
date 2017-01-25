@@ -1,0 +1,7 @@
+﻿2016-12-12 11:01:34.940 -0700	START		Running dataDriven.script
+2016-12-12 11:01:35.922 -0700	Log		(@"Date of Birth":"6/13/06", @"First Name":"Bruce", Gender:"Male", @"Last Name":"Wayne", @"Marital Status":"Single", @"Medical Record Number":"222222", @"Middle Name":"A", Prefix:"Mr", @"Social Security Number":"113-83-3798")	33	on_datadriven	dataDriven.script
+2016-12-12 11:01:35.951 -0700	runwithnewresults		login.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/login/20161212_110135.950/LogFile.txt)	40	on_datadriven	dataDriven.script
+2016-12-12 11:01:36.034 -0700	runwithnewresults		addPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/addPatient/20161212_110136.033/LogFile.txt)	41	on_datadriven	dataDriven.script
+2016-12-12 11:01:36.144 -0700	runwithnewresults		logout.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/logout/20161212_110136.144/LogFile.txt)	42	on_datadriven	dataDriven.script
+2016-12-12 11:01:36.400 -0700	EndTestCase		(Duration:"1.457991", Errors:"0", Exceptions:"0", StartTime:"2016-12-12 11:01:34 -0700", Successes:"4", TestCase:"dataDriven.script", Warnings:"0")
+2016-12-12 11:01:36.406 -0700	SUCCESS		Execution Time 0:00:01 dataDriven.script

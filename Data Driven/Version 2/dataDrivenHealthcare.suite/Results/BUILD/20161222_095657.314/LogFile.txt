@@ -1,0 +1,6 @@
+﻿2016-12-22 09:56:57.315 -0700	START		Running BUILD.script
+2016-12-22 09:56:57.354 -0700	Log		Medical Record Number,Prefix,First Name,Middle Name,Last Name,Date of Birth,Social Security Number,Gender,Marital Status\n222222,Mr,Bruce,A,Wayne,6/13/06,113-83-3798,Male,Single\n333333,Mrs,Carrie,B,Underwood,3/16/14,583-00-6387,Female,Married\n444444,Ms,Wonder,C,Woman,4/24/03,580-71-8520,Female,Divorced\n555555,Dr,Darth,D,Vader,12/23/87,744-85-1232,Male,Widowed\n666666,Dr,James,E,Bond,7/30/81,973-13-0224,Male,Single\n777777,Mr,Homer,F,Simpson,9/1/80,557-31-0655,Male,Married\n888888,Dr,Optimus,G,Prime,9/19/85,521-26-0727,Other,Divorced\n999999,Dr,Mickey,H,Mouse,6/14/00,984-56-3166,Male,Single\n101010,Mr,SpongeBob,I,SquarePants,6/14/00,984-56-3166,Male,Single	4	on_build	BUILD.script
+2016-12-22 09:56:57.358 -0700	Log		10	10	on_build	BUILD.script
+2016-12-22 09:56:57.371 -0700	Log		Medical Record Number,Prefix,First Name,Middle Name,Last Name,Date of Birth,Social Security Number,Gender,Marital Status	13	on_build	BUILD.script
+2016-12-22 09:56:57.594 -0700	EndTestCase		(Duration:"0.277496", Errors:"0", Exceptions:"0", StartTime:"2016-12-22 09:56:57 -0700", Successes:"1", TestCase:"BUILD.script", Warnings:"0")
+2016-12-22 09:56:57.606 -0700	SUCCESS		Execution Time 0:00:00 BUILD.script

@@ -1,0 +1,3 @@
+﻿2016-12-19 21:25:12.635 -0800	START		Running Read6.script
+2016-12-19 21:25:13.025 -0800	EndTestCase		(Duration:"0.389511", Errors:"1", Exceptions:"0", StartTime:"2016-12-19 21:25:12 -0800", Successes:"0", TestCase:"Read6.script", Warnings:"0")
+2016-12-19 21:25:13.069 -0800	FAILURE		STInvalidNumber Value is not a number: 'max' -- Execution Time 0:00:00 Read6.script

@@ -1,0 +1,375 @@
+﻿<?xml version="1.0"?>
+<runHistory script="BUILD">
+ <run>
+  <RunDate>2016-12-22 09:55:11.673 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.346053</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161222_095511.673/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 09:55:52.435 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.263084</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161222_095552.435/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 09:56:22.978 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.300058</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161222_095622.978/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 09:56:57.314 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.278929</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161222_095657.314/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 09:57:07.061 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.298325</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161222_095707.061/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 09:57:32.759 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.287678</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161222_095732.759/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 09:57:50.478 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.274307</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161222_095750.478/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 09:58:36.405 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.406357</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161222_095836.405/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 09:58:49.235 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.452409</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161222_095849.235/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 09:59:08.978 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.511513</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161222_095908.978/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 09:59:19.165 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.511872</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161222_095919.165/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:01:02.801 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>2.306290</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161222_100102.801/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:01:34.588 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.345518</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161222_100134.588/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;repeatidnex&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:01:48.049 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.842307</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161222_100148.049/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:02:20.622 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>2.451200</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161222_100220.622/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:04:26.510 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.716742</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161222_100426.510/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;somePatient&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:04:44.462 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.686804</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161222_100444.462/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;somePatient&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:06:12.978 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.737068</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161222_100612.978/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;somePatient&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:06:58.294 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.736476</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161222_100658.294/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;somePatient&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:07:08.222 -0700</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20161222_100708.222/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:13:40.582 -0700</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20161222_101340.582/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:16:27.327 -0700</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20161222_101627.327/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:17:51.614 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>3.884600</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161222_101751.614/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:22:02.213 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.382919</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161222_102202.213/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;instances&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:22:09.630 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.855650</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161222_102209.630/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: create new patient</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:22:38.043 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.790061</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161222_102238.043/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: create new patient</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:23:50.084 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.827488</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161222_102350.084/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: create new patient</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:23:58.664 -0700</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20161222_102358.664/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:25:28.035 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>4.500761</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161222_102528.035/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:26:24.811 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>7.205862</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161222_102624.811/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-22 10:27:00.374 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>5.059768</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161222_102700.374/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

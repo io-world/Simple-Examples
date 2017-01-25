@@ -1,0 +1,8 @@
+﻿2016-12-15 11:18:56.608 -0700	START		Running Login.script	18	on_master	Master.script
+2016-12-15 11:18:56.619 -0700	Log		Running Login	6	on_login	Login.script
+2016-12-15 11:18:56.637 -0700	Log		Nick	8	on_login	Login.script
+2016-12-15 11:18:56.640 -0700	Log		P@$$word	9	on_login	Login.script
+2016-12-15 11:18:56.695 -0700	typetext		Nick	16	on_login	Login.script
+2016-12-15 11:18:57.503 -0700	typetext		P@$$word	19	on_login	Login.script
+2016-12-15 11:18:57.507 -0700	EndTestCase		(Duration:"0.897504", Errors:"0", Exceptions:"0", StartTime:"2016-12-15 11:18:56 -0700", Successes:"1", TestCase:"Login.script", Warnings:"0")	18	on_master	Master.script
+2016-12-15 11:18:57.523 -0700	SUCCESS		Execution Time 0:00:00 Login.script	18	on_master	Master.script

@@ -1,0 +1,37 @@
+﻿----------------DO Not Touch--------------------------------------
+set GD to a new "Modules/GlobalDefine"
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+-----------Code Below can be altered--------------------------
+
+(GD).SetupFiles "/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/PatientInformation.csv"
+(GD).SetupEnvironment "/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/EnvironmentConfig.csv"
+-------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+Run (GD).GetUser 4
+-------------------------------------------------------------------------
+
+
+
+RunWithNewResults "States/Zero" 
+RunWithNewResults "Libraries/Login"
+
+repeat 9 times
+	
+	Run (GD).BuildPatient repeatindex()+1
+	--RunWithNewResults  "Test/A"
+	--RunWithNewResults "Test/B"
+	RunWithNewResults "Test/NewPatient"
+	
+end repeat
+
+Run "Libraries/Logout"
+Run "States/Zero"
+
+
+
+
+
+

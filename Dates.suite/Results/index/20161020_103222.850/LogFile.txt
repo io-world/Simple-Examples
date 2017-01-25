@@ -1,0 +1,6 @@
+﻿2016-10-20 10:32:22.851 -0600	START		Running index.script
+2016-10-20 10:32:22.958 -0600	Log		OctoberTwenty	7	on_index	index.script
+2016-10-20 10:32:23.017 -0600	Log		twothousandsixteen	8	on_index	index.script
+2016-10-20 10:32:23.070 -0600	Log		onehundredthreethousandtwohundredtwenty-three	9	on_index	index.script
+2016-10-20 10:32:23.961 -0600	EndTestCase		(Duration:"1.107843", Errors:"0", Exceptions:"0", StartTime:"2016-10-20 10:32:22 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-10-20 10:32:23.966 -0600	SUCCESS		Execution Time 0:00:01 index.script

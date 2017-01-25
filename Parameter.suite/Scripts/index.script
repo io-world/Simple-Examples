@@ -1,0 +1,14 @@
+﻿
+
+
+CreateNewPatient "John","Doe"
+put ("John","Doe") into PatientInformation
+CreateNewPatient item 1 of PatientInformation , item 2 of PatientInformation 
+CreateNewPatient PatientInformation as parameters
+
+
+
+on CreateNewPatient FirstName, LastName
+	Log FirstName
+	log LastName
+end CreateNewPatient

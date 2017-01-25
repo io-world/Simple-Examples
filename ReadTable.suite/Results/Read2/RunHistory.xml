@@ -1,0 +1,639 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Read2">
+ <run>
+  <RunDate>2016-09-20 10:21:25.955 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>7.095509</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_102125.955/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:21:36.888 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>6.710688</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_102136.888/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:22:04.848 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>6.544348</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_102204.848/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:23:53.722 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>8.846140</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160920_102353.722/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- readtext Error - Could Not Open Image: 322</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:25:51.712 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>19.570642</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_102551.712/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:26:16.034 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>5.711372</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_102616.034/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:26:46.692 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>5.908988</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_102646.692/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:29:17.069 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>5.602584</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160920_102917.069/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;(10,10)&#x27; and &#x27;(322,599,417,619)&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:30:23.182 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>5.852634</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160920_103023.182/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidBoolean -- Value &#x27;4&#x27; is not TRUE, FALSE, YES, NO, ON, OFF or empty</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:30:50.208 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>5.760337</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160920_103050.208/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;(10,10)&#x27; and &#x27;(322,599,619)&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:31:12.073 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>5.736585</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_103112.073/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:31:26.151 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>5.917544</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_103126.151/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:31:56.305 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>5.858400</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_103156.305/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:32:14.394 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>5.725227</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_103214.394/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:39:32.161 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.565692</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_103932.161/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:39:46.935 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.465048</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160920_103946.935/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;(0,-100)&#x27; and &#x27;English Name&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:40:01.746 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.338689</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_104001.746/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:40:23.243 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.362122</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_104023.243/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:41:08.821 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.425132</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_104108.821/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:42:43.686 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.340793</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_104243.686/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:43:25.687 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.421678</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_104325.687/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:44:59.841 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.076766</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_104459.841/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:46:08.472 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.475421</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_104608.472/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:55:58.843 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.665745</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_105558.843/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:56:29.880 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.547867</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_105629.880/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:56:42.737 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.660884</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_105642.737/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:57:34.710 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>4.546911</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160920_105734.710/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:58:26.480 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20160920_105826.480/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:59:07.687 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.743768</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_105907.687/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 10:59:30.917 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.008243</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_105930.917/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-20 13:40:06.754 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.076354</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160920_134006.754/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-21 15:20:01.777 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>3.783795</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160921_152001.777/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-21 15:21:23.423 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>4.448203</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160921_152123.423/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- readtext Error - Could Not Open Image: 322</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-21 15:21:46.458 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>3.843327</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160921_152146.458/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-27 07:54:01.730 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.766565</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160927_075401.730/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-27 14:11:16.363 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20160927_141116.363/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-27 14:11:38.393 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.117047</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160927_141138.393/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-27 14:30:05.279 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.104635</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160927_143005.279/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-27 14:31:16.026 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.119064</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160927_143116.026/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-10-12 14:54:33.652 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.601920</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161012_145433.652/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-10-20 13:16:16.205 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.479289</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161020_131616.205/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-10-20 13:16:59.820 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.566030</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161020_131659.820/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-10-27 13:48:38.719 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>6.207088</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161027_134838.719/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- readtext Error - Could Not Open Image: 290</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-02 10:43:39.255 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>5.021135</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161102_104339.255/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- readtext Error - Could Not Open Image: 290</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-02 10:44:00.667 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>4.953306</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161102_104400.667/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- readtext Error - Could Not Open Image: 290</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-09 12:08:06.260 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>6.072628</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161109_120806.260/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- readtext Error - Could Not Open Image: 290</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-09 12:08:45.426 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>5.948790</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161109_120845.426/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- readtext Error - Could Not Open Image: 290</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-09 15:59:59.842 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>6.624851</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161109_155959.842/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- readtext Error - Could Not Open Image: 290</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-09 16:00:12.018 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>6.480138</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161109_160012.018/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- readtext Error - Could Not Open Image: 290</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-09 16:00:23.569 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>6.447507</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161109_160023.569/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- readtext Error - Could Not Open Image: 290</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-09 16:01:28.591 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>6.314147</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161109_160128.591/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- readtext Error - Could Not Open Image: 290</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-09 16:10:10.916 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>5.922125</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161109_161010.916/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- readtext Error - Could Not Open Image: 290</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-09 16:30:05.362 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>5.694120</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161109_163005.362/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- readtext Error - Could Not Open Image: 290</ErrorMessage>
+ </run>
+</runHistory>

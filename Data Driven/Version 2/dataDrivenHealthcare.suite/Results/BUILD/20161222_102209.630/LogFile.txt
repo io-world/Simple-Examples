@@ -1,0 +1,13 @@
+﻿2016-12-22 10:22:09.631 -0700	START		Running BUILD.script
+2016-12-22 10:22:09.781 -0700	Log		(MedicalRecordNumber:"222222")	27	on_build	BUILD.script
+2016-12-22 10:22:09.844 -0700	Log		(MedicalRecordNumber:"222222", Prefix:"Mr")	27	on_build	BUILD.script
+2016-12-22 10:22:09.894 -0700	Log		(FirstName:"Bruce", MedicalRecordNumber:"222222", Prefix:"Mr")	27	on_build	BUILD.script
+2016-12-22 10:22:09.952 -0700	Log		(FirstName:"Bruce", MedicalRecordNumber:"222222", MiddleName:"A", Prefix:"Mr")	27	on_build	BUILD.script
+2016-12-22 10:22:09.996 -0700	Log		(FirstName:"Bruce", LastName:"Wayne", MedicalRecordNumber:"222222", MiddleName:"A", Prefix:"Mr")	27	on_build	BUILD.script
+2016-12-22 10:22:10.047 -0700	Log		(DateofBirth:"6/13/06", FirstName:"Bruce", LastName:"Wayne", MedicalRecordNumber:"222222", MiddleName:"A", Prefix:"Mr")	27	on_build	BUILD.script
+2016-12-22 10:22:10.104 -0700	Log		(DateofBirth:"6/13/06", FirstName:"Bruce", LastName:"Wayne", MedicalRecordNumber:"222222", MiddleName:"A", Prefix:"Mr", SocialSecurityNumber:"113-83-3798")	27	on_build	BUILD.script
+2016-12-22 10:22:10.160 -0700	Log		(DateofBirth:"6/13/06", FirstName:"Bruce", Gender:"Male", LastName:"Wayne", MedicalRecordNumber:"222222", MiddleName:"A", Prefix:"Mr", SocialSecurityNumber:"113-83-3798")	27	on_build	BUILD.script
+2016-12-22 10:22:10.207 -0700	Log		(DateofBirth:"6/13/06", FirstName:"Bruce", Gender:"Male", LastName:"Wayne", MaritalStatus:"Single", MedicalRecordNumber:"222222", MiddleName:"A", Prefix:"Mr", SocialSecurityNumber:"113-83-3798")	27	on_build	BUILD.script
+2016-12-22 10:22:10.239 -0700	Exception	create new patient	Could Not Open Image: create new patient	4	on_somepatient	somePatient.script
+2016-12-22 10:22:10.486 -0700	EndTestCase		(Duration:"0.854008", Errors:"1", Exceptions:"1", StartTime:"2016-12-22 10:22:09 -0700", Successes:"0", TestCase:"BUILD.script", Warnings:"0")
+2016-12-22 10:22:11.521 -0700	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: create new patient -- Execution Time 0:00:00 BUILD.script

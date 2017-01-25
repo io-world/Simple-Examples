@@ -1,0 +1,10 @@
+﻿moveto "List"
+put ImageLocation ("List") into ILList
+log illlist
+insert ILList+(80,100) into SearchArea
+insert ILList+(200,700) into SearchArea
+log SearchArea
+log  readtext(SearchArea)
+
+
+moveto (text:"pidgey",searchRectangle:(SearchArea) )

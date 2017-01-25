@@ -1,0 +1,4 @@
+﻿2016-12-09 12:29:05.016 -0700	START		Running Demo.script
+2016-12-09 12:29:05.228 -0700	Log		Prefix	8	on_demo	Demo.script
+2016-12-09 12:29:05.597 -0700	EndTestCase		(Duration:"0.580298", Errors:"0", Exceptions:"0", StartTime:"2016-12-09 12:29:05 -0700", Successes:"1", TestCase:"Demo.script", Warnings:"0")
+2016-12-09 12:29:05.705 -0700	SUCCESS		Execution Time 0:00:00 Demo.script

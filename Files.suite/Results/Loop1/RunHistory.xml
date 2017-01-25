@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Loop1">
+ <run>
+  <RunDate>2016-11-01 21:53:17.451 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.557360</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161101_215317.451/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-01 21:53:43.004 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.547251</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161101_215343.004/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-01 21:54:05.067 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.559785</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161101_215405.067/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

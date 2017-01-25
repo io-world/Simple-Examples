@@ -1,0 +1,6 @@
+﻿2016-12-12 10:54:36.875 -0700	START		Running dataDriven.script
+2016-12-12 10:54:38.010 -0700	Log		(@"Medical Record Number":"Marital Status")	33	on_datadriven	dataDriven.script
+2016-12-12 10:54:38.774 -0700	Log		(@"222222":"Single", @"Medical Record Number":"Marital Status")	33	on_datadriven	dataDriven.script
+2016-12-12 10:54:38.832 -0700	pausescript			70	on_datadriven	dataDriven.script
+2016-12-12 10:55:18.977 -0700	EndTestCase		(Duration:"42.10002", Errors:"1", Exceptions:"0", StartTime:"2016-12-12 10:54:36 -0700", Successes:"0", TestCase:"dataDriven.script", Warnings:"0")
+2016-12-12 10:55:18.977 -0700	ABORTED		Execution Time 0:00:42 dataDriven.script

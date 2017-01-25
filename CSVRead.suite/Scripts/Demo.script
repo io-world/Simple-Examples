@@ -1,0 +1,30 @@
+﻿put file "//Users/randyhesse/Documents/Simple Examples/CSVRead.suite/Resources/WebFormData.CSV" into CSVFile 
+
+
+
+
+
+put the number of items of line 1 of CSVFile into MaxLine
+
+
+repeat 5 times
+	
+	put repeatindex() into foo
+	repeat maxline times
+		
+		log item repeatindex()+1 of line foo  of csvfile 
+		
+	end repeat
+	
+	
+end repeat
+
+
+
+
+
+repeat 10 times
+	
+	log repeatindex()*2
+	
+end repeat

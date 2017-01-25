@@ -1,0 +1,123 @@
+﻿<?xml version="1.0"?>
+<runHistory script="index">
+ <run>
+  <RunDate>2016-12-15 10:43:38.721 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.568245</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161215_104338.721/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileException -- Failed to write to file /Users/randyhesse/Desktop</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-15 10:43:55.716 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.529444</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161215_104355.716/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileException -- Failed to write to file /Users/randyhesse/Desktop</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-15 10:44:09.422 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.715170</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161215_104409.422/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileException -- Failed to write to file /Users/randyhesse/Desktop</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-15 10:45:23.417 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.770273</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161215_104523.417/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-15 10:46:31.054 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.998314</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161215_104631.054/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-15 10:47:11.468 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.893713</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161215_104711.468/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-15 10:48:06.721 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.748781</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161215_104806.721/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-15 10:48:32.597 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.385640</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161215_104832.597/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-15 10:48:43.399 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.183767</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161215_104843.399/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-15 10:50:34.980 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.430764</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161215_105034.980/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,4 @@
+﻿2016-12-12 15:10:31.716 -0800	START		Running NewPatient.script	30	on_master	Master.script
+2016-12-12 15:10:31.720 -0800	Log		6/14/00	4	on_newpatient	NewPatient.script
+2016-12-12 15:10:31.722 -0800	EndTestCase		(Duration:"0.004574", Errors:"0", Exceptions:"0", StartTime:"2016-12-12 15:10:31 -0800", Successes:"1", TestCase:"NewPatient.script", Warnings:"0")	30	on_master	Master.script
+2016-12-12 15:10:31.752 -0800	SUCCESS		Execution Time 0:00:00 NewPatient.script	30	on_master	Master.script

@@ -1,0 +1,6 @@
+﻿2016-10-20 10:11:46.267 -0600	START		Running index.script
+2016-10-20 10:11:46.366 -0600	Log		OctoberTwenty	4	function_worddate	MethodLib.script
+2016-10-20 10:11:46.697 -0600	typetext		Randy Hesse OctoberTwenty	5	on_index	index.script
+2016-10-20 10:11:46.732 -0600	Log		Randy Hesse four hundred ninety eight million six hundred seventy two thousand seven hundred seven	10	on_index	index.script
+2016-10-20 10:11:47.588 -0600	EndTestCase		(Duration:"1.320001", Errors:"0", Exceptions:"0", StartTime:"2016-10-20 10:11:46 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-10-20 10:11:47.595 -0600	SUCCESS		Execution Time 0:00:01 index.script

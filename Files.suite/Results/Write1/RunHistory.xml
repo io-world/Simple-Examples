@@ -1,0 +1,177 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Write1">
+ <run>
+  <RunDate>2016-11-07 13:13:40.089 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.625517</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161107_131340.089/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileException -- Attempt to access unopened file: 1,2,71,45,Joe
+3,4
+90,123
+12,88
+Mike
+Ashley Milne</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-07 13:13:58.075 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.627630</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161107_131358.075/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileAccessException -- Unable to open file /1,2,71,45,Joe
+3,4
+90,123
+12,88
+Mike
+Ashley Milne as requested</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-07 13:22:08.165 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.621995</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161107_132208.165/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileException -- Attempt to access unopened file: MyFileVar</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-07 13:22:18.998 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.649623</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161107_132218.998/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-07 13:22:40.784 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.582206</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161107_132240.784/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileException -- Attempt to access unopened file: /Users/randyhesse/Desktop/TestRead</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-07 13:23:52.985 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.596852</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161107_132352.985/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-07 13:28:07.688 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.539435</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161107_132807.688/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-20 16:48:44.670 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.318936</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161220_164844.670/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileException -- Attempt to access unopened file: 1,2,71,45,Joe
+3,4
+90,123
+12,88
+Mike
+Ashley Milne
+my name is what?
+my name is what?
+my name is what?</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-20 16:49:56.851 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.327778</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161220_164956.851/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>InvalidCommandOrRange -- Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-20 16:50:22.532 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.341736</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161220_165022.532/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-20 16:55:36.227 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.331795</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161220_165536.227/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>InvalidCommandOrRange -- Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-21 08:46:12.398 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.392735</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161221_084612.398/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-21 08:46:22.826 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.374104</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161221_084622.826/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

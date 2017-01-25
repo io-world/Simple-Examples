@@ -1,0 +1,14 @@
+﻿2016-11-01 22:21:42.374 -0400	START		Running Read3.script
+2016-11-01 22:21:42.488 -0400	Log		10	7	on_read3	Read3.script
+2016-11-01 22:21:42.535 -0400	Log		Prefix	15	on_read3	Read3.script
+2016-11-01 22:21:42.572 -0400	Log		Mr	15	on_read3	Read3.script
+2016-11-01 22:21:42.605 -0400	Log		Mrs	15	on_read3	Read3.script
+2016-11-01 22:21:42.629 -0400	Log		Ms	15	on_read3	Read3.script
+2016-11-01 22:21:42.659 -0400	Log		Dr	15	on_read3	Read3.script
+2016-11-01 22:21:42.694 -0400	Log		Dr	15	on_read3	Read3.script
+2016-11-01 22:21:42.742 -0400	Log		Mr	15	on_read3	Read3.script
+2016-11-01 22:21:42.793 -0400	Log		Dr	15	on_read3	Read3.script
+2016-11-01 22:21:42.842 -0400	Log		Dr	15	on_read3	Read3.script
+2016-11-01 22:21:42.895 -0400	Log		Mr	15	on_read3	Read3.script
+2016-11-01 22:21:43.266 -0400	EndTestCase		(Duration:"0.890668", Errors:"0", Exceptions:"0", StartTime:"2016-11-01 22:21:42 -0400", Successes:"1", TestCase:"Read3.script", Warnings:"0")
+2016-11-01 22:21:43.288 -0400	SUCCESS		Execution Time 0:00:00 Read3.script

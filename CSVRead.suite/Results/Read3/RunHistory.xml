@@ -1,0 +1,136 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Read3">
+ <run>
+  <RunDate>2016-11-01 22:35:42.708 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>1.371305</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161101_223542.708/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-01 22:36:11.334 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>1.276346</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161101_223611.334/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-01 22:36:35.004 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>1.321989</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161101_223635.004/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-01 22:36:43.783 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.995722</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161101_223643.783/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-01 22:37:11.940 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.921280</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161101_223711.940/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-01 22:37:19.813 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.832731</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161101_223719.813/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-01 22:40:58.049 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.552176</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20161101_224058.049/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in &lt;do&gt;:
+Syntax Error at line 1: Syntax Error - can&#x27;t understand &quot;Name&quot; at or near character 80</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-01 22:41:09.550 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>1.114090</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161101_224109.550/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-01 22:41:32.260 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.816496</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161101_224132.260/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-07 15:15:23.331 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.760096</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161207_151523.331/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-12-07 15:15:30.221 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.888220</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161207_151530.221/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

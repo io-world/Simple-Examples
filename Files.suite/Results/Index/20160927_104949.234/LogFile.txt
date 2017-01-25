@@ -1,0 +1,4 @@
+﻿2016-09-27 10:49:49.234 -0600	START		Running Index.script
+2016-09-27 10:49:49.347 -0600	typetext		1[enter]	8	on_index	Index.script
+2016-09-27 10:49:49.769 -0600	EndTestCase		(Duration:"0.533842", Errors:"0", Exceptions:"0", StartTime:"2016-09-27 10:49:49 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-09-27 10:49:49.774 -0600	SUCCESS		Execution Time 0:00:00 Index.script

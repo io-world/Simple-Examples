@@ -1,0 +1,40 @@
+﻿open file "/Users/randyhesse/Desktop/TestRead" 
+put file openfiles() into MyFileVar 
+log MyFileVar
+---------------------
+put the number of lines of MyFileVar into MAX
+log max
+repeat max times
+	put line repeatindex() of MyFileVar into linevar
+	put the number of items of linevar into max2 
+	repeat max2 times
+		log item repeatindex() of linevar
+	end repeat
+end repeat
+
+-------------------------------------
+log "----------------------------------------------------"
+-------------------------------------
+
+put the number of lines of MyFileVar into MAX
+log max
+repeat max times
+	
+	put item 2 of  line repeatindex() of MyFileVar into output
+	log output
+	
+end repeat
+----------------------------------------------------------
+log "----------------------------------------------------"
+-------------------------------------
+put the number of lines of MyFileVar into MAX
+log max
+repeat max times
+	
+	put item 2 of  line repeatindex() of MyFileVar into output
+	log output
+	
+end repeat
+
+
+

@@ -1,0 +1,41 @@
+﻿
+
+//Use the Script to Create New Patient
+
+
+
+
+log global Patient.MedicalRecordNumber
+log global Patient.Prefix
+log global Patient.FirstName
+log global Patient.LastName
+log global Patient.DateofBirth
+log global Patient.SocialSecurityNumber
+log global Patient.Gender
+log global Patient.MaritalStatus
+
+///Other Sample Code
+(* 
+typetext global Patient.MaritalStatus
+log global Patient.MaritalStatus
+log "First Name is " & global Patient.MaritalStatus
+TypeText "First Name is " & global Patient.MaritalStatus
+----------------------------------------------------------------------------------------
+put global Patient.FirstName into Fname
+log Fname
+TypeText Fname
+log "First Name is " & Fname
+TypeText "First Name is " & Fname
+
+
+
+//SPLIT out Date of Birth
+
+split  global Patient.DateofBirth by "/"
+log global Patient.DateofBirth
+log "Month: " & item 1 of global Patient.DateofBirth
+log "Day: " & item 2 of global Patient.DateofBirth
+log "Year: " & "19"& item 3 of global Patient.DateofBirth
+
+ *)
+

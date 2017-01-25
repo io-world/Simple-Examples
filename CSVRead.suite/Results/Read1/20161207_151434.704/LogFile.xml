@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Read1.script" package="CSVRead.suite" timestamp="2016-12-07 15:14:34.704 -0500"
+ tests="1" successes="1" errors="0" time="0.754083">
+  <properties>
+   <property name="RunDate" value="2016-12-07 15:14:34.704 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Read1.script" assertions="1" successes="1" errors="0" time="0.752357">
+  </testcase>
+ </testsuite>
+</testsuites>

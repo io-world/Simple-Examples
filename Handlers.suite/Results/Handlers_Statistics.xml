@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Library">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-08-31 08:52:37 -0600</FirstRun>
+  <LastRun>2016-09-27 12:24:50 -0600</LastRun>
+  <TotalTimeOnSuccess>4.300458</TotalTimeOnSuccess>
+ </script>
+ <script name="index">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>22</NumberOfRuns>
+  <NumberOfFails>11</NumberOfFails>
+  <FirstRun>2016-08-31 08:53:28 -0600</FirstRun>
+  <LastRun>2016-08-31 09:09:08 -0600</LastRun>
+  <TotalTimeOnSuccess>11.901840</TotalTimeOnSuccess>
+ </script>
+</statistics>

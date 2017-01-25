@@ -1,0 +1,4 @@
+﻿2016-12-19 21:29:31.565 -0800	START		Running Read6.script
+2016-12-19 21:29:31.699 -0800	Log		Prefix,First_Name,Middle_Name,Last_Name,Medical_Record_Number,Date_of_Birth,Social_Security_Number,Gender,Marital_Status	10	on_read6	Read6.script
+2016-12-19 21:29:31.933 -0800	EndTestCase		(Duration:"0.366967", Errors:"1", Exceptions:"0", StartTime:"2016-12-19 21:29:31 -0800", Successes:"0", TestCase:"Read6.script", Warnings:"0")
+2016-12-19 21:29:31.944 -0800	FAILURE		SRUN_BadValue Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got 'PREFIX,FIRST_NAME,MIDDLE_NAME,LAST_NAME,MEDICAL_RECORD_NUMBER,DATE_OF_BIRTH,SOCIAL_SECURITY_NUMBER,GENDER,MARITAL_STATUS'. -- Execution Time 0:00:00 Read6.script

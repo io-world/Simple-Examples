@@ -1,0 +1,4 @@
+﻿2017-01-06 09:09:56.244 -0700	START		Running Logout.script	41	on_globaldefine	GlobalDefine.script
+2017-01-06 09:09:56.266 -0700	Log		running logout	1	on_logout	Logout.script
+2017-01-06 09:09:56.269 -0700	EndTestCase		(Duration:"0.022714", Errors:"0", Exceptions:"0", StartTime:"2017-01-06 09:09:56 -0700", Successes:"1", TestCase:"Logout.script", Warnings:"0")	41	on_globaldefine	GlobalDefine.script
+2017-01-06 09:09:56.291 -0700	SUCCESS		Execution Time 0:00:00 Logout.script	41	on_globaldefine	GlobalDefine.script

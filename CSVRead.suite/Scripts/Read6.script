@@ -1,0 +1,33 @@
+﻿put file "//Users/randyhesse/Documents/Simple Examples/CSVRead.suite/Resources/WebFormData.csv" into CSVFile 
+
+
+//Start from Patient
+put 2 into StartPatient
+put 7 into EndPatient
+
+
+put the number of lines of CSVFile into PatientCount
+put the number of items of line 1 of  CSVFile into LabelCount
+
+
+
+
+repeat (PatientCount-StartPatient) times
+	
+	
+	put  line StartPatient of CSVFile into PatientLine
+	
+	repeat LabelCount times
+		put item repeatindex() of line 1 of CSVFile as text into VName 
+		put item repeatindex() of  PatientLine as text into VVar
+		delete " " from Vname
+		put VVar into Patient.(VName)	
+	end repeat
+	
+	put Patient into Global Patient
+	log Patient
+	--RunWithNewResults "Test"
+	
+end repeat
+
+

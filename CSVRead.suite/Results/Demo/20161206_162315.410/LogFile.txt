@@ -1,0 +1,12 @@
+﻿2016-12-06 16:23:15.411 -0600	START		Running Demo.script
+2016-12-06 16:23:15.496 -0600	Log		Mr	13	on_demo	Demo.script
+2016-12-06 16:23:15.523 -0600	Log		Bruce	13	on_demo	Demo.script
+2016-12-06 16:23:15.543 -0600	Log			13	on_demo	Demo.script
+2016-12-06 16:23:15.562 -0600	Log		Wayne	13	on_demo	Demo.script
+2016-12-06 16:23:15.580 -0600	Log		222222	13	on_demo	Demo.script
+2016-12-06 16:23:15.594 -0600	Log		6/13/06	13	on_demo	Demo.script
+2016-12-06 16:23:15.611 -0600	Log		113-83-3798	13	on_demo	Demo.script
+2016-12-06 16:23:15.629 -0600	Log		Male	13	on_demo	Demo.script
+2016-12-06 16:23:15.645 -0600	Log		Single	13	on_demo	Demo.script
+2016-12-06 16:23:16.366 -0600	EndTestCase		(Duration:"0.954013", Errors:"0", Exceptions:"0", StartTime:"2016-12-06 16:23:15 -0600", Successes:"1", TestCase:"Demo.script", Warnings:"0")
+2016-12-06 16:23:16.401 -0600	SUCCESS		Execution Time 0:00:00 Demo.script

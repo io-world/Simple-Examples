@@ -1,0 +1,8 @@
+﻿2016-12-12 15:41:01.900 -0800	START		Running Login.script
+2016-12-12 15:41:01.951 -0800	Log		Running Login	6	on_login	Login.script
+2016-12-12 15:41:01.954 -0800	Log			8	on_login	Login.script
+2016-12-12 15:41:01.956 -0800	Log			9	on_login	Login.script
+2016-12-12 15:41:01.958 -0800	typetext			16	on_login	Login.script
+2016-12-12 15:41:02.664 -0800	typetext			19	on_login	Login.script
+2016-12-12 15:41:02.910 -0800	EndTestCase		(Duration:"1.008742", Errors:"0", Exceptions:"0", StartTime:"2016-12-12 15:41:01 -0800", Successes:"1", TestCase:"Login.script", Warnings:"0")
+2016-12-12 15:41:02.940 -0800	SUCCESS		Execution Time 0:00:01 Login.script

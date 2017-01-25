@@ -1,0 +1,4 @@
+﻿2016-09-20 13:25:52.967 -0600	START		Running Read3.script
+2016-09-20 13:25:53.513 -0600	everyimagelocation	LineRow	found 24 images	1	on_read3	Read3.script
+2016-09-20 13:25:53.968 -0600	EndTestCase		(Duration:"1.000433", Errors:"1", Exceptions:"0", StartTime:"2016-09-20 13:25:52 -0600", Successes:"0", TestCase:"Read3.script", Warnings:"0")
+2016-09-20 13:25:54.483 -0600	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got '((202,208),(202,235),(202,262),(202,289),(202,316),(202,343),(202,370),(202,397),(202,424),(202,451),(202,478),(202,505),(202,532),(202,559),(202,586),(202,613),(202,640),(202,667),(202,694),(202,721),(202,748),(202,775),(202,802),(202,829))'. -- Execution Time 0:00:01 Read3.script

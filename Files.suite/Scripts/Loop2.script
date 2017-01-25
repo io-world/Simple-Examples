@@ -1,0 +1,14 @@
+﻿put  file "/Users/randyhesse/Desktop/TestRead" into MyFileVar
+log MyFileVar
+
+
+
+
+put the number of items of  line 1 of MyFileVar into MAX
+log max
+repeat max times
+	
+	put item repeatindex() of  line 1 of MyFileVar into output
+	log output
+	
+end repeat

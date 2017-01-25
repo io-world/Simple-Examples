@@ -1,0 +1,9 @@
+﻿params first, last, DOB, SSN
+
+Log "running addPatient"
+
+
+Log first
+Log last
+Log DOB
+Log SSN

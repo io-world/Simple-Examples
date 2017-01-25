@@ -1,0 +1,34 @@
+﻿----------------DO Not Touch--------------------------------------
+set GD to a new "Modules/GlobalDefine"
+-------------------------------------------------------------------------
+(GD).SetupFiles "/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/PatientInformation.csv"
+(GD).SetupEnvironment "/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/EnvironmentConfig.csv"
+-------------------------------------------------------------------------
+
+
+
+
+repeat (GD).PatientCount times
+	
+	Run (GD).BuildPatient repeatindex()
+	log global Patient
+	log global patient.MedicalRecordNumber
+	
+	
+end repeat
+
+
+
+Run (GD).StartBuildPatient 2
+
+
+
+repeat 4times
+	
+	Run (GD).BuildPatient 2
+	log global Patient
+	log global patient.MedicalRecordNumber
+	
+	
+end repeat
+

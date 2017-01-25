@@ -1,0 +1,14 @@
+﻿2016-12-01 09:41:44.237 -0700	START		Running Testing2.script
+2016-12-01 09:41:44.407 -0700	Log			17	on_testing2	Testing2.script
+2016-12-01 09:41:44.414 -0700	Log			19	on_testing2	Testing2.script
+2016-12-01 09:41:44.468 -0700	Log			17	on_testing2	Testing2.script
+2016-12-01 09:41:44.475 -0700	Log			19	on_testing2	Testing2.script
+2016-12-01 09:41:44.545 -0700	Log			17	on_testing2	Testing2.script
+2016-12-01 09:41:44.566 -0700	Log			19	on_testing2	Testing2.script
+2016-12-01 09:41:44.623 -0700	Log			17	on_testing2	Testing2.script
+2016-12-01 09:41:44.642 -0700	Log			19	on_testing2	Testing2.script
+2016-12-01 09:41:44.692 -0700	Log			17	on_testing2	Testing2.script
+2016-12-01 09:41:44.712 -0700	Log			19	on_testing2	Testing2.script
+2016-12-01 09:41:44.757 -0700	Log		("":"")	29	on_testing2	Testing2.script
+2016-12-01 09:41:46.059 -0700	EndTestCase		(Duration:"1.820422", Errors:"0", Exceptions:"0", StartTime:"2016-12-01 09:41:44 -0700", Successes:"1", TestCase:"Testing2.script", Warnings:"0")
+2016-12-01 09:41:46.096 -0700	SUCCESS		Execution Time 0:00:01 Testing2.script

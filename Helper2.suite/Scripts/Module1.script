@@ -1,0 +1,9 @@
+﻿on Foo
+	log "Excuted Foo"
+	
+end Foo
+
+on Foo2
+	log "Excuted Foo2"
+	
+end Foo2

@@ -1,0 +1,243 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Index">
+ <run>
+  <RunDate>2017-01-06 09:29:22.113 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.445695</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170106_092922.113/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- runwithnewresults Error - Unable to locate script named: TestA</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 09:52:49.223 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.952253</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_095249.223/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 09:53:55.394 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.946495</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_095355.394/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 09:55:26.478 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>2.176152</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_095526.478/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 09:55:43.264 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>2.005266</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_095543.264/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 09:59:14.837 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>10.022503</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_095914.837/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 10:02:44.675 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>5.828852</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_100244.675/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 10:04:30.753 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>5.714970</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_100430.753/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 10:05:12.429 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>5.861160</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_100512.429/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 10:17:13.083 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>5.319098</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_101713.083/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 10:22:17.733 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>6.736368</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_102217.733/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 10:39:42.676 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>34.636447</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_103942.676/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 10:41:55.319 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>10.151198</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_104155.319/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 12:56:00.338 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>5.978635</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_125600.338/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 15:44:05.892 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>6.110794</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_154405.892/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 15:45:22.687 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>7.073530</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_154522.687/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 15:47:41.559 -0700</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20170106_154741.559/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 15:49:30.813 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.685791</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170106_154930.813/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_ZeroChunkIndex -- Zero is not a valid chunk number</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 15:49:54.189 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>5.859462</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_154954.189/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 15:50:34.653 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>6.821202</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_155034.653/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

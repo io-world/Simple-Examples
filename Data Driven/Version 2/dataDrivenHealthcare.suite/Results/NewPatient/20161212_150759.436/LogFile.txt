@@ -1,0 +1,4 @@
+﻿2016-12-12 15:07:59.437 -0800	START		Running NewPatient.script	29	on_master	Master.script
+2016-12-12 15:07:59.458 -0800	Log		(@"Date of Birth":"6/13/06", @"First Name":"Bruce", Gender:"Male", @"Last Name":"Wayne", @"Marital Status":"Single", @"Medical Record Number":"222222", @"Middle Name":"A", Prefix:"Mr", @"Social Security Number":"113-83-3798")	5	on_newpatient	NewPatient.script
+2016-12-12 15:07:59.460 -0800	EndTestCase		(Duration:"0.021549", Errors:"0", Exceptions:"0", StartTime:"2016-12-12 15:07:59 -0800", Successes:"1", TestCase:"NewPatient.script", Warnings:"0")	29	on_master	Master.script
+2016-12-12 15:07:59.471 -0800	SUCCESS		Execution Time 0:00:00 NewPatient.script	29	on_master	Master.script

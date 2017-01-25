@@ -1,0 +1,4 @@
+﻿2017-01-06 16:25:30.585 -0700	START		Running States/Zero.script	15	on_index	Index.script<SELECTION>
+2017-01-06 16:25:30.593 -0700	Log		initiate Zero State	4	on_states_zero	States/Zero.script
+2017-01-06 16:25:30.596 -0700	EndTestCase		(Duration:"0.009675", Errors:"0", Exceptions:"0", StartTime:"2017-01-06 16:25:30 -0700", Successes:"1", TestCase:"States/Zero.script", Warnings:"0")	15	on_index	Index.script<SELECTION>
+2017-01-06 16:25:30.629 -0700	SUCCESS		Execution Time 0:00:00 States/Zero.script	15	on_index	Index.script<SELECTION>

@@ -1,0 +1,48 @@
+﻿2016-12-09 12:32:57.682 -0700	START		Running Demo.script
+2016-12-09 12:32:57.988 -0700	Log		First_Name	15	on_demo	Demo.script
+2016-12-09 12:32:58.009 -0700	Log		Middle_Name	15	on_demo	Demo.script
+2016-12-09 12:32:58.029 -0700	Log		Last_Name	15	on_demo	Demo.script
+2016-12-09 12:32:58.046 -0700	Log		Medical_Record_Number	15	on_demo	Demo.script
+2016-12-09 12:32:58.063 -0700	Log		Date_of_Birth	15	on_demo	Demo.script
+2016-12-09 12:32:58.081 -0700	Log		Social_Security_Number	15	on_demo	Demo.script
+2016-12-09 12:32:58.098 -0700	Log		Gender	15	on_demo	Demo.script
+2016-12-09 12:32:58.117 -0700	Log		Marital_Status	15	on_demo	Demo.script
+2016-12-09 12:32:58.137 -0700	Log			15	on_demo	Demo.script
+2016-12-09 12:32:58.220 -0700	Log		Bruce	15	on_demo	Demo.script
+2016-12-09 12:32:58.237 -0700	Log			15	on_demo	Demo.script
+2016-12-09 12:32:58.262 -0700	Log		Wayne	15	on_demo	Demo.script
+2016-12-09 12:32:58.279 -0700	Log		222222	15	on_demo	Demo.script
+2016-12-09 12:32:58.299 -0700	Log		6/13/06	15	on_demo	Demo.script
+2016-12-09 12:32:58.315 -0700	Log		113-83-3798	15	on_demo	Demo.script
+2016-12-09 12:32:58.347 -0700	Log		Male	15	on_demo	Demo.script
+2016-12-09 12:32:58.367 -0700	Log		Single	15	on_demo	Demo.script
+2016-12-09 12:32:58.386 -0700	Log			15	on_demo	Demo.script
+2016-12-09 12:32:58.440 -0700	Log		Carrie	15	on_demo	Demo.script
+2016-12-09 12:32:58.451 -0700	Log			15	on_demo	Demo.script
+2016-12-09 12:32:58.485 -0700	Log		Underwood	15	on_demo	Demo.script
+2016-12-09 12:32:58.504 -0700	Log		333333	15	on_demo	Demo.script
+2016-12-09 12:32:58.520 -0700	Log		3/16/14	15	on_demo	Demo.script
+2016-12-09 12:32:58.534 -0700	Log		583-00-6387	15	on_demo	Demo.script
+2016-12-09 12:32:58.551 -0700	Log		Female	15	on_demo	Demo.script
+2016-12-09 12:32:58.569 -0700	Log		Married	15	on_demo	Demo.script
+2016-12-09 12:32:58.598 -0700	Log			15	on_demo	Demo.script
+2016-12-09 12:32:58.643 -0700	Log		Wonder	15	on_demo	Demo.script
+2016-12-09 12:32:58.653 -0700	Log			15	on_demo	Demo.script
+2016-12-09 12:32:58.698 -0700	Log		Woman	15	on_demo	Demo.script
+2016-12-09 12:32:58.715 -0700	Log		444444	15	on_demo	Demo.script
+2016-12-09 12:32:58.734 -0700	Log		4/24/03	15	on_demo	Demo.script
+2016-12-09 12:32:58.752 -0700	Log		580-71-8520	15	on_demo	Demo.script
+2016-12-09 12:32:58.766 -0700	Log		Female	15	on_demo	Demo.script
+2016-12-09 12:32:58.783 -0700	Log		Divorced	15	on_demo	Demo.script
+2016-12-09 12:32:58.802 -0700	Log			15	on_demo	Demo.script
+2016-12-09 12:32:58.858 -0700	Log		Darth	15	on_demo	Demo.script
+2016-12-09 12:32:58.869 -0700	Log		A	15	on_demo	Demo.script
+2016-12-09 12:32:59.081 -0700	Log		Vader	15	on_demo	Demo.script
+2016-12-09 12:32:59.102 -0700	Log		555555	15	on_demo	Demo.script
+2016-12-09 12:32:59.120 -0700	Log		12/23/87	15	on_demo	Demo.script
+2016-12-09 12:32:59.147 -0700	Log		744-85-1232	15	on_demo	Demo.script
+2016-12-09 12:32:59.166 -0700	Log		Male	15	on_demo	Demo.script
+2016-12-09 12:32:59.184 -0700	Log		Widowed	15	on_demo	Demo.script
+2016-12-09 12:32:59.200 -0700	Log			15	on_demo	Demo.script
+2016-12-09 12:32:59.588 -0700	EndTestCase		(Duration:"1.904043", Errors:"0", Exceptions:"0", StartTime:"2016-12-09 12:32:57 -0700", Successes:"1", TestCase:"Demo.script", Warnings:"0")
+2016-12-09 12:32:59.633 -0700	SUCCESS		Execution Time 0:00:01 Demo.script

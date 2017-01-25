@@ -1,0 +1,4 @@
+﻿2017-01-06 10:40:01.688 -0700	START		Running Test/B.script	21	on_index	Index.script
+2017-01-06 10:40:01.691 -0700	Log		code for Navigation for TestB 	5	on_test_b	Test/B.script
+2017-01-06 10:40:01.694 -0700	EndTestCase		(Duration:"0.005151", Errors:"0", Exceptions:"0", StartTime:"2017-01-06 10:40:01 -0700", Successes:"1", TestCase:"Test/B.script", Warnings:"0")	21	on_index	Index.script
+2017-01-06 10:40:01.762 -0700	SUCCESS		Execution Time 0:00:00 Test/B.script	21	on_index	Index.script

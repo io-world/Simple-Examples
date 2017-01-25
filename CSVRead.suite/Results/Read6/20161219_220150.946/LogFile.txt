@@ -1,0 +1,11 @@
+﻿2016-12-19 22:01:50.947 -0800	START		Running Read6.script
+2016-12-19 22:01:51.511 -0800	runwithnewresults		Test.script (/Users/randyhesse/Documents/Simple Examples/CSVRead.suite/Results/Test/20161219_220151.510/LogFile.txt)	27	on_read6	Read6.script
+2016-12-19 22:01:52.052 -0800	runwithnewresults		Test.script (/Users/randyhesse/Documents/Simple Examples/CSVRead.suite/Results/Test/20161219_220152.051/LogFile.txt)	27	on_read6	Read6.script
+2016-12-19 22:01:52.573 -0800	runwithnewresults		Test.script (/Users/randyhesse/Documents/Simple Examples/CSVRead.suite/Results/Test/20161219_220152.573/LogFile.txt)	27	on_read6	Read6.script
+2016-12-19 22:01:53.085 -0800	runwithnewresults		Test.script (/Users/randyhesse/Documents/Simple Examples/CSVRead.suite/Results/Test/20161219_220153.084/LogFile.txt)	27	on_read6	Read6.script
+2016-12-19 22:01:53.591 -0800	runwithnewresults		Test.script (/Users/randyhesse/Documents/Simple Examples/CSVRead.suite/Results/Test/20161219_220153.590/LogFile.txt)	27	on_read6	Read6.script
+2016-12-19 22:01:54.115 -0800	runwithnewresults		Test.script (/Users/randyhesse/Documents/Simple Examples/CSVRead.suite/Results/Test/20161219_220154.114/LogFile.txt)	27	on_read6	Read6.script
+2016-12-19 22:01:54.621 -0800	runwithnewresults		Test.script (/Users/randyhesse/Documents/Simple Examples/CSVRead.suite/Results/Test/20161219_220154.621/LogFile.txt)	27	on_read6	Read6.script
+2016-12-19 22:01:55.134 -0800	runwithnewresults		Test.script (/Users/randyhesse/Documents/Simple Examples/CSVRead.suite/Results/Test/20161219_220155.133/LogFile.txt)	27	on_read6	Read6.script
+2016-12-19 22:01:55.525 -0800	EndTestCase		(Duration:"4.577368", Errors:"0", Exceptions:"0", StartTime:"2016-12-19 22:01:50 -0800", Successes:"9", TestCase:"Read6.script", Warnings:"0")
+2016-12-19 22:01:55.554 -0800	SUCCESS		Execution Time 0:00:04 Read6.script

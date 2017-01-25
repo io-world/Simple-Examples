@@ -1,0 +1,4 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+Example,Success,8,0,2016-10-20 10:38:38 -0600,2016-10-21 10:16:37 -0600,0:00:01
+TodayC,Success,2,0,2016-10-18 15:17:40 -0600,2016-10-20 10:25:27 -0600,0:00:00
+index,Success,44,7,2016-07-06 11:28:17 -0600,2016-10-20 10:35:17 -0600,0:00:00

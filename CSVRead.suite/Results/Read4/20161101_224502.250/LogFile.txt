@@ -1,0 +1,88 @@
+﻿2016-11-01 22:45:02.251 -0400	START		Running Read4.script
+2016-11-01 22:45:02.373 -0400	Log		10	7	on_read4	Read4.script
+2016-11-01 22:45:02.390 -0400	Log		10	9	on_read4	Read4.script
+2016-11-01 22:45:02.435 -0400	Log		Prefix	18	on_read4	Read4.script
+2016-11-01 22:45:02.464 -0400	Log		First Name	18	on_read4	Read4.script
+2016-11-01 22:45:02.495 -0400	Log		Middle Name	18	on_read4	Read4.script
+2016-11-01 22:45:02.508 -0400	Log		Last Name	18	on_read4	Read4.script
+2016-11-01 22:45:02.539 -0400	Log		Medical Record Number	18	on_read4	Read4.script
+2016-11-01 22:45:02.570 -0400	Log		Date of Birth	18	on_read4	Read4.script
+2016-11-01 22:45:02.592 -0400	Log		Social Security Number	18	on_read4	Read4.script
+2016-11-01 22:45:02.623 -0400	Log		Gender	18	on_read4	Read4.script
+2016-11-01 22:45:02.659 -0400	Log		Marital Status	18	on_read4	Read4.script
+2016-11-01 22:45:02.703 -0400	Log		Prefix	18	on_read4	Read4.script
+2016-11-01 22:45:02.728 -0400	Log		First Name	18	on_read4	Read4.script
+2016-11-01 22:45:02.751 -0400	Log		Middle Name	18	on_read4	Read4.script
+2016-11-01 22:45:02.779 -0400	Log		Last Name	18	on_read4	Read4.script
+2016-11-01 22:45:02.810 -0400	Log		Medical Record Number	18	on_read4	Read4.script
+2016-11-01 22:45:02.824 -0400	Log		Date of Birth	18	on_read4	Read4.script
+2016-11-01 22:45:02.874 -0400	Log		Social Security Number	18	on_read4	Read4.script
+2016-11-01 22:45:02.900 -0400	Log		Gender	18	on_read4	Read4.script
+2016-11-01 22:45:02.922 -0400	Log		Marital Status	18	on_read4	Read4.script
+2016-11-01 22:45:02.973 -0400	Log		Prefix	18	on_read4	Read4.script
+2016-11-01 22:45:03.004 -0400	Log		First Name	18	on_read4	Read4.script
+2016-11-01 22:45:03.038 -0400	Log		Middle Name	18	on_read4	Read4.script
+2016-11-01 22:45:03.071 -0400	Log		Last Name	18	on_read4	Read4.script
+2016-11-01 22:45:03.094 -0400	Log		Medical Record Number	18	on_read4	Read4.script
+2016-11-01 22:45:03.126 -0400	Log		Date of Birth	18	on_read4	Read4.script
+2016-11-01 22:45:03.140 -0400	Log		Social Security Number	18	on_read4	Read4.script
+2016-11-01 22:45:03.167 -0400	Log		Gender	18	on_read4	Read4.script
+2016-11-01 22:45:03.210 -0400	Log		Marital Status	18	on_read4	Read4.script
+2016-11-01 22:45:03.259 -0400	Log		Prefix	18	on_read4	Read4.script
+2016-11-01 22:45:03.290 -0400	Log		First Name	18	on_read4	Read4.script
+2016-11-01 22:45:03.329 -0400	Log		Middle Name	18	on_read4	Read4.script
+2016-11-01 22:45:03.342 -0400	Log		Last Name	18	on_read4	Read4.script
+2016-11-01 22:45:03.370 -0400	Log		Medical Record Number	18	on_read4	Read4.script
+2016-11-01 22:45:03.391 -0400	Log		Date of Birth	18	on_read4	Read4.script
+2016-11-01 22:45:03.422 -0400	Log		Social Security Number	18	on_read4	Read4.script
+2016-11-01 22:45:03.454 -0400	Log		Gender	18	on_read4	Read4.script
+2016-11-01 22:45:03.488 -0400	Log		Marital Status	18	on_read4	Read4.script
+2016-11-01 22:45:03.573 -0400	Log		Prefix	18	on_read4	Read4.script
+2016-11-01 22:45:03.623 -0400	Log		First Name	18	on_read4	Read4.script
+2016-11-01 22:45:03.674 -0400	Log		Middle Name	18	on_read4	Read4.script
+2016-11-01 22:45:03.701 -0400	Log		Last Name	18	on_read4	Read4.script
+2016-11-01 22:45:03.742 -0400	Log		Medical Record Number	18	on_read4	Read4.script
+2016-11-01 22:45:03.756 -0400	Log		Date of Birth	18	on_read4	Read4.script
+2016-11-01 22:45:03.792 -0400	Log		Social Security Number	18	on_read4	Read4.script
+2016-11-01 22:45:03.825 -0400	Log		Gender	18	on_read4	Read4.script
+2016-11-01 22:45:03.872 -0400	Log		Marital Status	18	on_read4	Read4.script
+2016-11-01 22:45:03.924 -0400	Log		Prefix	18	on_read4	Read4.script
+2016-11-01 22:45:03.953 -0400	Log		First Name	18	on_read4	Read4.script
+2016-11-01 22:45:03.987 -0400	Log		Middle Name	18	on_read4	Read4.script
+2016-11-01 22:45:04.021 -0400	Log		Last Name	18	on_read4	Read4.script
+2016-11-01 22:45:04.056 -0400	Log		Medical Record Number	18	on_read4	Read4.script
+2016-11-01 22:45:04.106 -0400	Log		Date of Birth	18	on_read4	Read4.script
+2016-11-01 22:45:04.156 -0400	Log		Social Security Number	18	on_read4	Read4.script
+2016-11-01 22:45:04.207 -0400	Log		Gender	18	on_read4	Read4.script
+2016-11-01 22:45:04.259 -0400	Log		Marital Status	18	on_read4	Read4.script
+2016-11-01 22:45:04.303 -0400	Log		Prefix	18	on_read4	Read4.script
+2016-11-01 22:45:04.326 -0400	Log		First Name	18	on_read4	Read4.script
+2016-11-01 22:45:04.359 -0400	Log		Middle Name	18	on_read4	Read4.script
+2016-11-01 22:45:04.372 -0400	Log		Last Name	18	on_read4	Read4.script
+2016-11-01 22:45:04.407 -0400	Log		Medical Record Number	18	on_read4	Read4.script
+2016-11-01 22:45:04.437 -0400	Log		Date of Birth	18	on_read4	Read4.script
+2016-11-01 22:45:04.463 -0400	Log		Social Security Number	18	on_read4	Read4.script
+2016-11-01 22:45:04.476 -0400	Log		Gender	18	on_read4	Read4.script
+2016-11-01 22:45:04.508 -0400	Log		Marital Status	18	on_read4	Read4.script
+2016-11-01 22:45:04.590 -0400	Log		Prefix	18	on_read4	Read4.script
+2016-11-01 22:45:04.640 -0400	Log		First Name	18	on_read4	Read4.script
+2016-11-01 22:45:04.690 -0400	Log		Middle Name	18	on_read4	Read4.script
+2016-11-01 22:45:04.741 -0400	Log		Last Name	18	on_read4	Read4.script
+2016-11-01 22:45:04.767 -0400	Log		Medical Record Number	18	on_read4	Read4.script
+2016-11-01 22:45:04.800 -0400	Log		Date of Birth	18	on_read4	Read4.script
+2016-11-01 22:45:04.828 -0400	Log		Social Security Number	18	on_read4	Read4.script
+2016-11-01 22:45:04.860 -0400	Log		Gender	18	on_read4	Read4.script
+2016-11-01 22:45:04.873 -0400	Log		Marital Status	18	on_read4	Read4.script
+2016-11-01 22:45:04.952 -0400	Log		Prefix	18	on_read4	Read4.script
+2016-11-01 22:45:04.973 -0400	Log		First Name	18	on_read4	Read4.script
+2016-11-01 22:45:05.004 -0400	Log		Middle Name	18	on_read4	Read4.script
+2016-11-01 22:45:05.039 -0400	Log		Last Name	18	on_read4	Read4.script
+2016-11-01 22:45:05.072 -0400	Log		Medical Record Number	18	on_read4	Read4.script
+2016-11-01 22:45:05.106 -0400	Log		Date of Birth	18	on_read4	Read4.script
+2016-11-01 22:45:05.157 -0400	Log		Social Security Number	18	on_read4	Read4.script
+2016-11-01 22:45:05.207 -0400	Log		Gender	18	on_read4	Read4.script
+2016-11-01 22:45:05.258 -0400	Log		Marital Status	18	on_read4	Read4.script
+2016-11-01 22:45:05.307 -0400	Log		patient1	31	on_read4	Read4.script
+2016-11-01 22:45:05.322 -0400	Log		Patient2	32	on_read4	Read4.script
+2016-11-01 22:45:05.705 -0400	EndTestCase		(Duration:"3.452085", Errors:"0", Exceptions:"0", StartTime:"2016-11-01 22:45:02 -0400", Successes:"1", TestCase:"Read4.script", Warnings:"0")
+2016-11-01 22:45:05.722 -0400	SUCCESS		Execution Time 0:00:03 Read4.script

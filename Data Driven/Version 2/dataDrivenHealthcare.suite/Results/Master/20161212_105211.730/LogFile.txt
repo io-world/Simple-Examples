@@ -1,0 +1,15 @@
+﻿2016-12-12 10:52:11.732 -0700	START		Running dataDriven.script
+2016-12-12 10:52:11.997 -0700	Log		9	18	on_datadriven	dataDriven.script
+2016-12-12 10:52:12.754 -0700	Log		("":"VVar", CSVFile:"VVar")	33	on_datadriven	dataDriven.script
+2016-12-12 10:52:13.338 -0700	Log		("":"VVar", CSVFile:"VVar")	33	on_datadriven	dataDriven.script
+2016-12-12 10:52:13.996 -0700	Log		("":"VVar", CSVFile:"VVar")	33	on_datadriven	dataDriven.script
+2016-12-12 10:52:14.540 -0700	Log		("":"VVar", CSVFile:"VVar")	33	on_datadriven	dataDriven.script
+2016-12-12 10:52:15.029 -0700	Log		("":"VVar", CSVFile:"VVar")	33	on_datadriven	dataDriven.script
+2016-12-12 10:52:15.585 -0700	Log		("":"VVar", CSVFile:"VVar")	33	on_datadriven	dataDriven.script
+2016-12-12 10:52:16.259 -0700	Log		("":"VVar", CSVFile:"VVar")	33	on_datadriven	dataDriven.script
+2016-12-12 10:52:16.973 -0700	Log		("":"VVar", CSVFile:"VVar")	33	on_datadriven	dataDriven.script
+2016-12-12 10:52:17.659 -0700	Log		("":"VVar", CSVFile:"VVar")	33	on_datadriven	dataDriven.script
+2016-12-12 10:52:18.309 -0700	Log		("":"VVar", CSVFile:"VVar")	33	on_datadriven	dataDriven.script
+2016-12-12 10:52:18.367 -0700	pausescript			70	on_datadriven	dataDriven.script
+2016-12-12 10:52:33.908 -0700	EndTestCase		(Duration:"22.174879", Errors:"1", Exceptions:"0", StartTime:"2016-12-12 10:52:11 -0700", Successes:"0", TestCase:"dataDriven.script", Warnings:"0")
+2016-12-12 10:52:33.909 -0700	ABORTED		Execution Time 0:00:22 dataDriven.script

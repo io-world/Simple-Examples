@@ -1,0 +1,8 @@
+﻿2016-09-27 10:58:43.819 -0600	START		Running Index.script
+2016-09-27 10:58:43.897 -0600	Log		4	9	on_index	Index.script
+2016-09-27 10:58:43.928 -0600	Log		1	17	on_index	Index.script
+2016-09-27 10:58:43.961 -0600	Log		3	17	on_index	Index.script
+2016-09-27 10:58:43.995 -0600	Log		90	17	on_index	Index.script
+2016-09-27 10:58:44.029 -0600	Log		12	17	on_index	Index.script
+2016-09-27 10:58:44.498 -0600	EndTestCase		(Duration:"0.678293", Errors:"0", Exceptions:"0", StartTime:"2016-09-27 10:58:43 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-09-27 10:58:44.503 -0600	SUCCESS		Execution Time 0:00:00 Index.script

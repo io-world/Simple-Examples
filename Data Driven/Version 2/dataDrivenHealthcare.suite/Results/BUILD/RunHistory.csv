@@ -1,0 +1,32 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-12-22 09:55:11.673 -0700,"Success",0:00:00,0,0,0,"20161222_095511.673/LogFile.txt","","",1
+2016-12-22 09:55:52.435 -0700,"Success",0:00:00,0,0,0,"20161222_095552.435/LogFile.txt","","",1
+2016-12-22 09:56:22.978 -0700,"Success",0:00:00,0,0,0,"20161222_095622.978/LogFile.txt","","",1
+2016-12-22 09:56:57.314 -0700,"Success",0:00:00,0,0,0,"20161222_095657.314/LogFile.txt","","",1
+2016-12-22 09:57:07.061 -0700,"Success",0:00:00,0,0,0,"20161222_095707.061/LogFile.txt","","",1
+2016-12-22 09:57:32.759 -0700,"Success",0:00:00,0,0,0,"20161222_095732.759/LogFile.txt","","",1
+2016-12-22 09:57:50.478 -0700,"Success",0:00:00,0,0,0,"20161222_095750.478/LogFile.txt","","",1
+2016-12-22 09:58:36.405 -0700,"Success",0:00:00,0,0,0,"20161222_095836.405/LogFile.txt","","",1
+2016-12-22 09:58:49.235 -0700,"Success",0:00:00,0,0,0,"20161222_095849.235/LogFile.txt","","",1
+2016-12-22 09:59:08.978 -0700,"Success",0:00:00,0,0,0,"20161222_095908.978/LogFile.txt","","",1
+2016-12-22 09:59:19.165 -0700,"Success",0:00:00,0,0,0,"20161222_095919.165/LogFile.txt","","",1
+2016-12-22 10:01:02.801 -0700,"Success",0:00:02,0,0,0,"20161222_100102.801/LogFile.txt","","",1
+2016-12-22 10:01:34.588 -0700,"Failure",0:00:00,1,0,0,"20161222_100134.588/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'repeatidnex'",0
+2016-12-22 10:01:48.049 -0700,"Success",0:00:01,0,0,0,"20161222_100148.049/LogFile.txt","","",1
+2016-12-22 10:02:20.622 -0700,"Success",0:00:02,0,0,0,"20161222_100220.622/LogFile.txt","","",1
+2016-12-22 10:04:26.510 -0700,"Failure",0:00:00,1,0,0,"20161222_100426.510/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'somePatient'.",0
+2016-12-22 10:04:44.462 -0700,"Failure",0:00:00,1,0,0,"20161222_100444.462/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'somePatient'.",0
+2016-12-22 10:06:12.978 -0700,"Failure",0:00:00,1,0,0,"20161222_100612.978/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'somePatient'.",0
+2016-12-22 10:06:58.294 -0700,"Failure",0:00:00,1,0,0,"20161222_100658.294/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'somePatient'.",0
+2016-12-22 10:07:08.222 -0700,"Running",0:00:00,0,0,0,"20161222_100708.222/LogFile.txt","","",0
+2016-12-22 10:13:40.582 -0700,"Running",0:00:00,0,0,0,"20161222_101340.582/LogFile.txt","","",0
+2016-12-22 10:16:27.327 -0700,"Running",0:00:00,0,0,0,"20161222_101627.327/LogFile.txt","","",0
+2016-12-22 10:17:51.614 -0700,"Success",0:00:03,0,0,0,"20161222_101751.614/LogFile.txt","","",1
+2016-12-22 10:22:02.213 -0700,"Failure",0:00:00,1,0,0,"20161222_102202.213/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'instances'",0
+2016-12-22 10:22:09.630 -0700,"Failure",0:00:00,1,0,1,"20161222_102209.630/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: create new patient",0
+2016-12-22 10:22:38.043 -0700,"Failure",0:00:00,1,0,1,"20161222_102238.043/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: create new patient",0
+2016-12-22 10:23:50.084 -0700,"Failure",0:00:00,1,0,1,"20161222_102350.084/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: create new patient",0
+2016-12-22 10:23:58.664 -0700,"Running",0:00:00,0,0,0,"20161222_102358.664/LogFile.txt","","",0
+2016-12-22 10:25:28.035 -0700,"Success",0:00:04,0,0,0,"20161222_102528.035/LogFile.txt","","",1
+2016-12-22 10:26:24.811 -0700,"Success",0:00:07,0,0,0,"20161222_102624.811/LogFile.txt","","",1
+2016-12-22 10:27:00.374 -0700,"Success",0:00:05,0,0,0,"20161222_102700.374/LogFile.txt","","",1

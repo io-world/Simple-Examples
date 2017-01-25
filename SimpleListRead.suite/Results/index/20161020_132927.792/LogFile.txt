@@ -1,0 +1,20 @@
+﻿2016-10-20 13:29:27.794 -0600	START		Running index.script
+2016-10-20 13:29:28.204 -0600	imagelocation	ClassSchedule	at (87, 86)	2	on_index	index.script
+2016-10-20 13:29:28.502 -0600	readtext		(107,146,517,171)
+2016-10-20 13:29:28.503 -0600	Log		Course Introduction	8	on_index	index.script
+2016-10-20 13:29:28.936 -0600	readtext		(107,166,517,191)
+2016-10-20 13:29:28.937 -0600	Log		Inp.rtia p.nnilihriiim kinpmatirs	8	on_index	index.script
+2016-10-20 13:29:29.505 -0600	readtext		(107,186,517,211)
+2016-10-20 13:29:29.505 -0600	Log		mema, equniuMum, Miiemcuiob	8	on_index	index.script
+2016-10-20 13:29:29.718 -0600	readtext		(107,206,517,231)
+2016-10-20 13:29:29.719 -0600	Log		Newton's laws, vectors, momentum, energy	8	on_index	index.script
+2016-10-20 13:29:30.010 -0600	readtext		(107,226,517,251)
+2016-10-20 13:29:30.010 -0600	Log		Matter elasticity, scalina	8	on_index	index.script
+2016-10-20 13:29:30.676 -0600	readtext		(107,246,517,271)
+2016-10-20 13:29:30.676 -0600	Log		ivicmci, ciaououy, ouaimy	8	on_index	index.script
+2016-10-20 13:29:30.750 -0600	readtext		(107,266,517,291)
+2016-10-20 13:29:30.750 -0600	Log		Wave kinematics, sound, electricity, magnetism, induction	8	on_index	index.script
+2016-10-20 13:29:31.031 -0600	readtext		(107,286,517,311)
+2016-10-20 13:29:31.032 -0600	Log		Liaht. reflection and refraction, emission	8	on_index	index.script
+2016-10-20 13:29:32.258 -0600	EndTestCase		(Duration:"4.462791", Errors:"0", Exceptions:"0", StartTime:"2016-10-20 13:29:27 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-10-20 13:29:32.268 -0600	SUCCESS		Execution Time 0:00:04 index.script

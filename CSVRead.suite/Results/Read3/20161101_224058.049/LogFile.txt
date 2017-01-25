@@ -1,0 +1,4 @@
+﻿2016-11-01 22:40:58.050 -0400	START		Running Read3.script
+2016-11-01 22:40:58.184 -0400	Log		10	7	on_read3	Read3.script
+2016-11-01 22:40:58.602 -0400	EndTestCase		(Duration:"0.550589", Errors:"1", Exceptions:"0", StartTime:"2016-11-01 22:40:58 -0400", Successes:"0", TestCase:"Read3.script", Warnings:"0")
+2016-11-01 22:40:58.619 -0400	FAILURE		SenseTalk Compiler Exception in <do>:\nSyntax Error at line 1: Syntax Error - can't understand "Name" at or near character 80 -- Execution Time 0:00:00 Read3.script

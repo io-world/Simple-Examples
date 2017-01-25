@@ -1,0 +1,29 @@
+﻿
+put  file "//Users/randyhesse/Documents/Simple Examples/CSVRead.suite/Resources/WebFormData.CSV" into PatientFile 
+
+
+put the number of lines of PatientFile into maxP
+put the number of items of line 1 of PatientFile into maxI
+
+
+repeat maxP-1 times	
+	put line repeatindex()+1 of PatientFile into PatientLine
+	put repeatindex() into Pindex
+	Repeat maxI times
+		put item repeatindex() of PatientLine into PatientItem
+		put line 1 of item repeatindex() of PatientFile into PField
+		do "put" & quote & PatientItem &quote&& "into" && "Patient" & Pindex & "." & PField
+	End repeat
+end repeat
+
+log patient1
+
+
+log patient1.First_name
+
+log Patient2
+
+
+
+
+

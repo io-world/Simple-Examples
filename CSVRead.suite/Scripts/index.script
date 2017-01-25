@@ -1,0 +1,5 @@
+﻿
+open file "//Users/randyhesse/Documents/Simple Examples/CSVRead.suite/Resources/WebFormData.CSV" 
+put file openfiles() into PatientFile 
+
+log PatientFile

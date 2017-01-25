@@ -1,0 +1,18 @@
+﻿2016-10-20 13:30:36.810 -0600	START		Running index.script
+2016-10-20 13:30:37.220 -0600	imagelocation	ClassSchedule	at (87, 86)	2	on_index	index.script
+2016-10-20 13:30:37.517 -0600	readtext		(107,146,517,171)
+2016-10-20 13:30:37.517 -0600	Log		Course Introduction	8	on_index	index.script
+2016-10-20 13:30:37.786 -0600	readtext		(107,175,517,200)
+2016-10-20 13:30:37.786 -0600	Log		Inertia, equilibrium, kinematics	8	on_index	index.script
+2016-10-20 13:30:38.055 -0600	readtext		(107,204,517,229)
+2016-10-20 13:30:38.056 -0600	Log		Newton's laws, vectors, momentum, energy	8	on_index	index.script
+2016-10-20 13:30:38.317 -0600	readtext		(107,233,517,258)
+2016-10-20 13:30:38.317 -0600	Log		Matter, elasticity, scaling	8	on_index	index.script
+2016-10-20 13:30:38.595 -0600	readtext		(107,262,517,287)
+2016-10-20 13:30:38.595 -0600	Log		Wave kinematics, sound, electricity, magnetism, induction	8	on_index	index.script
+2016-10-20 13:30:38.855 -0600	readtext		(107,291,517,316)
+2016-10-20 13:30:38.855 -0600	Log		Light, reflection and refraction, emission	8	on_index	index.script
+2016-10-20 13:30:39.111 -0600	readtext		(107,320,517,345)
+2016-10-20 13:30:39.112 -0600	Log		Review, final exam	8	on_index	index.script
+2016-10-20 13:30:40.382 -0600	EndTestCase		(Duration:"3.571308", Errors:"0", Exceptions:"0", StartTime:"2016-10-20 13:30:36 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-10-20 13:30:40.633 -0600	SUCCESS		Execution Time 0:00:03 index.script

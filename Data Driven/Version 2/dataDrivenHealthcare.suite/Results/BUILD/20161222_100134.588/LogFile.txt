@@ -1,0 +1,4 @@
+﻿2016-12-22 10:01:34.588 -0700	START		Running BUILD.script
+2016-12-22 10:01:34.657 -0700	Log		9	8	on_build	BUILD.script
+2016-12-22 10:01:34.934 -0700	EndTestCase		(Duration:"0.344079", Errors:"1", Exceptions:"0", StartTime:"2016-12-22 10:01:34 -0700", Successes:"0", TestCase:"BUILD.script", Warnings:"0")
+2016-12-22 10:01:35.958 -0700	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Function: 'repeatidnex' -- Execution Time 0:00:00 BUILD.script

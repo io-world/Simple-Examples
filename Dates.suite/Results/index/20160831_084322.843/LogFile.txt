@@ -1,0 +1,5 @@
+﻿2016-08-31 08:43:22.843 -0600	START		Running index.script
+2016-08-31 08:43:23.000 -0600	Log		Randy Hesse August Thirty One	5	on_index	index.script
+2016-08-31 08:43:23.060 -0600	Log		Randy Hesse Word	11	on_index	index.script
+2016-08-31 08:43:23.609 -0600	EndTestCase		(Duration:"0.763238", Errors:"0", Exceptions:"0", StartTime:"2016-08-31 08:43:22 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-08-31 08:43:23.615 -0600	SUCCESS		Execution Time 0:00:00 index.script

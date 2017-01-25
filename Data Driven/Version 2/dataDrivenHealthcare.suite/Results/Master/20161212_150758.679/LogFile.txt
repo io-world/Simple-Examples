@@ -1,0 +1,4 @@
+﻿2016-12-12 15:07:58.679 -0800	START		Running Master.script
+2016-12-12 15:07:59.437 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_150759.436/LogFile.txt)	29	on_master	Master.script
+2016-12-12 15:07:59.679 -0800	EndTestCase		(Duration:"0.997912", Errors:"0", Exceptions:"0", StartTime:"2016-12-12 15:07:58 -0800", Successes:"2", TestCase:"Master.script", Warnings:"0")
+2016-12-12 15:07:59.686 -0800	SUCCESS		Execution Time 0:00:00 Master.script

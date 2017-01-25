@@ -1,0 +1,3 @@
+﻿2016-09-21 15:15:09.120 -0700	START		Running Index.script
+2016-09-21 15:15:09.702 -0700	EndTestCase		(Duration:"0.579853", Errors:"1", Exceptions:"0", StartTime:"2016-09-21 15:15:09 -0700", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2016-09-21 15:15:10.162 -0700	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'https' -- Execution Time 0:00:00 Index.script

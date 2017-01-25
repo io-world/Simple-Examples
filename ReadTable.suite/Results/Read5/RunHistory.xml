@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Read5">
+ <run>
+  <RunDate>2016-11-09 16:29:22.886 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>2.692604</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161109_162922.886/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-09 16:29:33.830 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>2.714380</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161109_162933.830/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

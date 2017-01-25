@@ -1,0 +1,4 @@
+﻿2016-08-31 08:41:05.123 -0600	START		Running index.script
+2016-08-31 08:41:05.237 -0600	Log		Randy Hesse 	5	on_index	index.script
+2016-08-31 08:41:05.783 -0600	EndTestCase		(Duration:"0.658679", Errors:"1", Exceptions:"0", StartTime:"2016-08-31 08:41:05 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-08-31 08:41:06.429 -0600	FAILURE	Screen_Error.png	STInvalidDate Value is not a date: 'wordformat' -- Execution Time 0:00:00 index.script

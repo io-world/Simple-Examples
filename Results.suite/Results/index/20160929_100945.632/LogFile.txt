@@ -1,0 +1,4 @@
+﻿2016-09-29 10:09:45.633 -0600	START		Running index.script
+2016-09-29 10:09:45.707 -0600	pausescript			5	on_index	index.script
+2016-09-29 10:12:10.403 -0600	EndTestCase		(Duration:"144.768758", Errors:"1", Exceptions:"0", StartTime:"2016-09-29 10:09:45 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-09-29 10:12:10.403 -0600	ABORTED		Execution Time 0:02:24 index.script

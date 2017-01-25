@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="dataDriven">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>9</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2015-05-22 12:29:44 -0600</FirstRun>
+  <LastRun>2015-06-03 08:59:59 -0600</LastRun>
+  <TotalTimeOnSuccess>24.115612</TotalTimeOnSuccess>
+ </script>
+</statistics>

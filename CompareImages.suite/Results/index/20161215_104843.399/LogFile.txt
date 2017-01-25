@@ -1,0 +1,6 @@
+﻿2016-12-15 10:48:43.401 -0700	START		Running index.script
+2016-12-15 10:48:43.769 -0700	imagefound	Google	found at (698, 306)	1	on_index	index.script
+2016-12-15 10:48:43.770 -0700	Log		Image is on the Screen	2	on_index	index.script
+2016-12-15 10:48:44.321 -0700	capturescreen	/Users/randyhesse/Documents/Simple Examples/CompareImages.suite/Images/NewImageName.png		12	on_index	index.script
+2016-12-15 10:48:44.583 -0700	EndTestCase		(Duration:"1.181152", Errors:"0", Exceptions:"0", StartTime:"2016-12-15 10:48:43 -0700", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-12-15 10:48:44.604 -0700	SUCCESS		Execution Time 0:00:01 index.script

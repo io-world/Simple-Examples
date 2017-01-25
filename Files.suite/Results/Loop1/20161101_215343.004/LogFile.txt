@@ -1,0 +1,9 @@
+﻿2016-11-01 21:53:43.005 -0400	START		Running Loop1.script
+2016-11-01 21:53:43.139 -0400	Log		2	10	on_loop1	Loop1.script
+2016-11-01 21:53:43.155 -0400	Log		4	10	on_loop1	Loop1.script
+2016-11-01 21:53:43.185 -0400	Log		123	10	on_loop1	Loop1.script
+2016-11-01 21:53:43.215 -0400	Log		88	10	on_loop1	Loop1.script
+2016-11-01 21:53:43.230 -0400	Log			10	on_loop1	Loop1.script
+2016-11-01 21:53:43.247 -0400	Log			10	on_loop1	Loop1.script
+2016-11-01 21:53:43.552 -0400	EndTestCase		(Duration:"0.545613", Errors:"0", Exceptions:"0", StartTime:"2016-11-01 21:53:43 -0400", Successes:"1", TestCase:"Loop1.script", Warnings:"0")
+2016-11-01 21:53:43.571 -0400	SUCCESS		Execution Time 0:00:00 Loop1.script

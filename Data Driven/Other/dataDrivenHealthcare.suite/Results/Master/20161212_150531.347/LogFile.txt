@@ -1,0 +1,5 @@
+﻿2016-12-12 15:05:31.349 -0800	START		Running GlobalDefine.script
+2016-12-12 15:05:32.381 -0800	Log		(@"Date of Birth":"6/13/06", @"First Name":"Bruce", Gender:"Male", @"Last Name":"Wayne", @"Marital Status":"Single", @"Medical Record Number":"222222", @"Middle Name":"A", Prefix:"Mr", @"Social Security Number":"113-83-3798")	4	function_newpatient	NewPatient.script
+2016-12-12 15:05:32.382 -0800	Exception		Unable to locate script named: 	39	on_globaldefine	GlobalDefine.script
+2016-12-12 15:05:32.571 -0800	EndTestCase		(Duration:"1.218954", Errors:"1", Exceptions:"1", StartTime:"2016-12-12 15:05:31 -0800", Successes:"0", TestCase:"GlobalDefine.script", Warnings:"0")
+2016-12-12 15:05:32.608 -0800	FAILURE		Error Running Script Command runwithnewresults Error - Unable to locate script named:  -- Execution Time 0:00:01 GlobalDefine.script

@@ -1,0 +1,20 @@
+﻿2016-10-20 13:29:39.937 -0600	START		Running index.script
+2016-10-20 13:29:40.355 -0600	imagelocation	ClassSchedule	at (87, 86)	2	on_index	index.script
+2016-10-20 13:29:40.651 -0600	readtext		(107,146,517,171)
+2016-10-20 13:29:40.652 -0600	Log		Course Introduction	8	on_index	index.script
+2016-10-20 13:29:41.394 -0600	readtext		(107,186,517,211)
+2016-10-20 13:29:41.395 -0600	Log		mema, equniuMum, Miiemcuiob	8	on_index	index.script
+2016-10-20 13:29:41.489 -0600	readtext		(107,226,517,251)
+2016-10-20 13:29:41.489 -0600	Log		Matter elasticity, scalina	8	on_index	index.script
+2016-10-20 13:29:41.747 -0600	readtext		(107,266,517,291)
+2016-10-20 13:29:41.748 -0600	Log		Wave kinematics, sound, electricity, magnetism, induction	8	on_index	index.script
+2016-10-20 13:29:42.441 -0600	readtext		(107,306,517,331)
+2016-10-20 13:29:42.441 -0600	Log		L-IV41 ii, i\ti\tqmvj\ti^na^uuM,\tomiooiui\ti\np* >	8	on_index	index.script
+2016-10-20 13:29:42.487 -0600	readtext		(107,346,517,371)
+2016-10-20 13:29:42.488 -0600	Log			8	on_index	index.script
+2016-10-20 13:29:42.756 -0600	readtext		(107,386,517,411)
+2016-10-20 13:29:42.757 -0600	Log			8	on_index	index.script
+2016-10-20 13:29:43.031 -0600	readtext		(107,426,517,451)
+2016-10-20 13:29:43.031 -0600	Log			8	on_index	index.script
+2016-10-20 13:29:44.326 -0600	EndTestCase		(Duration:"4.387553", Errors:"0", Exceptions:"0", StartTime:"2016-10-20 13:29:39 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-10-20 13:29:44.334 -0600	SUCCESS		Execution Time 0:00:04 index.script

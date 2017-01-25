@@ -1,0 +1,3 @@
+﻿2016-12-22 10:04:44.463 -0700	START		Running BUILD.script
+2016-12-22 10:04:45.150 -0700	EndTestCase		(Duration:"0.685116", Errors:"1", Exceptions:"0", StartTime:"2016-12-22 10:04:44 -0700", Successes:"0", TestCase:"BUILD.script", Warnings:"0")
+2016-12-22 10:04:46.158 -0700	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got 'somePatient'. -- Execution Time 0:00:00 BUILD.script

@@ -1,0 +1,8 @@
+﻿2016-12-12 10:07:15.903 -0700	START		Running addPatient.script	30	on_datadriven	dataDriven.script
+2016-12-12 10:07:15.920 -0700	Log		running addPatient	3	on_addpatient	addPatient.script
+2016-12-12 10:07:15.944 -0700	Log		first	6	on_addpatient	addPatient.script
+2016-12-12 10:07:15.946 -0700	Log		last	7	on_addpatient	addPatient.script
+2016-12-12 10:07:15.949 -0700	Log		DOB	8	on_addpatient	addPatient.script
+2016-12-12 10:07:15.951 -0700	Log		SSN	9	on_addpatient	addPatient.script
+2016-12-12 10:07:15.953 -0700	EndTestCase		(Duration:"0.049326", Errors:"0", Exceptions:"0", StartTime:"2016-12-12 10:07:15 -0700", Successes:"1", TestCase:"addPatient.script", Warnings:"0")	30	on_datadriven	dataDriven.script
+2016-12-12 10:07:15.989 -0700	SUCCESS		Execution Time 0:00:00 addPatient.script	30	on_datadriven	dataDriven.script

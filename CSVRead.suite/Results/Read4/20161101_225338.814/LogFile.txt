@@ -1,0 +1,86 @@
+﻿2016-11-01 22:53:38.815 -0400	START		Running Read4.script
+2016-11-01 22:53:39.041 -0400	Log		Prefix Mr	24	on_read4	Read4.script
+2016-11-01 22:53:39.073 -0400	Log		First Name Bruce	24	on_read4	Read4.script
+2016-11-01 22:53:39.128 -0400	Log		Middle Name 	24	on_read4	Read4.script
+2016-11-01 22:53:39.177 -0400	Log		Last Name Wayne	24	on_read4	Read4.script
+2016-11-01 22:53:39.231 -0400	Log		Medical Record Number 222222	24	on_read4	Read4.script
+2016-11-01 22:53:39.282 -0400	Log		Date of Birth 6/13/06	24	on_read4	Read4.script
+2016-11-01 22:53:39.340 -0400	Log		Social Security Number 113-83-3798	24	on_read4	Read4.script
+2016-11-01 22:53:39.390 -0400	Log		Gender Male	24	on_read4	Read4.script
+2016-11-01 22:53:39.429 -0400	Log		Marital Status Single	24	on_read4	Read4.script
+2016-11-01 22:53:39.498 -0400	Log		Prefix Mrs	24	on_read4	Read4.script
+2016-11-01 22:53:39.547 -0400	Log		First Name Carrie	24	on_read4	Read4.script
+2016-11-01 22:53:39.590 -0400	Log		Middle Name 	24	on_read4	Read4.script
+2016-11-01 22:53:39.631 -0400	Log		Last Name Underwood	24	on_read4	Read4.script
+2016-11-01 22:53:39.679 -0400	Log		Medical Record Number 333333	24	on_read4	Read4.script
+2016-11-01 22:53:39.745 -0400	Log		Date of Birth 3/16/14	24	on_read4	Read4.script
+2016-11-01 22:53:39.812 -0400	Log		Social Security Number 583-00-6387	24	on_read4	Read4.script
+2016-11-01 22:53:39.858 -0400	Log		Gender Female	24	on_read4	Read4.script
+2016-11-01 22:53:39.919 -0400	Log		Marital Status Married	24	on_read4	Read4.script
+2016-11-01 22:53:40.002 -0400	Log		Prefix Ms	24	on_read4	Read4.script
+2016-11-01 22:53:40.051 -0400	Log		First Name Wonder	24	on_read4	Read4.script
+2016-11-01 22:53:40.096 -0400	Log		Middle Name 	24	on_read4	Read4.script
+2016-11-01 22:53:40.143 -0400	Log		Last Name Woman	24	on_read4	Read4.script
+2016-11-01 22:53:40.195 -0400	Log		Medical Record Number 444444	24	on_read4	Read4.script
+2016-11-01 22:53:40.236 -0400	Log		Date of Birth 4/24/03	24	on_read4	Read4.script
+2016-11-01 22:53:40.265 -0400	Log		Social Security Number 580-71-8520	24	on_read4	Read4.script
+2016-11-01 22:53:40.346 -0400	Log		Gender Female	24	on_read4	Read4.script
+2016-11-01 22:53:40.393 -0400	Log		Marital Status Divorced	24	on_read4	Read4.script
+2016-11-01 22:53:40.464 -0400	Log		Prefix Dr	24	on_read4	Read4.script
+2016-11-01 22:53:40.499 -0400	Log		First Name Darth	24	on_read4	Read4.script
+2016-11-01 22:53:40.578 -0400	Log		Middle Name A	24	on_read4	Read4.script
+2016-11-01 22:53:40.628 -0400	Log		Last Name Vader	24	on_read4	Read4.script
+2016-11-01 22:53:40.683 -0400	Log		Medical Record Number 555555	24	on_read4	Read4.script
+2016-11-01 22:53:40.728 -0400	Log		Date of Birth 12/23/87	24	on_read4	Read4.script
+2016-11-01 22:53:40.794 -0400	Log		Social Security Number 744-85-1232	24	on_read4	Read4.script
+2016-11-01 22:53:40.863 -0400	Log		Gender Male	24	on_read4	Read4.script
+2016-11-01 22:53:40.908 -0400	Log		Marital Status Widowed	24	on_read4	Read4.script
+2016-11-01 22:53:40.999 -0400	Log		Prefix Dr	24	on_read4	Read4.script
+2016-11-01 22:53:41.050 -0400	Log		First Name James	24	on_read4	Read4.script
+2016-11-01 22:53:41.085 -0400	Log		Middle Name 	24	on_read4	Read4.script
+2016-11-01 22:53:41.126 -0400	Log		Last Name Bond	24	on_read4	Read4.script
+2016-11-01 22:53:41.164 -0400	Log		Medical Record Number 666666	24	on_read4	Read4.script
+2016-11-01 22:53:41.213 -0400	Log		Date of Birth 7/30/81	24	on_read4	Read4.script
+2016-11-01 22:53:41.279 -0400	Log		Social Security Number 973-13-0224	24	on_read4	Read4.script
+2016-11-01 22:53:41.362 -0400	Log		Gender Male	24	on_read4	Read4.script
+2016-11-01 22:53:41.447 -0400	Log		Marital Status Single	24	on_read4	Read4.script
+2016-11-01 22:53:41.562 -0400	Log		Prefix Mr	24	on_read4	Read4.script
+2016-11-01 22:53:41.630 -0400	Log		First Name Homer	24	on_read4	Read4.script
+2016-11-01 22:53:41.696 -0400	Log		Middle Name 	24	on_read4	Read4.script
+2016-11-01 22:53:41.764 -0400	Log		Last Name Simpson	24	on_read4	Read4.script
+2016-11-01 22:53:41.815 -0400	Log		Medical Record Number 777777	24	on_read4	Read4.script
+2016-11-01 22:53:41.865 -0400	Log		Date of Birth 9/1/80	24	on_read4	Read4.script
+2016-11-01 22:53:41.928 -0400	Log		Social Security Number 557-31-0655	24	on_read4	Read4.script
+2016-11-01 22:53:41.996 -0400	Log		Gender Male	24	on_read4	Read4.script
+2016-11-01 22:53:42.080 -0400	Log		Marital Status Married	24	on_read4	Read4.script
+2016-11-01 22:53:42.183 -0400	Log		Prefix Dr	24	on_read4	Read4.script
+2016-11-01 22:53:42.230 -0400	Log		First Name Optimus	24	on_read4	Read4.script
+2016-11-01 22:53:42.294 -0400	Log		Middle Name 	24	on_read4	Read4.script
+2016-11-01 22:53:42.363 -0400	Log		Last Name Prime	24	on_read4	Read4.script
+2016-11-01 22:53:42.431 -0400	Log		Medical Record Number 888888	24	on_read4	Read4.script
+2016-11-01 22:53:42.478 -0400	Log		Date of Birth 9/19/85	24	on_read4	Read4.script
+2016-11-01 22:53:42.544 -0400	Log		Social Security Number 521-26-0727	24	on_read4	Read4.script
+2016-11-01 22:53:42.612 -0400	Log		Gender Other	24	on_read4	Read4.script
+2016-11-01 22:53:42.679 -0400	Log		Marital Status Divorced	24	on_read4	Read4.script
+2016-11-01 22:53:42.831 -0400	Log		Prefix Dr	24	on_read4	Read4.script
+2016-11-01 22:53:42.898 -0400	Log		First Name Mickey	24	on_read4	Read4.script
+2016-11-01 22:53:42.949 -0400	Log		Middle Name 	24	on_read4	Read4.script
+2016-11-01 22:53:42.995 -0400	Log		Last Name Mouse	24	on_read4	Read4.script
+2016-11-01 22:53:43.079 -0400	Log		Medical Record Number 999999	24	on_read4	Read4.script
+2016-11-01 22:53:43.128 -0400	Log		Date of Birth 6/14/00	24	on_read4	Read4.script
+2016-11-01 22:53:43.180 -0400	Log		Social Security Number 984-56-3166	24	on_read4	Read4.script
+2016-11-01 22:53:43.245 -0400	Log		Gender Male	24	on_read4	Read4.script
+2016-11-01 22:53:43.312 -0400	Log		Marital Status Single	24	on_read4	Read4.script
+2016-11-01 22:53:43.467 -0400	Log		Prefix Mr	24	on_read4	Read4.script
+2016-11-01 22:53:43.518 -0400	Log		First Name SpongeBob	24	on_read4	Read4.script
+2016-11-01 22:53:43.578 -0400	Log		Middle Name 	24	on_read4	Read4.script
+2016-11-01 22:53:43.644 -0400	Log		Last Name SquarePants	24	on_read4	Read4.script
+2016-11-01 22:53:43.715 -0400	Log		Medical Record Number 101010	24	on_read4	Read4.script
+2016-11-01 22:53:43.764 -0400	Log		Date of Birth 6/14/00	24	on_read4	Read4.script
+2016-11-01 22:53:43.812 -0400	Log		Social Security Number 984-56-3166	24	on_read4	Read4.script
+2016-11-01 22:53:43.866 -0400	Log		Gender Male	24	on_read4	Read4.script
+2016-11-01 22:53:43.946 -0400	Log		Marital Status Single	24	on_read4	Read4.script
+2016-11-01 22:53:43.995 -0400	Log		patient1	32	on_read4	Read4.script
+2016-11-01 22:53:44.012 -0400	Log		Patient2	33	on_read4	Read4.script
+2016-11-01 22:53:44.395 -0400	EndTestCase		(Duration:"5.578336", Errors:"0", Exceptions:"0", StartTime:"2016-11-01 22:53:38 -0400", Successes:"1", TestCase:"Read4.script", Warnings:"0")
+2016-11-01 22:53:44.416 -0400	SUCCESS		Execution Time 0:00:05 Read4.script

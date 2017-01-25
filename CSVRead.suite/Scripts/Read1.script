@@ -1,0 +1,17 @@
+﻿
+open file "//Users/randyhesse/Documents/Simple Examples/CSVRead.suite/Resources/WebFormData.CSV" 
+put file openfiles() into PatientFile 
+
+
+put the number of lines of PatientFile into max
+log max
+
+repeat max times
+	
+	put line repeatindex() of PatientFile into PatientLine
+	put item 1 of PatientLine into prefix
+	log item 2 of PatientLine
+	log item 4 of PatientLine
+	
+	
+end repeat

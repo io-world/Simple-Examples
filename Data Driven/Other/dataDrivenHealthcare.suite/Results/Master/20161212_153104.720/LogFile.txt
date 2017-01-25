@@ -1,0 +1,14 @@
+﻿2016-12-12 15:31:04.721 -0800	START		Running Master.script
+2016-12-12 15:31:04.923 -0800	runwithnewresults		login.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/login/20161212_153104.923/LogFile.txt)	19	on_master	Master.script
+2016-12-12 15:31:05.870 -0800	Log		222222,Mr,Bruce,A,Wayne,6/13/06,113-83-3798,Male,Single	23	on_master	Master.script
+2016-12-12 15:31:06.780 -0800	Log		333333,Mrs,Carrie,B,Underwood,3/16/14,583-00-6387,Female,Married	23	on_master	Master.script
+2016-12-12 15:31:07.763 -0800	Log		444444,Ms,Wonder,C,Woman,4/24/03,580-71-8520,Female,Divorced	23	on_master	Master.script
+2016-12-12 15:31:08.728 -0800	Log		555555,Dr,Darth,D,Vader,12/23/87,744-85-1232,Male,Widowed	23	on_master	Master.script
+2016-12-12 15:31:09.693 -0800	Log		666666,Dr,James,E,Bond,7/30/81,973-13-0224,Male,Single	23	on_master	Master.script
+2016-12-12 15:31:10.545 -0800	Log		777777,Mr,Homer,F,Simpson,9/1/80,557-31-0655,Male,Married	23	on_master	Master.script
+2016-12-12 15:31:11.496 -0800	Log		888888,Dr,Optimus,G,Prime,9/19/85,521-26-0727,Other,Divorced	23	on_master	Master.script
+2016-12-12 15:31:12.487 -0800	Log		999999,Dr,Mickey,H,Mouse,6/14/00,984-56-3166,Male,Single	23	on_master	Master.script
+2016-12-12 15:31:13.425 -0800	Log		101010,Mr,SpongeBob,I,SquarePants,6/14/00,984-56-3166,Male,Single	23	on_master	Master.script
+2016-12-12 15:31:14.316 -0800	runwithnewresults		logout.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/logout/20161212_153114.315/LogFile.txt)	38	on_master	Master.script
+2016-12-12 15:31:14.650 -0800	EndTestCase		(Duration:"9.928543", Errors:"0", Exceptions:"0", StartTime:"2016-12-12 15:31:04 -0800", Successes:"3", TestCase:"Master.script", Warnings:"0")
+2016-12-12 15:31:14.698 -0800	SUCCESS		Execution Time 0:00:09 Master.script

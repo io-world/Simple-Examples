@@ -1,0 +1,5 @@
+﻿2017-01-06 13:27:23.732 -0700	START		Running Examples/Example1.script
+2017-01-06 13:27:23.963 -0700	Log		FOO	24	on_examples_example1	Examples/Example1.script
+2017-01-06 13:27:23.963 -0700	Log		Medical Record Number	24	on_examples_example1	Examples/Example1.script
+2017-01-06 13:27:24.476 -0700	EndTestCase		(Duration:"0.742055", Errors:"0", Exceptions:"0", StartTime:"2017-01-06 13:27:23 -0700", Successes:"1", TestCase:"Examples/Example1.script", Warnings:"0")
+2017-01-06 13:27:24.536 -0700	SUCCESS		Execution Time 0:00:00 Examples/Example1.script

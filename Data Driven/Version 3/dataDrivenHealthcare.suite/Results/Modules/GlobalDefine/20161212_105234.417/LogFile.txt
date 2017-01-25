@@ -1,0 +1,7 @@
+﻿2016-12-12 10:52:34.418 -0700	START		Running dataDriven.script
+2016-12-12 10:52:34.690 -0700	Log		9	18	on_datadriven	dataDriven.script
+2016-12-12 10:52:35.432 -0700	Log		("":"VVar", CSVFile:"VVar")	33	on_datadriven	dataDriven.script
+2016-12-12 10:52:36.076 -0700	Log		("":"VVar", CSVFile:"VVar")	33	on_datadriven	dataDriven.script
+2016-12-12 10:52:36.124 -0700	pausescript			70	on_datadriven	dataDriven.script
+2016-12-12 10:53:57.289 -0700	EndTestCase		(Duration:"82.869552", Errors:"1", Exceptions:"0", StartTime:"2016-12-12 10:52:34 -0700", Successes:"0", TestCase:"dataDriven.script", Warnings:"0")
+2016-12-12 10:53:57.290 -0700	ABORTED		Execution Time 0:01:22 dataDriven.script

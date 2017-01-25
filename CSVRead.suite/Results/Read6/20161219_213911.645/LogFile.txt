@@ -1,0 +1,41 @@
+﻿2016-12-19 21:39:11.646 -0800	START		Running Read6.script
+2016-12-19 21:39:11.823 -0800	Log		Prefix	16	on_read6	Read6.script
+2016-12-19 21:39:11.835 -0800	Log		Mr	17	on_read6	Read6.script
+2016-12-19 21:39:11.871 -0800	Log		First_Name	16	on_read6	Read6.script
+2016-12-19 21:39:11.883 -0800	Log		Bruce	17	on_read6	Read6.script
+2016-12-19 21:39:11.949 -0800	Log		Middle_Name	16	on_read6	Read6.script
+2016-12-19 21:39:11.965 -0800	Log			17	on_read6	Read6.script
+2016-12-19 21:39:12.021 -0800	Log		Last_Name	16	on_read6	Read6.script
+2016-12-19 21:39:12.033 -0800	Log		Wayne	17	on_read6	Read6.script
+2016-12-19 21:39:12.082 -0800	Log		Medical_Record_Number	16	on_read6	Read6.script
+2016-12-19 21:39:12.096 -0800	Log		222222	17	on_read6	Read6.script
+2016-12-19 21:39:12.131 -0800	Log		Date_of_Birth	16	on_read6	Read6.script
+2016-12-19 21:39:12.137 -0800	Log		6/13/06	17	on_read6	Read6.script
+2016-12-19 21:39:12.186 -0800	Log		Social_Security_Number	16	on_read6	Read6.script
+2016-12-19 21:39:12.200 -0800	Log		113-83-3798	17	on_read6	Read6.script
+2016-12-19 21:39:12.233 -0800	Log		Gender	16	on_read6	Read6.script
+2016-12-19 21:39:12.238 -0800	Log		Male	17	on_read6	Read6.script
+2016-12-19 21:39:12.269 -0800	Log		Marital_Status	16	on_read6	Read6.script
+2016-12-19 21:39:12.284 -0800	Log		Single	17	on_read6	Read6.script
+2016-12-19 21:39:12.316 -0800	Log		PropList	23	on_read6	Read6.script
+2016-12-19 21:39:12.383 -0800	Log		Prefix	16	on_read6	Read6.script
+2016-12-19 21:39:12.397 -0800	Log		Mrs	17	on_read6	Read6.script
+2016-12-19 21:39:12.436 -0800	Log		First_Name	16	on_read6	Read6.script
+2016-12-19 21:39:12.450 -0800	Log		Carrie	17	on_read6	Read6.script
+2016-12-19 21:39:12.535 -0800	Log		Middle_Name	16	on_read6	Read6.script
+2016-12-19 21:39:12.549 -0800	Log			17	on_read6	Read6.script
+2016-12-19 21:39:12.601 -0800	Log		Last_Name	16	on_read6	Read6.script
+2016-12-19 21:39:12.614 -0800	Log		Underwood	17	on_read6	Read6.script
+2016-12-19 21:39:12.665 -0800	Log		Medical_Record_Number	16	on_read6	Read6.script
+2016-12-19 21:39:12.670 -0800	Log		333333	17	on_read6	Read6.script
+2016-12-19 21:39:12.717 -0800	Log		Date_of_Birth	16	on_read6	Read6.script
+2016-12-19 21:39:12.733 -0800	Log		3/16/14	17	on_read6	Read6.script
+2016-12-19 21:39:12.788 -0800	Log		Social_Security_Number	16	on_read6	Read6.script
+2016-12-19 21:39:12.803 -0800	Log		583-00-6387	17	on_read6	Read6.script
+2016-12-19 21:39:12.864 -0800	Log		Gender	16	on_read6	Read6.script
+2016-12-19 21:39:12.869 -0800	Log		Female	17	on_read6	Read6.script
+2016-12-19 21:39:12.903 -0800	Log		Marital_Status	16	on_read6	Read6.script
+2016-12-19 21:39:12.917 -0800	Log		Married	17	on_read6	Read6.script
+2016-12-19 21:39:12.947 -0800	Log		PropList	23	on_read6	Read6.script
+2016-12-19 21:39:13.173 -0800	EndTestCase		(Duration:"1.525129", Errors:"0", Exceptions:"0", StartTime:"2016-12-19 21:39:11 -0800", Successes:"1", TestCase:"Read6.script", Warnings:"0")
+2016-12-19 21:39:13.186 -0800	SUCCESS		Execution Time 0:00:01 Read6.script

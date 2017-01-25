@@ -1,0 +1,4 @@
+﻿2016-11-02 19:04:59.644 -0400	START		Running index.script
+2016-11-02 19:04:59.758 -0400	Log		Jane doe	3	on_index	index.script
+2016-11-02 19:05:00.605 -0400	EndTestCase		(Duration:"0.960266", Errors:"0", Exceptions:"0", StartTime:"2016-11-02 19:04:59 -0400", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-11-02 19:05:00.656 -0400	SUCCESS		Execution Time 0:00:00 index.script

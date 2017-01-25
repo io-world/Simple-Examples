@@ -1,0 +1,37 @@
+﻿2016-09-20 10:26:16.035 -0600	START		Running Read2.script
+2016-09-20 10:26:16.545 -0600	imagelocation	English Name	at (367, 137)	1	on_read2	Read2.script
+2016-09-20 10:26:16.891 -0600	Log		(322,167,417,187)	4	on_read2	Read2.script
+2016-09-20 10:26:16.928 -0600	readtext		(322,167,417,187)
+2016-09-20 10:26:17.152 -0600	Log		Bulbasaur	9	on_read2	Read2.script
+2016-09-20 10:26:17.217 -0600	readtext		(322,194,417,214)
+2016-09-20 10:26:17.441 -0600	Log		Ivysaur	9	on_read2	Read2.script
+2016-09-20 10:26:17.502 -0600	readtext		(322,221,417,241)
+2016-09-20 10:26:17.728 -0600	Log		Venusaur	9	on_read2	Read2.script
+2016-09-20 10:26:17.793 -0600	readtext		(322,248,417,268)
+2016-09-20 10:26:18.011 -0600	Log		Charmander	9	on_read2	Read2.script
+2016-09-20 10:26:18.102 -0600	readtext		(322,275,417,295)
+2016-09-20 10:26:18.297 -0600	Log		Charmeleon	9	on_read2	Read2.script
+2016-09-20 10:26:18.370 -0600	readtext		(322,302,417,322)
+2016-09-20 10:26:18.576 -0600	Log		Charizard	9	on_read2	Read2.script
+2016-09-20 10:26:18.645 -0600	readtext		(322,329,417,349)
+2016-09-20 10:26:18.860 -0600	Log		Squirtle	9	on_read2	Read2.script
+2016-09-20 10:26:18.932 -0600	readtext		(322,356,417,376)
+2016-09-20 10:26:19.139 -0600	Log		Wartortle	9	on_read2	Read2.script
+2016-09-20 10:26:19.194 -0600	readtext		(322,383,417,403)
+2016-09-20 10:26:19.426 -0600	Log		Blastoise	9	on_read2	Read2.script
+2016-09-20 10:26:19.480 -0600	readtext		(322,410,417,430)
+2016-09-20 10:26:19.707 -0600	Log		Caterpie	9	on_read2	Read2.script
+2016-09-20 10:26:19.754 -0600	readtext		(322,437,417,457)
+2016-09-20 10:26:19.981 -0600	Log		Metapod	9	on_read2	Read2.script
+2016-09-20 10:26:20.044 -0600	readtext		(322,464,417,484)
+2016-09-20 10:26:20.273 -0600	Log		Butte rf re e	9	on_read2	Read2.script
+2016-09-20 10:26:20.322 -0600	readtext		(322,491,417,511)
+2016-09-20 10:26:20.544 -0600	Log		Weedle	9	on_read2	Read2.script
+2016-09-20 10:26:20.598 -0600	readtext		(322,518,417,538)
+2016-09-20 10:26:20.821 -0600	Log		Kakuna	9	on_read2	Read2.script
+2016-09-20 10:26:20.873 -0600	readtext		(322,545,417,565)
+2016-09-20 10:26:21.094 -0600	Log		Beedrill	9	on_read2	Read2.script
+2016-09-20 10:26:21.152 -0600	readtext		(322,572,417,592)
+2016-09-20 10:26:21.369 -0600	Log		Pidgey	9	on_read2	Read2.script
+2016-09-20 10:26:21.746 -0600	EndTestCase		(Duration:"5.709725", Errors:"0", Exceptions:"0", StartTime:"2016-09-20 10:26:16 -0600", Successes:"1", TestCase:"Read2.script", Warnings:"0")
+2016-09-20 10:26:21.954 -0600	SUCCESS		Execution Time 0:00:05 Read2.script

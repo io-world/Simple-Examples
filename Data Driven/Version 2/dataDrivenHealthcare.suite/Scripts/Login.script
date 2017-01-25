@@ -1,0 +1,22 @@
+﻿
+
+
+
+
+Log "Running Login"
+
+Log global username
+Log global password
+
+
+
+
+
+
+TypeText global username
+
+
+TypeText global password
+
+
+

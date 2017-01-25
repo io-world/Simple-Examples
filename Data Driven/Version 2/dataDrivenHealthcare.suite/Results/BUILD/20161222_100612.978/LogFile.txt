@@ -1,0 +1,12 @@
+﻿2016-12-22 10:06:12.979 -0700	START		Running BUILD.script
+2016-12-22 10:06:13.131 -0700	Log		Medical Record Number	24	on_build	BUILD.script
+2016-12-22 10:06:13.179 -0700	Log		Prefix	24	on_build	BUILD.script
+2016-12-22 10:06:13.216 -0700	Log		First Name	24	on_build	BUILD.script
+2016-12-22 10:06:13.258 -0700	Log		Middle Name	24	on_build	BUILD.script
+2016-12-22 10:06:13.298 -0700	Log		Last Name	24	on_build	BUILD.script
+2016-12-22 10:06:13.349 -0700	Log		Date of Birth	24	on_build	BUILD.script
+2016-12-22 10:06:13.406 -0700	Log		Social Security Number	24	on_build	BUILD.script
+2016-12-22 10:06:13.450 -0700	Log		Gender	24	on_build	BUILD.script
+2016-12-22 10:06:13.495 -0700	Log		Marital Status	24	on_build	BUILD.script
+2016-12-22 10:06:13.715 -0700	EndTestCase		(Duration:"0.735419", Errors:"1", Exceptions:"0", StartTime:"2016-12-22 10:06:12 -0700", Successes:"0", TestCase:"BUILD.script", Warnings:"0")
+2016-12-22 10:06:14.717 -0700	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got 'somePatient'. -- Execution Time 0:00:00 BUILD.script

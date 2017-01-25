@@ -1,0 +1,9 @@
+﻿2016-10-17 12:56:17.015 -0600	START		Running index.script
+2016-10-17 12:56:17.108 -0600	Log		John	2	on_createnewpatient	index.script
+2016-10-17 12:56:17.115 -0600	Log		Doe	3	on_createnewpatient	index.script
+2016-10-17 12:56:17.159 -0600	Log		John	2	on_createnewpatient	index.script
+2016-10-17 12:56:17.181 -0600	Log		Doe	3	on_createnewpatient	index.script
+2016-10-17 12:56:17.229 -0600	Log		John	2	on_createnewpatient	index.script
+2016-10-17 12:56:17.240 -0600	Log		Doe	3	on_createnewpatient	index.script
+2016-10-17 12:56:17.609 -0600	EndTestCase		(Duration:"0.593152", Errors:"0", Exceptions:"0", StartTime:"2016-10-17 12:56:17 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-10-17 12:56:17.628 -0600	SUCCESS		Execution Time 0:00:00 index.script

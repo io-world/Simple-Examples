@@ -1,0 +1,4 @@
+﻿2016-12-12 10:14:17.965 -0700	START		Running logout.script	31	on_datadriven	dataDriven.script
+2016-12-12 10:14:17.984 -0700	Log		running logout	1	on_logout	logout.script
+2016-12-12 10:14:17.987 -0700	EndTestCase		(Duration:"0.021173", Errors:"0", Exceptions:"0", StartTime:"2016-12-12 10:14:17 -0700", Successes:"1", TestCase:"logout.script", Warnings:"0")	31	on_datadriven	dataDriven.script
+2016-12-12 10:14:17.998 -0700	SUCCESS		Execution Time 0:00:00 logout.script	31	on_datadriven	dataDriven.script

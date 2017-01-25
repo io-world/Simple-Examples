@@ -1,0 +1,4 @@
+﻿2016-12-22 09:57:32.760 -0700	START		Running BUILD.script
+2016-12-22 09:57:32.819 -0700	Log		Mr	16	on_build	BUILD.script
+2016-12-22 09:57:33.047 -0700	EndTestCase		(Duration:"0.286314", Errors:"0", Exceptions:"0", StartTime:"2016-12-22 09:57:32 -0700", Successes:"1", TestCase:"BUILD.script", Warnings:"0")
+2016-12-22 09:57:33.056 -0700	SUCCESS		Execution Time 0:00:00 BUILD.script

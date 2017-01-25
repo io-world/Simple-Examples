@@ -1,0 +1,23 @@
+﻿put file "//Users/randyhesse/Documents/Simple Examples/CSVRead.suite/Resources/WebFormData.csv" into CSVFile 
+
+
+put the number of items of CSVFile into max
+
+log max
+
+
+repeat max times
+	put item repeatindex() of line 2 of CSVFile as text into VName 
+	put item repeatindex() of line 3 of CSVFile as text into VVar
+	delete " " from Vname
+	put VVar into PropList.(VName)	
+end repeat
+PauseScript
+put PropList into global PropList
+
+log PropList
+log PropList.UserID1
+
+
+put UserID1 into var
+log PropList.(var)

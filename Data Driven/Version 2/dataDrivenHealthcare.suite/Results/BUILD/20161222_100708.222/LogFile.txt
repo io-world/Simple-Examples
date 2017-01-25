@@ -1,0 +1,4 @@
+﻿2016-12-22 10:07:08.223 -0700	START		Running BUILD.script
+2016-12-22 10:07:11.490 -0700	pausescript			38	on_build	BUILD.script
+2016-12-22 10:08:32.262 -0700	EndTestCase		(Duration:"84.037821", Errors:"1", Exceptions:"0", StartTime:"2016-12-22 10:07:08 -0700", Successes:"0", TestCase:"BUILD.script", Warnings:"0")
+2016-12-22 10:08:32.262 -0700	ABORTED		Execution Time 0:01:24 BUILD.script

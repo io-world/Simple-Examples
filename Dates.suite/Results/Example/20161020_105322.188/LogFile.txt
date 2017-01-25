@@ -1,0 +1,6 @@
+﻿2016-10-20 10:53:22.190 -0600	START		Running Example.script
+2016-10-20 10:53:22.263 -0600	Log		worddate	1	on_example	Example.script
+2016-10-20 10:53:22.269 -0600	Log		wordyear	2	on_example	Example.script
+2016-10-20 10:53:22.277 -0600	Log		wordtime	3	on_example	Example.script
+2016-10-20 10:53:23.163 -0600	EndTestCase		(Duration:"0.971602", Errors:"0", Exceptions:"0", StartTime:"2016-10-20 10:53:22 -0600", Successes:"1", TestCase:"Example.script", Warnings:"0")
+2016-10-20 10:53:23.173 -0600	SUCCESS		Execution Time 0:00:00 Example.script

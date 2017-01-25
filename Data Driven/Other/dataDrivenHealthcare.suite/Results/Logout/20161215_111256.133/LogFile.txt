@@ -1,0 +1,4 @@
+﻿2016-12-15 11:12:56.134 -0700	START		Running Logout.script	41	on_master	Master.script
+2016-12-15 11:12:56.153 -0700	Log		running logout	1	on_logout	Logout.script
+2016-12-15 11:12:56.156 -0700	EndTestCase		(Duration:"0.020682", Errors:"0", Exceptions:"0", StartTime:"2016-12-15 11:12:56 -0700", Successes:"1", TestCase:"Logout.script", Warnings:"0")	41	on_master	Master.script
+2016-12-15 11:12:56.191 -0700	SUCCESS		Execution Time 0:00:00 Logout.script	41	on_master	Master.script

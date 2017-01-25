@@ -1,0 +1,10 @@
+﻿--https://en.wikipedia.org/wiki/List_of_Pok%C3%A9mon
+
+
+click text:"007"
+
+
+
+click (text:"007",searchRectangle:(193,164,285,716))
+
+log readtext(324,185,440,785)

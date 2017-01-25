@@ -1,0 +1,4 @@
+﻿2016-10-18 15:17:45.739 -0600	START		Running index.script
+2016-10-18 15:17:46.241 -0600	typetext		Randy Hesse October Eighteen	5	on_index	index.script
+2016-10-18 15:17:46.665 -0600	EndTestCase		(Duration:"0.924236", Errors:"0", Exceptions:"0", StartTime:"2016-10-18 15:17:45 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-10-18 15:17:46.670 -0600	SUCCESS		Execution Time 0:00:00 index.script

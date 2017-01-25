@@ -1,0 +1,4 @@
+﻿2016-12-19 21:42:44.127 -0800	START		Running Read6.script
+2016-12-19 21:42:44.259 -0800	Log		222222	11	on_read6	Read6.script
+2016-12-19 21:42:44.504 -0800	EndTestCase		(Duration:"0.375388", Errors:"1", Exceptions:"0", StartTime:"2016-12-19 21:42:44 -0800", Successes:"0", TestCase:"Read6.script", Warnings:"0")
+2016-12-19 21:42:44.515 -0800	FAILURE		STUnknownMessage ERROR: No Such Function: 'prefix' -- Execution Time 0:00:00 Read6.script

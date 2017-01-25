@@ -1,0 +1,4 @@
+﻿2016-11-30 15:17:45.879 -0700	START		Running Read5.script
+2016-11-30 15:17:49.036 -0700	Log		(Date_of_Birth:"6/14/00", First_Name:"SpongeBob", Gender:"Male", Last_Name:"SquarePants", Marital_Status:"Single", Medical_Record_Number:"101010", Middle_Name:"", Prefix:"Mr", Social_Security_Number:"984-56-3166")	23	on_read5	Read5.script
+2016-11-30 15:17:50.184 -0700	EndTestCase		(Duration:"4.303432", Errors:"0", Exceptions:"0", StartTime:"2016-11-30 15:17:45 -0700", Successes:"1", TestCase:"Read5.script", Warnings:"0")
+2016-11-30 15:17:50.242 -0700	SUCCESS		Execution Time 0:00:04 Read5.script

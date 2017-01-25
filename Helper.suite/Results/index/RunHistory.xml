@@ -1,0 +1,135 @@
+﻿<?xml version="1.0"?>
+<runHistory script="index">
+ <run>
+  <RunDate>2016-09-14 21:13:48.789 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.322146</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160914_211348.789/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;module1&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-14 21:14:04.214 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.328523</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160914_211404.214/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;/Users/randyhesse/Documents/Simple Examples/Helper2.suite/Scripts/Module1/Foo&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-14 21:14:10.922 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.318562</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160914_211410.922/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;foo&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-14 21:16:51.657 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.314597</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160914_211651.657/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;foo&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-14 21:17:01.434 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.303958</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160914_211701.434/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-14 21:17:29.181 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.306230</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160914_211729.181/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;foo&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-14 21:17:52.788 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.308557</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160914_211752.788/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;foo&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-14 21:18:11.744 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.351940</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160914_211811.744/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-14 21:21:26.279 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.383082</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160914_212126.279/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-14 21:21:58.478 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.340811</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160914_212158.478/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-11-02 10:09:41.337 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.413842</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20161102_100941.337/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

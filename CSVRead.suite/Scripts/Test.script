@@ -1,0 +1,28 @@
+﻿
+
+
+log Global Patient.Date_of_Birth
+
+
+
+log Global Patient.First_name
+
+
+
+
+--TypeText Global Patient.Medical_Record_Number
+
+
+put Global Patient.Social_Security_Number into SSN
+log SSN
+--TypeText SSN
+
+
+
+
+
+
+log Global Patient.Social_Security_Number
+
+
+

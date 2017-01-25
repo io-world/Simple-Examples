@@ -1,0 +1,3 @@
+﻿log shell (<<
+/Applications/TestPlant/eggPlant.app/runscript ~ "/Users/randyhesse/Documents/Simple Examples/CLI.suite/Scripts/index.script" -params "Hello From Test Plant" "second Line" -CommandLineOutput YES>>)
+

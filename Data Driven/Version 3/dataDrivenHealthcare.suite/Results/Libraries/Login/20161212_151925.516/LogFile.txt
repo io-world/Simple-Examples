@@ -1,0 +1,7 @@
+﻿2016-12-12 15:19:25.517 -0800	START		Running login.script	16	on_master	Master.script
+2016-12-12 15:19:25.537 -0800	Log		Running Login	6	on_login	login.script
+2016-12-12 15:19:25.541 -0800	Log		Nick	8	on_login	login.script
+2016-12-12 15:19:25.543 -0800	Log		P@$$word	9	on_login	login.script
+2016-12-12 15:19:25.546 -0800	Exception		Remote Connection Unavailable	16	on_login	login.script
+2016-12-12 15:19:25.548 -0800	EndTestCase		(Duration:"0.029315", Errors:"1", Exceptions:"1", StartTime:"2016-12-12 15:19:25 -0800", Successes:"0", TestCase:"login.script", Warnings:"0")	16	on_master	Master.script
+2016-12-12 15:19:25.568 -0800	FAILURE		No Remote Connection typetext Error - Remote Connection Unavailable -- Execution Time 0:00:00 login.script	16	on_master	Master.script

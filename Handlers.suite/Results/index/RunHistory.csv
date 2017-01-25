@@ -1,0 +1,23 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-08-31 08:53:28.371 -0600,"Success",0:00:00,0,0,0,"20160831_085328.371/LogFile.txt","","",1
+2016-08-31 08:53:56.767 -0600,"Failure",0:00:00,1,0,0,"20160831_085356.767/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'madd'",0
+2016-08-31 08:54:15.463 -0600,"Failure",0:00:01,1,0,0,"20160831_085415.463/LogFile.txt","","STInvalidNumber -- Value is not a number: 'numone'",0
+2016-08-31 08:54:32.504 -0600,"Failure",0:00:00,1,0,0,"20160831_085432.504/LogFile.txt","","SenseTalk Compiler Exception -- in index:\nSyntax Error at line 5: Syntax Error - can't understand ""6"" at or near character 42",0
+2016-08-31 08:55:16.834 -0600,"Failure",0:00:00,1,0,0,"20160831_085516.834/LogFile.txt","","STInvalidNumber -- Value is not a number: 'numone'",0
+2016-08-31 08:55:28.062 -0600,"Failure",0:00:00,1,0,0,"20160831_085528.062/LogFile.txt","","STInvalidNumber -- Value is not a number: 'numone'",0
+2016-08-31 08:56:59.790 -0600,"Failure",0:00:01,1,0,0,"20160831_085659.790/LogFile.txt","","STInvalidNumber -- Value is not a number: 'numone'",0
+2016-08-31 08:57:20.708 -0600,"Failure",0:00:01,1,0,0,"20160831_085720.708/LogFile.txt","","STInvalidNumber -- Value is not a number: 'numone'",0
+2016-08-31 08:58:12.742 -0600,"Success",0:00:01,0,0,0,"20160831_085812.742/LogFile.txt","","",1
+2016-08-31 08:58:33.344 -0600,"Failure",0:00:00,1,0,0,"20160831_085833.344/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'subtractnum'",0
+2016-08-31 08:59:49.187 -0600,"Success",0:00:00,0,0,0,"20160831_085949.187/LogFile.txt","","",1
+2016-08-31 09:00:29.741 -0600,"Success",0:00:01,0,0,0,"20160831_090029.741/LogFile.txt","","",1
+2016-08-31 09:00:41.437 -0600,"Success",0:00:01,0,0,0,"20160831_090041.437/LogFile.txt","","",1
+2016-08-31 09:04:56.489 -0600,"Success",0:00:01,0,0,0,"20160831_090456.489/LogFile.txt","","",1
+2016-08-31 09:05:27.674 -0600,"Failure",0:00:01,1,0,0,"20160831_090527.674/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'genericnum'",0
+2016-08-31 09:05:46.114 -0600,"Failure",0:00:01,1,0,0,"20160831_090546.114/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'numeTwo' and '(2,7)'",0
+2016-08-31 09:05:58.243 -0600,"Failure",0:00:01,1,0,0,"20160831_090558.243/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'numeTwo' and '2'",0
+2016-08-31 09:06:13.696 -0600,"Success",0:00:01,0,0,0,"20160831_090613.696/LogFile.txt","","",1
+2016-08-31 09:06:30.361 -0600,"Success",0:00:01,0,0,0,"20160831_090630.361/LogFile.txt","","",1
+2016-08-31 09:08:06.947 -0600,"Success",0:00:01,0,0,0,"20160831_090806.947/LogFile.txt","","",1
+2016-08-31 09:08:23.222 -0600,"Success",0:00:01,0,0,0,"20160831_090823.222/LogFile.txt","","",1
+2016-08-31 09:09:08.253 -0600,"Success",0:00:01,0,0,0,"20160831_090908.253/LogFile.txt","","",1

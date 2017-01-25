@@ -1,0 +1,11 @@
+﻿params notewrite1, notewrite2
+
+Connect "Windows 2012"
+
+typetext windowsKey , "r"
+typetext "notepad" , enterkey
+wait 2
+typetext notewrite1
+typetext enterkey
+typetext notewrite2
+

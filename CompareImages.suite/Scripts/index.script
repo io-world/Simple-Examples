@@ -1,0 +1,15 @@
+﻿if imagefound ("Google") then
+	Log "Image is on the Screen"
+else
+	log "Image is not on the Screen"
+end if
+
+
+
+
+
+
+CaptureScreen (name:SuiteInfo().ImagesFolder&slash&"NewImageName",Rectangle: (100,100,700,400))
+
+
+

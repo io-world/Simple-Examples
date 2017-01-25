@@ -1,0 +1,5 @@
+﻿2017-01-06 15:49:30.814 -0700	START		Running Index.script
+2017-01-06 15:49:30.996 -0700	runwithnewresults		Zero.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/States/Zero/20170106_154930.995/LogFile.txt)	13	on_index	Index.script
+2017-01-06 15:49:31.082 -0700	runwithnewresults		Login.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Libraries/Login/20170106_154931.081/LogFile.txt)	14	on_index	Index.script
+2017-01-06 15:49:32.500 -0700	EndTestCase		(Duration:"1.684104", Errors:"1", Exceptions:"0", StartTime:"2017-01-06 15:49:30 -0700", Successes:"2", TestCase:"Index.script", Warnings:"0")
+2017-01-06 15:49:32.888 -0700	FAILURE	Screen_Error.png	SRUN_ZeroChunkIndex Zero is not a valid chunk number -- Execution Time 0:00:01 Index.script

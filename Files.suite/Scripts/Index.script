@@ -1,0 +1,9 @@
+﻿
+
+
+open file "/Users/randyhesse/Desktop/TestRead" 
+put file openfiles() into MyFileVar 
+log MyFileVar
+
+
+

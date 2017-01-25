@@ -1,0 +1,4 @@
+﻿2016-12-12 15:06:52.018 -0800	START		Running GlobalDefine.script
+2016-12-12 15:06:52.752 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_150652.751/LogFile.txt)	29	on_globaldefine	GlobalDefine.script
+2016-12-12 15:06:53.000 -0800	EndTestCase		(Duration:"0.980311", Errors:"0", Exceptions:"0", StartTime:"2016-12-12 15:06:52 -0800", Successes:"2", TestCase:"GlobalDefine.script", Warnings:"0")
+2016-12-12 15:06:53.006 -0800	SUCCESS		Execution Time 0:00:00 GlobalDefine.script

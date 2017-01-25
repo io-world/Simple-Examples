@@ -1,0 +1,22 @@
+﻿2016-11-01 21:43:45.540 -0400	START		Running Index.script
+2016-11-01 21:43:45.653 -0400	Log		1,2\n3,4\n90,123\n12,88\nMike\nAshley Milne	3	on_index	Index.script
+2016-11-01 21:43:45.701 -0400	Log		6	6	on_index	Index.script
+2016-11-01 21:43:45.751 -0400	Log		1	11	on_index	Index.script
+2016-11-01 21:43:45.762 -0400	Log		2	11	on_index	Index.script
+2016-11-01 21:43:45.802 -0400	Log		3	11	on_index	Index.script
+2016-11-01 21:43:45.811 -0400	Log		4	11	on_index	Index.script
+2016-11-01 21:43:45.877 -0400	Log		90	11	on_index	Index.script
+2016-11-01 21:43:45.907 -0400	Log		123	11	on_index	Index.script
+2016-11-01 21:43:45.974 -0400	Log		12	11	on_index	Index.script
+2016-11-01 21:43:45.995 -0400	Log		88	11	on_index	Index.script
+2016-11-01 21:43:46.046 -0400	Log		Mike	11	on_index	Index.script
+2016-11-01 21:43:46.086 -0400	Log		Ashley Milne	11	on_index	Index.script
+2016-11-01 21:43:46.120 -0400	Log		6	18	on_index	Index.script
+2016-11-01 21:43:46.175 -0400	Log		2	22	on_index	Index.script
+2016-11-01 21:43:46.211 -0400	Log		4	22	on_index	Index.script
+2016-11-01 21:43:46.246 -0400	Log		123	22	on_index	Index.script
+2016-11-01 21:43:46.279 -0400	Log		88	22	on_index	Index.script
+2016-11-01 21:43:46.309 -0400	Log			22	on_index	Index.script
+2016-11-01 21:43:46.342 -0400	Log			22	on_index	Index.script
+2016-11-01 21:43:46.704 -0400	EndTestCase		(Duration:"1.161319", Errors:"0", Exceptions:"0", StartTime:"2016-11-01 21:43:45 -0400", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-11-01 21:43:46.734 -0400	SUCCESS		Execution Time 0:00:01 Index.script

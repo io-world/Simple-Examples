@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="MethodLib.script" package="Dates.suite" timestamp="2016-10-18 15:17:40.692 -0600"
+ tests="1" successes="1" errors="0" time="0.508524">
+  <properties>
+   <property name="RunDate" value="2016-10-18 15:17:40.692 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="MethodLib.script" assertions="1" successes="1" errors="0" time="0.505704">
+  </testcase>
+ </testsuite>
+</testsuites>

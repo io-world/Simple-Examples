@@ -1,0 +1,5 @@
+﻿2017-01-06 12:58:17.781 -0700	START		Running Examples/Example1.script
+2017-01-06 12:58:18.350 -0700	Log		(DateofBirth:"6/14/00", FirstName:"Mickey", Gender:"Male", LastName:"Mouse", MaritalStatus:"Single", MedicalRecordNumber:"999999", MiddleName:"H", Prefix:"Dr", SocialSecurityNumber:"984-56-3166")	13	on_examples_example1	Examples/Example1.script
+2017-01-06 12:58:18.355 -0700	Log		999999	15	on_examples_example1	Examples/Example1.script
+2017-01-06 12:58:18.809 -0700	EndTestCase		(Duration:"1.026769", Errors:"0", Exceptions:"0", StartTime:"2017-01-06 12:58:17 -0700", Successes:"1", TestCase:"Examples/Example1.script", Warnings:"0")
+2017-01-06 12:58:18.860 -0700	SUCCESS		Execution Time 0:00:01 Examples/Example1.script

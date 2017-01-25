@@ -1,0 +1,11 @@
+﻿2016-11-01 15:37:34.153 -0400	START		Running Index.script
+2016-11-01 15:37:34.228 -0400	Log		1,2\n3,4\n90,123\n12,88\nMike\nAshley Milne	3	on_index	Index.script
+2016-11-01 15:37:34.262 -0400	Log		6	6	on_index	Index.script
+2016-11-01 15:37:34.291 -0400	Log		2	10	on_index	Index.script
+2016-11-01 15:37:34.311 -0400	Log		4	10	on_index	Index.script
+2016-11-01 15:37:34.356 -0400	Log		123	10	on_index	Index.script
+2016-11-01 15:37:34.377 -0400	Log		88	10	on_index	Index.script
+2016-11-01 15:37:34.394 -0400	Log			10	on_index	Index.script
+2016-11-01 15:37:34.415 -0400	Log			10	on_index	Index.script
+2016-11-01 15:37:34.859 -0400	EndTestCase		(Duration:"0.704892", Errors:"0", Exceptions:"0", StartTime:"2016-11-01 15:37:34 -0400", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-11-01 15:37:34.895 -0400	SUCCESS		Execution Time 0:00:00 Index.script

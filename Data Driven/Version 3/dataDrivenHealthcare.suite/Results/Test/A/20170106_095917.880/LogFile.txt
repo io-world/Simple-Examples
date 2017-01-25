@@ -1,0 +1,5 @@
+﻿2017-01-06 09:59:17.881 -0700	START		Running Test/A.script	16	on_index	Index.script
+2017-01-06 09:59:17.886 -0700	Log		code for Navigation for TestA 	4	on_test_a	Test/A.script
+2017-01-06 09:59:17.921 -0700	Exception	TestA/image0001	Could Not Open Image: TestA/image0001	7	on_imagec	Modules/Verify.script
+2017-01-06 09:59:17.944 -0700	EndTestCase		(Duration:"0.061764", Errors:"1", Exceptions:"1", StartTime:"2017-01-06 09:59:17 -0700", Successes:"0", TestCase:"Test/A.script", Warnings:"0")	16	on_index	Index.script
+2017-01-06 09:59:18.303 -0700	FAILURE	Screen_Error.png	File Not Found imagefound Error - Could Not Open Image: TestA/image0001 -- Execution Time 0:00:00 Test/A.script	16	on_index	Index.script

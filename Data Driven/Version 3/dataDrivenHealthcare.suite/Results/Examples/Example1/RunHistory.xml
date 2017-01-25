@@ -1,0 +1,207 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Examples/Example1">
+ <run>
+  <RunDate>2017-01-06 12:56:49.397 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.612825</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170106_125649.397/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;patient&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 12:56:57.954 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.915386</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_125657.954/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 12:57:07.782 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.013410</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_125707.782/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 12:57:18.032 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.141467</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_125718.032/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 12:57:57.210 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.968782</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_125757.210/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 12:58:17.780 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.028240</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_125817.780/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 13:09:38.841 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.016164</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_130938.841/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 13:14:46.985 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.083703</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_131446.985/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 13:26:47.359 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>1.208556</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_132647.359/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 13:27:23.731 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.743507</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_132723.731/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 13:28:02.238 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.709669</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_132802.238/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 13:30:07.716 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.707276</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_133007.716/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 13:47:11.345 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.712961</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170106_134711.345/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;my&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 13:54:29.685 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.795832</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170106_135429.685/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got &#x27;ITEMCOUNT&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 14:21:19.342 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.939493</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_142119.342/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 14:23:20.093 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.839220</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_142320.093/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 14:23:49.344 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.943516</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_142349.344/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

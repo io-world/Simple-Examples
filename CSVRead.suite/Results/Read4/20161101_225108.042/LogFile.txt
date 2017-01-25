@@ -1,0 +1,86 @@
+﻿2016-11-01 22:51:08.043 -0400	START		Running Read4.script
+2016-11-01 22:51:08.240 -0400	Log		Mr	22	on_read4	Read4.script
+2016-11-01 22:51:08.257 -0400	Log		Bruce	22	on_read4	Read4.script
+2016-11-01 22:51:08.282 -0400	Log			22	on_read4	Read4.script
+2016-11-01 22:51:08.306 -0400	Log		Wayne	22	on_read4	Read4.script
+2016-11-01 22:51:08.325 -0400	Log		222222	22	on_read4	Read4.script
+2016-11-01 22:51:08.354 -0400	Log		6/13/06	22	on_read4	Read4.script
+2016-11-01 22:51:08.375 -0400	Log		113-83-3798	22	on_read4	Read4.script
+2016-11-01 22:51:08.405 -0400	Log		Male	22	on_read4	Read4.script
+2016-11-01 22:51:08.439 -0400	Log		Single	22	on_read4	Read4.script
+2016-11-01 22:51:08.522 -0400	Log		Mrs	22	on_read4	Read4.script
+2016-11-01 22:51:08.557 -0400	Log		Carrie	22	on_read4	Read4.script
+2016-11-01 22:51:08.609 -0400	Log			22	on_read4	Read4.script
+2016-11-01 22:51:08.634 -0400	Log		Underwood	22	on_read4	Read4.script
+2016-11-01 22:51:08.663 -0400	Log		333333	22	on_read4	Read4.script
+2016-11-01 22:51:08.676 -0400	Log		3/16/14	22	on_read4	Read4.script
+2016-11-01 22:51:08.705 -0400	Log		583-00-6387	22	on_read4	Read4.script
+2016-11-01 22:51:08.740 -0400	Log		Female	22	on_read4	Read4.script
+2016-11-01 22:51:08.770 -0400	Log		Married	22	on_read4	Read4.script
+2016-11-01 22:51:08.811 -0400	Log		Ms	22	on_read4	Read4.script
+2016-11-01 22:51:08.838 -0400	Log		Wonder	22	on_read4	Read4.script
+2016-11-01 22:51:08.871 -0400	Log			22	on_read4	Read4.script
+2016-11-01 22:51:08.893 -0400	Log		Woman	22	on_read4	Read4.script
+2016-11-01 22:51:08.925 -0400	Log		444444	22	on_read4	Read4.script
+2016-11-01 22:51:08.959 -0400	Log		4/24/03	22	on_read4	Read4.script
+2016-11-01 22:51:09.006 -0400	Log		580-71-8520	22	on_read4	Read4.script
+2016-11-01 22:51:09.058 -0400	Log		Female	22	on_read4	Read4.script
+2016-11-01 22:51:09.109 -0400	Log		Divorced	22	on_read4	Read4.script
+2016-11-01 22:51:09.160 -0400	Log		Dr	22	on_read4	Read4.script
+2016-11-01 22:51:09.189 -0400	Log		Darth	22	on_read4	Read4.script
+2016-11-01 22:51:09.224 -0400	Log		A	22	on_read4	Read4.script
+2016-11-01 22:51:09.253 -0400	Log		Vader	22	on_read4	Read4.script
+2016-11-01 22:51:09.272 -0400	Log		555555	22	on_read4	Read4.script
+2016-11-01 22:51:09.292 -0400	Log		12/23/87	22	on_read4	Read4.script
+2016-11-01 22:51:09.310 -0400	Log		744-85-1232	22	on_read4	Read4.script
+2016-11-01 22:51:09.342 -0400	Log		Male	22	on_read4	Read4.script
+2016-11-01 22:51:09.373 -0400	Log		Widowed	22	on_read4	Read4.script
+2016-11-01 22:51:09.443 -0400	Log		Dr	22	on_read4	Read4.script
+2016-11-01 22:51:09.476 -0400	Log		James	22	on_read4	Read4.script
+2016-11-01 22:51:09.525 -0400	Log			22	on_read4	Read4.script
+2016-11-01 22:51:09.575 -0400	Log		Bond	22	on_read4	Read4.script
+2016-11-01 22:51:09.605 -0400	Log		666666	22	on_read4	Read4.script
+2016-11-01 22:51:09.625 -0400	Log		7/30/81	22	on_read4	Read4.script
+2016-11-01 22:51:09.657 -0400	Log		973-13-0224	22	on_read4	Read4.script
+2016-11-01 22:51:09.689 -0400	Log		Male	22	on_read4	Read4.script
+2016-11-01 22:51:09.719 -0400	Log		Single	22	on_read4	Read4.script
+2016-11-01 22:51:09.760 -0400	Log		Mr	22	on_read4	Read4.script
+2016-11-01 22:51:09.787 -0400	Log		Homer	22	on_read4	Read4.script
+2016-11-01 22:51:09.808 -0400	Log			22	on_read4	Read4.script
+2016-11-01 22:51:09.839 -0400	Log		Simpson	22	on_read4	Read4.script
+2016-11-01 22:51:09.865 -0400	Log		777777	22	on_read4	Read4.script
+2016-11-01 22:51:09.893 -0400	Log		9/1/80	22	on_read4	Read4.script
+2016-11-01 22:51:09.906 -0400	Log		557-31-0655	22	on_read4	Read4.script
+2016-11-01 22:51:09.941 -0400	Log		Male	22	on_read4	Read4.script
+2016-11-01 22:51:09.992 -0400	Log		Married	22	on_read4	Read4.script
+2016-11-01 22:51:10.043 -0400	Log		Dr	22	on_read4	Read4.script
+2016-11-01 22:51:10.073 -0400	Log		Optimus	22	on_read4	Read4.script
+2016-11-01 22:51:10.106 -0400	Log			22	on_read4	Read4.script
+2016-11-01 22:51:10.137 -0400	Log		Prime	22	on_read4	Read4.script
+2016-11-01 22:51:10.156 -0400	Log		888888	22	on_read4	Read4.script
+2016-11-01 22:51:10.177 -0400	Log		9/19/85	22	on_read4	Read4.script
+2016-11-01 22:51:10.205 -0400	Log		521-26-0727	22	on_read4	Read4.script
+2016-11-01 22:51:10.226 -0400	Log		Other	22	on_read4	Read4.script
+2016-11-01 22:51:10.256 -0400	Log		Divorced	22	on_read4	Read4.script
+2016-11-01 22:51:10.327 -0400	Log		Dr	22	on_read4	Read4.script
+2016-11-01 22:51:10.374 -0400	Log		Mickey	22	on_read4	Read4.script
+2016-11-01 22:51:10.425 -0400	Log			22	on_read4	Read4.script
+2016-11-01 22:51:10.473 -0400	Log		Mouse	22	on_read4	Read4.script
+2016-11-01 22:51:10.503 -0400	Log		999999	22	on_read4	Read4.script
+2016-11-01 22:51:10.525 -0400	Log		6/14/00	22	on_read4	Read4.script
+2016-11-01 22:51:10.555 -0400	Log		984-56-3166	22	on_read4	Read4.script
+2016-11-01 22:51:10.588 -0400	Log		Male	22	on_read4	Read4.script
+2016-11-01 22:51:10.611 -0400	Log		Single	22	on_read4	Read4.script
+2016-11-01 22:51:10.657 -0400	Log		Mr	22	on_read4	Read4.script
+2016-11-01 22:51:10.688 -0400	Log		SpongeBob	22	on_read4	Read4.script
+2016-11-01 22:51:10.709 -0400	Log			22	on_read4	Read4.script
+2016-11-01 22:51:10.739 -0400	Log		SquarePants	22	on_read4	Read4.script
+2016-11-01 22:51:10.773 -0400	Log		101010	22	on_read4	Read4.script
+2016-11-01 22:51:10.806 -0400	Log		6/14/00	22	on_read4	Read4.script
+2016-11-01 22:51:10.829 -0400	Log		984-56-3166	22	on_read4	Read4.script
+2016-11-01 22:51:10.861 -0400	Log		Male	22	on_read4	Read4.script
+2016-11-01 22:51:10.873 -0400	Log		Single	22	on_read4	Read4.script
+2016-11-01 22:51:10.906 -0400	Log		patient1	28	on_read4	Read4.script
+2016-11-01 22:51:10.925 -0400	Log		Patient2	29	on_read4	Read4.script
+2016-11-01 22:51:11.297 -0400	EndTestCase		(Duration:"3.252477", Errors:"0", Exceptions:"0", StartTime:"2016-11-01 22:51:08 -0400", Successes:"1", TestCase:"Read4.script", Warnings:"0")
+2016-11-01 22:51:11.325 -0400	SUCCESS		Execution Time 0:00:03 Read4.script

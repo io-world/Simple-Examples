@@ -1,0 +1,56 @@
+﻿2016-11-09 16:00:23.571 -0700	START		Running Read2.script
+2016-11-09 16:00:24.119 -0700	imagelocation	English Name	at (335, 236)	1	on_read2	Read2.script
+2016-11-09 16:00:24.130 -0700	moveto		at (335, 136)	1	on_read2	Read2.script
+2016-11-09 16:00:25.308 -0700	imagelocation	English Name	at (335, 236)	4	on_read2	Read2.script
+2016-11-09 16:00:25.317 -0700	Log		(290,266,385,286)	7	on_read2	Read2.script
+2016-11-09 16:00:25.469 -0700	readtext		(290,266,385,286)
+2016-11-09 16:00:25.473 -0700	Log		Qi\tir	11	on_read2	Read2.script
+2016-11-09 16:00:25.630 -0700	readtext		(290,293,385,313)
+2016-11-09 16:00:25.634 -0700	Log		I \ n >c* i i r	11	on_read2	Read2.script
+2016-11-09 16:00:25.694 -0700	readtext		(290,320,385,340)
+2016-11-09 16:00:25.712 -0700	Log			11	on_read2	Read2.script
+2016-11-09 16:00:25.783 -0700	readtext		(290,347,385,367)
+2016-11-09 16:00:25.788 -0700	Log		venusaur	11	on_read2	Read2.script
+2016-11-09 16:00:25.891 -0700	readtext		(290,374,385,394)
+2016-11-09 16:00:25.894 -0700	Log		Charmander	11	on_read2	Read2.script
+2016-11-09 16:00:26.125 -0700	readtext		(290,401,385,421)
+2016-11-09 16:00:26.131 -0700	Log		Charmeleon	11	on_read2	Read2.script
+2016-11-09 16:00:26.205 -0700	readtext		(290,428,385,448)
+2016-11-09 16:00:26.221 -0700	Log			11	on_read2	Read2.script
+2016-11-09 16:00:26.313 -0700	readtext		(290,455,385,475)
+2016-11-09 16:00:26.317 -0700	Log		Charizard	11	on_read2	Read2.script
+2016-11-09 16:00:26.370 -0700	readtext		(290,482,385,502)
+2016-11-09 16:00:26.390 -0700	Log			11	on_read2	Read2.script
+2016-11-09 16:00:26.496 -0700	readtext		(290,509,385,529)
+2016-11-09 16:00:26.499 -0700	Log		Squirtle	11	on_read2	Read2.script
+2016-11-09 16:00:26.732 -0700	readtext		(290,536,385,556)
+2016-11-09 16:00:26.737 -0700	Log		wartortie	11	on_read2	Read2.script
+2016-11-09 16:00:26.865 -0700	readtext		(290,563,385,583)
+2016-11-09 16:00:26.869 -0700	Log		Rlasfnisp.	11	on_read2	Read2.script
+2016-11-09 16:00:26.935 -0700	readtext		(290,590,385,610)
+2016-11-09 16:00:26.947 -0700	Log			11	on_read2	Read2.script
+2016-11-09 16:00:27.132 -0700	readtext		(290,617,385,637)
+2016-11-09 16:00:27.136 -0700	Log		v^cuci pic	11	on_read2	Read2.script
+2016-11-09 16:00:27.588 -0700	readtext		(290,644,385,664)
+2016-11-09 16:00:27.593 -0700	Log			11	on_read2	Read2.script
+2016-11-09 16:00:27.840 -0700	readtext		(290,671,385,691)
+2016-11-09 16:00:27.844 -0700	Log		uuuci 11	11	on_read2	Read2.script
+2016-11-09 16:00:28.007 -0700	readtext		(290,698,385,718)
+2016-11-09 16:00:28.011 -0700	Log		V VCCUIC	11	on_read2	Read2.script
+2016-11-09 16:00:28.150 -0700	readtext		(290,725,385,745)
+2016-11-09 16:00:28.154 -0700	Log		r\ar\ui la	11	on_read2	Read2.script
+2016-11-09 16:00:28.277 -0700	readtext		(290,752,385,772)
+2016-11-09 16:00:28.282 -0700	Log		Beedrill	11	on_read2	Read2.script
+2016-11-09 16:00:28.356 -0700	readtext		(290,779,385,799)
+2016-11-09 16:00:28.376 -0700	Log			11	on_read2	Read2.script
+2016-11-09 16:00:28.582 -0700	readtext		(290,806,385,826)
+2016-11-09 16:00:28.586 -0700	Log		r\ : -i\t\t xx «	11	on_read2	Read2.script
+2016-11-09 16:00:28.682 -0700	readtext		(290,833,385,853)
+2016-11-09 16:00:28.697 -0700	Log			11	on_read2	Read2.script
+2016-11-09 16:00:28.839 -0700	readtext		(290,860,385,880)
+2016-11-09 16:00:28.842 -0700	Log		BB	11	on_read2	Read2.script
+2016-11-09 16:00:28.979 -0700	readtext		(290,887,385,900)
+2016-11-09 16:00:28.992 -0700	Log			11	on_read2	Read2.script
+2016-11-09 16:00:29.034 -0700	Exception	290	Could Not Open Image: 290	10	on_read2	Read2.script
+2016-11-09 16:00:30.017 -0700	EndTestCase		(Duration:"6.445082", Errors:"1", Exceptions:"1", StartTime:"2016-11-09 16:00:23 -0700", Successes:"0", TestCase:"Read2.script", Warnings:"0")
+2016-11-09 16:00:30.589 -0700	FAILURE	Screen_Error.png	File Not Found readtext Error - Could Not Open Image: 290 -- Execution Time 0:00:06 Read2.script

@@ -1,0 +1,16 @@
+﻿2017-01-06 15:49:54.190 -0700	START		Running Index.script
+2017-01-06 15:49:54.369 -0700	runwithnewresults		Zero.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/States/Zero/20170106_154954.368/LogFile.txt)	13	on_index	Index.script
+2017-01-06 15:49:54.450 -0700	runwithnewresults		Login.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Libraries/Login/20170106_154954.449/LogFile.txt)	14	on_index	Index.script
+2017-01-06 15:49:55.745 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170106_154955.744/LogFile.txt)	24	on_index	Index.script
+2017-01-06 15:49:56.179 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170106_154956.179/LogFile.txt)	24	on_index	Index.script
+2017-01-06 15:49:56.629 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170106_154956.628/LogFile.txt)	24	on_index	Index.script
+2017-01-06 15:49:57.080 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170106_154957.080/LogFile.txt)	24	on_index	Index.script
+2017-01-06 15:49:57.546 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170106_154957.545/LogFile.txt)	24	on_index	Index.script
+2017-01-06 15:49:57.999 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170106_154957.998/LogFile.txt)	24	on_index	Index.script
+2017-01-06 15:49:58.463 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170106_154958.462/LogFile.txt)	24	on_index	Index.script
+2017-01-06 15:49:58.951 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170106_154958.950/LogFile.txt)	24	on_index	Index.script
+2017-01-06 15:49:59.418 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170106_154959.418/LogFile.txt)	24	on_index	Index.script
+2017-01-06 15:49:59.544 -0700	Log		running logout	1	on_libraries_logout	Libraries/Logout.script
+2017-01-06 15:49:59.579 -0700	Log		initiate Zero State	4	on_states_zero	States/Zero.script
+2017-01-06 15:50:00.049 -0700	EndTestCase		(Duration:"5.85807", Errors:"0", Exceptions:"0", StartTime:"2017-01-06 15:49:54 -0700", Successes:"12", TestCase:"Index.script", Warnings:"0")
+2017-01-06 15:50:00.105 -0700	SUCCESS		Execution Time 0:00:05 Index.script

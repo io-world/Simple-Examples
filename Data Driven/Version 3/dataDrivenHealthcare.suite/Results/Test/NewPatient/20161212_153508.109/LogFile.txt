@@ -1,0 +1,11 @@
+﻿2016-12-12 15:35:08.111 -0800	START		Running NewPatient.script	32	on_master	Master.script
+2016-12-12 15:35:08.139 -0800	Log		444444	8	on_newpatient	NewPatient.script
+2016-12-12 15:35:08.143 -0800	Log		Ms	9	on_newpatient	NewPatient.script
+2016-12-12 15:35:08.165 -0800	Log		Wonder	10	on_newpatient	NewPatient.script
+2016-12-12 15:35:08.173 -0800	Log		Woman	11	on_newpatient	NewPatient.script
+2016-12-12 15:35:08.178 -0800	Log		4/24/03	12	on_newpatient	NewPatient.script
+2016-12-12 15:35:08.193 -0800	Log		580-71-8520	13	on_newpatient	NewPatient.script
+2016-12-12 15:35:08.203 -0800	Log		Female	14	on_newpatient	NewPatient.script
+2016-12-12 15:35:08.207 -0800	Log		Divorced	15	on_newpatient	NewPatient.script
+2016-12-12 15:35:08.211 -0800	EndTestCase		(Duration:"0.098951", Errors:"0", Exceptions:"0", StartTime:"2016-12-12 15:35:08 -0800", Successes:"1", TestCase:"NewPatient.script", Warnings:"0")	32	on_master	Master.script
+2016-12-12 15:35:08.229 -0800	SUCCESS		Execution Time 0:00:00 NewPatient.script	32	on_master	Master.script

@@ -1,0 +1,4 @@
+﻿2016-12-20 16:49:56.851 -0700	START		Running Write1.script
+2016-12-20 16:49:56.900 -0700	Log		1,2,71,45,Joe\n3,4\n90,123\n12,88\nMike\nAshley Milne\nmy name is what?\nmy name is what?\nmy name is what?	2	on_write1	Write1.script
+2016-12-20 16:49:57.179 -0700	EndTestCase		(Duration:"0.326327", Errors:"1", Exceptions:"0", StartTime:"2016-12-20 16:49:56 -0700", Successes:"0", TestCase:"Write1.script", Warnings:"0")
+2016-12-20 16:49:57.760 -0700	FAILURE	Screen_Error.png	InvalidCommandOrRange Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters) -- Execution Time 0:00:00 Write1.script

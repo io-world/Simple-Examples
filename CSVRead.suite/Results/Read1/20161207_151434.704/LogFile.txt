@@ -1,0 +1,24 @@
+﻿2016-12-07 15:14:34.705 -0500	START		Running Read1.script
+2016-12-07 15:14:34.785 -0500	Log		10	7	on_read1	Read1.script
+2016-12-07 15:14:34.821 -0500	Log		First_Name	13	on_read1	Read1.script
+2016-12-07 15:14:34.826 -0500	Log		Last_Name	14	on_read1	Read1.script
+2016-12-07 15:14:34.851 -0500	Log		Bruce	13	on_read1	Read1.script
+2016-12-07 15:14:34.860 -0500	Log		Wayne	14	on_read1	Read1.script
+2016-12-07 15:14:34.879 -0500	Log		Carrie	13	on_read1	Read1.script
+2016-12-07 15:14:34.883 -0500	Log		Underwood	14	on_read1	Read1.script
+2016-12-07 15:14:34.902 -0500	Log		Wonder	13	on_read1	Read1.script
+2016-12-07 15:14:34.911 -0500	Log		Woman	14	on_read1	Read1.script
+2016-12-07 15:14:34.930 -0500	Log		Darth	13	on_read1	Read1.script
+2016-12-07 15:14:34.935 -0500	Log		Vader	14	on_read1	Read1.script
+2016-12-07 15:14:34.961 -0500	Log		James	13	on_read1	Read1.script
+2016-12-07 15:14:34.966 -0500	Log		Bond	14	on_read1	Read1.script
+2016-12-07 15:14:34.987 -0500	Log		Homer	13	on_read1	Read1.script
+2016-12-07 15:14:34.996 -0500	Log		Simpson	14	on_read1	Read1.script
+2016-12-07 15:14:35.016 -0500	Log		Optimus	13	on_read1	Read1.script
+2016-12-07 15:14:35.027 -0500	Log		Prime	14	on_read1	Read1.script
+2016-12-07 15:14:35.046 -0500	Log		Mickey	13	on_read1	Read1.script
+2016-12-07 15:14:35.050 -0500	Log		Mouse	14	on_read1	Read1.script
+2016-12-07 15:14:35.068 -0500	Log		SpongeBob	13	on_read1	Read1.script
+2016-12-07 15:14:35.076 -0500	Log		SquarePants	14	on_read1	Read1.script
+2016-12-07 15:14:35.459 -0500	EndTestCase		(Duration:"0.752357", Errors:"0", Exceptions:"0", StartTime:"2016-12-07 15:14:34 -0500", Successes:"1", TestCase:"Read1.script", Warnings:"0")
+2016-12-07 15:14:35.491 -0500	SUCCESS		Execution Time 0:00:00 Read1.script

@@ -1,0 +1,49 @@
+﻿2016-09-20 13:30:48.284 -0600	START		Running Read3.script
+2016-09-20 13:30:48.832 -0600	everyimagelocation	LineRow	found 24 images	1	on_read3	Read3.script
+2016-09-20 13:30:48.925 -0600	readtext		(192,308,222,900)
+2016-09-20 13:30:48.926 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:49.014 -0600	readtext		(192,335,222,900)
+2016-09-20 13:30:49.014 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:49.102 -0600	readtext		(192,362,222,900)
+2016-09-20 13:30:49.102 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:49.193 -0600	readtext		(192,389,222,900)
+2016-09-20 13:30:49.194 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:49.281 -0600	readtext		(192,416,222,900)
+2016-09-20 13:30:49.281 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:49.348 -0600	readtext		(192,443,222,900)
+2016-09-20 13:30:49.348 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:49.428 -0600	readtext		(192,470,222,900)
+2016-09-20 13:30:49.428 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:49.516 -0600	readtext		(192,497,222,900)
+2016-09-20 13:30:49.517 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:49.603 -0600	readtext		(192,524,222,900)
+2016-09-20 13:30:49.604 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:49.685 -0600	readtext		(192,551,222,900)
+2016-09-20 13:30:49.686 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:49.769 -0600	readtext		(192,578,222,900)
+2016-09-20 13:30:49.770 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:49.844 -0600	readtext		(192,605,222,900)
+2016-09-20 13:30:49.845 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:49.928 -0600	readtext		(192,632,222,900)
+2016-09-20 13:30:49.928 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:50.015 -0600	readtext		(192,659,222,900)
+2016-09-20 13:30:50.016 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:50.125 -0600	readtext		(192,686,222,900)
+2016-09-20 13:30:50.126 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:50.187 -0600	readtext		(192,713,222,900)
+2016-09-20 13:30:50.188 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:50.272 -0600	readtext		(192,740,222,900)
+2016-09-20 13:30:50.273 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:50.403 -0600	readtext		(192,767,222,900)
+2016-09-20 13:30:50.403 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:50.568 -0600	readtext		(192,794,222,900)
+2016-09-20 13:30:50.569 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:50.642 -0600	readtext		(192,821,222,900)
+2016-09-20 13:30:50.643 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:50.717 -0600	readtext		(192,848,222,900)
+2016-09-20 13:30:50.717 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:50.894 -0600	readtext		(192,875,222,900)
+2016-09-20 13:30:50.894 -0600	Log			16	on_read3	Read3.script
+2016-09-20 13:30:50.944 -0600	Exception	192	Could Not Open Image: 192	16	on_read3	Read3.script
+2016-09-20 13:30:51.381 -0600	EndTestCase		(Duration:"3.095624", Errors:"1", Exceptions:"1", StartTime:"2016-09-20 13:30:48 -0600", Successes:"0", TestCase:"Read3.script", Warnings:"0")
+2016-09-20 13:30:51.918 -0600	FAILURE	Screen_Error.png	File Not Found readtext Error - Could Not Open Image: 192 -- Execution Time 0:00:03 Read3.script

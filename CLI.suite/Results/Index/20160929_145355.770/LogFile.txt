@@ -1,0 +1,9 @@
+﻿2016-09-29 14:53:55.772 -0600	START		Running Index.script
+2016-09-29 14:53:56.015 -0600	connect		Windows 2012:(null)	3	on_index	Index.script
+2016-09-29 14:53:56.040 -0600	typetext		[windowsKey]r	5	on_index	Index.script
+2016-09-29 14:53:56.845 -0600	typetext		notepad[enter]	6	on_index	Index.script
+2016-09-29 14:53:59.128 -0600	typetext		Hello From Test Plant	8	on_index	Index.script
+2016-09-29 14:53:59.845 -0600	typetext		[enter]	9	on_index	Index.script
+2016-09-29 14:54:00.692 -0600	typetext		second Line	10	on_index	Index.script
+2016-09-29 14:54:00.750 -0600	EndTestCase		(Duration:"4.975784", Errors:"0", Exceptions:"0", StartTime:"2016-09-29 14:53:55 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-09-29 14:54:08.888 -0600	SUCCESS		Execution Time 0:00:04 Index.script

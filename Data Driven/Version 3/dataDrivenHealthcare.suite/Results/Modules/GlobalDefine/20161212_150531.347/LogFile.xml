@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="GlobalDefine.script" package="dataDrivenHealthcare.suite" timestamp="2016-12-12 15:05:31.347 -0800"
+ tests="1" successes="0" errors="1" time="1.223368">
+  <properties>
+   <property name="RunDate" value="2016-12-12 15:05:31.347 -0800"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="GlobalDefine.script" assertions="1" successes="0" errors="1" time="1.218954">
+  </testcase>
+ </testsuite>
+</testsuites>

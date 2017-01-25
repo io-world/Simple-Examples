@@ -1,0 +1,42 @@
+﻿// edit the string to point to your test info data source
+put file "/Users/randyhesse/Desktop/datadriven/Version 2/EnvironmentConfig.csv" into ECFile
+
+// edit the string to point to your static info data source
+put file "/Users/randyhesse/Desktop/datadriven/Version 2/PatientInformation.csv" into PIFile
+
+//Get all the  Environment Configuration Information
+Put item 1 of line 2 of  ECFile into Global Username
+Put item 2 of line 2 of  ECFile into Global Password
+
+//Count the Number of Patients in the CSV
+put the number of lines of PIFile -1 into PatientCount
+
+//Count The number of Items associated with each Patient
+put the number of items of line 1 of PIFile into PatientDataCount
+
+------------------------------------------------------------------------------------------
+runWithNewResults "login"
+------------------------------------------------------------------------------------------
+--Below Creates a Varible Called Patient
+------------------------------------------------------------------------------------------
+
+put line 1 of PIFile into AllValueNames
+
+repeat PatientCount times	
+	
+	//You can Alter this line if you want it to start at a different place on the CSV
+	put line repeatindex()+1 of PIFile into PatientRecord
+	
+	repeat PatientDataCount times		
+		put item repeatindex() of AllValueNames into ValueName
+		put item repeatindex() of PatientRecord into PatientValue
+		delete " " from ValueName
+		put PatientValue into global Patient.(ValueName)
+		
+	end repeat	
+	runWithNewResults "NewPatient"	
+end repeat
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+runWithNewResults "logout"
+------------------------------------------------------------------------------------------

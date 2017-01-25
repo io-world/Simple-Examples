@@ -1,0 +1,12 @@
+﻿
+Library.subtractNum 4,5
+login
+
+
+put Library.addNum(5,6) into var
+log var
+
+
+
+Library.GenericNumb 2,7
+log Library.GenericNumb (2,7)

@@ -1,0 +1,22 @@
+﻿
+
+
+on subtractNum numOne, numeTwo 
+	put numOne - numeTwo into answer	
+	log answer		
+end subtractNum
+
+function addNum numOne, numTwo
+	put numOne + numTwo into answer
+	return answer
+end addNum
+
+
+to handle GenericNumb with numOne, numTwo
+	put numOne + numTwo into answerOne	
+	put numOne - numTwo into answerTwo
+	
+	log "Answer from GenericNumb" && answerOne
+	
+	return ("Return from GenericNumber" && answerTwo)
+end GenericNumb

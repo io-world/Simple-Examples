@@ -1,0 +1,11 @@
+﻿2016-10-20 13:51:21.628 -0600	START		Running Index.script
+2016-10-20 13:51:21.725 -0600	Log		1,2\n3,4\n90,123\n12,88\nMike\nRandy	5	on_index	Index.script
+2016-10-20 13:51:21.744 -0600	Log		6	13	on_index	Index.script
+2016-10-20 13:51:21.777 -0600	Log		1	18	on_index	Index.script
+2016-10-20 13:51:21.810 -0600	Log		3	18	on_index	Index.script
+2016-10-20 13:51:21.825 -0600	Log		90	18	on_index	Index.script
+2016-10-20 13:51:21.841 -0600	Log		12	18	on_index	Index.script
+2016-10-20 13:51:21.874 -0600	Log		Mike	18	on_index	Index.script
+2016-10-20 13:51:21.911 -0600	Log		Randy	18	on_index	Index.script
+2016-10-20 13:51:22.958 -0600	EndTestCase		(Duration:"1.328563", Errors:"0", Exceptions:"0", StartTime:"2016-10-20 13:51:21 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-10-20 13:51:22.971 -0600	SUCCESS		Execution Time 0:00:01 Index.script

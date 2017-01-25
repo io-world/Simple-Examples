@@ -1,0 +1,15 @@
+﻿2016-12-15 11:18:58.289 -0700	START		Running NewPatient.script	37	on_master	Master.script
+2016-12-15 11:18:58.314 -0700	Log		222222	8	on_newpatient	NewPatient.script
+2016-12-15 11:18:58.343 -0700	Log		Mr	9	on_newpatient	NewPatient.script
+2016-12-15 11:18:58.348 -0700	Log		Bruce	10	on_newpatient	NewPatient.script
+2016-12-15 11:18:58.379 -0700	Log		Wayne	11	on_newpatient	NewPatient.script
+2016-12-15 11:18:58.409 -0700	Log		6/13/06	12	on_newpatient	NewPatient.script
+2016-12-15 11:18:58.414 -0700	Log		113-83-3798	13	on_newpatient	NewPatient.script
+2016-12-15 11:18:58.443 -0700	Log		Male	14	on_newpatient	NewPatient.script
+2016-12-15 11:18:58.447 -0700	Log		Single	15	on_newpatient	NewPatient.script
+2016-12-15 11:18:58.486 -0700	Log		(6,13,06)	35	on_newpatient	NewPatient.script
+2016-12-15 11:18:58.505 -0700	Log		Month: 6	36	on_newpatient	NewPatient.script
+2016-12-15 11:18:58.527 -0700	Log		Day: 13	37	on_newpatient	NewPatient.script
+2016-12-15 11:18:58.535 -0700	Log		Year: 1906	38	on_newpatient	NewPatient.script
+2016-12-15 11:18:58.553 -0700	EndTestCase		(Duration:"0.263047", Errors:"0", Exceptions:"0", StartTime:"2016-12-15 11:18:58 -0700", Successes:"1", TestCase:"NewPatient.script", Warnings:"0")	37	on_master	Master.script
+2016-12-15 11:18:58.578 -0700	SUCCESS		Execution Time 0:00:00 NewPatient.script	37	on_master	Master.script

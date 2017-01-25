@@ -1,0 +1,4 @@
+﻿put "John" into global FirstName
+put "Doe" into global LastName
+put 30 into global Age
+

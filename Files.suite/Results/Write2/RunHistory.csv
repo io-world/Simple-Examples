@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-12-20 16:56:07.303 -0700,"Success",0:00:00,0,0,0,"20161220_165607.303/LogFile.txt","","",1
+2016-12-20 16:58:44.375 -0700,"Success",0:00:00,0,0,0,"20161220_165844.375/LogFile.txt","","",1
+2016-12-21 08:45:49.886 -0700,"Success",0:00:00,0,0,0,"20161221_084549.886/LogFile.txt","","",1
+2016-12-21 08:46:29.479 -0700,"Failure",0:00:00,1,0,0,"20161221_084629.479/LogFile.txt","","STFileException -- Attempt to access unopened file: 1,2,71,45,Joe\n3,4\n90,123\n12,88\nMike\nAshley Milne\nmy name is what?\nmy name is what?\nmy name is what?\nmy name is what?\nmy name is what?\nmy name is what?\nGIO NOW",0
+2016-12-21 08:46:53.806 -0700,"Success",0:00:00,0,0,0,"20161221_084653.806/LogFile.txt","","",1

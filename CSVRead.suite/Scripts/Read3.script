@@ -1,0 +1,19 @@
+﻿
+open file "//Users/randyhesse/Documents/Simple Examples/CSVRead.suite/Resources/WebFormData.CSV" 
+put file openfiles() into PatientFile 
+
+
+put the number of lines of PatientFile into max
+log max
+
+repeat max-1 times
+	put line repeatindex()+1 of PatientFile into PatientLine
+	do "put" & quote & PatientLine &quote&& "into" && "Patient" & repeatindex() 
+end repeat
+PauseScript
+
+log patient1
+log Patient2
+
+
+

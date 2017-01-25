@@ -1,0 +1,3 @@
+﻿2016-11-30 15:20:22.795 -0700	START		Running Read5.script
+2016-11-30 15:20:24.114 -0700	EndTestCase		(Duration:"1.317109", Errors:"1", Exceptions:"0", StartTime:"2016-11-30 15:20:22 -0700", Successes:"0", TestCase:"Read5.script", Warnings:"0")
+2016-11-30 15:20:24.638 -0700	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Function: 'pfield' -- Execution Time 0:00:01 Read5.script

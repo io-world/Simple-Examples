@@ -1,0 +1,28 @@
+﻿moveto imagelocation("English Name")+(0,-100)
+
+
+put ImageLocation ("English Name") into ILEName
+insert ILEName+(-45,40) into ReadEnglishName
+insert ILEName+(50,60) into ReadEnglishName
+log ReadEnglishName
+
+log ReadText(ReadEnglishName)
+
+
+repeat until PokemonName= "Pikachu"
+	put ReadText(ReadEnglishName) into PokemonName
+	log PokemonName
+	
+	if PokemonName = "rattata" then
+		Exit repeat
+	else if PokemonName = "Pikachu"
+		logerror "Could Not Find PokemonName"
+	else
+		put ReadEnglishName+(0,27,0,27) into ReadEnglishName
+	end if
+end repeat
+
+delete item 4 of ReadEnglishName
+delete item 3 of ReadEnglishName
+log ReadEnglishName
+moveto ReadEnglishName+(40,10)

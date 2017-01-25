@@ -1,0 +1,14 @@
+﻿
+
+
+Log "code for Navigation for TestA "
+
+
+verify.imageC "TestA/image0001"
+
+verify.TextC "plan" , "",(0,0,500,500)
+
+//navigate some where
+
+
+verify.TextC "plan" , "3"

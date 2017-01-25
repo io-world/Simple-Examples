@@ -1,0 +1,48 @@
+﻿2016-12-06 16:25:15.455 -0600	START		Running Demo.script
+2016-12-06 16:25:15.583 -0600	Log		First_Name	16	on_demo	Demo.script
+2016-12-06 16:25:15.601 -0600	Log		Middle_Name	16	on_demo	Demo.script
+2016-12-06 16:25:15.619 -0600	Log		Last_Name	16	on_demo	Demo.script
+2016-12-06 16:25:15.636 -0600	Log		Medical_Record_Number	16	on_demo	Demo.script
+2016-12-06 16:25:15.653 -0600	Log		Date_of_Birth	16	on_demo	Demo.script
+2016-12-06 16:25:15.689 -0600	Log		Bruce	16	on_demo	Demo.script
+2016-12-06 16:25:15.704 -0600	Log			16	on_demo	Demo.script
+2016-12-06 16:25:15.721 -0600	Log		Wayne	16	on_demo	Demo.script
+2016-12-06 16:25:15.740 -0600	Log		222222	16	on_demo	Demo.script
+2016-12-06 16:25:15.752 -0600	Log		6/13/06	16	on_demo	Demo.script
+2016-12-06 16:25:15.784 -0600	Log		Carrie	16	on_demo	Demo.script
+2016-12-06 16:25:15.804 -0600	Log			16	on_demo	Demo.script
+2016-12-06 16:25:15.820 -0600	Log		Underwood	16	on_demo	Demo.script
+2016-12-06 16:25:15.836 -0600	Log		333333	16	on_demo	Demo.script
+2016-12-06 16:25:15.855 -0600	Log		3/16/14	16	on_demo	Demo.script
+2016-12-06 16:25:15.890 -0600	Log		Wonder	16	on_demo	Demo.script
+2016-12-06 16:25:15.903 -0600	Log			16	on_demo	Demo.script
+2016-12-06 16:25:15.918 -0600	Log		Woman	16	on_demo	Demo.script
+2016-12-06 16:25:15.935 -0600	Log		444444	16	on_demo	Demo.script
+2016-12-06 16:25:15.952 -0600	Log		4/24/03	16	on_demo	Demo.script
+2016-12-06 16:25:16.001 -0600	Log		Darth	16	on_demo	Demo.script
+2016-12-06 16:25:16.019 -0600	Log		A	16	on_demo	Demo.script
+2016-12-06 16:25:16.038 -0600	Log		Vader	16	on_demo	Demo.script
+2016-12-06 16:25:16.055 -0600	Log		555555	16	on_demo	Demo.script
+2016-12-06 16:25:16.071 -0600	Log		12/23/87	16	on_demo	Demo.script
+2016-12-06 16:25:16.105 -0600	Log		James	16	on_demo	Demo.script
+2016-12-06 16:25:16.121 -0600	Log			16	on_demo	Demo.script
+2016-12-06 16:25:16.139 -0600	Log		Bond	16	on_demo	Demo.script
+2016-12-06 16:25:16.156 -0600	Log		666666	16	on_demo	Demo.script
+2016-12-06 16:25:16.181 -0600	Log		7/30/81	16	on_demo	Demo.script
+2016-12-06 16:25:16.209 -0600	Log		Homer	16	on_demo	Demo.script
+2016-12-06 16:25:16.222 -0600	Log			16	on_demo	Demo.script
+2016-12-06 16:25:16.248 -0600	Log		Simpson	16	on_demo	Demo.script
+2016-12-06 16:25:16.264 -0600	Log		777777	16	on_demo	Demo.script
+2016-12-06 16:25:16.281 -0600	Log		9/1/80	16	on_demo	Demo.script
+2016-12-06 16:25:16.319 -0600	Log		Optimus	16	on_demo	Demo.script
+2016-12-06 16:25:16.336 -0600	Log			16	on_demo	Demo.script
+2016-12-06 16:25:16.351 -0600	Log		Prime	16	on_demo	Demo.script
+2016-12-06 16:25:16.369 -0600	Log		888888	16	on_demo	Demo.script
+2016-12-06 16:25:16.388 -0600	Log		9/19/85	16	on_demo	Demo.script
+2016-12-06 16:25:16.420 -0600	Log		Mickey	16	on_demo	Demo.script
+2016-12-06 16:25:16.437 -0600	Log			16	on_demo	Demo.script
+2016-12-06 16:25:16.453 -0600	Log		Mouse	16	on_demo	Demo.script
+2016-12-06 16:25:16.470 -0600	Log		999999	16	on_demo	Demo.script
+2016-12-06 16:25:16.487 -0600	Log		6/14/00	16	on_demo	Demo.script
+2016-12-06 16:25:17.184 -0600	EndTestCase		(Duration:"1.727431", Errors:"0", Exceptions:"0", StartTime:"2016-12-06 16:25:15 -0600", Successes:"1", TestCase:"Demo.script", Warnings:"0")
+2016-12-06 16:25:17.209 -0600	SUCCESS		Execution Time 0:00:01 Demo.script

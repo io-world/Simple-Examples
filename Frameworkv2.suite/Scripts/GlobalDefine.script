@@ -1,0 +1,6 @@
+﻿
+
+
+put "john" into global Fname
+put "doe" into global Lname
+put "45" into global age

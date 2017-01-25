@@ -1,0 +1,6 @@
+﻿2016-12-12 10:53:57.838 -0700	START		Running dataDriven.script
+2016-12-12 10:53:58.931 -0700	Log		(CSVFile:"")	33	on_datadriven	dataDriven.script
+2016-12-12 10:53:59.616 -0700	Log		("":"", CSVFile:"")	33	on_datadriven	dataDriven.script
+2016-12-12 10:53:59.665 -0700	pausescript			70	on_datadriven	dataDriven.script
+2016-12-12 10:54:18.783 -0700	EndTestCase		(Duration:"20.943623", Errors:"1", Exceptions:"0", StartTime:"2016-12-12 10:53:57 -0700", Successes:"0", TestCase:"dataDriven.script", Warnings:"0")
+2016-12-12 10:54:18.784 -0700	ABORTED		Execution Time 0:00:20 dataDriven.script

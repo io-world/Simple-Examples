@@ -1,0 +1,12 @@
+﻿2016-12-12 15:10:24.262 -0800	START		Running Master.script
+2016-12-12 15:10:25.270 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_151025.270/LogFile.txt)	30	on_master	Master.script
+2016-12-12 15:10:26.187 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_151026.186/LogFile.txt)	30	on_master	Master.script
+2016-12-12 15:10:27.084 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_151027.083/LogFile.txt)	30	on_master	Master.script
+2016-12-12 15:10:27.946 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_151027.946/LogFile.txt)	30	on_master	Master.script
+2016-12-12 15:10:28.855 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_151028.854/LogFile.txt)	30	on_master	Master.script
+2016-12-12 15:10:29.761 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_151029.761/LogFile.txt)	30	on_master	Master.script
+2016-12-12 15:10:30.763 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_151030.762/LogFile.txt)	30	on_master	Master.script
+2016-12-12 15:10:31.715 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_151031.715/LogFile.txt)	30	on_master	Master.script
+2016-12-12 15:10:32.641 -0800	runwithnewresults		NewPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/NewPatient/20161212_151032.640/LogFile.txt)	30	on_master	Master.script
+2016-12-12 15:10:32.886 -0800	EndTestCase		(Duration:"8.62243", Errors:"0", Exceptions:"0", StartTime:"2016-12-12 15:10:24 -0800", Successes:"10", TestCase:"Master.script", Warnings:"0")
+2016-12-12 15:10:32.893 -0800	SUCCESS		Execution Time 0:00:08 Master.script

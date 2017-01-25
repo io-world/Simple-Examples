@@ -1,0 +1,13 @@
+﻿2016-12-22 09:59:08.979 -0700	START		Running BUILD.script
+2016-12-22 09:59:09.067 -0700	Log		222222,Mr,Bruce,A,Wayne,6/13/06,113-83-3798,Male,Single	13	on_build	BUILD.script
+2016-12-22 09:59:09.088 -0700	Log		333333,Mrs,Carrie,B,Underwood,3/16/14,583-00-6387,Female,Married	13	on_build	BUILD.script
+2016-12-22 09:59:09.106 -0700	Log		444444,Ms,Wonder,C,Woman,4/24/03,580-71-8520,Female,Divorced	13	on_build	BUILD.script
+2016-12-22 09:59:09.135 -0700	Log		555555,Dr,Darth,D,Vader,12/23/87,744-85-1232,Male,Widowed	13	on_build	BUILD.script
+2016-12-22 09:59:09.154 -0700	Log		666666,Dr,James,E,Bond,7/30/81,973-13-0224,Male,Single	13	on_build	BUILD.script
+2016-12-22 09:59:09.171 -0700	Log		777777,Mr,Homer,F,Simpson,9/1/80,557-31-0655,Male,Married	13	on_build	BUILD.script
+2016-12-22 09:59:09.191 -0700	Log		888888,Dr,Optimus,G,Prime,9/19/85,521-26-0727,Other,Divorced	13	on_build	BUILD.script
+2016-12-22 09:59:09.217 -0700	Log		999999,Dr,Mickey,H,Mouse,6/14/00,984-56-3166,Male,Single	13	on_build	BUILD.script
+2016-12-22 09:59:09.236 -0700	Log		101010,Mr,SpongeBob,I,SquarePants,6/14/00,984-56-3166,Male,Single	13	on_build	BUILD.script
+2016-12-22 09:59:09.254 -0700	Log			13	on_build	BUILD.script
+2016-12-22 09:59:09.490 -0700	EndTestCase		(Duration:"0.510056", Errors:"0", Exceptions:"0", StartTime:"2016-12-22 09:59:08 -0700", Successes:"1", TestCase:"BUILD.script", Warnings:"0")
+2016-12-22 09:59:09.504 -0700	SUCCESS		Execution Time 0:00:00 BUILD.script

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Index">
+ <run>
+  <RunDate>2016-09-23 13:18:17.110 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.428131</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160923_131817.110/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-23 13:18:52.232 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.428475</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160923_131852.232/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-23 13:26:53.804 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>3.612449</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160923_132653.804/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-23 13:27:19.404 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>8.290517</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160923_132719.404/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-23 13:27:42.486 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>10.114619</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160923_132742.486/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-23 13:28:30.225 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>10.597978</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160923_132830.225/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-23 13:30:35.988 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>10.575219</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160923_133035.988/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-23 13:30:51.956 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>10.558455</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160923_133051.956/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-23 13:31:41.895 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>10.597852</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160923_133141.895/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-23 13:35:11.872 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>10.577634</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160923_133511.872/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-09-23 13:35:55.062 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>10.323177</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160923_133555.062/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

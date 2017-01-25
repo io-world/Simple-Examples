@@ -1,0 +1,13 @@
+﻿2016-12-22 10:23:50.085 -0700	START		Running BUILD.script
+2016-12-22 10:23:50.243 -0700	Log		(@"Medical Record Number":"222222")	27	on_build	BUILD.script
+2016-12-22 10:23:50.292 -0700	Log		(@"Medical Record Number":"222222", Prefix:"Mr")	27	on_build	BUILD.script
+2016-12-22 10:23:50.341 -0700	Log		(@"First Name":"Bruce", @"Medical Record Number":"222222", Prefix:"Mr")	27	on_build	BUILD.script
+2016-12-22 10:23:50.390 -0700	Log		(@"First Name":"Bruce", @"Medical Record Number":"222222", @"Middle Name":"A", Prefix:"Mr")	27	on_build	BUILD.script
+2016-12-22 10:23:50.439 -0700	Log		(@"First Name":"Bruce", @"Last Name":"Wayne", @"Medical Record Number":"222222", @"Middle Name":"A", Prefix:"Mr")	27	on_build	BUILD.script
+2016-12-22 10:23:50.491 -0700	Log		(@"Date of Birth":"6/13/06", @"First Name":"Bruce", @"Last Name":"Wayne", @"Medical Record Number":"222222", @"Middle Name":"A", Prefix:"Mr")	27	on_build	BUILD.script
+2016-12-22 10:23:50.540 -0700	Log		(@"Date of Birth":"6/13/06", @"First Name":"Bruce", @"Last Name":"Wayne", @"Medical Record Number":"222222", @"Middle Name":"A", Prefix:"Mr", @"Social Security Number":"113-83-3798")	27	on_build	BUILD.script
+2016-12-22 10:23:50.587 -0700	Log		(@"Date of Birth":"6/13/06", @"First Name":"Bruce", Gender:"Male", @"Last Name":"Wayne", @"Medical Record Number":"222222", @"Middle Name":"A", Prefix:"Mr", @"Social Security Number":"113-83-3798")	27	on_build	BUILD.script
+2016-12-22 10:23:50.636 -0700	Log		(@"Date of Birth":"6/13/06", @"First Name":"Bruce", Gender:"Male", @"Last Name":"Wayne", @"Marital Status":"Single", @"Medical Record Number":"222222", @"Middle Name":"A", Prefix:"Mr", @"Social Security Number":"113-83-3798")	27	on_build	BUILD.script
+2016-12-22 10:23:50.659 -0700	Exception	create new patient	Could Not Open Image: create new patient	4	on_somepatient	somePatient.script
+2016-12-22 10:23:50.913 -0700	EndTestCase		(Duration:"0.825727", Errors:"1", Exceptions:"1", StartTime:"2016-12-22 10:23:50 -0700", Successes:"0", TestCase:"BUILD.script", Warnings:"0")
+2016-12-22 10:23:51.964 -0700	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: create new patient -- Execution Time 0:00:00 BUILD.script

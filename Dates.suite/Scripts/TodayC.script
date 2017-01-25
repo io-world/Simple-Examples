@@ -1,0 +1,29 @@
+﻿
+
+
+function WordDate
+	put formattedTime("%B", the long date) & capitalized(the day of the long date as a word) into worddate
+	put lowercase(worddate) into worddate
+	replace "-" with "" in worddate	
+	
+	return worddate
+end Worddate
+
+
+function wordyear
+	put the year as a word into wordyear
+	replace " " with "" in wordyear
+	return wordyear
+end wordyear
+
+
+function WordTime
+	put formattedTime("%1H%M%S")as text into Numtime
+	put numberwords(Numtime) into wordtime
+	replace " " with "" in wordtime
+	replace "-" with "" in wordtime
+	return wordtime
+end WordTime
+
+
+

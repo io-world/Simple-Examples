@@ -1,0 +1,4 @@
+﻿2016-09-29 14:52:20.969 -0600	START		Running IndexShell.script
+2016-09-29 14:52:22.015 -0600	Log			1	on_indexshell	IndexShell.script
+2016-09-29 14:52:22.376 -0600	EndTestCase		(Duration:"1.405135", Errors:"0", Exceptions:"0", StartTime:"2016-09-29 14:52:20 -0600", Successes:"1", TestCase:"IndexShell.script", Warnings:"0")
+2016-09-29 14:52:22.380 -0600	SUCCESS		Execution Time 0:00:01 IndexShell.script

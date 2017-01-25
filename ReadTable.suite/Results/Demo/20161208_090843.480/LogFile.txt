@@ -1,0 +1,6 @@
+﻿2016-12-08 09:08:43.481 -0500	START		Running Demo.script
+2016-12-08 09:08:45.344 -0500	imagelocation	Demo/List	at (217, 314)	1	on_demo	Demo.script
+2016-12-08 09:08:45.372 -0500	Log		(197,414,277,814)	5	on_demo	Demo.script
+2016-12-08 09:08:45.382 -0500	Exception	point1	Could Not Open Image: point1	7	on_demo	Demo.script
+2016-12-08 09:08:45.732 -0500	EndTestCase		(Duration:"2.250172", Errors:"1", Exceptions:"1", StartTime:"2016-12-08 09:08:43 -0500", Successes:"0", TestCase:"Demo.script", Warnings:"0")
+2016-12-08 09:08:47.611 -0500	FAILURE	Screen_Error.png	File Not Found readtext Error - Could Not Open Image: point1 -- Execution Time 0:00:02 Demo.script

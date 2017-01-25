@@ -1,0 +1,6 @@
+﻿2016-12-12 10:08:47.522 -0700	START		Running login.script	29	on_datadriven	dataDriven.script
+2016-12-12 10:08:47.538 -0700	Log		running login	3	on_login	login.script
+2016-12-12 10:08:47.540 -0700	Log		Bridget	5	on_login	login.script
+2016-12-12 10:08:47.563 -0700	Log		BT1	6	on_login	login.script
+2016-12-12 10:08:47.566 -0700	EndTestCase		(Duration:"0.042497", Errors:"0", Exceptions:"0", StartTime:"2016-12-12 10:08:47 -0700", Successes:"1", TestCase:"login.script", Warnings:"0")	29	on_datadriven	dataDriven.script
+2016-12-12 10:08:47.577 -0700	SUCCESS		Execution Time 0:00:00 login.script	29	on_datadriven	dataDriven.script

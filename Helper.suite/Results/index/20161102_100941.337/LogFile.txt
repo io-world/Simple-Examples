@@ -1,0 +1,4 @@
+﻿2016-11-02 10:09:41.338 -0400	START		Running index.script
+2016-11-02 10:09:41.416 -0400	Log		Excuted Foo	2	on_foo	/Users/randyhesse/Documents/Simple Examples/Helper2.suite/Scripts/Module1.script
+2016-11-02 10:09:41.752 -0400	EndTestCase		(Duration:"0.412174", Errors:"0", Exceptions:"0", StartTime:"2016-11-02 10:09:41 -0400", Successes:"1", TestCase:"index.script", Warnings:"0")
+2016-11-02 10:09:41.760 -0400	SUCCESS		Execution Time 0:00:00 index.script

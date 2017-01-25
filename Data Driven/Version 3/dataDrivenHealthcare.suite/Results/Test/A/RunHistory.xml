@@ -1,0 +1,231 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Test/A">
+ <run>
+  <RunDate>2017-01-06 09:59:16.124 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.063349</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170106_095916.124/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: TestA/image0001</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 09:59:16.998 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.058482</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170106_095916.998/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: TestA/image0001</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 09:59:17.880 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.063510</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170106_095917.880/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: TestA/image0001</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 09:59:18.728 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.057323</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170106_095918.728/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: TestA/image0001</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 09:59:19.617 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.069248</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170106_095919.617/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: TestA/image0001</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 09:59:20.514 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.063284</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170106_095920.514/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: TestA/image0001</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 09:59:21.368 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.075492</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170106_095921.368/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: TestA/image0001</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 09:59:22.215 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.064496</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170106_095922.215/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: TestA/image0001</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 09:59:23.084 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.072885</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170106_095923.084/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: TestA/image0001</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 09:59:23.979 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.063482</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170106_095923.979/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: TestA/image0001</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 10:39:44.166 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>3.043881</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_103944.166/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 10:39:47.814 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>3.074926</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_103947.814/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 10:39:51.480 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>2.903106</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_103951.480/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 10:39:54.982 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>2.941859</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_103954.982/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 10:39:58.533 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>3.089929</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_103958.533/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 10:40:02.250 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>2.971775</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_104002.250/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 10:40:05.829 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>3.035423</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_104005.829/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 10:40:09.447 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>2.982996</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_104009.447/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-01-06 10:40:13.047 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>3.012566</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170106_104013.047/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

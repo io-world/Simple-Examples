@@ -1,0 +1,43 @@
+﻿2016-12-19 21:38:25.775 -0800	START		Running Read6.script
+2016-12-19 21:38:25.938 -0800	Log		PatientLine:Mr,Bruce,,Wayne,222222,6/13/06,113-83-3798,Male,Single	11	on_read6	Read6.script
+2016-12-19 21:38:25.976 -0800	Log		Mr	16	on_read6	Read6.script
+2016-12-19 21:38:25.981 -0800	Log		Mr	17	on_read6	Read6.script
+2016-12-19 21:38:26.028 -0800	Log		Bruce	16	on_read6	Read6.script
+2016-12-19 21:38:26.043 -0800	Log		Bruce	17	on_read6	Read6.script
+2016-12-19 21:38:26.095 -0800	Log			16	on_read6	Read6.script
+2016-12-19 21:38:26.112 -0800	Log			17	on_read6	Read6.script
+2016-12-19 21:38:26.169 -0800	Log		Wayne	16	on_read6	Read6.script
+2016-12-19 21:38:26.173 -0800	Log		Wayne	17	on_read6	Read6.script
+2016-12-19 21:38:26.202 -0800	Log		222222	16	on_read6	Read6.script
+2016-12-19 21:38:26.206 -0800	Log		222222	17	on_read6	Read6.script
+2016-12-19 21:38:26.243 -0800	Log		6/13/06	16	on_read6	Read6.script
+2016-12-19 21:38:26.247 -0800	Log		6/13/06	17	on_read6	Read6.script
+2016-12-19 21:38:26.295 -0800	Log		113-83-3798	16	on_read6	Read6.script
+2016-12-19 21:38:26.309 -0800	Log		113-83-3798	17	on_read6	Read6.script
+2016-12-19 21:38:26.362 -0800	Log		Male	16	on_read6	Read6.script
+2016-12-19 21:38:26.378 -0800	Log		Male	17	on_read6	Read6.script
+2016-12-19 21:38:26.429 -0800	Log		Single	16	on_read6	Read6.script
+2016-12-19 21:38:26.447 -0800	Log		Single	17	on_read6	Read6.script
+2016-12-19 21:38:26.476 -0800	Log		PropList	23	on_read6	Read6.script
+2016-12-19 21:38:26.515 -0800	Log		PatientLine:Mrs,Carrie,,Underwood,333333,3/16/14,583-00-6387,Female,Married	11	on_read6	Read6.script
+2016-12-19 21:38:26.562 -0800	Log		Mr	16	on_read6	Read6.script
+2016-12-19 21:38:26.578 -0800	Log		Mrs	17	on_read6	Read6.script
+2016-12-19 21:38:26.662 -0800	Log		Bruce	16	on_read6	Read6.script
+2016-12-19 21:38:26.679 -0800	Log		Carrie	17	on_read6	Read6.script
+2016-12-19 21:38:26.730 -0800	Log			16	on_read6	Read6.script
+2016-12-19 21:38:26.744 -0800	Log			17	on_read6	Read6.script
+2016-12-19 21:38:26.779 -0800	Log		Wayne	16	on_read6	Read6.script
+2016-12-19 21:38:26.792 -0800	Log		Underwood	17	on_read6	Read6.script
+2016-12-19 21:38:26.849 -0800	Log		222222	16	on_read6	Read6.script
+2016-12-19 21:38:26.861 -0800	Log		333333	17	on_read6	Read6.script
+2016-12-19 21:38:26.930 -0800	Log		6/13/06	16	on_read6	Read6.script
+2016-12-19 21:38:26.947 -0800	Log		3/16/14	17	on_read6	Read6.script
+2016-12-19 21:38:27.012 -0800	Log		113-83-3798	16	on_read6	Read6.script
+2016-12-19 21:38:27.026 -0800	Log		583-00-6387	17	on_read6	Read6.script
+2016-12-19 21:38:27.063 -0800	Log		Male	16	on_read6	Read6.script
+2016-12-19 21:38:27.074 -0800	Log		Female	17	on_read6	Read6.script
+2016-12-19 21:38:27.111 -0800	Log		Single	16	on_read6	Read6.script
+2016-12-19 21:38:27.125 -0800	Log		Married	17	on_read6	Read6.script
+2016-12-19 21:38:27.149 -0800	Log		PropList	23	on_read6	Read6.script
+2016-12-19 21:38:27.377 -0800	EndTestCase		(Duration:"1.600957", Errors:"0", Exceptions:"0", StartTime:"2016-12-19 21:38:25 -0800", Successes:"1", TestCase:"Read6.script", Warnings:"0")
+2016-12-19 21:38:27.389 -0800	SUCCESS		Execution Time 0:00:01 Read6.script

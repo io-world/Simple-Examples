@@ -1,0 +1,2 @@
+﻿2016-12-19 21:25:36.027 -0800	START		Running Read6.script
+2016-12-19 21:25:36.463 -0800	EndTestCase		(Duration:"0.43522", Errors:"1", Exceptions:"0", StartTime:"2016-12-19 21:25:36 -0800", Successes:"0", TestCase:"Read6.script", Warnings:"0")

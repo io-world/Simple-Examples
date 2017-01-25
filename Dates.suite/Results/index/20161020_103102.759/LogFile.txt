@@ -1,0 +1,5 @@
+﻿2016-10-20 10:31:02.759 -0600	START		Running index.script
+2016-10-20 10:31:02.858 -0600	Log		OctoberTwenty	7	on_index	index.script
+2016-10-20 10:31:02.904 -0600	Log		two thousand sixteen	8	on_index	index.script
+2016-10-20 10:31:03.830 -0600	EndTestCase		(Duration:"1.068632", Errors:"1", Exceptions:"0", StartTime:"2016-10-20 10:31:02 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-10-20 10:31:04.244 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: 'numberwords' was called as a Command, but is only available as a Function -- Execution Time 0:00:01 index.script

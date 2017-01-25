@@ -1,0 +1,4 @@
+﻿2017-01-06 09:12:59.095 -0700	START		Running Modules/GlobalDefine.script
+2017-01-06 09:12:59.272 -0700	Exception		Unable to locate script named: login	18	on_modules_globaldefine	Modules/GlobalDefine.script
+2017-01-06 09:12:59.551 -0700	EndTestCase		(Duration:"0.455343", Errors:"1", Exceptions:"1", StartTime:"2017-01-06 09:12:59 -0700", Successes:"0", TestCase:"Modules/GlobalDefine.script", Warnings:"0")
+2017-01-06 09:12:59.975 -0700	FAILURE	Screen_Error.png	Error Running Script Command runwithnewresults Error - Unable to locate script named: login -- Execution Time 0:00:00 Modules/GlobalDefine.script

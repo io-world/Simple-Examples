@@ -1,0 +1,7 @@
+﻿2016-09-20 10:13:34.688 -0600	START		Running Index.script
+2016-09-20 10:13:35.195 -0600	imagelocation	List	at (220, 114)	5	on_index	Index.script
+2016-09-20 10:13:35.229 -0600	Log		(320,184,390,1114)	9	on_index	Index.script
+2016-09-20 10:13:35.656 -0600	readtext		(320,184,390,900)
+2016-09-20 10:13:35.657 -0600	Log		Bulbasc\nIvysai\nVenusa\nCharmar\nChannel\nChariZc\nSquirtl\nWartorl\nBlastoi:\nCaterp\nMeta pc\nButte rfr\nWeedl\nKakun\nBeedr\nPidge\nPidgeo\nPidgec\nRattat\nRatica\nSpearc\nFearo\nEkan*\nArboh	11	on_index	Index.script
+2016-09-20 10:13:36.007 -0600	EndTestCase		(Duration:"1.318139", Errors:"0", Exceptions:"0", StartTime:"2016-09-20 10:13:34 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2016-09-20 10:13:36.012 -0600	SUCCESS		Execution Time 0:00:01 Index.script

@@ -1,0 +1,34 @@
+﻿2017-01-06 10:41:55.320 -0700	START		Running Index.script
+2017-01-06 10:41:55.514 -0700	runwithnewresults		Zero.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/States/Zero/20170106_104155.513/LogFile.txt)	9	on_index	Index.script
+2017-01-06 10:41:55.575 -0700	runwithnewresults		Login.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Libraries/Login/20170106_104155.574/LogFile.txt)	10	on_index	Index.script
+2017-01-06 10:41:56.856 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170106_104156.855/LogFile.txt)	22	on_index	Index.script
+2017-01-06 10:41:56.971 -0700	Log		(Password,Patient,Username)	5	on_states_reporting	States/Reporting.script
+2017-01-06 10:41:57.297 -0700	capturescreen	Error.png	(0,0,1440,900)	6	on_states_reporting	States/Reporting.script
+2017-01-06 10:41:57.663 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170106_104157.662/LogFile.txt)	22	on_index	Index.script
+2017-01-06 10:41:57.816 -0700	Log		(Password,Patient,Username)	5	on_states_reporting	States/Reporting.script
+2017-01-06 10:41:58.167 -0700	capturescreen	Error.png	(0,0,1440,900)	6	on_states_reporting	States/Reporting.script
+2017-01-06 10:41:58.503 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170106_104158.502/LogFile.txt)	22	on_index	Index.script
+2017-01-06 10:41:58.629 -0700	Log		(Password,Patient,Username)	5	on_states_reporting	States/Reporting.script
+2017-01-06 10:41:58.974 -0700	capturescreen	Error.png	(0,0,1440,900)	6	on_states_reporting	States/Reporting.script
+2017-01-06 10:41:59.339 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170106_104159.339/LogFile.txt)	22	on_index	Index.script
+2017-01-06 10:41:59.453 -0700	Log		(Password,Patient,Username)	5	on_states_reporting	States/Reporting.script
+2017-01-06 10:41:59.854 -0700	capturescreen	Error.png	(0,0,1440,900)	6	on_states_reporting	States/Reporting.script
+2017-01-06 10:42:00.216 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170106_104200.215/LogFile.txt)	22	on_index	Index.script
+2017-01-06 10:42:00.344 -0700	Log		(Password,Patient,Username)	5	on_states_reporting	States/Reporting.script
+2017-01-06 10:42:00.617 -0700	capturescreen	Error.png	(0,0,1440,900)	6	on_states_reporting	States/Reporting.script
+2017-01-06 10:42:00.923 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170106_104200.922/LogFile.txt)	22	on_index	Index.script
+2017-01-06 10:42:01.054 -0700	Log		(Password,Patient,Username)	5	on_states_reporting	States/Reporting.script
+2017-01-06 10:42:01.531 -0700	capturescreen	Error.png	(0,0,1440,900)	6	on_states_reporting	States/Reporting.script
+2017-01-06 10:42:01.880 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170106_104201.879/LogFile.txt)	22	on_index	Index.script
+2017-01-06 10:42:02.008 -0700	Log		(Password,Patient,Username)	5	on_states_reporting	States/Reporting.script
+2017-01-06 10:42:02.501 -0700	capturescreen	Error.png	(0,0,1440,900)	6	on_states_reporting	States/Reporting.script
+2017-01-06 10:42:02.939 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170106_104202.938/LogFile.txt)	22	on_index	Index.script
+2017-01-06 10:42:03.112 -0700	Log		(Password,Patient,Username)	5	on_states_reporting	States/Reporting.script
+2017-01-06 10:42:03.628 -0700	capturescreen	Error.png	(0,0,1440,900)	6	on_states_reporting	States/Reporting.script
+2017-01-06 10:42:04.055 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170106_104204.055/LogFile.txt)	22	on_index	Index.script
+2017-01-06 10:42:04.293 -0700	Log		(Password,Patient,Username)	5	on_states_reporting	States/Reporting.script
+2017-01-06 10:42:04.813 -0700	capturescreen	Error.png	(0,0,1440,900)	6	on_states_reporting	States/Reporting.script
+2017-01-06 10:42:04.906 -0700	Log		running logout	1	on_libraries_logout	Libraries/Logout.script
+2017-01-06 10:42:04.998 -0700	Log		initiate Zero State	4	on_states_zero	States/Zero.script
+2017-01-06 10:42:05.471 -0700	EndTestCase		(Duration:"10.149618", Errors:"0", Exceptions:"0", StartTime:"2017-01-06 10:41:55 -0700", Successes:"12", TestCase:"Index.script", Warnings:"0")
+2017-01-06 10:42:05.530 -0700	SUCCESS		Execution Time 0:00:10 Index.script

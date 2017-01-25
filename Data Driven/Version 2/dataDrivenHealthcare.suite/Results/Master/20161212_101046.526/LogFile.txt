@@ -1,0 +1,13 @@
+﻿2016-12-12 10:10:46.527 -0700	START		Running dataDriven.script
+2016-12-12 10:10:46.700 -0700	Log		Username,Password,Bridget,BT1,,,	7	on_datadriven	dataDriven.script
+2016-12-12 10:10:46.958 -0700	runwithnewresults		login.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/login/20161212_101046.957/LogFile.txt)	29	on_datadriven	dataDriven.script
+2016-12-12 10:10:47.055 -0700	runwithnewresults		addPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/addPatient/20161212_101047.054/LogFile.txt)	30	on_datadriven	dataDriven.script
+2016-12-12 10:10:47.188 -0700	runwithnewresults		logout.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/logout/20161212_101047.188/LogFile.txt)	31	on_datadriven	dataDriven.script
+2016-12-12 10:10:47.270 -0700	Log		running cleanup	1	on_cleanup	cleanup.script
+2016-12-12 10:10:47.561 -0700	runwithnewresults		login.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/login/20161212_101047.561/LogFile.txt)	29	on_datadriven	dataDriven.script
+2016-12-12 10:10:47.642 -0700	runwithnewresults		addPatient.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/addPatient/20161212_101047.641/LogFile.txt)	30	on_datadriven	dataDriven.script
+2016-12-12 10:10:47.771 -0700	runwithnewresults		logout.script (/Users/randyhesse/Desktop/dataDriven/Version 2/dataDrivenHealthcare.suite/Results/logout/20161212_101047.770/LogFile.txt)	31	on_datadriven	dataDriven.script
+2016-12-12 10:10:47.857 -0700	Log		running cleanup	1	on_cleanup	cleanup.script
+2016-12-12 10:10:47.922 -0700	pausescript			38	on_datadriven	dataDriven.script
+2016-12-12 10:14:16.184 -0700	EndTestCase		(Duration:"209.655135", Errors:"1", Exceptions:"0", StartTime:"2016-12-12 10:10:46 -0700", Successes:"6", TestCase:"dataDriven.script", Warnings:"0")
+2016-12-12 10:14:16.185 -0700	ABORTED		Execution Time 0:03:29 dataDriven.script

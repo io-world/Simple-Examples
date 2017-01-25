@@ -1,0 +1,3 @@
+﻿2016-09-27 12:24:50.795 -0600	START		Running Library.script
+2016-09-27 12:24:51.414 -0600	EndTestCase		(Duration:"0.617481", Errors:"0", Exceptions:"0", StartTime:"2016-09-27 12:24:50 -0600", Successes:"1", TestCase:"Library.script", Warnings:"0")
+2016-09-27 12:24:51.423 -0600	SUCCESS		Execution Time 0:00:00 Library.script

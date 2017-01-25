@@ -1,0 +1,21 @@
+﻿
+open file "//Users/randyhesse/Documents/Simple Examples/CSVRead.suite/Resources/WebFormData.CSV" 
+put file openfiles() into PatientFile 
+
+
+put the number of lines of PatientFile into max
+
+repeat max times
+	
+	put line repeatindex() of PatientFile into PatientLine
+	
+	put item 1 of PatientLine into Patient.suffix
+	put item 2 of PatientLine into Patient.FirstName
+	put item 3 of PatientLine into Patient.LastName
+	
+	
+	
+	log patient.FirstName
+	
+	
+end repeat

@@ -1,0 +1,6 @@
+﻿2016-11-01 22:37:11.941 -0400	START		Running Read3.script
+2016-11-01 22:37:12.067 -0400	Log		10	7	on_read3	Read3.script
+2016-11-01 22:37:12.485 -0400	Log		Mr,Bruce,,Wayne,222222,6/13/06,113-83-3798,Male,Single	14	on_read3	Read3.script
+2016-11-01 22:37:12.491 -0400	Log		Prefix,First Name,Middle Name,Last Name,Medical Record Number,Date of Birth,Social Security Number,Gender,Marital Status	15	on_read3	Read3.script
+2016-11-01 22:37:12.862 -0400	EndTestCase		(Duration:"0.919563", Errors:"0", Exceptions:"0", StartTime:"2016-11-01 22:37:11 -0400", Successes:"1", TestCase:"Read3.script", Warnings:"0")
+2016-11-01 22:37:12.880 -0400	SUCCESS		Execution Time 0:00:00 Read3.script

@@ -1,0 +1,4 @@
+﻿2016-08-31 08:43:08.933 -0600	START		Running index.script
+2016-08-31 08:43:09.105 -0600	Log		Randy Hesse August Thirty One	5	on_index	index.script
+2016-08-31 08:43:09.660 -0600	EndTestCase		(Duration:"0.726536", Errors:"1", Exceptions:"0", StartTime:"2016-08-31 08:43:08 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2016-08-31 08:43:09.891 -0600	FAILURE	Screen_Error.png	SenseTalk Compiler Exception in wordtime:\nWarning at line 9: Warning - Non-matching handler name: time -- Execution Time 0:00:00 index.script

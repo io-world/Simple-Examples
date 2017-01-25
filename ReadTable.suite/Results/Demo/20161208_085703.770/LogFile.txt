@@ -1,0 +1,4 @@
+﻿2016-12-08 08:57:03.771 -0500	START		Running Demo.script
+2016-12-08 08:57:05.706 -0500	click	Demo/List	at (217, 314)	1	on_demo	Demo.script
+2016-12-08 08:57:06.078 -0500	EndTestCase		(Duration:"2.305646", Errors:"0", Exceptions:"0", StartTime:"2016-12-08 08:57:03 -0500", Successes:"1", TestCase:"Demo.script", Warnings:"0")
+2016-12-08 08:57:06.123 -0500	SUCCESS		Execution Time 0:00:02 Demo.script
