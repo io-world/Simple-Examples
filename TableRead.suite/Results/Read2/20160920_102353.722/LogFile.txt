@@ -1,0 +1,62 @@
+﻿2016-09-20 10:23:53.723 -0600	START		Running Read2.script
+2016-09-20 10:23:54.264 -0600	imagelocation	English Name	at (367, 137)	1	on_read2	Read2.script
+2016-09-20 10:23:54.528 -0600	Log		(322,167,417,187)	4	on_read2	Read2.script
+2016-09-20 10:23:54.564 -0600	readtext		(322,167,417,187)
+2016-09-20 10:23:54.565 -0600	Log		Bulbasaur	8	on_read2	Read2.script
+2016-09-20 10:23:54.853 -0600	readtext		(322,194,417,214)
+2016-09-20 10:23:54.853 -0600	Log		Ivysaur	8	on_read2	Read2.script
+2016-09-20 10:23:55.120 -0600	readtext		(322,221,417,241)
+2016-09-20 10:23:55.121 -0600	Log		Venusaur	8	on_read2	Read2.script
+2016-09-20 10:23:55.394 -0600	readtext		(322,248,417,268)
+2016-09-20 10:23:55.395 -0600	Log		Charmander	8	on_read2	Read2.script
+2016-09-20 10:23:55.689 -0600	readtext		(322,275,417,295)
+2016-09-20 10:23:55.690 -0600	Log		Charmeleon	8	on_read2	Read2.script
+2016-09-20 10:23:55.945 -0600	readtext		(322,302,417,322)
+2016-09-20 10:23:55.945 -0600	Log		Charizard	8	on_read2	Read2.script
+2016-09-20 10:23:56.210 -0600	readtext		(322,329,417,349)
+2016-09-20 10:23:56.210 -0600	Log		Squirtle	8	on_read2	Read2.script
+2016-09-20 10:23:56.505 -0600	readtext		(322,356,417,376)
+2016-09-20 10:23:56.506 -0600	Log		Wartortle	8	on_read2	Read2.script
+2016-09-20 10:23:56.750 -0600	readtext		(322,383,417,403)
+2016-09-20 10:23:56.751 -0600	Log		Blastoise	8	on_read2	Read2.script
+2016-09-20 10:23:57.024 -0600	readtext		(322,410,417,430)
+2016-09-20 10:23:57.024 -0600	Log		Caterpie	8	on_read2	Read2.script
+2016-09-20 10:23:57.310 -0600	readtext		(322,437,417,457)
+2016-09-20 10:23:57.311 -0600	Log		Metapod	8	on_read2	Read2.script
+2016-09-20 10:23:57.592 -0600	readtext		(322,464,417,484)
+2016-09-20 10:23:57.593 -0600	Log		Butte rf re e	8	on_read2	Read2.script
+2016-09-20 10:23:57.871 -0600	readtext		(322,491,417,511)
+2016-09-20 10:23:57.871 -0600	Log		Weedle	8	on_read2	Read2.script
+2016-09-20 10:23:58.151 -0600	readtext		(322,518,417,538)
+2016-09-20 10:23:58.152 -0600	Log		Kakuna	8	on_read2	Read2.script
+2016-09-20 10:23:58.422 -0600	readtext		(322,545,417,565)
+2016-09-20 10:23:58.422 -0600	Log		Beedrill	8	on_read2	Read2.script
+2016-09-20 10:23:58.688 -0600	readtext		(322,572,417,592)
+2016-09-20 10:23:58.689 -0600	Log		Pidgey	8	on_read2	Read2.script
+2016-09-20 10:23:58.973 -0600	readtext		(322,599,417,619)
+2016-09-20 10:23:58.973 -0600	Log		Pidgeotto	8	on_read2	Read2.script
+2016-09-20 10:23:59.222 -0600	readtext		(322,626,417,646)
+2016-09-20 10:23:59.222 -0600	Log		Pidgeot	8	on_read2	Read2.script
+2016-09-20 10:23:59.482 -0600	readtext		(322,653,417,673)
+2016-09-20 10:23:59.483 -0600	Log		Rattata	8	on_read2	Read2.script
+2016-09-20 10:23:59.745 -0600	readtext		(322,680,417,700)
+2016-09-20 10:23:59.746 -0600	Log		Raticate	8	on_read2	Read2.script
+2016-09-20 10:24:00.039 -0600	readtext		(322,707,417,727)
+2016-09-20 10:24:00.039 -0600	Log		Spearow	8	on_read2	Read2.script
+2016-09-20 10:24:00.331 -0600	readtext		(322,734,417,754)
+2016-09-20 10:24:00.332 -0600	Log		Fearow	8	on_read2	Read2.script
+2016-09-20 10:24:00.577 -0600	readtext		(322,761,417,781)
+2016-09-20 10:24:00.577 -0600	Log		Ekans	8	on_read2	Read2.script
+2016-09-20 10:24:00.857 -0600	readtext		(322,788,417,808)
+2016-09-20 10:24:00.858 -0600	Log		Arbok	8	on_read2	Read2.script
+2016-09-20 10:24:01.124 -0600	readtext		(322,815,417,835)
+2016-09-20 10:24:01.125 -0600	Log		Pikachu	8	on_read2	Read2.script
+2016-09-20 10:24:01.399 -0600	readtext		(322,842,417,862)
+2016-09-20 10:24:01.400 -0600	Log		Raichu	8	on_read2	Read2.script
+2016-09-20 10:24:01.659 -0600	readtext		(322,869,417,889)
+2016-09-20 10:24:01.659 -0600	Log			8	on_read2	Read2.script
+2016-09-20 10:24:01.924 -0600	readtext		(322,896,417,900)
+2016-09-20 10:24:01.925 -0600	Log			8	on_read2	Read2.script
+2016-09-20 10:24:02.186 -0600	Exception	322	Could Not Open Image: 322	8	on_read2	Read2.script
+2016-09-20 10:24:02.569 -0600	EndTestCase		(Duration:"8.844394", Errors:"1", Exceptions:"1", StartTime:"2016-09-20 10:23:53 -0600", Successes:"0", TestCase:"Read2.script", Warnings:"0")
+2016-09-20 10:24:03.130 -0600	FAILURE	Screen_Error.png	File Not Found readtext Error - Could Not Open Image: 322 -- Execution Time 0:00:08 Read2.script

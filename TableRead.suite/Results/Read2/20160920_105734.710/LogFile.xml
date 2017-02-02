@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Read2.script" package="Lists.suite" timestamp="2016-09-20 10:57:34.710 -0600"
+ tests="1" successes="0" errors="1" time="4.546911">
+  <properties>
+   <property name="RunDate" value="2016-09-20 10:57:34.710 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Read2.script" assertions="1" successes="0" errors="1" time="4.544695">
+    <failure type="LogError">Could Not Find PokemonName</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

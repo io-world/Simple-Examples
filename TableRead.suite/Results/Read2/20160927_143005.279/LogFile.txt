@@ -1,0 +1,47 @@
+﻿2016-09-27 14:30:05.280 -0600	START		Running Read2.script
+2016-09-27 14:30:05.756 -0600	imagelocation	English Name	at (367, 313)	1	on_read2	Read2.script
+2016-09-27 14:30:05.767 -0600	moveto		at (367, 213)	1	on_read2	Read2.script
+2016-09-27 14:30:06.886 -0600	imagelocation	English Name	at (367, 313)	4	on_read2	Read2.script
+2016-09-27 14:30:06.919 -0600	Log		(322,343,417,363)	7	on_read2	Read2.script
+2016-09-27 14:30:06.962 -0600	readtext		(322,343,417,363)
+2016-09-27 14:30:06.979 -0600	Log		Bulbasaur	11	on_read2	Read2.script
+2016-09-27 14:30:07.045 -0600	readtext		(322,370,417,390)
+2016-09-27 14:30:07.048 -0600	Log		Ivysaur	11	on_read2	Read2.script
+2016-09-27 14:30:07.129 -0600	readtext		(322,397,417,417)
+2016-09-27 14:30:07.133 -0600	Log		Venusaur	11	on_read2	Read2.script
+2016-09-27 14:30:07.222 -0600	readtext		(322,424,417,444)
+2016-09-27 14:30:07.226 -0600	Log		Charmander	11	on_read2	Read2.script
+2016-09-27 14:30:07.333 -0600	readtext		(322,451,417,471)
+2016-09-27 14:30:07.337 -0600	Log		Charmeleon	11	on_read2	Read2.script
+2016-09-27 14:30:07.435 -0600	readtext		(322,478,417,498)
+2016-09-27 14:30:07.439 -0600	Log		Charizard	11	on_read2	Read2.script
+2016-09-27 14:30:07.529 -0600	readtext		(322,505,417,525)
+2016-09-27 14:30:07.533 -0600	Log		Squirtle	11	on_read2	Read2.script
+2016-09-27 14:30:07.630 -0600	readtext		(322,532,417,552)
+2016-09-27 14:30:07.634 -0600	Log		Wartortle	11	on_read2	Read2.script
+2016-09-27 14:30:07.712 -0600	readtext		(322,559,417,579)
+2016-09-27 14:30:07.716 -0600	Log		Blastoise	11	on_read2	Read2.script
+2016-09-27 14:30:07.782 -0600	readtext		(322,586,417,606)
+2016-09-27 14:30:07.786 -0600	Log		Caterpie	11	on_read2	Read2.script
+2016-09-27 14:30:07.863 -0600	readtext		(322,613,417,633)
+2016-09-27 14:30:07.867 -0600	Log		Metapod	11	on_read2	Read2.script
+2016-09-27 14:30:07.946 -0600	readtext		(322,640,417,660)
+2016-09-27 14:30:07.949 -0600	Log		Butte rf re e	11	on_read2	Read2.script
+2016-09-27 14:30:08.028 -0600	readtext		(322,667,417,687)
+2016-09-27 14:30:08.031 -0600	Log		Weedle	11	on_read2	Read2.script
+2016-09-27 14:30:08.110 -0600	readtext		(322,694,417,714)
+2016-09-27 14:30:08.133 -0600	Log		Kakuna	11	on_read2	Read2.script
+2016-09-27 14:30:08.235 -0600	readtext		(322,721,417,741)
+2016-09-27 14:30:08.255 -0600	Log		Beedrill	11	on_read2	Read2.script
+2016-09-27 14:30:08.341 -0600	readtext		(322,748,417,768)
+2016-09-27 14:30:08.344 -0600	Log		Pidgey	11	on_read2	Read2.script
+2016-09-27 14:30:08.444 -0600	readtext		(322,775,417,795)
+2016-09-27 14:30:08.447 -0600	Log		Pidgeotto	11	on_read2	Read2.script
+2016-09-27 14:30:08.548 -0600	readtext		(322,802,417,822)
+2016-09-27 14:30:08.552 -0600	Log		Pidgeot	11	on_read2	Read2.script
+2016-09-27 14:30:08.620 -0600	readtext		(322,829,417,849)
+2016-09-27 14:30:08.624 -0600	Log		Rattata	11	on_read2	Read2.script
+2016-09-27 14:30:08.673 -0600	Log		(322,829)	24	on_read2	Read2.script
+2016-09-27 14:30:08.695 -0600	moveto		at (362, 839)	25	on_read2	Read2.script
+2016-09-27 14:30:09.384 -0600	EndTestCase		(Duration:"4.102571", Errors:"0", Exceptions:"0", StartTime:"2016-09-27 14:30:05 -0600", Successes:"1", TestCase:"Read2.script", Warnings:"0")
+2016-09-27 14:30:09.400 -0600	SUCCESS		Execution Time 0:00:04 Read2.script

@@ -1,0 +1,37 @@
+﻿moveto imagelocation("English Name")+(0,-100)
+
+
+insert imagelocation("List")+(-20,100) into Spoint1
+insert imagelocation("List")+(50,600) into Spoint2
+put (Spoint1,Spoint2) into SR
+put ReadText(SR) into NumList
+log NumList
+
+
+
+
+put the number of lines of NumList into Max
+
+repeat MAX times
+	
+	
+	put ImageLocation(Text:line repeatindex() of NumList, searchRectangle:SR) into PointXY
+	insert PointXY+(50,-10) into ReadSquare
+	insert PointXY+(150,10) into ReadSquare
+	
+	
+	
+	put readtext(ReadSquare) into PokemonName
+	log PokemonName
+	
+	if PokemonName = "pidgey" then
+		moveto PointXY+(165,-5)
+		Exit repeat
+	else
+		--
+	end if
+	
+	
+	put () into ReadSquare
+	
+end repeat

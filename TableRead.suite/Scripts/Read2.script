@@ -1,0 +1,26 @@
+﻿moveto imagelocation(image:"Show")+(0,100)
+
+
+put ImageLocation (image:"Show") into ILEName
+insert ILEName+(340,40) into ReadPositions
+insert ILEName+(670,65) into ReadPositions
+
+
+
+repeat until Positions = "Software Engineer" 
+	put ReadText(ReadPositions) into Positions
+	log Positions
+	if Positions = "Javascript Developer" then
+		Exit repeat
+	else if Positions = "Software Engineer"
+		logerror "Could Not Find Positions Name"
+	else
+		put ReadPositions+(0,27,0,27) into ReadPositions
+	end if
+end repeat
+
+
+delete item 4 of ReadPositions
+delete item 3 of ReadPositions
+log ReadPositions
+moveto ReadPositions+(-120,10)

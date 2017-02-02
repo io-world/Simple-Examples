@@ -1,0 +1,11 @@
+﻿2017-02-02 15:40:46.497 -0700	START		Running Read2.script
+2017-02-02 15:40:47.062 -0700	imagelocation	Show	at (28, 82)	1	on_read2	Read2.script
+2017-02-02 15:40:47.074 -0700	moveto		at (28, 182)	1	on_read2	Read2.script
+2017-02-02 15:40:48.296 -0700	imagelocation	Show	at (28, 82)	4	on_read2	Read2.script
+2017-02-02 15:40:48.297 -0700	Log		(348,122,698,392)	7	on_read2	Read2.script
+2017-02-02 15:40:48.394 -0700	readtext		(348,122,698,392)
+2017-02-02 15:40:48.394 -0700	Log		System Architect\nAccountant\nJunior Technical Author\nSenior Javascript Developer\nAccountant\nIntegration Specialist\nSales Assistant\nIntegration Specialist\nJavascript Developer\nSoftware Engineer	9	on_read2	Read2.script
+2017-02-02 15:40:48.488 -0700	readtext		(348,122,698,392)
+2017-02-02 15:40:48.489 -0700	Log		System Architect\nAccountant\nJunior Technical Author\nSenior Javascript Developer\nAccountant\nIntegration Specialist\nSales Assistant\nIntegration Specialist\nJavascript Developer\nSoftware Engineer	14	on_read2	Read2.script
+2017-02-02 15:40:48.924 -0700	EndTestCase		(Duration:"2.425415", Errors:"1", Exceptions:"0", StartTime:"2017-02-02 15:40:46 -0700", Successes:"0", TestCase:"Read2.script", Warnings:"0")
+2017-02-02 15:40:49.486 -0700	FAILURE	Screen_Error.png	SenseTalk Runtime Exception Invalid operands for addition: expected numbers, dates and/or lists; got '(0,27,0,27)' and 'ReadEnglishName' -- Execution Time 0:00:02 Read2.script

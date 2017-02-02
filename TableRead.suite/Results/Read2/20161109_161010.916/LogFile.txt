@@ -1,0 +1,58 @@
+﻿2016-11-09 16:10:10.918 -0700	START		Running Read2.script
+2016-11-09 16:10:11.467 -0700	imagelocation	English Name	at (335, 236)	1	on_read2	Read2.script
+2016-11-09 16:10:11.480 -0700	moveto		at (335, 136)	1	on_read2	Read2.script
+2016-11-09 16:10:12.665 -0700	imagelocation	English Name	at (335, 236)	4	on_read2	Read2.script
+2016-11-09 16:10:12.698 -0700	Log		(290,276,385,296)	7	on_read2	Read2.script
+2016-11-09 16:10:12.748 -0700	readtext		(290,276,385,296)
+2016-11-09 16:10:12.749 -0700	Log		Bulbasaur	9	on_read2	Read2.script
+2016-11-09 16:10:12.813 -0700	readtext		(290,276,385,296)
+2016-11-09 16:10:12.818 -0700	Log		Bulbasaur	14	on_read2	Read2.script
+2016-11-09 16:10:12.901 -0700	readtext		(290,303,385,323)
+2016-11-09 16:10:12.906 -0700	Log		Ivysaur	14	on_read2	Read2.script
+2016-11-09 16:10:12.974 -0700	readtext		(290,330,385,350)
+2016-11-09 16:10:12.978 -0700	Log		\	14	on_read2	Read2.script
+2016-11-09 16:10:13.035 -0700	readtext		(290,357,385,377)
+2016-11-09 16:10:13.048 -0700	Log			14	on_read2	Read2.script
+2016-11-09 16:10:13.133 -0700	readtext		(290,384,385,404)
+2016-11-09 16:10:13.136 -0700	Log		Charmander	14	on_read2	Read2.script
+2016-11-09 16:10:13.257 -0700	readtext		(290,411,385,431)
+2016-11-09 16:10:13.261 -0700	Log		Lharmeleon	14	on_read2	Read2.script
+2016-11-09 16:10:13.327 -0700	readtext		(290,438,385,458)
+2016-11-09 16:10:13.346 -0700	Log			14	on_read2	Read2.script
+2016-11-09 16:10:13.531 -0700	readtext		(290,465,385,485)
+2016-11-09 16:10:13.535 -0700	Log		v^i iai iz-ai u	14	on_read2	Read2.script
+2016-11-09 16:10:13.595 -0700	readtext		(290,492,385,512)
+2016-11-09 16:10:13.611 -0700	Log			14	on_read2	Read2.script
+2016-11-09 16:10:13.680 -0700	readtext		(290,519,385,539)
+2016-11-09 16:10:13.696 -0700	Log			14	on_read2	Read2.script
+2016-11-09 16:10:13.766 -0700	readtext		(290,546,385,566)
+2016-11-09 16:10:13.785 -0700	Log			14	on_read2	Read2.script
+2016-11-09 16:10:13.872 -0700	readtext		(290,573,385,593)
+2016-11-09 16:10:13.891 -0700	Log		Blastoise	14	on_read2	Read2.script
+2016-11-09 16:10:13.993 -0700	readtext		(290,600,385,620)
+2016-11-09 16:10:14.010 -0700	Log		P.atprnip	14	on_read2	Read2.script
+2016-11-09 16:10:14.251 -0700	readtext		(290,627,385,647)
+2016-11-09 16:10:14.255 -0700	Log		Mptannd	14	on_read2	Read2.script
+2016-11-09 16:10:14.368 -0700	readtext		(290,654,385,674)
+2016-11-09 16:10:14.371 -0700	Log		Ruttprfrpp	14	on_read2	Read2.script
+2016-11-09 16:10:14.711 -0700	readtext		(290,681,385,701)
+2016-11-09 16:10:14.714 -0700	Log		Wpprtlp	14	on_read2	Read2.script
+2016-11-09 16:10:14.843 -0700	readtext		(290,708,385,728)
+2016-11-09 16:10:14.919 -0700	Log		Kaki ma	14	on_read2	Read2.script
+2016-11-09 16:10:14.982 -0700	readtext		(290,735,385,755)
+2016-11-09 16:10:14.988 -0700	Log			14	on_read2	Read2.script
+2016-11-09 16:10:15.196 -0700	readtext		(290,762,385,782)
+2016-11-09 16:10:15.200 -0700	Log		DCCUI III	14	on_read2	Read2.script
+2016-11-09 16:10:15.281 -0700	readtext		(290,789,385,809)
+2016-11-09 16:10:15.285 -0700	Log		Pidgey	14	on_read2	Read2.script
+2016-11-09 16:10:15.388 -0700	readtext		(290,816,385,836)
+2016-11-09 16:10:15.393 -0700	Log		Pidgeotto	14	on_read2	Read2.script
+2016-11-09 16:10:15.543 -0700	readtext		(290,843,385,863)
+2016-11-09 16:10:15.548 -0700	Log		Eidaeol	14	on_read2	Read2.script
+2016-11-09 16:10:15.661 -0700	readtext		(290,870,385,890)
+2016-11-09 16:10:15.675 -0700	Log		m t	14	on_read2	Read2.script
+2016-11-09 16:10:15.737 -0700	readtext		(290,897,385,900)
+2016-11-09 16:10:15.747 -0700	Log			14	on_read2	Read2.script
+2016-11-09 16:10:15.789 -0700	Exception	290	Could Not Open Image: 290	13	on_read2	Read2.script
+2016-11-09 16:10:16.839 -0700	EndTestCase		(Duration:"5.920061", Errors:"1", Exceptions:"1", StartTime:"2016-11-09 16:10:10 -0700", Successes:"0", TestCase:"Read2.script", Warnings:"0")
+2016-11-09 16:10:17.403 -0700	FAILURE	Screen_Error.png	File Not Found readtext Error - Could Not Open Image: 290 -- Execution Time 0:00:05 Read2.script

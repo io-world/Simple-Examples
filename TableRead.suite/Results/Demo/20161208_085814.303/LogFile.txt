@@ -1,0 +1,5 @@
+﻿2016-12-08 08:58:14.304 -0500	START		Running Demo.script
+2016-12-08 08:58:16.177 -0500	imagelocation	Demo/List	at (217, 314)	1	on_demo	Demo.script
+2016-12-08 08:58:16.285 -0500	click		at (217, 314)	3	on_demo	Demo.script
+2016-12-08 08:58:16.640 -0500	EndTestCase		(Duration:"2.334447", Errors:"0", Exceptions:"0", StartTime:"2016-12-08 08:58:14 -0500", Successes:"1", TestCase:"Demo.script", Warnings:"0")
+2016-12-08 08:58:16.665 -0500	SUCCESS		Execution Time 0:00:02 Demo.script

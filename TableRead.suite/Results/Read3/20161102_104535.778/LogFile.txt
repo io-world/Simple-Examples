@@ -1,0 +1,29 @@
+﻿2016-11-02 10:45:35.780 -0400	START		Running Read3.script
+2016-11-02 10:45:36.224 -0400	imagelocation	English Name	at (335, 207)	1	on_read3	Read3.script
+2016-11-02 10:45:36.235 -0400	moveto		at (335, 107)	1	on_read3	Read3.script
+2016-11-02 10:45:37.301 -0400	everyimagelocation	LineRow	found 13 images	3	on_read3	Read3.script
+2016-11-02 10:45:37.389 -0400	readtext		(322,276,422,296)
+2016-11-02 10:45:37.398 -0400	Log		vysaur	13	on_read3	Read3.script
+2016-11-02 10:45:37.473 -0400	readtext		(322,352,422,372)
+2016-11-02 10:45:37.484 -0400	Log		armander	13	on_read3	Read3.script
+2016-11-02 10:45:37.555 -0400	readtext		(322,379,422,399)
+2016-11-02 10:45:37.565 -0400	Log		armeleon	13	on_read3	Read3.script
+2016-11-02 10:45:37.660 -0400	readtext		(322,477,422,497)
+2016-11-02 10:45:37.665 -0400	Log		Bquirtle	13	on_read3	Read3.script
+2016-11-02 10:45:37.794 -0400	readtext		(322,504,422,524)
+2016-11-02 10:45:37.798 -0400	Log		/artortle	13	on_read3	Read3.script
+2016-11-02 10:45:37.908 -0400	readtext		(322,580,422,600)
+2016-11-02 10:45:37.912 -0400	Log		^aterpie	13	on_read3	Read3.script
+2016-11-02 10:45:38.007 -0400	readtext		(322,607,422,627)
+2016-11-02 10:45:38.011 -0400	Log		letapod	13	on_read3	Read3.script
+2016-11-02 10:45:38.107 -0400	readtext		(322,634,422,654)
+2016-11-02 10:45:38.110 -0400	Log		jtterfree	13	on_read3	Read3.script
+2016-11-02 10:45:38.207 -0400	readtext		(322,661,422,681)
+2016-11-02 10:45:38.211 -0400	Log		Needle	13	on_read3	Read3.script
+2016-11-02 10:45:38.296 -0400	readtext		(322,688,422,708)
+2016-11-02 10:45:38.300 -0400	Log		<akuna	13	on_read3	Read3.script
+2016-11-02 10:45:38.382 -0400	readtext		(322,764,422,784)
+2016-11-02 10:45:38.386 -0400	Log		Pidgey	13	on_read3	Read3.script
+2016-11-02 10:45:38.407 -0400	moveto		at (367, 769)	15	on_read3	Read3.script
+2016-11-02 10:45:38.981 -0400	EndTestCase		(Duration:"3.199352", Errors:"0", Exceptions:"0", StartTime:"2016-11-02 10:45:35 -0400", Successes:"1", TestCase:"Read3.script", Warnings:"0")
+2016-11-02 10:45:38.995 -0400	SUCCESS		Execution Time 0:00:03 Read3.script

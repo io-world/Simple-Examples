@@ -1,0 +1,37 @@
+﻿2016-09-20 10:29:17.071 -0600	START		Running Read2.script
+2016-09-20 10:29:17.615 -0600	imagelocation	English Name	at (367, 137)	1	on_read2	Read2.script
+2016-09-20 10:29:17.875 -0600	Log		(322,167,417,187)	4	on_read2	Read2.script
+2016-09-20 10:29:18.035 -0600	readtext		(322,167,417,187)
+2016-09-20 10:29:18.140 -0600	Log		^on asc*\nBulfrcTSTrcii	9	on_read2	Read2.script
+2016-09-20 10:29:18.189 -0600	readtext		(322,194,417,214)
+2016-09-20 10:29:18.406 -0600	Log		Ivysaur	9	on_read2	Read2.script
+2016-09-20 10:29:18.466 -0600	readtext		(322,221,417,241)
+2016-09-20 10:29:18.682 -0600	Log		Venusaur	9	on_read2	Read2.script
+2016-09-20 10:29:18.745 -0600	readtext		(322,248,417,268)
+2016-09-20 10:29:18.951 -0600	Log		Charmander	9	on_read2	Read2.script
+2016-09-20 10:29:19.039 -0600	readtext		(322,275,417,295)
+2016-09-20 10:29:19.229 -0600	Log		Charmeleon	9	on_read2	Read2.script
+2016-09-20 10:29:19.314 -0600	readtext		(322,302,417,322)
+2016-09-20 10:29:19.515 -0600	Log		Charizard	9	on_read2	Read2.script
+2016-09-20 10:29:19.581 -0600	readtext		(322,329,417,349)
+2016-09-20 10:29:19.791 -0600	Log		Squirtle	9	on_read2	Read2.script
+2016-09-20 10:29:19.868 -0600	readtext		(322,356,417,376)
+2016-09-20 10:29:20.069 -0600	Log		Wartortle	9	on_read2	Read2.script
+2016-09-20 10:29:20.118 -0600	readtext		(322,383,417,403)
+2016-09-20 10:29:20.346 -0600	Log		Blastoise	9	on_read2	Read2.script
+2016-09-20 10:29:20.402 -0600	readtext		(322,410,417,430)
+2016-09-20 10:29:20.628 -0600	Log		Caterpie	9	on_read2	Read2.script
+2016-09-20 10:29:20.677 -0600	readtext		(322,437,417,457)
+2016-09-20 10:29:20.906 -0600	Log		Metapod	9	on_read2	Read2.script
+2016-09-20 10:29:20.967 -0600	readtext		(322,464,417,484)
+2016-09-20 10:29:21.191 -0600	Log		Butte rf re e	9	on_read2	Read2.script
+2016-09-20 10:29:21.240 -0600	readtext		(322,491,417,511)
+2016-09-20 10:29:21.462 -0600	Log		Weedle	9	on_read2	Read2.script
+2016-09-20 10:29:21.518 -0600	readtext		(322,518,417,538)
+2016-09-20 10:29:21.740 -0600	Log		Kakuna	9	on_read2	Read2.script
+2016-09-20 10:29:21.795 -0600	readtext		(322,545,417,565)
+2016-09-20 10:29:22.012 -0600	Log		Beedrill	9	on_read2	Read2.script
+2016-09-20 10:29:22.070 -0600	readtext		(322,572,417,592)
+2016-09-20 10:29:22.285 -0600	Log		Pidgey	9	on_read2	Read2.script
+2016-09-20 10:29:22.673 -0600	EndTestCase		(Duration:"5.600533", Errors:"1", Exceptions:"0", StartTime:"2016-09-20 10:29:17 -0600", Successes:"0", TestCase:"Read2.script", Warnings:"0")
+2016-09-20 10:29:23.364 -0600	FAILURE	Screen_Error.png	SenseTalk Runtime Exception Invalid operands for addition: expected numbers, dates and/or lists; got '(10,10)' and '(322,599,417,619)' -- Execution Time 0:00:05 Read2.script
