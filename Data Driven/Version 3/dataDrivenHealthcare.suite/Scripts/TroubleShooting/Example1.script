@@ -1,0 +1,30 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+//Use the Script to Create New Patient
+
+set GD to a new "Modules/GlobalDefine"
+(GD).SetupFiles "/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/PatientInformation.csv"
+Run (GD).BuildPatient 9
+
+
+log global Patient.MedicalRecordNumber
+log global Patient.Prefix
+log global Patient.FirstName
+log global Patient.LastName
+log global Patient.DateofBirth
+log global Patient.SocialSecurityNumber
+log global Patient.Gender
+log global Patient.MaritalStatus
+
+
+--typetext global Patient.MaritalStatus

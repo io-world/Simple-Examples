@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="TroubleShooting/Example1">
+ <run>
+  <RunDate>2017-02-16 15:41:47.727 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.390904</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170216_154147.727/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-16 15:41:53.587 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.365843</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170216_154153.587/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-02-16 15:42:30.786 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.406801</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170216_154230.786/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

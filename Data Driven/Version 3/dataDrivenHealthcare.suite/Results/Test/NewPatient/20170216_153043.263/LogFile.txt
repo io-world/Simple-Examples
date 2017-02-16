@@ -1,0 +1,3 @@
+﻿2017-02-16 15:30:43.264 -0700	START		Running Test/NewPatient.script
+2017-02-16 15:30:43.541 -0700	EndTestCase		(Duration:"0.276248", Errors:"1", Exceptions:"0", StartTime:"2017-02-16 15:30:43 -0700", Successes:"0", TestCase:"Test/NewPatient.script", Warnings:"0")
+2017-02-16 15:30:43.697 -0700	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got 'GD'. -- Execution Time 0:00:00 Test/NewPatient.script

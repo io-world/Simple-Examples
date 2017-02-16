@@ -1,0 +1,11 @@
+﻿2017-02-16 15:30:18.039 -0700	START		Running Test/NewPatient.script	24	on_index	Index.script
+2017-02-16 15:30:18.044 -0700	Log		222222	8	on_test_newpatient	Test/NewPatient.script
+2017-02-16 15:30:18.046 -0700	Log		Mr	9	on_test_newpatient	Test/NewPatient.script
+2017-02-16 15:30:18.048 -0700	Log		Bruce	10	on_test_newpatient	Test/NewPatient.script
+2017-02-16 15:30:18.050 -0700	Log		Wayne	11	on_test_newpatient	Test/NewPatient.script
+2017-02-16 15:30:18.051 -0700	Log		6/13/06	12	on_test_newpatient	Test/NewPatient.script
+2017-02-16 15:30:18.053 -0700	Log		113-83-3798	13	on_test_newpatient	Test/NewPatient.script
+2017-02-16 15:30:18.054 -0700	Log		Male	14	on_test_newpatient	Test/NewPatient.script
+2017-02-16 15:30:18.055 -0700	Log		Single	15	on_test_newpatient	Test/NewPatient.script
+2017-02-16 15:30:18.058 -0700	EndTestCase		(Duration:"0.017243", Errors:"0", Exceptions:"0", StartTime:"2017-02-16 15:30:18 -0700", Successes:"1", TestCase:"Test/NewPatient.script", Warnings:"0")	24	on_index	Index.script
+2017-02-16 15:30:18.105 -0700	SUCCESS		Execution Time 0:00:00 Test/NewPatient.script	24	on_index	Index.script

@@ -1,0 +1,11 @@
+﻿2017-02-16 15:41:53.588 -0700	START		Running TroubleShooting/Example1.script
+2017-02-16 15:41:53.647 -0700	Log		999999	20	on_troubleshooting_example1	TroubleShooting/Example1.script
+2017-02-16 15:41:53.649 -0700	Log		Dr	21	on_troubleshooting_example1	TroubleShooting/Example1.script
+2017-02-16 15:41:53.650 -0700	Log		Mickey	22	on_troubleshooting_example1	TroubleShooting/Example1.script
+2017-02-16 15:41:53.652 -0700	Log		Mouse	23	on_troubleshooting_example1	TroubleShooting/Example1.script
+2017-02-16 15:41:53.653 -0700	Log		6/14/00	24	on_troubleshooting_example1	TroubleShooting/Example1.script
+2017-02-16 15:41:53.654 -0700	Log		984-56-3166	25	on_troubleshooting_example1	TroubleShooting/Example1.script
+2017-02-16 15:41:53.656 -0700	Log		Male	26	on_troubleshooting_example1	TroubleShooting/Example1.script
+2017-02-16 15:41:53.657 -0700	Log		Single	27	on_troubleshooting_example1	TroubleShooting/Example1.script
+2017-02-16 15:41:53.953 -0700	EndTestCase		(Duration:"0.364296", Errors:"0", Exceptions:"0", StartTime:"2017-02-16 15:41:53 -0700", Successes:"1", TestCase:"TroubleShooting/Example1.script", Warnings:"0")
+2017-02-16 15:41:54.006 -0700	SUCCESS		Execution Time 0:00:00 TroubleShooting/Example1.script
