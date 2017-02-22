@@ -1,0 +1,9 @@
+﻿2017-02-22 14:31:29.533 -0700	START		Running Read1.script
+2017-02-22 14:31:30.124 -0700	moveto	Show	at (109, 74)	1	on_read1	Read1.script
+2017-02-22 14:31:31.341 -0700	imagelocation	Show	at (28, 82)	2	on_read1	Read1.script
+2017-02-22 14:31:31.341 -0700	Log		(148,122,298,402)	5	on_read1	Read1.script
+2017-02-22 14:31:31.461 -0700	readtext		(148,122,298,402)
+2017-02-22 14:31:31.461 -0700	Log		Tiger Nixon\nGarrett Winters\nAshton Cox\nCedric Kelly\nAiri Satou\nBrielle Williamson\nHerrod Chandler\nRhona Davidson\nColleen Hurst\nSonya Frost	6	on_read1	Read1.script
+2017-02-22 14:31:32.084 -0700	moveto	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(215,161), ImageRectangle:(162,155,269,167), Language:"English", searchRectangle:(148,122,298,402), text:"Garrett Winters", TextPlatform:"Generic OCR")	at (215, 161)	9	on_read1	Read1.script
+2017-02-22 14:31:32.774 -0700	EndTestCase		(Duration:"3.239669", Errors:"0", Exceptions:"0", StartTime:"2017-02-22 14:31:29 -0700", Successes:"1", TestCase:"Read1.script", Warnings:"0")
+2017-02-22 14:31:32.793 -0700	SUCCESS		Execution Time 0:00:03 Read1.script

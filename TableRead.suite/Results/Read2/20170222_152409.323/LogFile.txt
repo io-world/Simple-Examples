@@ -1,0 +1,26 @@
+﻿2017-02-22 15:24:09.326 -0700	START		Running Read2.script
+2017-02-22 15:24:09.892 -0700	imagelocation	Show	at (28, 82)	1	on_read2	Read2.script
+2017-02-22 15:24:09.903 -0700	moveto		at (28, 182)	1	on_read2	Read2.script
+2017-02-22 15:24:11.127 -0700	imagelocation	Show	at (28, 82)	4	on_read2	Read2.script
+2017-02-22 15:24:11.157 -0700	readtext		(368,122,698,147)
+2017-02-22 15:24:11.158 -0700	Log		System Architect	12	on_read2	Read2.script
+2017-02-22 15:24:11.186 -0700	readtext		(368,149,698,174)
+2017-02-22 15:24:11.187 -0700	Log		Accountant	12	on_read2	Read2.script
+2017-02-22 15:24:11.218 -0700	readtext		(368,176,698,201)
+2017-02-22 15:24:11.219 -0700	Log		Junior Technical Author	12	on_read2	Read2.script
+2017-02-22 15:24:11.251 -0700	readtext		(368,203,698,228)
+2017-02-22 15:24:11.252 -0700	Log		Senior Javascript Developer	12	on_read2	Read2.script
+2017-02-22 15:24:11.278 -0700	readtext		(368,230,698,255)
+2017-02-22 15:24:11.279 -0700	Log		Accountant	12	on_read2	Read2.script
+2017-02-22 15:24:11.313 -0700	readtext		(368,257,698,282)
+2017-02-22 15:24:11.314 -0700	Log		Integration Specialist	12	on_read2	Read2.script
+2017-02-22 15:24:11.345 -0700	readtext		(368,284,698,309)
+2017-02-22 15:24:11.346 -0700	Log		Sales Assistant	12	on_read2	Read2.script
+2017-02-22 15:24:11.381 -0700	readtext		(368,311,698,336)
+2017-02-22 15:24:11.382 -0700	Log		Integration Specialist	12	on_read2	Read2.script
+2017-02-22 15:24:11.413 -0700	readtext		(368,338,698,363)
+2017-02-22 15:24:11.414 -0700	Log		Javascript Developer	12	on_read2	Read2.script
+2017-02-22 15:24:11.418 -0700	Log		(368,338)	25	on_read2	Read2.script
+2017-02-22 15:24:11.432 -0700	moveto		at (248, 348)	26	on_read2	Read2.script
+2017-02-22 15:24:12.057 -0700	EndTestCase		(Duration:"2.730067", Errors:"0", Exceptions:"0", StartTime:"2017-02-22 15:24:09 -0700", Successes:"1", TestCase:"Read2.script", Warnings:"0")
+2017-02-22 15:24:12.109 -0700	SUCCESS		Execution Time 0:00:02 Read2.script

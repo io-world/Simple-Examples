@@ -1,0 +1,31 @@
+﻿2017-02-22 14:37:29.507 -0700	START		Running Read3.script
+2017-02-22 14:37:30.062 -0700	imagelocation	Show	at (28, 82)	1	on_read3	Read3.script
+2017-02-22 14:37:30.073 -0700	moveto		at (128, 82)	1	on_read3	Read3.script
+2017-02-22 14:37:31.283 -0700	imagelocation	Show	at (28, 82)	4	on_read3	Read3.script
+2017-02-22 14:37:31.824 -0700	imagelocation	Show	at (28, 82)	5	on_read3	Read3.script
+2017-02-22 14:37:31.874 -0700	readtext		(8,122,78,392)
+2017-02-22 14:37:31.875 -0700	Log		1\n2\n3\n4\n5\n6\n7\n8\n9\n10	8	on_read3	Read3.script
+2017-02-22 14:37:32.458 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(15,134), ImageRectangle:(13,128,17,140), Language:"English", searchRectangle:(8,122,78,392), Text:"1", TextPlatform:"Generic OCR")	at (15, 134)	16	on_read3	Read3.script
+2017-02-22 14:37:32.488 -0700	readtext		(155,124,315,144)
+2017-02-22 14:37:32.490 -0700	Log		Tiger Nixon	20	on_read3	Read3.script
+2017-02-22 14:37:33.046 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(15,161), ImageRectangle:(12,155,19,167), Language:"English", searchRectangle:(8,122,78,392), Text:"2", TextPlatform:"Generic OCR")	at (15, 161)	16	on_read3	Read3.script
+2017-02-22 14:37:33.077 -0700	readtext		(155,151,315,171)
+2017-02-22 14:37:33.078 -0700	Log		Garrett Winters	20	on_read3	Read3.script
+2017-02-22 14:37:33.620 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(15,188), ImageRectangle:(12,182,19,194), Language:"English", searchRectangle:(8,122,78,392), Text:"3", TextPlatform:"Generic OCR")	at (15, 188)	16	on_read3	Read3.script
+2017-02-22 14:37:33.649 -0700	readtext		(155,178,315,198)
+2017-02-22 14:37:33.650 -0700	Log		Ashton Cox	20	on_read3	Read3.script
+2017-02-22 14:37:34.197 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(15,215), ImageRectangle:(12,209,19,221), Language:"English", searchRectangle:(8,122,78,392), Text:"4", TextPlatform:"Generic OCR")	at (15, 215)	16	on_read3	Read3.script
+2017-02-22 14:37:34.227 -0700	readtext		(155,205,315,225)
+2017-02-22 14:37:34.228 -0700	Log		Cedric Kelly	20	on_read3	Read3.script
+2017-02-22 14:37:34.772 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(15,242), ImageRectangle:(12,236,19,248), Language:"English", searchRectangle:(8,122,78,392), Text:"5", TextPlatform:"Generic OCR")	at (15, 242)	16	on_read3	Read3.script
+2017-02-22 14:37:34.801 -0700	readtext		(155,232,315,252)
+2017-02-22 14:37:34.802 -0700	Log		Airi Satou	20	on_read3	Read3.script
+2017-02-22 14:37:35.349 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(15,269), ImageRectangle:(12,263,19,275), Language:"English", searchRectangle:(8,122,78,392), Text:"6", TextPlatform:"Generic OCR")	at (15, 269)	16	on_read3	Read3.script
+2017-02-22 14:37:35.396 -0700	readtext		(155,259,315,279)
+2017-02-22 14:37:35.397 -0700	Log		Brielle Williamson	20	on_read3	Read3.script
+2017-02-22 14:37:35.933 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(15,296), ImageRectangle:(12,290,19,302), Language:"English", searchRectangle:(8,122,78,392), Text:"7", TextPlatform:"Generic OCR")	at (15, 296)	16	on_read3	Read3.script
+2017-02-22 14:37:35.968 -0700	readtext		(155,286,315,306)
+2017-02-22 14:37:35.970 -0700	Log		Herrod Chandler	20	on_read3	Read3.script
+2017-02-22 14:37:35.984 -0700	moveto		at (180, 291)	22	on_read3	Read3.script
+2017-02-22 14:37:36.645 -0700	EndTestCase		(Duration:"7.136742", Errors:"0", Exceptions:"0", StartTime:"2017-02-22 14:37:29 -0700", Successes:"1", TestCase:"Read3.script", Warnings:"0")
+2017-02-22 14:37:36.716 -0700	SUCCESS		Execution Time 0:00:07 Read3.script

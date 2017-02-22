@@ -1,0 +1,39 @@
+﻿2017-02-22 14:33:39.869 -0700	START		Running Read4.script
+2017-02-22 14:33:40.424 -0700	imagelocation	Show	at (28, 82)	1	on_read4	Read4.script
+2017-02-22 14:33:40.437 -0700	moveto		at (128, 82)	1	on_read4	Read4.script
+2017-02-22 14:33:41.668 -0700	imagelocation	Show	at (28, 82)	4	on_read4	Read4.script
+2017-02-22 14:33:42.198 -0700	imagelocation	Show	at (28, 82)	5	on_read4	Read4.script
+2017-02-22 14:33:42.245 -0700	readtext		(8,122,78,392)
+2017-02-22 14:33:42.246 -0700	Log		1\n2\n3\n4\n5\n6\n7\n8\n9\n10	8	on_read4	Read4.script
+2017-02-22 14:33:42.770 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(15,134), ImageRectangle:(13,128,17,140), Language:"English", searchRectangle:(8,122,78,392), Text:"1", TextPlatform:"Generic OCR")	at (15, 134)	18	on_read4	Read4.script
+2017-02-22 14:33:42.799 -0700	readtext		(155,124,265,144)
+2017-02-22 14:33:42.800 -0700	Log		Tiger Nixon	22	on_read4	Read4.script
+2017-02-22 14:33:43.351 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(15,161), ImageRectangle:(12,155,19,167), Language:"English", searchRectangle:(8,122,78,392), Text:"2", TextPlatform:"Generic OCR")	at (15, 161)	18	on_read4	Read4.script
+2017-02-22 14:33:43.380 -0700	readtext		(155,151,265,171)
+2017-02-22 14:33:43.382 -0700	Log		Garrett Winter?	22	on_read4	Read4.script
+2017-02-22 14:33:43.927 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(15,188), ImageRectangle:(12,182,19,194), Language:"English", searchRectangle:(8,122,78,392), Text:"3", TextPlatform:"Generic OCR")	at (15, 188)	18	on_read4	Read4.script
+2017-02-22 14:33:43.955 -0700	readtext		(155,178,265,198)
+2017-02-22 14:33:43.956 -0700	Log		Ashton Cox	22	on_read4	Read4.script
+2017-02-22 14:33:44.508 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(15,215), ImageRectangle:(12,209,19,221), Language:"English", searchRectangle:(8,122,78,392), Text:"4", TextPlatform:"Generic OCR")	at (15, 215)	18	on_read4	Read4.script
+2017-02-22 14:33:44.543 -0700	readtext		(155,205,265,225)
+2017-02-22 14:33:44.544 -0700	Log		Cedric Kelly	22	on_read4	Read4.script
+2017-02-22 14:33:45.088 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(15,242), ImageRectangle:(12,236,19,248), Language:"English", searchRectangle:(8,122,78,392), Text:"5", TextPlatform:"Generic OCR")	at (15, 242)	18	on_read4	Read4.script
+2017-02-22 14:33:45.116 -0700	readtext		(155,232,265,252)
+2017-02-22 14:33:45.117 -0700	Log		Airi Satou	22	on_read4	Read4.script
+2017-02-22 14:33:45.666 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(15,269), ImageRectangle:(12,263,19,275), Language:"English", searchRectangle:(8,122,78,392), Text:"6", TextPlatform:"Generic OCR")	at (15, 269)	18	on_read4	Read4.script
+2017-02-22 14:33:45.712 -0700	readtext		(155,259,265,279)
+2017-02-22 14:33:45.713 -0700	Log		Brielle William?	22	on_read4	Read4.script
+2017-02-22 14:33:46.240 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(15,296), ImageRectangle:(12,290,19,302), Language:"English", searchRectangle:(8,122,78,392), Text:"7", TextPlatform:"Generic OCR")	at (15, 296)	18	on_read4	Read4.script
+2017-02-22 14:33:46.273 -0700	readtext		(155,286,265,306)
+2017-02-22 14:33:46.274 -0700	Log		Herrod Chandl	22	on_read4	Read4.script
+2017-02-22 14:33:46.822 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(15,323), ImageRectangle:(12,317,19,329), Language:"English", searchRectangle:(8,122,78,392), Text:"8", TextPlatform:"Generic OCR")	at (15, 323)	18	on_read4	Read4.script
+2017-02-22 14:33:46.884 -0700	readtext		(155,313,265,333)
+2017-02-22 14:33:46.885 -0700	Log		Rhona Davids<	22	on_read4	Read4.script
+2017-02-22 14:33:47.453 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(15,350), ImageRectangle:(12,344,19,356), Language:"English", searchRectangle:(8,122,78,392), Text:"9", TextPlatform:"Generic OCR")	at (15, 350)	18	on_read4	Read4.script
+2017-02-22 14:33:47.483 -0700	readtext		(155,340,265,360)
+2017-02-22 14:33:47.484 -0700	Log		Colleen Hurst	22	on_read4	Read4.script
+2017-02-22 14:33:48.023 -0700	imagelocation	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(20,377), ImageRectangle:(13,371,28,383), Language:"English", searchRectangle:(8,122,78,392), Text:"10", TextPlatform:"Generic OCR")	at (20, 377)	18	on_read4	Read4.script
+2017-02-22 14:33:48.050 -0700	readtext		(160,367,270,387)
+2017-02-22 14:33:48.052 -0700	Log		Sonya Frost	22	on_read4	Read4.script
+2017-02-22 14:33:48.726 -0700	EndTestCase		(Duration:"8.855452", Errors:"0", Exceptions:"0", StartTime:"2017-02-22 14:33:39 -0700", Successes:"1", TestCase:"Read4.script", Warnings:"0")
+2017-02-22 14:33:48.771 -0700	SUCCESS		Execution Time 0:00:08 Read4.script

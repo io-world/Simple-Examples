@@ -1,11 +1,14 @@
-﻿moveto imagelocation("English Name")+(0,-100)
+﻿moveto imagelocation(image:"Show")+(100,0)
 
 
-insert imagelocation("List")+(-20,100) into Spoint1
-insert imagelocation("List")+(50,600) into Spoint2
+put EveryImageLocation("Number") into AreaRange
+put (item 2 of item 2 of AreaRange) -  (item 2 of item 1 of AreaRange) +10 into ChangeY
+insert imagelocation(image: "Show")+(-20,40) into Spoint1
+insert imagelocation(image: "Show")+(50,ChangeY) into Spoint2
 put (Spoint1,Spoint2) into SR
 put ReadText(SR) into NumList
 log NumList
+wait 2
 
 
 
@@ -13,18 +16,14 @@ log NumList
 put the number of lines of NumList into Max
 
 repeat MAX times
-	
-	
 	put ImageLocation(Text:line repeatindex() of NumList, searchRectangle:SR) into PointXY
-	insert PointXY+(50,-10) into ReadSquare
-	insert PointXY+(150,10) into ReadSquare
+	insert PointXY+(140,-10) into ReadSquare
+	insert PointXY+(300,10) into ReadSquare
+	put readtext(ReadSquare) into NameP
+	log NameP
 	
 	
-	
-	put readtext(ReadSquare) into PokemonName
-	log PokemonName
-	
-	if PokemonName = "pidgey" then
+	if NameP = "Herrod Chandler" then
 		moveto PointXY+(165,-5)
 		Exit repeat
 	else
