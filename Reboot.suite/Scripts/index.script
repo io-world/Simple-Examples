@@ -1,0 +1,37 @@
+﻿put "Windows 10" into SUTSystem
+Connect SUTSystem
+TypeText windowsKey & "r"
+TypeText "shutdown /r /t 0" , returnKey
+wait 1 
+Disconnect SUTSystem
+wait 10
+repeat 5 times
+	Try
+		log "Trying to Connect"
+		Connect SUTSystem
+		put "yes" into connectedstatus
+		Exit repeat
+	Catch exception
+		log "Failed Attempt to connect:" && repeatindex()
+	End try
+	if repeatindex() = 5 then
+		put "no" into connectedstatus
+		Exit repeat
+	end if
+	wait 1
+end repeat
+if connectedstatus = "yes" then
+	repeat until ImageFound(10, "Background")
+		log "Looking for loaded Background"	
+		if repeatindex() = 10 then 
+			Logwarning "No Background Loaded"
+			Exit repeat
+		end if
+	end repeat
+	LogSuccess "SUT is Connected"
+else if connectedstatus = "No" then
+	logerror "Tried 5 times unable to connect"
+else
+	Logerror "some other error"
+end if
+
