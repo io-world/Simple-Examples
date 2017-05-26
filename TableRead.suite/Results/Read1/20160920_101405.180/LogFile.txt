@@ -1,7 +1,0 @@
-﻿2016-09-20 10:14:05.181 -0600	START		Running Index.script
-2016-09-20 10:14:05.720 -0600	imagelocation	List	at (220, 114)	5	on_index	Index.script
-2016-09-20 10:14:05.763 -0600	Log		(320,194,420,814)	9	on_index	Index.script
-2016-09-20 10:14:06.108 -0600	readtext		(320,194,420,814)
-2016-09-20 10:14:06.108 -0600	Log		Bulbasaur\nIvysaur\nVenusaur\nCharmander\nCharmeleon\nCharizard\nSquirtle\nWartortle\nBlastoise\nCaterpie\nMetapod\nButterfree\nWeedle\nKakuna\nBeedrill\nPidgey\nPidgeotto\nPidgeot\nRattata\nRaticate\nSpearow\nFearow\nEkans	11	on_index	Index.script
-2016-09-20 10:14:06.449 -0600	EndTestCase		(Duration:"1.266347", Errors:"0", Exceptions:"0", StartTime:"2016-09-20 10:14:05 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
-2016-09-20 10:14:06.455 -0600	SUCCESS		Execution Time 0:00:01 Index.script

@@ -1,4 +1,0 @@
-﻿2017-02-22 15:20:31.150 -0700	START		Running Read5.script
-2017-02-22 15:20:31.718 -0700	Log		((),(San Francisco,59,2012/08/06),(Tokyo,55,2010/10/14),(San Francisco,39,2009/09/15),(Edinburgh,23,2008/12/13),(London,30,2008/12/19),(Edinburgh,22,2013/03/03),(San Francisco,36,2008/10/16),(London,43,2012/12/18),(London,19,2010/03/17),(London,66,2012/11/27),(New York,64,2010/06/09),(New York,59,2009/04/10),(London,41,2012/10/13),(Edinburgh,35,2012/09/26),(New York,30,2011/09/03),(New York,40,2009/06/25))	2	on_read5	Read5.script
-2017-02-22 15:20:32.441 -0700	EndTestCase		(Duration:"1.289894", Errors:"0", Exceptions:"0", StartTime:"2017-02-22 15:20:31 -0700", Successes:"1", TestCase:"Read5.script", Warnings:"0")
-2017-02-22 15:20:32.474 -0700	SUCCESS		Execution Time 0:00:01 Read5.script

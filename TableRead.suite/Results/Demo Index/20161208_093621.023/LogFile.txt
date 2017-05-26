@@ -1,9 +1,0 @@
-﻿2016-12-08 09:36:21.024 -0500	START		Running Demo Index.script
-2016-12-08 09:36:21.113 -0500	Log		this scripts does blah blah blah blah blah	2	on_help	Demo.script
-2016-12-08 09:36:21.153 -0500	Log		this scripts does blah blah blah blah blah	2	on_help	Demo.script
-2016-12-08 09:36:21.203 -0500	Log		this scripts does blah blah blah blah blah	2	on_help	Demo.script
-2016-12-08 09:36:21.245 -0500	Log		this scripts does blah blah blah blah blah	2	on_help	Demo.script
-2016-12-08 09:36:21.271 -0500	Log		this scripts does blah blah blah blah blah	2	on_help	Demo.script
-2016-12-08 09:36:21.330 -0500	Log		this scripts does blah blah blah blah blah	2	on_help	Demo.script
-2016-12-08 09:36:21.716 -0500	EndTestCase		(Duration:"0.691093", Errors:"0", Exceptions:"0", StartTime:"2016-12-08 09:36:21 -0500", Successes:"1", TestCase:"Demo Index.script", Warnings:"0")
-2016-12-08 09:36:21.744 -0500	SUCCESS		Execution Time 0:00:00 Demo Index.script

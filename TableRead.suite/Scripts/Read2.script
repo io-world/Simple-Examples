@@ -9,6 +9,7 @@ insert ILEName+(670,65) into ReadPositions
 
 repeat until Positions = "Software Engineer" 
 	put ReadText(ReadPositions) into Positions
+	wait 1
 	log Positions
 	if Positions = "Javascript Developer" then
 		Exit repeat

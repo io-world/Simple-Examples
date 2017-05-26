@@ -2,6 +2,8 @@
 
 
 put EveryImageLocation("Number") into AreaRange
+log item 1 of AreaRange
+
 put (item 2 of item 2 of AreaRange) -  (item 2 of item 1 of AreaRange) +10 into ChangeY
 insert imagelocation(image: "Show")+(-20,40) into Spoint1
 insert imagelocation(image: "Show")+(50,ChangeY) into Spoint2

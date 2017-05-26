@@ -1,6 +1,0 @@
-﻿2017-02-22 14:30:34.704 -0700	START		Running Read3.script
-2017-02-22 14:30:35.241 -0700	imagelocation	show	at (28, 82)	1	on_read3	Read3.script
-2017-02-22 14:30:35.252 -0700	moveto		at (28, 82)	1	on_read3	Read3.script
-2017-02-22 14:30:40.916 -0700	everyimagelocation	LineRow	found 0 images	3	on_read3	Read3.script
-2017-02-22 14:30:41.564 -0700	EndTestCase		(Duration:"6.858691", Errors:"0", Exceptions:"0", StartTime:"2017-02-22 14:30:34 -0700", Successes:"1", TestCase:"Read3.script", Warnings:"0")
-2017-02-22 14:30:41.578 -0700	SUCCESS		Execution Time 0:00:06 Read3.script

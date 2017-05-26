@@ -1,4 +1,0 @@
-﻿2016-09-27 14:11:16.364 -0600	START		Running Read2.script
-2016-09-27 14:11:25.665 -0600	Exception	English Name	Unable To Find Image "English Name"	1	on_read2	Read2.script
-2016-09-27 14:11:26.364 -0600	EndTestCase		(Duration:"9.998525", Errors:"1", Exceptions:"1", StartTime:"2016-09-27 14:11:16 -0600", Successes:"0", TestCase:"Read2.script", Warnings:"0")
-2016-09-27 14:11:26.364 -0600	ABORTED		Execution Time 0:00:10 Read2.script

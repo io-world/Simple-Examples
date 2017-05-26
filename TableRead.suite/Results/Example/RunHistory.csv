@@ -1,0 +1,11 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-05-04 10:14:31.885 -0500,"Success",0:00:02,0,0,0,"20170504_101431.885/LogFile.txt","","",1
+2017-05-04 10:15:15.191 -0500,"Success",0:00:01,0,0,0,"20170504_101515.191/LogFile.txt","","",1
+2017-05-15 09:30:53.449 -0600,"Success",0:00:00,0,0,0,"20170515_093053.449/LogFile.txt","","",1
+2017-05-15 09:31:15.744 -0600,"Success",0:00:00,0,0,0,"20170515_093115.744/LogFile.txt","","",1
+2017-05-15 09:31:35.320 -0600,"Failure",0:00:00,1,0,1,"20170515_093135.320/LogFile.txt","","Error Running Script Command -- readtext Error - Parameter Error - readtext called with absolute point (28, 82) and other parameters",0
+2017-05-15 09:32:01.933 -0600,"Success",0:00:02,0,0,0,"20170515_093201.933/LogFile.txt","","",1
+2017-05-15 09:32:07.689 -0600,"Success",0:00:00,0,0,0,"20170515_093207.689/LogFile.txt","","",1
+2017-05-15 09:33:46.801 -0600,"Success",0:00:00,0,0,0,"20170515_093346.801/LogFile.txt","","",1
+2017-05-15 09:34:01.961 -0600,"Success",0:00:00,0,0,0,"20170515_093401.961/LogFile.txt","","",1
+2017-05-15 09:34:14.420 -0600,"Success",0:00:02,0,0,0,"20170515_093414.420/LogFile.txt","","",1

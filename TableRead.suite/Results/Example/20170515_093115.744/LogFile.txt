@@ -1,0 +1,6 @@
+﻿2017-05-15 09:31:15.746 -0600	START		Running Example.script
+2017-05-15 09:31:15.996 -0600	imagelocation	Show	at (28, 82)	3	on_example	Example.script
+2017-05-15 09:31:15.997 -0600	Log		(28,82)	5	on_example	Example.script
+2017-05-15 09:31:15.999 -0600	Log		(128,82)	9	on_example	Example.script
+2017-05-15 09:31:16.178 -0600	EndTestCase		(Duration:"0.431576", Errors:"0", Exceptions:"0", StartTime:"2017-05-15 09:31:15 -0600", Successes:"1", TestCase:"Example.script", Warnings:"0")
+2017-05-15 09:31:16.186 -0600	SUCCESS		Execution Time 0:00:00 Example.script

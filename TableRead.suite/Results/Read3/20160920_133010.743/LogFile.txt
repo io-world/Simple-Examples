@@ -1,7 +1,0 @@
-﻿2016-09-20 13:30:10.744 -0600	START		Running Read3.script
-2016-09-20 13:30:11.295 -0600	everyimagelocation	LineRow	found 24 images	1	on_read3	Read3.script
-2016-09-20 13:30:11.379 -0600	readtext		(192,308,222,900)
-2016-09-20 13:30:11.379 -0600	Log			16	on_read3	Read3.script
-2016-09-20 13:30:11.440 -0600	Exception	192	Could Not Open Image: 192	16	on_read3	Read3.script
-2016-09-20 13:30:11.896 -0600	EndTestCase		(Duration:"1.150452", Errors:"1", Exceptions:"1", StartTime:"2016-09-20 13:30:10 -0600", Successes:"0", TestCase:"Read3.script", Warnings:"0")
-2016-09-20 13:30:12.428 -0600	FAILURE	Screen_Error.png	File Not Found readtext Error - Could Not Open Image: 192 -- Execution Time 0:00:01 Read3.script

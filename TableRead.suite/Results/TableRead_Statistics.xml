@@ -2,19 +2,27 @@
 <statistics>
  <script name="Read2">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>62</NumberOfRuns>
+  <NumberOfRuns>66</NumberOfRuns>
   <NumberOfFails>19</NumberOfFails>
   <FirstRun>2016-09-20 10:21:25 -0600</FirstRun>
-  <LastRun>2017-02-22 15:24:09 -0700</LastRun>
-  <TotalTimeOnSuccess>26.384878</TotalTimeOnSuccess>
+  <LastRun>2017-05-15 09:39:06 -0600</LastRun>
+  <TotalTimeOnSuccess>47.522800</TotalTimeOnSuccess>
  </script>
  <script name="Read4">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>19</NumberOfRuns>
+  <NumberOfRuns>24</NumberOfRuns>
   <NumberOfFails>2</NumberOfFails>
   <FirstRun>2016-11-09 16:16:17 -0700</FirstRun>
-  <LastRun>2017-02-22 15:19:54 -0700</LastRun>
-  <TotalTimeOnSuccess>128.486336</TotalTimeOnSuccess>
+  <LastRun>2017-05-25 10:33:19 -0600</LastRun>
+  <TotalTimeOnSuccess>184.294299</TotalTimeOnSuccess>
+ </script>
+ <script name="Example">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2017-05-15 09:30:53 -0600</FirstRun>
+  <LastRun>2017-05-15 09:34:14 -0600</LastRun>
+  <TotalTimeOnSuccess>7.678942</TotalTimeOnSuccess>
  </script>
  <script name="Index">
   <LastStatus>Failure</LastStatus>
@@ -26,11 +34,11 @@
  </script>
  <script name="Read1">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>36</NumberOfRuns>
+  <NumberOfRuns>38</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2016-09-20 10:12:18 -0600</FirstRun>
-  <LastRun>2017-02-22 15:19:25 -0700</LastRun>
-  <TotalTimeOnSuccess>12.218222</TotalTimeOnSuccess>
+  <LastRun>2017-05-25 10:32:58 -0600</LastRun>
+  <TotalTimeOnSuccess>18.632180</TotalTimeOnSuccess>
  </script>
  <script name="Read3">
   <LastStatus>Success</LastStatus>

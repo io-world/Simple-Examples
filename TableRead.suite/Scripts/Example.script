@@ -1,0 +1,34 @@
+﻿
+
+put ImageLocation("Show") into ILS -- ImageLocation of Show in XY cood
+
+
+put ILS +(10,10) into TR
+put ILS+(200,300) into BL
+
+
+log TR
+
+log BL
+
+log ReadText(TR,BL)
+wait 2
+------------------------
+
+
+
+
+put ImageLocation("Show") into ILS -- ImageLocation of Show in XY cood -- Top Left Anchor Point
+
+
+insert ILS +(10,10) into SR
+insert ILS+(200,300) into SR
+log SR
+
+log ReadText(SR)
+wait 2
+
+
+click text:"Cedric" , searchRectangle:(148,127,335,396)
+
+TypeText pagedown

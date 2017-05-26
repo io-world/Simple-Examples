@@ -1,0 +1,10 @@
+﻿click text:"asdasd", searchRectangle:(153,122,305,390)
+
+
+put readtext ((6,125,36,148)) into var
+
+if var = 11 then
+	log "asdasd"
+else
+	log "NO MATCH"
+end if

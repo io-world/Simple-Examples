@@ -1,0 +1,33 @@
+﻿2017-05-25 10:33:19.429 -0600	START		Running Read4.script
+2017-05-25 10:33:19.823 -0600	imagelocation	Show	at (28, 82)	1	on_read4	Read4.script
+2017-05-25 10:33:19.836 -0600	moveto		at (128, 82)	1	on_read4	Read4.script
+2017-05-25 10:33:21.086 -0600	everyimagelocation	Number	found 2 images	4	on_read4	Read4.script
+2017-05-25 10:33:21.087 -0600	Log		(76,106)	5	on_read4	Read4.script
+2017-05-25 10:33:21.471 -0600	imagelocation	Show	at (28, 82)	8	on_read4	Read4.script
+2017-05-25 10:33:21.856 -0600	imagelocation	Show	at (28, 82)	9	on_read4	Read4.script
+2017-05-25 10:33:21.905 -0600	readtext		(8,122,78,390)
+2017-05-25 10:33:21.906 -0600	Log		1\n2\n3\n4\n5\n6\n7\n8\n9\n10	12	on_read4	Read4.script
+2017-05-25 10:33:24.340 -0600	imagelocation	(TEXT:"1")	at (15, 134)	21	on_read4	Read4.script
+2017-05-25 10:33:24.374 -0600	readtext		(155,124,315,144)
+2017-05-25 10:33:24.375 -0600	Log		Tiger Nixon	25	on_read4	Read4.script
+2017-05-25 10:33:24.764 -0600	imagelocation	(TEXT:"2")	at (15, 161)	21	on_read4	Read4.script
+2017-05-25 10:33:24.796 -0600	readtext		(155,151,315,171)
+2017-05-25 10:33:24.797 -0600	Log		Garrett Winters	25	on_read4	Read4.script
+2017-05-25 10:33:25.186 -0600	imagelocation	(TEXT:"3")	at (15, 188)	21	on_read4	Read4.script
+2017-05-25 10:33:25.218 -0600	readtext		(155,178,315,198)
+2017-05-25 10:33:25.220 -0600	Log		Ashton Cox	25	on_read4	Read4.script
+2017-05-25 10:33:25.614 -0600	imagelocation	(TEXT:"4")	at (15, 215)	21	on_read4	Read4.script
+2017-05-25 10:33:25.643 -0600	readtext		(155,205,315,225)
+2017-05-25 10:33:25.644 -0600	Log		Cedric Kelly	25	on_read4	Read4.script
+2017-05-25 10:33:26.046 -0600	imagelocation	(TEXT:"5")	at (15, 242)	21	on_read4	Read4.script
+2017-05-25 10:33:26.078 -0600	readtext		(155,232,315,252)
+2017-05-25 10:33:26.080 -0600	Log		Airi Satou	25	on_read4	Read4.script
+2017-05-25 10:33:26.476 -0600	imagelocation	(TEXT:"6")	at (15, 269)	21	on_read4	Read4.script
+2017-05-25 10:33:26.527 -0600	readtext		(155,259,315,279)
+2017-05-25 10:33:26.528 -0600	Log		Brielle Williamson	25	on_read4	Read4.script
+2017-05-25 10:33:26.958 -0600	imagelocation	(TEXT:"7")	at (15, 296)	21	on_read4	Read4.script
+2017-05-25 10:33:26.992 -0600	readtext		(155,286,315,306)
+2017-05-25 10:33:26.993 -0600	Log		Herrod Chandler	25	on_read4	Read4.script
+2017-05-25 10:33:27.007 -0600	moveto		at (180, 291)	29	on_read4	Read4.script
+2017-05-25 10:33:27.645 -0600	EndTestCase		(Duration:"8.213763", Errors:"0", Exceptions:"0", StartTime:"2017-05-25 10:33:19 -0600", Successes:"1", TestCase:"Read4.script", Warnings:"0")
+2017-05-25 10:33:27.681 -0600	SUCCESS		Execution Time 0:00:08 Read4.script

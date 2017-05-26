@@ -1,6 +1,0 @@
-﻿2016-09-20 13:29:41.756 -0600	START		Running Read3.script
-2016-09-20 13:29:42.276 -0600	everyimagelocation	LineRow	found 24 images	1	on_read3	Read3.script
-2016-09-20 13:29:42.363 -0600	readtext		(192,308,222,900)
-2016-09-20 13:29:42.364 -0600	Log			16	on_read3	Read3.script
-2016-09-20 13:29:42.845 -0600	EndTestCase		(Duration:"1.086693", Errors:"0", Exceptions:"0", StartTime:"2016-09-20 13:29:41 -0600", Successes:"1", TestCase:"Read3.script", Warnings:"0")
-2016-09-20 13:29:42.852 -0600	SUCCESS		Execution Time 0:00:01 Read3.script
