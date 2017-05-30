@@ -1,0 +1,4 @@
+﻿2017-04-27 12:34:28.013 -0600	START		Running Untitled1.script
+2017-04-27 12:34:28.067 -0600	Log		(Dr,Darth,,Vader,555555,1987-12-23 12:00:00 -0700,744-85-1232,Male,Widowed)	4	on_untitled1	Untitled1.script
+2017-04-27 12:34:28.470 -0600	EndTestCase		(Duration:"0.45538", Errors:"0", Exceptions:"0", StartTime:"2017-04-27 12:34:28 -0600", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2017-04-27 12:34:28.502 -0600	SUCCESS		Execution Time 0:00:00 Untitled1.script

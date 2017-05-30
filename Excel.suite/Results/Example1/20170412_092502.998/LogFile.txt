@@ -1,0 +1,4 @@
+﻿2017-04-12 09:25:02.999 -0600	START		Running index.script
+2017-04-12 09:25:03.055 -0600	Log		(Prefix,First Name,Middle Name,Last Name,Medical Record Number,Date of Birth,Social Security Number,Gender,Marital Status)	10	on_index	index.script
+2017-04-12 09:25:03.739 -0600	EndTestCase		(Duration:"0.73918", Errors:"0", Exceptions:"0", StartTime:"2017-04-12 09:25:03 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-04-12 09:25:03.757 -0600	SUCCESS		Execution Time 0:00:00 index.script

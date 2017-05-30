@@ -1,0 +1,4 @@
+﻿2017-04-12 10:34:04.502 -0600	START		Running Example4.script
+2017-04-12 10:34:04.564 -0600	Log		(PatientList)	5	on_example4	Example4.script
+2017-04-12 10:34:04.772 -0600	EndTestCase		(Duration:"0.268911", Errors:"1", Exceptions:"0", StartTime:"2017-04-12 10:34:04 -0600", Successes:"0", TestCase:"Example4.script", Warnings:"0")
+2017-04-12 10:34:04.780 -0600	FAILURE		Worksheet Error CellRange() requires a worksheet to read from (got: (null)) -- Execution Time 0:00:00 Example4.script

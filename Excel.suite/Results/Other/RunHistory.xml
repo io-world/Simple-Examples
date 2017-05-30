@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Other">
+ <run>
+  <RunDate>2017-04-12 14:35:19.029 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.697123</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170412_143519.029/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Error loading workbook /Users/randyhesse/Documents/Simple Examples/Excel.suite/Resources/Users/randyhesse/Desktop/dep_export.xlsx: No such file or directory.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-04-12 14:35:51.355 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.769192</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170412_143551.355/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-04-12 14:36:09.778 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.893445</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170412_143609.778/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-04-12 14:49:25.860 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.952099</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170412_144925.860/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

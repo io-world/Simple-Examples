@@ -1,0 +1,6 @@
+﻿2017-04-12 09:19:47.993 -0600	START		Running index.script
+2017-04-12 09:19:48.064 -0600	Log		Mrs	10	on_index	index.script
+2017-04-12 09:19:48.066 -0600	Log		580-71-8520	12	on_index	index.script
+2017-04-12 09:19:48.071 -0600	Log		((,Bond,666666),(,Simpson,777777),(,Prime,888888))	14	on_index	index.script
+2017-04-12 09:19:48.775 -0600	EndTestCase		(Duration:"0.781052", Errors:"0", Exceptions:"0", StartTime:"2017-04-12 09:19:47 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-04-12 09:19:48.788 -0600	SUCCESS		Execution Time 0:00:00 index.script

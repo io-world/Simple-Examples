@@ -1,0 +1,6 @@
+﻿
+set myScriptData to (type:"excel", file:ResourcePath("WebFormData.xlsx")) 
+put the records of myScriptData into global testpatients 
+
+log global testpatients 
+

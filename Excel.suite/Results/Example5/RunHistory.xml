@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Example5">
+ <run>
+  <RunDate>2017-05-23 15:50:24.748 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.341398</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170523_155024.748/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-05-23 15:50:45.420 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.259494</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170523_155045.420/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-05-23 15:52:09.647 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.172851</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170523_155209.647/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

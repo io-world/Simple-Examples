@@ -1,0 +1,4 @@
+﻿2017-04-27 12:34:57.665 -0600	START		Running Untitled1.script
+2017-04-27 12:34:57.718 -0600	Log		444444	4	on_untitled1	Untitled1.script
+2017-04-27 12:34:58.115 -0600	EndTestCase		(Duration:"0.448542", Errors:"0", Exceptions:"0", StartTime:"2017-04-27 12:34:57 -0600", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2017-04-27 12:34:58.158 -0600	SUCCESS		Execution Time 0:00:00 Untitled1.script

@@ -1,0 +1,13 @@
+﻿2017-04-12 09:39:11.965 -0600	START		Running Example3.script
+2017-04-12 09:39:12.283 -0600	Log		Prefix	25	on_example3	Example3.script
+2017-04-12 09:39:12.569 -0600	Log		Mr	25	on_example3	Example3.script
+2017-04-12 09:39:12.789 -0600	Log		Mrs	25	on_example3	Example3.script
+2017-04-12 09:39:13.071 -0600	Log		Ms	25	on_example3	Example3.script
+2017-04-12 09:39:13.327 -0600	Log		Dr	25	on_example3	Example3.script
+2017-04-12 09:39:13.571 -0600	Log		Dr	25	on_example3	Example3.script
+2017-04-12 09:39:13.888 -0600	Log		Mr	25	on_example3	Example3.script
+2017-04-12 09:39:14.238 -0600	Log		Dr	25	on_example3	Example3.script
+2017-04-12 09:39:14.537 -0600	Log		Dr	25	on_example3	Example3.script
+2017-04-12 09:39:14.876 -0600	Log		Mr	25	on_example3	Example3.script
+2017-04-12 09:39:15.643 -0600	EndTestCase		(Duration:"3.677247", Errors:"0", Exceptions:"0", StartTime:"2017-04-12 09:39:11 -0600", Successes:"1", TestCase:"Example3.script", Warnings:"0")
+2017-04-12 09:39:15.665 -0600	SUCCESS		Execution Time 0:00:03 Example3.script

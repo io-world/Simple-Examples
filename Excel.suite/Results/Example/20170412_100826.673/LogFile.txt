@@ -1,0 +1,7 @@
+﻿2017-04-12 10:08:26.674 -0600	START		Running Example.script
+2017-04-12 10:08:26.725 -0600	Log		Bruce	8	on_example	Example.script
+2017-04-12 10:08:26.727 -0600	Log		Bruce	9	on_example	Example.script
+2017-04-12 10:08:26.730 -0600	Log		((Bond,666666),(Simpson,777777),(Prime,888888),(Mouse,999999))	12	on_example	Example.script
+2017-04-12 10:08:26.733 -0600	Log		((Prefix,First Name,Middle Name,Last Name,Medical Record Number,Date of Birth,Social Security Number,Gender,Marital Status))	13	on_example	Example.script
+2017-04-12 10:08:27.531 -0600	EndTestCase		(Duration:"0.856347", Errors:"0", Exceptions:"0", StartTime:"2017-04-12 10:08:26 -0600", Successes:"1", TestCase:"Example.script", Warnings:"0")
+2017-04-12 10:08:27.555 -0600	SUCCESS		Execution Time 0:00:00 Example.script

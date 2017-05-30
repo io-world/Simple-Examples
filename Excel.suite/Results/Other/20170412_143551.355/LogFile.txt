@@ -1,0 +1,5 @@
+﻿2017-04-12 14:35:51.356 -0600	START		Running Other.script
+2017-04-12 14:35:51.475 -0600	Log		(dep_export)	6	on_other	Other.script
+2017-04-12 14:35:51.482 -0600	Log		Worksheet("dep_export") of Workbook("/Users/randyhesse/Desktop/dep_export.xlsx")	10	on_other	Other.script
+2017-04-12 14:35:52.125 -0600	EndTestCase		(Duration:"0.767768", Errors:"0", Exceptions:"0", StartTime:"2017-04-12 14:35:51 -0600", Successes:"1", TestCase:"Other.script", Warnings:"0")
+2017-04-12 14:35:52.156 -0600	SUCCESS		Execution Time 0:00:00 Other.script

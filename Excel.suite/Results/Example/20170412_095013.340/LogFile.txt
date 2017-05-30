@@ -1,0 +1,6 @@
+﻿2017-04-12 09:50:13.341 -0600	START		Running Example.script
+2017-04-12 09:50:13.396 -0600	Log		Bruce	8	on_example	Example.script
+2017-04-12 09:50:13.399 -0600	Log		Bruce	9	on_example	Example.script
+2017-04-12 09:50:13.401 -0600	Log		((Bond,666666),(Simpson,777777),(Prime,888888))	12	on_example	Example.script
+2017-04-12 09:50:14.158 -0600	EndTestCase		(Duration:"0.816235", Errors:"0", Exceptions:"0", StartTime:"2017-04-12 09:50:13 -0600", Successes:"1", TestCase:"Example.script", Warnings:"0")
+2017-04-12 09:50:14.170 -0600	SUCCESS		Execution Time 0:00:00 Example.script

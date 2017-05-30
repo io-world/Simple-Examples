@@ -1,0 +1,5 @@
+﻿2017-04-12 09:49:57.589 -0600	START		Running Example.script
+2017-04-12 09:49:57.644 -0600	Log		Bruce	8	on_example	Example.script
+2017-04-12 09:49:57.647 -0600	Log		Bruce	9	on_example	Example.script
+2017-04-12 09:49:58.431 -0600	EndTestCase		(Duration:"0.841455", Errors:"1", Exceptions:"0", StartTime:"2017-04-12 09:49:57 -0600", Successes:"0", TestCase:"Example.script", Warnings:"0")
+2017-04-12 09:49:58.985 -0600	FAILURE	Screen_Error.png	Worksheet Error CellRange() requires a worksheet to read from (got: (null)) -- Execution Time 0:00:00 Example.script

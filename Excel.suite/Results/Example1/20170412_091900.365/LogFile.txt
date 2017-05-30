@@ -1,0 +1,5 @@
+﻿2017-04-12 09:19:00.367 -0600	START		Running index.script
+2017-04-12 09:19:00.414 -0600	Log		Mrs	10	on_index	index.script
+2017-04-12 09:19:00.417 -0600	Log		580-71-8520	12	on_index	index.script
+2017-04-12 09:19:01.128 -0600	EndTestCase		(Duration:"0.75956", Errors:"0", Exceptions:"0", StartTime:"2017-04-12 09:19:00 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-04-12 09:19:01.152 -0600	SUCCESS		Execution Time 0:00:00 index.script

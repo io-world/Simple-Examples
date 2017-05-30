@@ -1,0 +1,10 @@
+﻿2017-04-12 10:26:34.001 -0600	START		Running Example.script
+2017-04-12 10:26:34.057 -0600	Log		(PatientList)	3	on_example	Example.script
+2017-04-12 10:26:34.062 -0600	Log		Bruce	7	on_example	Example.script
+2017-04-12 10:26:34.065 -0600	Log		Bruce	8	on_example	Example.script
+2017-04-12 10:26:34.068 -0600	Log		((Bond,666666),(Simpson,777777),(Prime,888888),(Mouse,999999))	11	on_example	Example.script
+2017-04-12 10:26:34.071 -0600	Log		((Prefix,First Name,Middle Name,Last Name,Medical Record Number,Date of Birth,Social Security Number,Gender,Marital Status))	12	on_example	Example.script
+2017-04-12 10:26:34.074 -0600	Log		Calibri	14	on_example	Example.script
+2017-04-12 10:26:34.078 -0600	Log		(False,False,False,0,0,1,Calibri)	15	on_example	Example.script
+2017-04-12 10:26:34.856 -0600	EndTestCase		(Duration:"0.854027", Errors:"0", Exceptions:"0", StartTime:"2017-04-12 10:26:34 -0600", Successes:"1", TestCase:"Example.script", Warnings:"0")
+2017-04-12 10:26:34.904 -0600	SUCCESS		Execution Time 0:00:00 Example.script

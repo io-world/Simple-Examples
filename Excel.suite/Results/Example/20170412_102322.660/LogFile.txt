@@ -1,0 +1,3 @@
+﻿2017-04-12 10:23:22.661 -0600	START		Running Example.script
+2017-04-12 10:23:23.510 -0600	EndTestCase		(Duration:"0.847773", Errors:"1", Exceptions:"0", StartTime:"2017-04-12 10:23:22 -0600", Successes:"0", TestCase:"Example.script", Warnings:"0")
+2017-04-12 10:23:23.843 -0600	FAILURE	Screen_Error.png	STInvalidParameters Function workbook should be called with one parameter -- Execution Time 0:00:00 Example.script

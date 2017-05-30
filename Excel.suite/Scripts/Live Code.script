@@ -1,0 +1,15 @@
+﻿put Worksheet (ResourcePath("WebFormData.xlsx"), "PatientList") into WSheet
+put WSheet.cellRange () into XLData
+
+
+log XLData
+
+put the number of items of  XLData into max
+
+log max
+
+
+put item 5 of  XLData into var
+
+
+log item 2 of var

@@ -1,0 +1,31 @@
+﻿
+
+
+put Workbook(ResourcePath("WebFormData.xlsx")) into ExcelData
+put the worksheetNames of ExcelData into SheetNames
+put Worksheet (ExcelData, item 1 of SheetNames) into WSheet
+
+
+put WSheet.cellrange() into SheetData
+
+put (the number of items of SheetData) -1 into RowCount
+put the number of items of item 1 of SheetData into  ColumnCount
+put item 1 of SheetData into RowNames
+
+
+
+repeat RowCount times
+	
+	put item repeatindex()+1 of SheetData into LineInfo
+	repeat ColumnCount times
+		put item repeatindex() of LineInfo into Cellinfo
+		put item repeatindex() of RowNames into RowName
+		delete " " in Rowname
+		put Cellinfo into Patient.(RowName)
+	end repeat
+	
+	log Patient	
+end repeat
+
+
+

@@ -1,0 +1,13 @@
+﻿2017-04-12 10:33:45.625 -0600	START		Running Example4.script
+2017-04-12 10:33:45.688 -0600	Log		(PatientList)	5	on_example4	Example4.script
+2017-04-12 10:33:45.912 -0600	Log		("":"Single", @"Workbook(\"/Users/randyhesse/Desktop/Excel.suite/Resources/WebFormData.xlsx\")":"Mr")	27	on_example4	Example4.script
+2017-04-12 10:33:46.110 -0600	Log		("":"Married", @"Workbook(\"/Users/randyhesse/Desktop/Excel.suite/Resources/WebFormData.xlsx\")":"Mrs")	27	on_example4	Example4.script
+2017-04-12 10:33:46.295 -0600	Log		("":"Divorced", @"Workbook(\"/Users/randyhesse/Desktop/Excel.suite/Resources/WebFormData.xlsx\")":"Ms")	27	on_example4	Example4.script
+2017-04-12 10:33:46.482 -0600	Log		("":"Widowed", @"Workbook(\"/Users/randyhesse/Desktop/Excel.suite/Resources/WebFormData.xlsx\")":"Dr")	27	on_example4	Example4.script
+2017-04-12 10:33:46.695 -0600	Log		("":"Single", @"Workbook(\"/Users/randyhesse/Desktop/Excel.suite/Resources/WebFormData.xlsx\")":"Dr")	27	on_example4	Example4.script
+2017-04-12 10:33:46.909 -0600	Log		("":"Married", @"Workbook(\"/Users/randyhesse/Desktop/Excel.suite/Resources/WebFormData.xlsx\")":"Mr")	27	on_example4	Example4.script
+2017-04-12 10:33:47.109 -0600	Log		("":"Divorced", @"Workbook(\"/Users/randyhesse/Desktop/Excel.suite/Resources/WebFormData.xlsx\")":"Dr")	27	on_example4	Example4.script
+2017-04-12 10:33:47.326 -0600	Log		("":"Single", @"Workbook(\"/Users/randyhesse/Desktop/Excel.suite/Resources/WebFormData.xlsx\")":"Dr")	27	on_example4	Example4.script
+2017-04-12 10:33:47.529 -0600	Log		("":"Single", @"Workbook(\"/Users/randyhesse/Desktop/Excel.suite/Resources/WebFormData.xlsx\")":"Mr")	27	on_example4	Example4.script
+2017-04-12 10:33:47.695 -0600	EndTestCase		(Duration:"2.068977", Errors:"0", Exceptions:"0", StartTime:"2017-04-12 10:33:45 -0600", Successes:"1", TestCase:"Example4.script", Warnings:"0")
+2017-04-12 10:33:47.703 -0600	SUCCESS		Execution Time 0:00:02 Example4.script

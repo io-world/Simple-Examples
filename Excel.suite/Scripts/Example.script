@@ -1,0 +1,16 @@
+﻿
+
+put Worksheet (ResourcePath("WebFormData.xlsx"), "PatientList") into WSheet
+
+log WSheet.Cell("B2")
+log WSheet.Cell(2,2)
+
+
+put  WSheet.cellRange ("D6", "E9") into asdasdasd
+
+
+log WSheet.cellRange ("D6", "E9")
+log WSheet.cellRange (1)
+
+log the fontName of WSheet.Cell("B2")
+log the (underline,bold, italic, fontcolor, fontname) of WSheet.Cell("B2")

@@ -1,0 +1,4 @@
+﻿2017-04-27 12:34:14.706 -0600	START		Running Untitled1.script
+2017-04-27 12:34:14.752 -0600	Log		(Prefix,First Name,Middle Name,Last Name,Medical Record Number,Date of Birth,Social Security Number,Gender,Marital Status)	4	on_untitled1	Untitled1.script
+2017-04-27 12:34:15.150 -0600	EndTestCase		(Duration:"0.442483", Errors:"0", Exceptions:"0", StartTime:"2017-04-27 12:34:14 -0600", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2017-04-27 12:34:15.168 -0600	SUCCESS		Execution Time 0:00:00 Untitled1.script

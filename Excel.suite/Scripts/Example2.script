@@ -1,0 +1,29 @@
+﻿
+
+
+
+
+
+
+
+put Worksheet (ResourcePath("WebFormData.xlsx"), "PatientList") into WSheet
+put the number of items of WSheet.cellrange() into RowCount
+put the number of items of item 1 of WSheet.cellrange() into  ColumnCount
+
+repeat RowCount times
+	
+	put item repeatindex() of WSheet.cellrange() into LineInfo
+	repeat ColumnCount times
+		
+		log item repeatindex() of LineInfo
+		
+		
+	end repeat
+	
+	
+	
+	
+end repeat
+
+
+
