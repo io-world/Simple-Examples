@@ -1,0 +1,26 @@
+﻿2017-05-31 10:40:59.778 -0600	START		Running Read2.script
+2017-05-31 10:41:00.163 -0600	imagelocation	Show	at (28, 82)	1	on_read2	Read2.script
+2017-05-31 10:41:00.175 -0600	moveto		at (28, 182)	1	on_read2	Read2.script
+2017-05-31 10:41:01.187 -0600	imagelocation	Show	at (28, 82)	4	on_read2	Read2.script
+2017-05-31 10:41:01.216 -0600	readtext		(368,122,698,147)
+2017-05-31 10:41:02.221 -0600	Log		System Architect	13	on_read2	Read2.script
+2017-05-31 10:41:02.251 -0600	readtext		(368,149,698,174)
+2017-05-31 10:41:03.253 -0600	Log		Accountant	13	on_read2	Read2.script
+2017-05-31 10:41:03.289 -0600	readtext		(368,176,698,201)
+2017-05-31 10:41:04.295 -0600	Log		Junior Technical Author	13	on_read2	Read2.script
+2017-05-31 10:41:04.334 -0600	readtext		(368,203,698,228)
+2017-05-31 10:41:05.340 -0600	Log		Senior Javascript Developer	13	on_read2	Read2.script
+2017-05-31 10:41:05.369 -0600	readtext		(368,230,698,255)
+2017-05-31 10:41:06.375 -0600	Log		Accountant	13	on_read2	Read2.script
+2017-05-31 10:41:06.415 -0600	readtext		(368,257,698,282)
+2017-05-31 10:41:07.417 -0600	Log		Integration Specialist	13	on_read2	Read2.script
+2017-05-31 10:41:07.450 -0600	readtext		(368,284,698,309)
+2017-05-31 10:41:08.456 -0600	Log		Sales Assistant	13	on_read2	Read2.script
+2017-05-31 10:41:08.492 -0600	readtext		(368,311,698,336)
+2017-05-31 10:41:09.494 -0600	Log		Integration Specialist	13	on_read2	Read2.script
+2017-05-31 10:41:09.526 -0600	readtext		(368,338,698,363)
+2017-05-31 10:41:10.531 -0600	Log		Javascript Developer	13	on_read2	Read2.script
+2017-05-31 10:41:10.533 -0600	Log		(368,338)	26	on_read2	Read2.script
+2017-05-31 10:41:10.546 -0600	moveto		at (248, 348)	27	on_read2	Read2.script
+2017-05-31 10:41:10.814 -0600	EndTestCase		(Duration:"11.035059", Errors:"0", Exceptions:"0", StartTime:"2017-05-31 10:40:59 -0600", Successes:"1", TestCase:"Read2.script", Warnings:"0")
+2017-05-31 10:41:10.839 -0600	SUCCESS		Execution Time 0:00:11 Read2.script

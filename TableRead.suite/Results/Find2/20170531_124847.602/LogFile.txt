@@ -1,0 +1,131 @@
+﻿2017-05-31 12:48:47.603 -0600	START		Running Find2.script
+2017-05-31 12:48:47.933 -0600	imagelocation	Show	at (28, 82)	1	on_find2	Find2.script
+2017-05-31 12:48:48.004 -0600	readtext		(8,123,50,812)
+2017-05-31 12:48:48.063 -0600	readtext		(18,92,1408,117)
+2017-05-31 12:48:48.065 -0600	Log		1	22	on_find2	Find2.script
+2017-05-31 12:48:48.436 -0600	imagelocation	(TEXT:"1")	at (15, 134)	24	on_find2	Find2.script
+2017-05-31 12:48:48.817 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:48:48.845 -0600	readtext		(691,124,901,144)
+2017-05-31 12:48:48.845 -0600	Log		Edinburgh	34	on_find2	Find2.script
+2017-05-31 12:48:48.847 -0600	Log		2	22	on_find2	Find2.script
+2017-05-31 12:48:49.211 -0600	imagelocation	(TEXT:"2")	at (15, 161)	24	on_find2	Find2.script
+2017-05-31 12:48:49.596 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:48:49.621 -0600	readtext		(691,151,901,171)
+2017-05-31 12:48:49.621 -0600	Log		Tokyo	34	on_find2	Find2.script
+2017-05-31 12:48:49.623 -0600	Log		3	22	on_find2	Find2.script
+2017-05-31 12:48:49.998 -0600	imagelocation	(TEXT:"3")	at (15, 188)	24	on_find2	Find2.script
+2017-05-31 12:48:50.384 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:48:50.414 -0600	readtext		(691,178,901,198)
+2017-05-31 12:48:50.414 -0600	Log		San Franciscc	34	on_find2	Find2.script
+2017-05-31 12:48:50.416 -0600	Log		4	22	on_find2	Find2.script
+2017-05-31 12:48:50.788 -0600	imagelocation	(TEXT:"4")	at (15, 215)	24	on_find2	Find2.script
+2017-05-31 12:48:51.180 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:48:51.208 -0600	readtext		(691,205,901,225)
+2017-05-31 12:48:51.209 -0600	Log		Edinburgh	34	on_find2	Find2.script
+2017-05-31 12:48:51.211 -0600	Log		5	22	on_find2	Find2.script
+2017-05-31 12:48:51.577 -0600	imagelocation	(TEXT:"5")	at (15, 242)	24	on_find2	Find2.script
+2017-05-31 12:48:51.959 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:48:51.984 -0600	readtext		(691,232,901,252)
+2017-05-31 12:48:51.985 -0600	Log		Tokyo	34	on_find2	Find2.script
+2017-05-31 12:48:51.986 -0600	Log		6	22	on_find2	Find2.script
+2017-05-31 12:48:52.359 -0600	imagelocation	(TEXT:"6")	at (15, 269)	24	on_find2	Find2.script
+2017-05-31 12:48:52.733 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:48:52.760 -0600	readtext		(691,259,901,279)
+2017-05-31 12:48:52.761 -0600	Log		New York	34	on_find2	Find2.script
+2017-05-31 12:48:52.763 -0600	Log		7	22	on_find2	Find2.script
+2017-05-31 12:48:53.126 -0600	imagelocation	(TEXT:"7")	at (15, 296)	24	on_find2	Find2.script
+2017-05-31 12:48:53.506 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:48:53.538 -0600	readtext		(691,286,901,306)
+2017-05-31 12:48:53.538 -0600	Log		San Franciscc	34	on_find2	Find2.script
+2017-05-31 12:48:53.540 -0600	Log		8	22	on_find2	Find2.script
+2017-05-31 12:48:53.906 -0600	imagelocation	(TEXT:"8")	at (15, 323)	24	on_find2	Find2.script
+2017-05-31 12:48:54.284 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:48:54.309 -0600	readtext		(691,313,901,333)
+2017-05-31 12:48:54.310 -0600	Log		Tokyo	34	on_find2	Find2.script
+2017-05-31 12:48:54.312 -0600	Log		9	22	on_find2	Find2.script
+2017-05-31 12:48:54.681 -0600	imagelocation	(TEXT:"9")	at (15, 350)	24	on_find2	Find2.script
+2017-05-31 12:48:55.067 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:48:55.096 -0600	readtext		(691,340,901,360)
+2017-05-31 12:48:55.097 -0600	Log		San Franciscc	34	on_find2	Find2.script
+2017-05-31 12:48:55.098 -0600	Log		10	22	on_find2	Find2.script
+2017-05-31 12:48:55.468 -0600	imagelocation	(TEXT:"10")	at (20, 377)	24	on_find2	Find2.script
+2017-05-31 12:48:55.843 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:48:55.870 -0600	readtext		(691,367,901,387)
+2017-05-31 12:48:55.870 -0600	Log		Edinburgh	34	on_find2	Find2.script
+2017-05-31 12:48:55.872 -0600	Log		11	22	on_find2	Find2.script
+2017-05-31 12:48:56.238 -0600	imagelocation	(TEXT:"11")	at (19, 404)	24	on_find2	Find2.script
+2017-05-31 12:48:56.627 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:48:56.652 -0600	readtext		(691,394,901,414)
+2017-05-31 12:48:56.653 -0600	Log		London	34	on_find2	Find2.script
+2017-05-31 12:48:56.655 -0600	Log		12	22	on_find2	Find2.script
+2017-05-31 12:48:57.025 -0600	imagelocation	(TEXT:"12")	at (20, 431)	24	on_find2	Find2.script
+2017-05-31 12:48:57.411 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:48:57.438 -0600	readtext		(691,421,901,441)
+2017-05-31 12:48:57.438 -0600	Log		Edinburgh	34	on_find2	Find2.script
+2017-05-31 12:48:57.440 -0600	Log		13	22	on_find2	Find2.script
+2017-05-31 12:48:57.799 -0600	imagelocation	(TEXT:"13")	at (20, 458)	24	on_find2	Find2.script
+2017-05-31 12:48:58.180 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:48:58.210 -0600	readtext		(691,448,901,468)
+2017-05-31 12:48:58.211 -0600	Log		San Franciscc	34	on_find2	Find2.script
+2017-05-31 12:48:58.213 -0600	Log		14	22	on_find2	Find2.script
+2017-05-31 12:48:58.582 -0600	imagelocation	(TEXT:"14")	at (20, 485)	24	on_find2	Find2.script
+2017-05-31 12:48:58.967 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:48:58.992 -0600	readtext		(691,475,901,495)
+2017-05-31 12:48:58.993 -0600	Log		London	34	on_find2	Find2.script
+2017-05-31 12:48:58.995 -0600	Log		15	22	on_find2	Find2.script
+2017-05-31 12:48:59.362 -0600	imagelocation	(TEXT:"15")	at (20, 512)	24	on_find2	Find2.script
+2017-05-31 12:48:59.744 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:48:59.768 -0600	readtext		(691,502,901,522)
+2017-05-31 12:48:59.769 -0600	Log		London	34	on_find2	Find2.script
+2017-05-31 12:48:59.771 -0600	Log		16	22	on_find2	Find2.script
+2017-05-31 12:49:00.139 -0600	imagelocation	(TEXT:"16")	at (20, 539)	24	on_find2	Find2.script
+2017-05-31 12:49:00.468 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:49:00.493 -0600	readtext		(691,529,901,549)
+2017-05-31 12:49:00.493 -0600	Log		London	34	on_find2	Find2.script
+2017-05-31 12:49:00.495 -0600	Log		17	22	on_find2	Find2.script
+2017-05-31 12:49:00.862 -0600	imagelocation	(TEXT:"17")	at (20, 566)	24	on_find2	Find2.script
+2017-05-31 12:49:01.248 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:49:01.275 -0600	readtext		(691,556,901,576)
+2017-05-31 12:49:01.275 -0600	Log		New York	34	on_find2	Find2.script
+2017-05-31 12:49:01.277 -0600	Log		18	22	on_find2	Find2.script
+2017-05-31 12:49:01.692 -0600	imagelocation	(TEXT:"18")	at (20, 593)	24	on_find2	Find2.script
+2017-05-31 12:49:02.081 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:49:02.105 -0600	readtext		(691,583,901,603)
+2017-05-31 12:49:02.106 -0600	Log		New York	34	on_find2	Find2.script
+2017-05-31 12:49:02.108 -0600	Log		19	22	on_find2	Find2.script
+2017-05-31 12:49:02.475 -0600	imagelocation	(TEXT:"19")	at (20, 620)	24	on_find2	Find2.script
+2017-05-31 12:49:02.861 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:49:02.888 -0600	readtext		(691,610,901,630)
+2017-05-31 12:49:02.888 -0600	Log		London	34	on_find2	Find2.script
+2017-05-31 12:49:02.890 -0600	Log		20	22	on_find2	Find2.script
+2017-05-31 12:49:03.254 -0600	imagelocation	(TEXT:"20")	at (20, 647)	24	on_find2	Find2.script
+2017-05-31 12:49:03.640 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:49:03.667 -0600	readtext		(691,637,901,657)
+2017-05-31 12:49:03.668 -0600	Log		Edinburgh	34	on_find2	Find2.script
+2017-05-31 12:49:03.669 -0600	Log		21	22	on_find2	Find2.script
+2017-05-31 12:49:04.031 -0600	imagelocation	(TEXT:"21")	at (19, 674)	24	on_find2	Find2.script
+2017-05-31 12:49:04.458 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:49:04.483 -0600	readtext		(691,664,901,684)
+2017-05-31 12:49:04.483 -0600	Log		New York	34	on_find2	Find2.script
+2017-05-31 12:49:04.486 -0600	Log		22	22	on_find2	Find2.script
+2017-05-31 12:49:04.855 -0600	imagelocation	(TEXT:"22")	at (20, 701)	24	on_find2	Find2.script
+2017-05-31 12:49:05.236 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:49:05.261 -0600	readtext		(691,691,901,711)
+2017-05-31 12:49:05.261 -0600	Log		New York	34	on_find2	Find2.script
+2017-05-31 12:49:05.263 -0600	Log		23	22	on_find2	Find2.script
+2017-05-31 12:49:05.638 -0600	imagelocation	(TEXT:"23")	at (20, 728)	24	on_find2	Find2.script
+2017-05-31 12:49:06.029 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:49:06.054 -0600	readtext		(691,718,901,738)
+2017-05-31 12:49:06.054 -0600	Log		New York	34	on_find2	Find2.script
+2017-05-31 12:49:06.056 -0600	Log		24	22	on_find2	Find2.script
+2017-05-31 12:49:06.425 -0600	imagelocation	(TEXT:"24")	at (20, 755)	24	on_find2	Find2.script
+2017-05-31 12:49:06.811 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:49:06.836 -0600	readtext		(691,745,901,765)
+2017-05-31 12:49:06.837 -0600	Log		Sidney	34	on_find2	Find2.script
+2017-05-31 12:49:06.838 -0600	Log		25	22	on_find2	Find2.script
+2017-05-31 12:49:07.207 -0600	imagelocation	(TEXT:"25")	at (20, 782)	24	on_find2	Find2.script
+2017-05-31 12:49:07.637 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	25	on_find2	Find2.script
+2017-05-31 12:49:07.663 -0600	readtext		(691,772,901,792)
+2017-05-31 12:49:07.664 -0600	Log		London	34	on_find2	Find2.script
+2017-05-31 12:49:07.986 -0600	EndTestCase		(Duration:"20.381099", Errors:"0", Exceptions:"0", StartTime:"2017-05-31 12:48:47 -0600", Successes:"1", TestCase:"Find2.script", Warnings:"0")
+2017-05-31 12:49:08.002 -0600	SUCCESS		Execution Time 0:00:20 Find2.script

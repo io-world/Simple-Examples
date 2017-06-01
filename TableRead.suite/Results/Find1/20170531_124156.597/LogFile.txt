@@ -1,0 +1,9 @@
+﻿2017-05-31 12:41:56.598 -0600	START		Running Find1.script
+2017-05-31 12:41:56.906 -0600	imagelocation	Show	at (28, 82)	1	on_find1	Find1.script
+2017-05-31 12:41:56.983 -0600	readtext		(8,123,50,812)
+2017-05-31 12:41:57.041 -0600	readtext		(18,92,1408,117)
+2017-05-31 12:41:57.411 -0600	imagelocation	(TEXT:"11")	at (19, 404)	24	on_find1	Find1.script
+2017-05-31 12:41:57.775 -0600	imagelocation	(TEXT:"Position")	at (597, 106)	25	on_find1	Find1.script
+2017-05-31 12:41:57.777 -0600	Exception	106	Could Not Open Image: 106	30	on_find1	Find1.script
+2017-05-31 12:41:58.088 -0600	EndTestCase		(Duration:"1.488241", Errors:"1", Exceptions:"1", StartTime:"2017-05-31 12:41:56 -0600", Successes:"0", TestCase:"Find1.script", Warnings:"0")
+2017-05-31 12:41:58.439 -0600	FAILURE	Screen_Error.png	File Not Found moveto Error - Could Not Open Image: 106 -- Execution Time 0:00:01 Find1.script

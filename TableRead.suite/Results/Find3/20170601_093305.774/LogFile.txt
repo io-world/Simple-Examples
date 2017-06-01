@@ -1,0 +1,113 @@
+﻿2017-06-01 09:33:05.775 -0600	START		Running Find3.script
+2017-06-01 09:33:06.171 -0600	imagelocation	Show	at (28, 82)	1	on_find3	Find3.script
+2017-06-01 09:33:06.267 -0600	readtext		(8,123,50,812)
+2017-06-01 09:33:06.327 -0600	readtext		(18,92,1408,117)
+2017-06-01 09:33:06.744 -0600	imagelocation	(TEXT:"1")	at (15, 134)	24	on_find3	Find3.script
+2017-06-01 09:33:07.157 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:07.186 -0600	readtext		(66,124,296,144)
+2017-06-01 09:33:07.571 -0600	imagelocation	(TEXT:"1")	at (15, 134)	24	on_find3	Find3.script
+2017-06-01 09:33:07.991 -0600	imagelocation	(TEXT:"Position")	at (608, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:08.021 -0600	readtext		(398,124,628,144)
+2017-06-01 09:33:08.407 -0600	imagelocation	(TEXT:"1")	at (15, 134)	24	on_find3	Find3.script
+2017-06-01 09:33:08.834 -0600	imagelocation	(TEXT:"Office")	at (911, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:08.863 -0600	readtext		(701,124,931,144)
+2017-06-01 09:33:09.255 -0600	imagelocation	(TEXT:"1")	at (15, 134)	24	on_find3	Find3.script
+2017-06-01 09:33:09.680 -0600	imagelocation	(TEXT:"Age")	at (1058, 107)	25	on_find3	Find3.script
+2017-06-01 09:33:09.729 -0600	readtext		(848,124,1078,144)
+2017-06-01 09:33:10.104 -0600	imagelocation	(TEXT:"1")	at (15, 134)	24	on_find3	Find3.script
+2017-06-01 09:33:10.543 -0600	imagelocation	(TEXT:"Start date")	at (1192, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:10.578 -0600	readtext		(982,124,1212,144)
+2017-06-01 09:33:10.964 -0600	imagelocation	(TEXT:"1")	at (15, 134)	24	on_find3	Find3.script
+2017-06-01 09:33:11.395 -0600	imagelocation	(TEXT:"Salary")	at (1352, 107)	25	on_find3	Find3.script
+2017-06-01 09:33:11.428 -0600	readtext		(1142,124,1372,144)
+2017-06-01 09:33:11.811 -0600	imagelocation	(TEXT:"2")	at (15, 161)	24	on_find3	Find3.script
+2017-06-01 09:33:12.223 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:12.254 -0600	readtext		(66,151,296,171)
+2017-06-01 09:33:12.645 -0600	imagelocation	(TEXT:"2")	at (15, 161)	24	on_find3	Find3.script
+2017-06-01 09:33:13.066 -0600	imagelocation	(TEXT:"Position")	at (608, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:13.093 -0600	readtext		(398,151,628,171)
+2017-06-01 09:33:13.481 -0600	imagelocation	(TEXT:"2")	at (15, 161)	24	on_find3	Find3.script
+2017-06-01 09:33:13.914 -0600	imagelocation	(TEXT:"Office")	at (911, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:13.940 -0600	readtext		(701,151,931,171)
+2017-06-01 09:33:14.334 -0600	imagelocation	(TEXT:"2")	at (15, 161)	24	on_find3	Find3.script
+2017-06-01 09:33:14.771 -0600	imagelocation	(TEXT:"Age")	at (1058, 107)	25	on_find3	Find3.script
+2017-06-01 09:33:14.818 -0600	readtext		(848,151,1078,171)
+2017-06-01 09:33:15.183 -0600	imagelocation	(TEXT:"2")	at (15, 161)	24	on_find3	Find3.script
+2017-06-01 09:33:15.619 -0600	imagelocation	(TEXT:"Start date")	at (1192, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:15.656 -0600	readtext		(982,151,1212,171)
+2017-06-01 09:33:16.033 -0600	imagelocation	(TEXT:"2")	at (15, 161)	24	on_find3	Find3.script
+2017-06-01 09:33:16.466 -0600	imagelocation	(TEXT:"Salary")	at (1352, 107)	25	on_find3	Find3.script
+2017-06-01 09:33:16.498 -0600	readtext		(1142,151,1372,171)
+2017-06-01 09:33:16.879 -0600	imagelocation	(TEXT:"3")	at (15, 188)	24	on_find3	Find3.script
+2017-06-01 09:33:17.283 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:17.311 -0600	readtext		(66,178,296,198)
+2017-06-01 09:33:17.699 -0600	imagelocation	(TEXT:"3")	at (15, 188)	24	on_find3	Find3.script
+2017-06-01 09:33:18.121 -0600	imagelocation	(TEXT:"Position")	at (608, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:18.154 -0600	readtext		(398,178,628,198)
+2017-06-01 09:33:18.529 -0600	imagelocation	(TEXT:"3")	at (15, 188)	24	on_find3	Find3.script
+2017-06-01 09:33:18.961 -0600	imagelocation	(TEXT:"Office")	at (911, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:18.989 -0600	readtext		(701,178,931,198)
+2017-06-01 09:33:19.373 -0600	imagelocation	(TEXT:"3")	at (15, 188)	24	on_find3	Find3.script
+2017-06-01 09:33:19.801 -0600	imagelocation	(TEXT:"Age")	at (1058, 107)	25	on_find3	Find3.script
+2017-06-01 09:33:19.832 -0600	readtext		(848,178,1078,198)
+2017-06-01 09:33:20.221 -0600	imagelocation	(TEXT:"3")	at (15, 188)	24	on_find3	Find3.script
+2017-06-01 09:33:20.655 -0600	imagelocation	(TEXT:"Start date")	at (1192, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:20.690 -0600	readtext		(982,178,1212,198)
+2017-06-01 09:33:21.066 -0600	imagelocation	(TEXT:"3")	at (15, 188)	24	on_find3	Find3.script
+2017-06-01 09:33:21.496 -0600	imagelocation	(TEXT:"Salary")	at (1352, 107)	25	on_find3	Find3.script
+2017-06-01 09:33:21.575 -0600	readtext		(1142,178,1372,198)
+2017-06-01 09:33:21.965 -0600	imagelocation	(TEXT:"4")	at (15, 215)	24	on_find3	Find3.script
+2017-06-01 09:33:22.383 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:22.412 -0600	readtext		(66,205,296,225)
+2017-06-01 09:33:22.801 -0600	imagelocation	(TEXT:"4")	at (15, 215)	24	on_find3	Find3.script
+2017-06-01 09:33:23.219 -0600	imagelocation	(TEXT:"Position")	at (608, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:23.252 -0600	readtext		(398,205,628,225)
+2017-06-01 09:33:23.634 -0600	imagelocation	(TEXT:"4")	at (15, 215)	24	on_find3	Find3.script
+2017-06-01 09:33:24.064 -0600	imagelocation	(TEXT:"Office")	at (911, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:24.092 -0600	readtext		(701,205,931,225)
+2017-06-01 09:33:24.477 -0600	imagelocation	(TEXT:"4")	at (15, 215)	24	on_find3	Find3.script
+2017-06-01 09:33:24.908 -0600	imagelocation	(TEXT:"Age")	at (1058, 107)	25	on_find3	Find3.script
+2017-06-01 09:33:24.956 -0600	readtext		(848,205,1078,225)
+2017-06-01 09:33:25.328 -0600	imagelocation	(TEXT:"4")	at (15, 215)	24	on_find3	Find3.script
+2017-06-01 09:33:25.765 -0600	imagelocation	(TEXT:"Start date")	at (1192, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:25.800 -0600	readtext		(982,205,1212,225)
+2017-06-01 09:33:26.187 -0600	imagelocation	(TEXT:"4")	at (15, 215)	24	on_find3	Find3.script
+2017-06-01 09:33:26.623 -0600	imagelocation	(TEXT:"Salary")	at (1352, 107)	25	on_find3	Find3.script
+2017-06-01 09:33:26.657 -0600	readtext		(1142,205,1372,225)
+2017-06-01 09:33:27.038 -0600	imagelocation	(TEXT:"5")	at (15, 242)	24	on_find3	Find3.script
+2017-06-01 09:33:27.448 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:27.479 -0600	readtext		(66,232,296,252)
+2017-06-01 09:33:27.861 -0600	imagelocation	(TEXT:"5")	at (15, 242)	24	on_find3	Find3.script
+2017-06-01 09:33:28.280 -0600	imagelocation	(TEXT:"Position")	at (608, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:28.306 -0600	readtext		(398,232,628,252)
+2017-06-01 09:33:28.704 -0600	imagelocation	(TEXT:"5")	at (15, 242)	24	on_find3	Find3.script
+2017-06-01 09:33:29.140 -0600	imagelocation	(TEXT:"Office")	at (911, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:29.166 -0600	readtext		(701,232,931,252)
+2017-06-01 09:33:29.556 -0600	imagelocation	(TEXT:"5")	at (15, 242)	24	on_find3	Find3.script
+2017-06-01 09:33:29.990 -0600	imagelocation	(TEXT:"Age")	at (1058, 107)	25	on_find3	Find3.script
+2017-06-01 09:33:30.034 -0600	readtext		(848,232,1078,252)
+2017-06-01 09:33:30.410 -0600	imagelocation	(TEXT:"5")	at (15, 242)	24	on_find3	Find3.script
+2017-06-01 09:33:30.836 -0600	imagelocation	(TEXT:"Start date")	at (1192, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:30.870 -0600	readtext		(982,232,1212,252)
+2017-06-01 09:33:31.252 -0600	imagelocation	(TEXT:"5")	at (15, 242)	24	on_find3	Find3.script
+2017-06-01 09:33:31.678 -0600	imagelocation	(TEXT:"Salary")	at (1352, 107)	25	on_find3	Find3.script
+2017-06-01 09:33:31.753 -0600	readtext		(1142,232,1372,252)
+2017-06-01 09:33:32.148 -0600	imagelocation	(TEXT:"6")	at (15, 269)	24	on_find3	Find3.script
+2017-06-01 09:33:32.559 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:32.604 -0600	readtext		(66,259,296,279)
+2017-06-01 09:33:32.970 -0600	imagelocation	(TEXT:"6")	at (15, 269)	24	on_find3	Find3.script
+2017-06-01 09:33:33.386 -0600	imagelocation	(TEXT:"Position")	at (608, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:33.420 -0600	readtext		(398,259,628,279)
+2017-06-01 09:33:33.807 -0600	imagelocation	(TEXT:"6")	at (15, 269)	24	on_find3	Find3.script
+2017-06-01 09:33:34.239 -0600	imagelocation	(TEXT:"Office")	at (911, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:34.264 -0600	readtext		(701,259,931,279)
+2017-06-01 09:33:34.658 -0600	imagelocation	(TEXT:"6")	at (15, 269)	24	on_find3	Find3.script
+2017-06-01 09:33:35.081 -0600	imagelocation	(TEXT:"Age")	at (1058, 107)	25	on_find3	Find3.script
+2017-06-01 09:33:35.114 -0600	readtext		(848,259,1078,279)
+2017-06-01 09:33:35.505 -0600	imagelocation	(TEXT:"6")	at (15, 269)	24	on_find3	Find3.script
+2017-06-01 09:33:35.939 -0600	imagelocation	(TEXT:"Start date")	at (1192, 106)	25	on_find3	Find3.script
+2017-06-01 09:33:35.975 -0600	readtext		(982,259,1212,279)
+2017-06-01 09:33:36.351 -0600	imagelocation	(TEXT:"6")	at (15, 269)	24	on_find3	Find3.script
+2017-06-01 09:33:36.782 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	25	on_find3	Find3.script
+2017-06-01 09:33:37.125 -0600	EndTestCase		(Duration:"31.348328", Errors:"1", Exceptions:"1", StartTime:"2017-06-01 09:33:05 -0600", Successes:"0", TestCase:"Find3.script", Warnings:"0")
+2017-06-01 09:33:37.126 -0600	ABORTED		Execution Time 0:00:31 Find3.script

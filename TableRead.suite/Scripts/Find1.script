@@ -1,0 +1,30 @@
+﻿put imagelocation(image:"Show") into ILS
+
+---------------
+
+---------------
+insert ILS+(-20,41) into LRR
+insert ILS+(22,730) into LRR
+put ReadText(LRR) into SideRow
+---------------
+insert ILS+(-10,10) into TRR
+insert ILS+(1380,35) into TRR
+put ReadText(TRR) into TopRow
+replace tabkey with return in  toprow
+split TopRow by return
+--------------------------------------------------------------------
+put "11" into LN
+put "Office"into TN
+put imagelocation(text:LN,searchRectangle:(LRR)) into LNL
+put imagelocation(text:TN,searchRectangle:(TRR)) into TNL
+insert  item 1 of  TNL into TP
+insert item 2 of  LNL into TP
+--------------------------------------------------------------------
+
+
+
+insert TP +(-200,-10) into RR
+insert TP +(10,10) into RR
+
+
+log ReadText(RR)

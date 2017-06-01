@@ -1,0 +1,39 @@
+﻿put imagelocation(image:"Show") into ILS
+
+---------------
+
+---------------
+insert ILS+(-20,41) into LRR
+insert ILS+(22,730) into LRR
+put ReadText(LRR) into SideRow
+put the number of lines of SideRow into SideRowMAX
+---------------
+insert ILS+(-10,10) into TRR
+insert ILS+(1380,35) into TRR
+put ReadText(TRR) into TopRow
+replace tabkey with return in  toprow
+split TopRow by return
+put the number of items of TopRow-1 into TopRowMAX
+--------------------------------------------------------------------
+
+repeat TopRowMAX times
+	put item repeatindex()+1 of toprow into TN
+	repeat SideRowMAX times
+		put line repeatindex() of SideRow into LN
+		put imagelocation(text:LN,searchRectangle:(LRR)) into LNL
+		put imagelocation(text:TN,searchRectangle:(TRR)) into TNL
+		insert  item 1 of  TNL into TP
+		insert item 2 of  LNL into TP
+		--------------------------------------------------------------------
+		insert TP +(-210,-10) into RR
+		insert TP +(20,10) into RR
+		put ReadText(RR) into READCELL
+		log READCELL
+		if READCELL = "Regional Director" then
+			log "something"
+		end if
+		----------------------------------
+		put () into TP
+		put () into RR
+	end repeat
+end repeat

@@ -1,0 +1,23 @@
+﻿2017-05-26 14:19:31.787 -0600	START		Running Live Code.script
+2017-05-26 14:19:31.877 -0600	readtext		(158,122,286,147)
+2017-05-26 14:19:31.878 -0600	Log		Tiger Nixon	10	on_live_code	Live Code.script
+2017-05-26 14:19:31.910 -0600	readtext		(158,149,286,174)
+2017-05-26 14:19:31.911 -0600	Log		Garrett Winters	10	on_live_code	Live Code.script
+2017-05-26 14:19:31.941 -0600	readtext		(158,176,286,201)
+2017-05-26 14:19:31.942 -0600	Log		Ashton Cox	10	on_live_code	Live Code.script
+2017-05-26 14:19:31.976 -0600	readtext		(158,203,286,228)
+2017-05-26 14:19:31.976 -0600	Log		Cedric Kelly	10	on_live_code	Live Code.script
+2017-05-26 14:19:32.014 -0600	readtext		(158,230,286,255)
+2017-05-26 14:19:32.016 -0600	Log		Airi Satou	10	on_live_code	Live Code.script
+2017-05-26 14:19:32.086 -0600	readtext		(158,257,286,282)
+2017-05-26 14:19:32.089 -0600	Log		Brielle Williamsor	10	on_live_code	Live Code.script
+2017-05-26 14:19:32.124 -0600	readtext		(158,284,286,309)
+2017-05-26 14:19:32.126 -0600	Log		Herrod Chandler	10	on_live_code	Live Code.script
+2017-05-26 14:19:32.173 -0600	readtext		(158,311,286,336)
+2017-05-26 14:19:32.174 -0600	Log		Rhona Davidson	10	on_live_code	Live Code.script
+2017-05-26 14:19:32.206 -0600	readtext		(158,338,286,363)
+2017-05-26 14:19:32.207 -0600	Log		Colleen Hurst	10	on_live_code	Live Code.script
+2017-05-26 14:19:32.240 -0600	readtext		(158,365,286,390)
+2017-05-26 14:19:32.242 -0600	Log		Sonya Frost	10	on_live_code	Live Code.script
+2017-05-26 14:19:32.598 -0600	EndTestCase		(Duration:"0.809797", Errors:"0", Exceptions:"0", StartTime:"2017-05-26 14:19:31 -0600", Successes:"1", TestCase:"Live Code.script", Warnings:"0")
+2017-05-26 14:19:32.632 -0600	SUCCESS		Execution Time 0:00:00 Live Code.script

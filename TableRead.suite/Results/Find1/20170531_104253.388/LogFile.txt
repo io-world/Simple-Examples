@@ -1,0 +1,5 @@
+﻿2017-05-31 10:42:53.389 -0600	START		Running Find1.script
+2017-05-31 10:42:53.776 -0600	imagelocation	Show	at (28, 82)	1	on_find1	Find1.script
+2017-05-31 10:42:53.789 -0600	moveto		at (128, 82)	1	on_find1	Find1.script
+2017-05-31 10:42:54.105 -0600	EndTestCase		(Duration:"0.71442", Errors:"0", Exceptions:"0", StartTime:"2017-05-31 10:42:53 -0600", Successes:"1", TestCase:"Find1.script", Warnings:"0")
+2017-05-31 10:42:54.125 -0600	SUCCESS		Execution Time 0:00:00 Find1.script

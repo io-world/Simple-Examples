@@ -1,0 +1,12 @@
+﻿2017-05-31 12:46:26.505 -0600	START		Running Find2.script
+2017-05-31 12:46:26.826 -0600	imagelocation	Show	at (28, 82)	1	on_find2	Find2.script
+2017-05-31 12:46:26.899 -0600	readtext		(8,123,50,812)
+2017-05-31 12:46:26.953 -0600	readtext		(18,92,1408,117)
+2017-05-31 12:46:27.318 -0600	imagelocation	(TEXT:"1")	at (15, 134)	21	on_find2	Find2.script
+2017-05-31 12:46:27.699 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	22	on_find2	Find2.script
+2017-05-31 12:46:27.728 -0600	readtext		(691,124,901,144)
+2017-05-31 12:46:27.729 -0600	Log		Edinburgh	33	on_find2	Find2.script
+2017-05-31 12:46:28.094 -0600	imagelocation	(TEXT:"2")	at (15, 161)	21	on_find2	Find2.script
+2017-05-31 12:46:28.481 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	22	on_find2	Find2.script
+2017-05-31 12:46:28.805 -0600	EndTestCase		(Duration:"2.298679", Errors:"1", Exceptions:"0", StartTime:"2017-05-31 12:46:26 -0600", Successes:"0", TestCase:"Find2.script", Warnings:"0")
+2017-05-31 12:46:29.142 -0600	FAILURE	Screen_Error.png	SenseTalk Runtime Exception Invalid operands for addition: expected numbers, dates and/or lists; got '(-200,-10)' and '(891,134,891,161)' -- Execution Time 0:00:02 Find2.script

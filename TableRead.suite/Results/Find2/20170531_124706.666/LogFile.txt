@@ -1,0 +1,26 @@
+﻿2017-05-31 12:47:06.667 -0600	START		Running Find2.script
+2017-05-31 12:47:07.004 -0600	imagelocation	Show	at (28, 82)	1	on_find2	Find2.script
+2017-05-31 12:47:07.076 -0600	readtext		(8,123,50,812)
+2017-05-31 12:47:07.137 -0600	readtext		(18,92,1408,117)
+2017-05-31 12:47:07.512 -0600	imagelocation	(TEXT:"1")	at (15, 134)	21	on_find2	Find2.script
+2017-05-31 12:47:07.890 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	22	on_find2	Find2.script
+2017-05-31 12:47:07.917 -0600	readtext		(691,124,901,144)
+2017-05-31 12:47:07.917 -0600	Log		Edinburgh	31	on_find2	Find2.script
+2017-05-31 12:47:08.285 -0600	imagelocation	(TEXT:"2")	at (15, 161)	21	on_find2	Find2.script
+2017-05-31 12:47:08.667 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	22	on_find2	Find2.script
+2017-05-31 12:47:08.694 -0600	readtext		(691,151,901,171)
+2017-05-31 12:47:08.694 -0600	Log		Tokyo	31	on_find2	Find2.script
+2017-05-31 12:47:09.060 -0600	imagelocation	(TEXT:"3")	at (15, 188)	21	on_find2	Find2.script
+2017-05-31 12:47:09.441 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	22	on_find2	Find2.script
+2017-05-31 12:47:09.470 -0600	readtext		(691,178,901,198)
+2017-05-31 12:47:09.471 -0600	Log		San Franciscc	31	on_find2	Find2.script
+2017-05-31 12:47:09.836 -0600	imagelocation	(TEXT:"4")	at (15, 215)	21	on_find2	Find2.script
+2017-05-31 12:47:10.223 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	22	on_find2	Find2.script
+2017-05-31 12:47:10.251 -0600	readtext		(691,205,901,225)
+2017-05-31 12:47:10.251 -0600	Log		Edinburgh	31	on_find2	Find2.script
+2017-05-31 12:47:10.618 -0600	imagelocation	(TEXT:"5")	at (15, 242)	21	on_find2	Find2.script
+2017-05-31 12:47:10.999 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	22	on_find2	Find2.script
+2017-05-31 12:47:11.023 -0600	readtext		(691,232,901,252)
+2017-05-31 12:47:11.024 -0600	Log		Tokyo	31	on_find2	Find2.script
+2017-05-31 12:47:11.345 -0600	EndTestCase		(Duration:"4.676127", Errors:"0", Exceptions:"0", StartTime:"2017-05-31 12:47:06 -0600", Successes:"1", TestCase:"Find2.script", Warnings:"0")
+2017-05-31 12:47:11.362 -0600	SUCCESS		Execution Time 0:00:04 Find2.script

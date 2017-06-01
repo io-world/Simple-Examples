@@ -1,0 +1,7 @@
+﻿2017-05-31 11:50:20.863 -0600	START		Running Find1.script
+2017-05-31 11:50:21.191 -0600	imagelocation	Show	at (28, 82)	1	on_find1	Find1.script
+2017-05-31 11:50:21.246 -0600	readtext		(18,92,1408,117)
+2017-05-31 11:50:21.317 -0600	readtext		(8,123,50,812)
+2017-05-31 11:50:21.318 -0600	Log		1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25	17	on_find1	Find1.script
+2017-05-31 11:50:21.619 -0600	EndTestCase		(Duration:"0.754304", Errors:"0", Exceptions:"0", StartTime:"2017-05-31 11:50:20 -0600", Successes:"1", TestCase:"Find1.script", Warnings:"0")
+2017-05-31 11:50:21.644 -0600	SUCCESS		Execution Time 0:00:00 Find1.script

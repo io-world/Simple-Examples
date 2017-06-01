@@ -1,0 +1,10 @@
+﻿2017-05-31 12:44:37.955 -0600	START		Running Find1.script
+2017-05-31 12:44:38.297 -0600	imagelocation	Show	at (28, 82)	1	on_find1	Find1.script
+2017-05-31 12:44:38.376 -0600	readtext		(8,123,50,812)
+2017-05-31 12:44:38.437 -0600	readtext		(18,92,1408,117)
+2017-05-31 12:44:38.808 -0600	imagelocation	(TEXT:"11")	at (19, 404)	18	on_find1	Find1.script
+2017-05-31 12:44:39.180 -0600	imagelocation	(TEXT:"Position")	at (597, 106)	19	on_find1	Find1.script
+2017-05-31 12:44:39.208 -0600	readtext		(397,394,607,414)
+2017-05-31 12:44:39.209 -0600	Log		Office Manager	30	on_find1	Find1.script
+2017-05-31 12:44:39.521 -0600	EndTestCase		(Duration:"1.564179", Errors:"0", Exceptions:"0", StartTime:"2017-05-31 12:44:37 -0600", Successes:"1", TestCase:"Find1.script", Warnings:"0")
+2017-05-31 12:44:39.561 -0600	SUCCESS		Execution Time 0:00:01 Find1.script

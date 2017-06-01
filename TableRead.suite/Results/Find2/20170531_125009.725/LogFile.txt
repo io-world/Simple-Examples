@@ -1,0 +1,7 @@
+﻿2017-05-31 12:50:09.726 -0600	START		Running Find2.script
+2017-05-31 12:50:10.072 -0600	imagelocation	Show	at (28, 82)	1	on_find2	Find2.script
+2017-05-31 12:50:10.150 -0600	readtext		(8,123,50,812)
+2017-05-31 12:50:10.204 -0600	readtext		(18,92,1408,117)
+2017-05-31 12:50:10.581 -0600	imagelocation	(TEXT:"1")	at (15, 134)	26	on_find2	Find2.script
+2017-05-31 12:50:25.788 -0600	EndTestCase		(Duration:"16.060169", Errors:"1", Exceptions:"0", StartTime:"2017-05-31 12:50:09 -0600", Successes:"0", TestCase:"Find2.script", Warnings:"0")
+2017-05-31 12:50:25.788 -0600	ABORTED		Execution Time 0:00:16 Find2.script

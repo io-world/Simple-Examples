@@ -1,0 +1,31 @@
+﻿2017-05-31 12:50:40.759 -0600	START		Running Find2.script
+2017-05-31 12:50:41.096 -0600	imagelocation	Show	at (28, 82)	1	on_find2	Find2.script
+2017-05-31 12:50:41.170 -0600	readtext		(8,123,50,812)
+2017-05-31 12:50:41.224 -0600	readtext		(18,92,1408,117)
+2017-05-31 12:50:41.226 -0600	Log		Number	22	on_find2	Find2.script
+2017-05-31 12:50:41.228 -0600	Log		Name	22	on_find2	Find2.script
+2017-05-31 12:50:41.229 -0600	Log		Position	22	on_find2	Find2.script
+2017-05-31 12:50:41.230 -0600	Log		Office	22	on_find2	Find2.script
+2017-05-31 12:50:41.231 -0600	Log		Age	22	on_find2	Find2.script
+2017-05-31 12:50:41.232 -0600	Log		Start date	22	on_find2	Find2.script
+2017-05-31 12:50:41.233 -0600	Log		Salary	22	on_find2	Find2.script
+2017-05-31 12:50:41.235 -0600	Log			22	on_find2	Find2.script
+2017-05-31 12:50:41.236 -0600	Log			22	on_find2	Find2.script
+2017-05-31 12:50:41.237 -0600	Log			22	on_find2	Find2.script
+2017-05-31 12:50:41.238 -0600	Log			22	on_find2	Find2.script
+2017-05-31 12:50:41.240 -0600	Log			22	on_find2	Find2.script
+2017-05-31 12:50:41.241 -0600	Log			22	on_find2	Find2.script
+2017-05-31 12:50:41.242 -0600	Log			22	on_find2	Find2.script
+2017-05-31 12:50:41.244 -0600	Log			22	on_find2	Find2.script
+2017-05-31 12:50:41.245 -0600	Log			22	on_find2	Find2.script
+2017-05-31 12:50:41.247 -0600	Log			22	on_find2	Find2.script
+2017-05-31 12:50:41.248 -0600	Log			22	on_find2	Find2.script
+2017-05-31 12:50:41.250 -0600	Log			22	on_find2	Find2.script
+2017-05-31 12:50:41.251 -0600	Log			22	on_find2	Find2.script
+2017-05-31 12:50:41.253 -0600	Log			22	on_find2	Find2.script
+2017-05-31 12:50:41.254 -0600	Log			22	on_find2	Find2.script
+2017-05-31 12:50:41.255 -0600	Log			22	on_find2	Find2.script
+2017-05-31 12:50:41.257 -0600	Log			22	on_find2	Find2.script
+2017-05-31 12:50:41.258 -0600	Log			22	on_find2	Find2.script
+2017-05-31 12:50:41.599 -0600	EndTestCase		(Duration:"0.838465", Errors:"0", Exceptions:"0", StartTime:"2017-05-31 12:50:40 -0600", Successes:"1", TestCase:"Find2.script", Warnings:"0")
+2017-05-31 12:50:41.649 -0600	SUCCESS		Execution Time 0:00:00 Find2.script

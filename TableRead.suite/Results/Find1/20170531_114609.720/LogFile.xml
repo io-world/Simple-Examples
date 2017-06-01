@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Find1.script" package="TableRead.suite" timestamp="2017-05-31 11:46:09.720 -0600"
+ tests="1" successes="1" errors="0" time="0.753352">
+  <properties>
+   <property name="RunDate" value="2017-05-31 11:46:09.720 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Find1.script" assertions="1" successes="1" errors="0" time="0.751805">
+  </testcase>
+ </testsuite>
+</testsuites>

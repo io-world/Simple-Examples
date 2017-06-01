@@ -1,0 +1,23 @@
+﻿2017-05-26 14:18:48.489 -0600	START		Running Live Code.script
+2017-05-26 14:18:48.591 -0600	readtext		(158,122,286,147)
+2017-05-26 14:18:48.592 -0600	Log		Tiger Nixon	10	on_live_code	Live Code.script
+2017-05-26 14:18:48.650 -0600	readtext		(158,142,286,167)
+2017-05-26 14:18:48.651 -0600	Log		Garrett Winters	10	on_live_code	Live Code.script
+2017-05-26 14:18:48.798 -0600	readtext		(158,162,286,187)
+2017-05-26 14:18:48.799 -0600	Log		vjai i cu v vii iicio\nA . I. x .	10	on_live_code	Live Code.script
+2017-05-26 14:18:48.827 -0600	readtext		(158,182,286,207)
+2017-05-26 14:18:48.828 -0600	Log		Ashton Cox	10	on_live_code	Live Code.script
+2017-05-26 14:18:48.868 -0600	readtext		(158,202,286,227)
+2017-05-26 14:18:48.869 -0600	Log		Cedric Kelly	10	on_live_code	Live Code.script
+2017-05-26 14:18:48.937 -0600	readtext		(158,222,286,247)
+2017-05-26 14:18:48.938 -0600	Log		f\nAiri .Satnn	10	on_live_code	Live Code.script
+2017-05-26 14:18:49.026 -0600	readtext		(158,242,286,267)
+2017-05-26 14:18:49.027 -0600	Log		Mill OdIUU	10	on_live_code	Live Code.script
+2017-05-26 14:18:49.103 -0600	readtext		(158,262,286,287)
+2017-05-26 14:18:49.104 -0600	Log		Brielle Williamsor	10	on_live_code	Live Code.script
+2017-05-26 14:18:49.138 -0600	readtext		(158,282,286,307)
+2017-05-26 14:18:49.140 -0600	Log		Herrod Chandler	10	on_live_code	Live Code.script
+2017-05-26 14:18:49.232 -0600	readtext		(158,302,286,327)
+2017-05-26 14:18:49.233 -0600	Log		Rhnna nauirl<:nn	10	on_live_code	Live Code.script
+2017-05-26 14:18:49.618 -0600	EndTestCase		(Duration:"1.127089", Errors:"0", Exceptions:"0", StartTime:"2017-05-26 14:18:48 -0600", Successes:"1", TestCase:"Live Code.script", Warnings:"0")
+2017-05-26 14:18:49.642 -0600	SUCCESS		Execution Time 0:00:01 Live Code.script

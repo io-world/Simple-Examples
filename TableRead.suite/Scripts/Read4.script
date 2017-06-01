@@ -12,9 +12,6 @@ put ReadText(SR) into NumList
 log NumList
 wait 2
 
-
-
-
 put the number of lines of NumList into Max
 
 repeat MAX times

@@ -1,0 +1,13 @@
+﻿2017-05-31 12:47:45.730 -0600	START		Running Find2.script
+2017-05-31 12:47:46.066 -0600	imagelocation	Show	at (28, 82)	1	on_find2	Find2.script
+2017-05-31 12:47:46.148 -0600	readtext		(8,123,50,812)
+2017-05-31 12:47:46.203 -0600	readtext		(18,92,1408,117)
+2017-05-31 12:47:46.204 -0600	Log		1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25	20	on_find2	Find2.script
+2017-05-31 12:47:46.635 -0600	imagelocation	(TEXT:"1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25")	at (20, 458)	22	on_find2	Find2.script
+2017-05-31 12:47:47.019 -0600	imagelocation	(TEXT:"Office")	at (891, 106)	23	on_find2	Find2.script
+2017-05-31 12:47:47.048 -0600	readtext		(691,448,901,468)
+2017-05-31 12:47:47.049 -0600	Log		San Franciscc	32	on_find2	Find2.script
+2017-05-31 12:47:47.051 -0600	Log			20	on_find2	Find2.script
+2017-05-31 12:47:47.052 -0600	Exception		Image Property List did not contain "ImageName" property	22	on_find2	Find2.script
+2017-05-31 12:47:47.374 -0600	EndTestCase		(Duration:"1.642806", Errors:"1", Exceptions:"1", StartTime:"2017-05-31 12:47:45 -0600", Successes:"0", TestCase:"Find2.script", Warnings:"0")
+2017-05-31 12:47:47.743 -0600	FAILURE	Screen_Error.png	Error Running Script Command imagelocation Error - Image Property List did not contain "ImageName" property -- Execution Time 0:00:01 Find2.script

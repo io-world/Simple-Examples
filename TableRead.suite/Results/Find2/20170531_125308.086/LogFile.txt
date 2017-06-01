@@ -1,0 +1,57 @@
+﻿2017-05-31 12:53:08.087 -0600	START		Running Find2.script
+2017-05-31 12:53:08.464 -0600	imagelocation	Show	at (28, 82)	1	on_find2	Find2.script
+2017-05-31 12:53:08.542 -0600	readtext		(8,123,50,812)
+2017-05-31 12:53:08.599 -0600	readtext		(18,92,1408,117)
+2017-05-31 12:53:08.601 -0600	Log		Name	22	on_find2	Find2.script
+2017-05-31 12:53:08.970 -0600	imagelocation	(TEXT:"1")	at (15, 134)	25	on_find2	Find2.script
+2017-05-31 12:53:09.337 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	26	on_find2	Find2.script
+2017-05-31 12:53:09.365 -0600	readtext		(66,124,286,144)
+2017-05-31 12:53:09.744 -0600	imagelocation	(TEXT:"2")	at (15, 161)	25	on_find2	Find2.script
+2017-05-31 12:53:10.112 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	26	on_find2	Find2.script
+2017-05-31 12:53:10.141 -0600	readtext		(66,151,286,171)
+2017-05-31 12:53:10.509 -0600	imagelocation	(TEXT:"3")	at (15, 188)	25	on_find2	Find2.script
+2017-05-31 12:53:10.881 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	26	on_find2	Find2.script
+2017-05-31 12:53:10.908 -0600	readtext		(66,178,286,198)
+2017-05-31 12:53:11.277 -0600	imagelocation	(TEXT:"4")	at (15, 215)	25	on_find2	Find2.script
+2017-05-31 12:53:11.642 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	26	on_find2	Find2.script
+2017-05-31 12:53:11.672 -0600	readtext		(66,205,286,225)
+2017-05-31 12:53:12.048 -0600	imagelocation	(TEXT:"5")	at (15, 242)	25	on_find2	Find2.script
+2017-05-31 12:53:12.412 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	26	on_find2	Find2.script
+2017-05-31 12:53:12.441 -0600	readtext		(66,232,286,252)
+2017-05-31 12:53:12.807 -0600	imagelocation	(TEXT:"6")	at (15, 269)	25	on_find2	Find2.script
+2017-05-31 12:53:13.172 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	26	on_find2	Find2.script
+2017-05-31 12:53:13.217 -0600	readtext		(66,259,286,279)
+2017-05-31 12:53:13.571 -0600	imagelocation	(TEXT:"7")	at (15, 296)	25	on_find2	Find2.script
+2017-05-31 12:53:13.945 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	26	on_find2	Find2.script
+2017-05-31 12:53:13.977 -0600	readtext		(66,286,286,306)
+2017-05-31 12:53:14.338 -0600	imagelocation	(TEXT:"8")	at (15, 323)	25	on_find2	Find2.script
+2017-05-31 12:53:14.705 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	26	on_find2	Find2.script
+2017-05-31 12:53:14.749 -0600	readtext		(66,313,286,333)
+2017-05-31 12:53:15.147 -0600	imagelocation	(TEXT:"9")	at (15, 350)	25	on_find2	Find2.script
+2017-05-31 12:53:15.566 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	26	on_find2	Find2.script
+2017-05-31 12:53:15.597 -0600	readtext		(66,340,286,360)
+2017-05-31 12:53:15.972 -0600	imagelocation	(TEXT:"10")	at (20, 377)	25	on_find2	Find2.script
+2017-05-31 12:53:16.340 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	26	on_find2	Find2.script
+2017-05-31 12:53:16.367 -0600	readtext		(66,367,286,387)
+2017-05-31 12:53:16.737 -0600	imagelocation	(TEXT:"11")	at (19, 404)	25	on_find2	Find2.script
+2017-05-31 12:53:17.101 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	26	on_find2	Find2.script
+2017-05-31 12:53:17.128 -0600	readtext		(66,394,286,414)
+2017-05-31 12:53:17.505 -0600	imagelocation	(TEXT:"12")	at (20, 431)	25	on_find2	Find2.script
+2017-05-31 12:53:17.871 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	26	on_find2	Find2.script
+2017-05-31 12:53:17.899 -0600	readtext		(66,421,286,441)
+2017-05-31 12:53:18.269 -0600	imagelocation	(TEXT:"13")	at (20, 458)	25	on_find2	Find2.script
+2017-05-31 12:53:18.632 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	26	on_find2	Find2.script
+2017-05-31 12:53:18.667 -0600	readtext		(66,448,286,468)
+2017-05-31 12:53:19.024 -0600	imagelocation	(TEXT:"14")	at (20, 485)	25	on_find2	Find2.script
+2017-05-31 12:53:19.392 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	26	on_find2	Find2.script
+2017-05-31 12:53:19.424 -0600	readtext		(66,475,286,495)
+2017-05-31 12:53:19.793 -0600	imagelocation	(TEXT:"15")	at (20, 512)	25	on_find2	Find2.script
+2017-05-31 12:53:20.156 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	26	on_find2	Find2.script
+2017-05-31 12:53:20.201 -0600	readtext		(66,502,286,522)
+2017-05-31 12:53:20.556 -0600	imagelocation	(TEXT:"16")	at (20, 539)	25	on_find2	Find2.script
+2017-05-31 12:53:20.923 -0600	imagelocation	(TEXT:"Name")	at (276, 106)	26	on_find2	Find2.script
+2017-05-31 12:53:20.953 -0600	readtext		(66,529,286,549)
+2017-05-31 12:53:21.321 -0600	imagelocation	(TEXT:"17")	at (20, 566)	25	on_find2	Find2.script
+2017-05-31 12:53:21.662 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	26	on_find2	Find2.script
+2017-05-31 12:53:22.012 -0600	EndTestCase		(Duration:"13.92395", Errors:"1", Exceptions:"1", StartTime:"2017-05-31 12:53:08 -0600", Successes:"0", TestCase:"Find2.script", Warnings:"0")
+2017-05-31 12:53:22.013 -0600	ABORTED		Execution Time 0:00:13 Find2.script
