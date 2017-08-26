@@ -1,3 +1,0 @@
-﻿2016-11-07 13:22:18.999 -0700	START		Running Write1.script
-2016-11-07 13:22:19.648 -0700	EndTestCase		(Duration:"0.647667", Errors:"0", Exceptions:"0", StartTime:"2016-11-07 13:22:19 -0700", Successes:"1", TestCase:"Write1.script", Warnings:"0")
-2016-11-07 13:22:19.685 -0700	SUCCESS		Execution Time 0:00:00 Write1.script

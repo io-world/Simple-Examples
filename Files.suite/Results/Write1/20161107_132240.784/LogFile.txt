@@ -1,3 +1,0 @@
-﻿2016-11-07 13:22:40.785 -0700	START		Running Write1.script
-2016-11-07 13:22:41.367 -0700	EndTestCase		(Duration:"0.58011", Errors:"1", Exceptions:"0", StartTime:"2016-11-07 13:22:40 -0700", Successes:"0", TestCase:"Write1.script", Warnings:"0")
-2016-11-07 13:22:41.781 -0700	FAILURE	Screen_Error.png	STFileException Attempt to access unopened file: /Users/randyhesse/Desktop/TestRead -- Execution Time 0:00:00 Write1.script

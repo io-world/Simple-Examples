@@ -1,11 +1,7 @@
 ﻿put "/Users/randyhesse/Desktop/TestRead"  into MyFileVar
-open file MyFileVar
+open  file MyFileVar
+
 put "GIO NOW" into MyWrite
-
-
-
 write return to file MyFileVar at eof
 write MyWrite to file MyFileVar
-
-
 close file MyFileVar

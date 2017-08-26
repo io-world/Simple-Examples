@@ -1,3 +1,0 @@
-﻿2016-11-07 13:22:08.166 -0700	START		Running Write1.script
-2016-11-07 13:22:08.788 -0700	EndTestCase		(Duration:"0.620117", Errors:"1", Exceptions:"0", StartTime:"2016-11-07 13:22:08 -0700", Successes:"0", TestCase:"Write1.script", Warnings:"0")
-2016-11-07 13:22:09.213 -0700	FAILURE	Screen_Error.png	STFileException Attempt to access unopened file: MyFileVar -- Execution Time 0:00:00 Write1.script

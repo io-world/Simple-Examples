@@ -1,4 +1,0 @@
-﻿2016-12-21 08:45:49.888 -0700	START		Running Write2.script
-2016-12-21 08:45:50.054 -0700	Log		banana\npear\nstrawberry\n	17	on_write2	Write2.script
-2016-12-21 08:45:50.380 -0700	EndTestCase		(Duration:"0.489951", Errors:"0", Exceptions:"0", StartTime:"2016-12-21 08:45:49 -0700", Successes:"1", TestCase:"Write2.script", Warnings:"0")
-2016-12-21 08:45:50.399 -0700	SUCCESS		Execution Time 0:00:00 Write2.script

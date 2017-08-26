@@ -1,3 +1,0 @@
-﻿2016-11-07 13:13:58.076 -0700	START		Running Write1.script
-2016-11-07 13:13:58.704 -0700	EndTestCase		(Duration:"0.625837", Errors:"1", Exceptions:"0", StartTime:"2016-11-07 13:13:58 -0700", Successes:"0", TestCase:"Write1.script", Warnings:"0")
-2016-11-07 13:13:59.126 -0700	FAILURE	Screen_Error.png	STFileAccessException Unable to open file /1,2,71,45,Joe\n3,4\n90,123\n12,88\nMike\nAshley Milne as requested -- Execution Time 0:00:00 Write1.script

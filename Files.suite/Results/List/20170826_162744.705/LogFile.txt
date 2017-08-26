@@ -1,0 +1,13 @@
+﻿2017-08-26 16:27:44.705 -0600	START		Running List.script
+2017-08-26 16:27:44.776 -0600	Log		(Index,List,Loop1,Loop2,Loop3,Old,Write1,Write2)	3	on_list	List.script
+2017-08-26 16:27:44.781 -0600	Log		.gitignore	14	on_list	List.script
+2017-08-26 16:27:44.783 -0600	Log		Index.script	14	on_list	List.script
+2017-08-26 16:27:44.784 -0600	Log		List.script	14	on_list	List.script
+2017-08-26 16:27:44.785 -0600	Log		Loop1.script	14	on_list	List.script
+2017-08-26 16:27:44.786 -0600	Log		Loop2.script	14	on_list	List.script
+2017-08-26 16:27:44.787 -0600	Log		Loop3.script	14	on_list	List.script
+2017-08-26 16:27:44.788 -0600	Log		Old.script	14	on_list	List.script
+2017-08-26 16:27:44.789 -0600	Log		Write1.script	14	on_list	List.script
+2017-08-26 16:27:44.790 -0600	Log		Write2.script	14	on_list	List.script
+2017-08-26 16:27:44.939 -0600	EndTestCase		(Duration:"0.232344", Errors:"0", Exceptions:"0", StartTime:"2017-08-26 16:27:44 -0600", Successes:"1", TestCase:"List.script", Warnings:"0")
+2017-08-26 16:27:44.947 -0600	SUCCESS		Execution Time 0:00:00 List.script

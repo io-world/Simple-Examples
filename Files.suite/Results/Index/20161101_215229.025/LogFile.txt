@@ -1,4 +1,0 @@
-﻿2016-11-01 21:52:29.026 -0400	START		Running Index.script
-2016-11-01 21:52:29.142 -0400	Log		1,2,71,45,Joe\n3,4\n90,123\n12,88\nMike\nAshley Milne	6	on_index	Index.script
-2016-11-01 21:52:29.441 -0400	EndTestCase		(Duration:"0.412754", Errors:"0", Exceptions:"0", StartTime:"2016-11-01 21:52:29 -0400", Successes:"1", TestCase:"Index.script", Warnings:"0")
-2016-11-01 21:52:29.445 -0400	SUCCESS		Execution Time 0:00:00 Index.script

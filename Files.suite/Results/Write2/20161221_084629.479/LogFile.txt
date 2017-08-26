@@ -1,4 +1,0 @@
-﻿2016-12-21 08:46:29.480 -0700	START		Running Write2.script
-2016-12-21 08:46:29.634 -0700	Log		banana\npear\nstrawberry\n	17	on_write2	Write2.script
-2016-12-21 08:46:29.964 -0700	EndTestCase		(Duration:"0.482643", Errors:"1", Exceptions:"0", StartTime:"2016-12-21 08:46:29 -0700", Successes:"0", TestCase:"Write2.script", Warnings:"0")
-2016-12-21 08:46:30.539 -0700	FAILURE	Screen_Error.png	STFileException Attempt to access unopened file: 1,2,71,45,Joe\n3,4\n90,123\n12,88\nMike\nAshley Milne\nmy name is what?\nmy name is what?\nmy name is what?\nmy name is what?\nmy name is what?\nmy name is what?\nGIO NOW -- Execution Time 0:00:00 Write2.script

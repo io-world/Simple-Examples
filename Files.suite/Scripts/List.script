@@ -1,0 +1,16 @@
+﻿put the short name of each item of the files of "/Users/randyhesse/Documents/Simple Examples/Files.suite/scripts/" which ends with ".script" into var1
+
+log var1
+
+
+put the files of "/Users/randyhesse/Documents/Simple Examples/Files.suite/scripts/" into var2
+
+
+put the number of items of var2 into max
+
+repeat max times
+	
+	
+	log item repeatindex() of var2
+	
+end repeat

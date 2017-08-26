@@ -1,3 +1,0 @@
-﻿2016-11-01 16:19:00.681 -0400	START		Running Index.script
-2016-11-01 16:19:00.683 -0400	EndTestCase		(Duration:"0.000535", Errors:"1", Exceptions:"0", StartTime:"2016-11-01 16:19:00 -0400", Successes:"0", TestCase:"Index.script", Warnings:"0")
-2016-11-01 16:19:00.718 -0400	FAILURE		SenseTalk Compiler Exception in index:\nSyntax Error at line 12: Syntax Error - can't understand "time" at or near character 304 -- Execution Time 0:00:00 Index.script

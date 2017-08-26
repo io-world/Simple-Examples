@@ -1,11 +1,7 @@
-﻿put  "/Users/randyhesse/Desktop/TestRead" into MyFileVar
-open file MyFileVar
+﻿put  file "/Users/randyhesse/Desktop/TestRead" into MyFileVar
 
 
-
-put the number of lines of MyFileVar into MAX
-
-repeat max times
+repeat the number of lines of MyFileVar times
 	
 	put  line repeatindex() of MyFileVar into output
 	log output
