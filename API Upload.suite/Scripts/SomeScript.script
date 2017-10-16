@@ -1,0 +1,16 @@
+﻿
+Connect "Tutorial Connection"
+log "start Script"
+
+
+Click "Contacts"
+wait 4
+
+CaptureScreen (Name: "Some Screen")
+click "Downloads"
+wait 4
+click "History"
+
+
+
+log "End of Script"

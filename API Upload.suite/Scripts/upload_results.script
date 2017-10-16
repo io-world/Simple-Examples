@@ -1,0 +1,41 @@
+﻿
+
+put "SomeScript" into ScriptName
+put "http://52.89.33.16:5000/save-file" into serverURL
+
+
+
+
+//---------------------------------------------------------------------------------
+//---------------------------------------------------------------------------------
+//Find the Path
+put suiteinfo().resultsFolder & "/" & ScriptName  &"/" into ScriptPath
+put the name of each item of the folders of ScriptPath  into ResultsFolders
+put the first item of ResultsFolders into SpecficRun
+put suiteinfo().resultsFolder & "/" & ScriptName  &"/" & SpecficRun &"/" into ResultPath
+//---------------------------------------------------------------------------------
+//---------------------------------------------------------------------------------
+//Get all Files 
+put the name of each item of the files of ResultPath  into ResultFiles
+put  the item number of ".success" within ResultFiles into Itemindex
+delete item Itemindex  of ResultFiles
+//---------------------------------------------------------------------------------
+//---------------------------------------------------------------------------------
+log "Full Result path is:" && ResultPath
+log "Full Result files are:" && ResultFiles
+//---------------------------------------------------------------------------------
+//---------------------------------------------------------------------------------
+///Upload 
+put the number of items of ResultFiles into FileCount
+log "Number of files to be uploaded:"&& FileCount
+repeat FileCount times
+	
+	put item repeatindex() of ResultFiles  into FileName
+	put ResultPath & FileName into FullPath
+	
+	put file FullPath as data into var
+	post multipart (body:var, FileName:FileName,  FieldName:"file") to URL serverURL
+	log it	
+	
+end repeat
+
