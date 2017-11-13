@@ -4,7 +4,7 @@
 put Workbook(ResourcePath("WebFormData.xlsx")) into ExcelData
 put the worksheetNames of ExcelData into SheetNames
 put Worksheet (ExcelData, item 1 of SheetNames) into WSheet
-
+log SheetNames
 
 put WSheet.cellrange() into SheetData
 
