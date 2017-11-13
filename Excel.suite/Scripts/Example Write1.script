@@ -1,0 +1,6 @@
+﻿
+put Worksheet (ResourcePath("WebFormData.xlsx"), "Results") into WSheet
+
+
+
+put the date into Cell(1,1) of WSheet
