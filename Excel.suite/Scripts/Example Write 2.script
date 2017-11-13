@@ -1,0 +1,21 @@
+﻿
+set myScriptData to (type:"excel", file:ResourcePath("WebFormData.xlsx"), name:"Results", writable: "yes") 
+
+
+
+add records (firstName:"John", lastName:"DOE", memberNumber:9999) to myScriptData
+
+put firstName into var
+insert ((var):"Fritz", lastName:"Geisler", memberNumber:4307) into newMember
+insert (firstName:"John", lastName:"DOE", memberNumber:9999) into newMember
+insert (firstName:"Jane", lastName:"Geisler", memberNumber:1111) into newMember
+
+
+
+log newMember
+
+
+add records newMember to myScriptData
+
+
+
