@@ -1,0 +1,3 @@
+﻿2018-02-18 23:31:59.535 -0600	START		Running index.script
+2018-02-18 23:31:59.771 -0600	EndTestCase		(Duration:"0.234353", Errors:"1", Exceptions:"0", StartTime:"2018-02-18 23:31:59 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2018-02-18 23:31:59.788 -0600	FAILURE		STUnknownMessage ERROR: No Such Command: 'foo' -- Execution Time 0:00:00 index.script

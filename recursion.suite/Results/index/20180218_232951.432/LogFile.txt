@@ -1,0 +1,83 @@
+﻿2018-02-18 23:29:51.433 -0600	START		Running index.script
+2018-02-18 23:29:51.501 -0600	Log		9	4	on_foo	index.script
+2018-02-18 23:29:51.502 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.581 -0600	Log		8	4	on_foo	index.script
+2018-02-18 23:29:51.583 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.608 -0600	Log		7	4	on_foo	index.script
+2018-02-18 23:29:51.609 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.614 -0600	Log		6	4	on_foo	index.script
+2018-02-18 23:29:51.615 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.637 -0600	Log		5	4	on_foo	index.script
+2018-02-18 23:29:51.638 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.643 -0600	Log		4	4	on_foo	index.script
+2018-02-18 23:29:51.645 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.651 -0600	Log		3	4	on_foo	index.script
+2018-02-18 23:29:51.652 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.687 -0600	Log		2	4	on_foo	index.script
+2018-02-18 23:29:51.688 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.693 -0600	Log		1	4	on_foo	index.script
+2018-02-18 23:29:51.694 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.698 -0600	Log		0	4	on_foo	index.script
+2018-02-18 23:29:51.699 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.720 -0600	Log		-1	4	on_foo	index.script
+2018-02-18 23:29:51.721 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.726 -0600	Log		-2	4	on_foo	index.script
+2018-02-18 23:29:51.727 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.731 -0600	Log		-3	4	on_foo	index.script
+2018-02-18 23:29:51.732 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.759 -0600	Log		-4	4	on_foo	index.script
+2018-02-18 23:29:51.760 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.765 -0600	Log		-5	4	on_foo	index.script
+2018-02-18 23:29:51.766 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.795 -0600	Log		-6	4	on_foo	index.script
+2018-02-18 23:29:51.796 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.801 -0600	Log		-7	4	on_foo	index.script
+2018-02-18 23:29:51.802 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.831 -0600	Log		-8	4	on_foo	index.script
+2018-02-18 23:29:51.832 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.863 -0600	Log		-9	4	on_foo	index.script
+2018-02-18 23:29:51.864 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.869 -0600	Log		-10	4	on_foo	index.script
+2018-02-18 23:29:51.870 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.900 -0600	Log		-11	4	on_foo	index.script
+2018-02-18 23:29:51.902 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.932 -0600	Log		-12	4	on_foo	index.script
+2018-02-18 23:29:51.934 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:51.967 -0600	Log		-13	4	on_foo	index.script
+2018-02-18 23:29:51.968 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:52.001 -0600	Log		-14	4	on_foo	index.script
+2018-02-18 23:29:52.002 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:52.034 -0600	Log		-15	4	on_foo	index.script
+2018-02-18 23:29:52.036 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:52.101 -0600	Log		-16	4	on_foo	index.script
+2018-02-18 23:29:52.103 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:52.151 -0600	Log		-17	4	on_foo	index.script
+2018-02-18 23:29:52.153 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:52.201 -0600	Log		-18	4	on_foo	index.script
+2018-02-18 23:29:52.202 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:52.243 -0600	Log		-19	4	on_foo	index.script
+2018-02-18 23:29:52.244 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:52.251 -0600	Log		-20	4	on_foo	index.script
+2018-02-18 23:29:52.252 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:52.280 -0600	Log		-21	4	on_foo	index.script
+2018-02-18 23:29:52.281 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:52.311 -0600	Log		-22	4	on_foo	index.script
+2018-02-18 23:29:52.312 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:52.317 -0600	Log		-23	4	on_foo	index.script
+2018-02-18 23:29:52.318 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:52.349 -0600	Log		-24	4	on_foo	index.script
+2018-02-18 23:29:52.350 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:52.382 -0600	Log		-25	4	on_foo	index.script
+2018-02-18 23:29:52.383 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:52.410 -0600	Log		-26	4	on_foo	index.script
+2018-02-18 23:29:52.412 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:52.416 -0600	Log		-27	4	on_foo	index.script
+2018-02-18 23:29:52.417 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:52.445 -0600	Log		-28	4	on_foo	index.script
+2018-02-18 23:29:52.446 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:52.451 -0600	Log		-29	4	on_foo	index.script
+2018-02-18 23:29:52.452 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:52.478 -0600	Log		-30	4	on_foo	index.script
+2018-02-18 23:29:52.479 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:29:52.925 -0600	EndTestCase		(Duration:"1.491022", Errors:"1", Exceptions:"0", StartTime:"2018-02-18 23:29:51 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2018-02-18 23:29:52.952 -0600	FAILURE		STMaxCallDepthExceeded Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself. -- Execution Time 0:00:01 index.script

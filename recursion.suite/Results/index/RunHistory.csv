@@ -1,0 +1,24 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-02-18 23:28:01.599 -0600,"Failure",0:00:00,1,0,0,"20180218_232801.599/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'foo'",0
+2018-02-18 23:28:13.296 -0600,"Failure",0:00:00,1,0,0,"20180218_232813.296/LogFile.txt","","SenseTalk Compiler Exception -- in foo:\nWarning at line 6: Warning - EXIT REPEAT command used outside a Repeat loop",0
+2018-02-18 23:28:25.873 -0600,"Failure",0:00:00,1,0,0,"20180218_232825.873/LogFile.txt","","SenseTalk Compiler Exception -- in foo:\nWarning at line 6: Warning - EXIT REPEAT command used outside a Repeat loop",0
+2018-02-18 23:28:33.053 -0600,"Failure",0:00:00,1,0,0,"20180218_232833.053/LogFile.txt","","SenseTalk Compiler Exception -- in foo:\nWarning at line 6: Warning - EXIT REPEAT command used outside a Repeat loop",0
+2018-02-18 23:28:51.661 -0600,"Failure",0:00:00,1,0,0,"20180218_232851.661/LogFile.txt","","SenseTalk Compiler Exception -- in foo:\nWarning at line 6: Warning - Wrong handler name: function",0
+2018-02-18 23:29:19.555 -0600,"Failure",0:00:01,1,0,0,"20180218_232919.555/LogFile.txt","","STMaxCallDepthExceeded -- Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself.",0
+2018-02-18 23:29:26.198 -0600,"Success",0:00:00,0,0,0,"20180218_232926.198/LogFile.txt","","",1
+2018-02-18 23:29:32.462 -0600,"Failure",0:00:01,1,0,0,"20180218_232932.462/LogFile.txt","","STMaxCallDepthExceeded -- Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself.",0
+2018-02-18 23:29:51.432 -0600,"Failure",0:00:01,1,0,0,"20180218_232951.432/LogFile.txt","","STMaxCallDepthExceeded -- Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself.",0
+2018-02-18 23:30:02.919 -0600,"Success",0:00:00,0,0,0,"20180218_233002.919/LogFile.txt","","",1
+2018-02-18 23:30:25.923 -0600,"Success",0:00:00,0,0,0,"20180218_233025.923/LogFile.txt","","",1
+2018-02-18 23:31:34.106 -0600,"Success",0:00:00,0,0,0,"20180218_233134.106/LogFile.txt","","",1
+2018-02-18 23:31:55.317 -0600,"Success",0:00:00,0,0,0,"20180218_233155.317/LogFile.txt","","",1
+2018-02-18 23:31:59.534 -0600,"Failure",0:00:00,1,0,0,"20180218_233159.534/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'foo'",0
+2018-02-18 23:32:18.050 -0600,"Success",0:00:00,0,0,0,"20180218_233218.050/LogFile.txt","","",1
+2018-02-18 23:32:24.271 -0600,"Success",0:00:00,0,0,0,"20180218_233224.271/LogFile.txt","","",1
+2018-02-18 23:33:01.003 -0600,"Failure",0:00:01,1,0,0,"20180218_233301.003/LogFile.txt","","STMaxCallDepthExceeded -- Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself.",0
+2018-02-18 23:33:18.590 -0600,"Success",0:00:00,0,0,0,"20180218_233318.590/LogFile.txt","","",1
+2018-02-18 23:33:30.032 -0600,"Success",0:00:00,0,0,0,"20180218_233330.032/LogFile.txt","","",1
+2018-02-18 23:35:21.833 -0600,"Success",0:00:00,0,0,0,"20180218_233521.833/LogFile.txt","","",1
+2018-02-18 23:35:44.633 -0600,"Success",0:00:00,0,0,0,"20180218_233544.633/LogFile.txt","","",1
+2018-02-18 23:35:58.845 -0600,"Success",0:00:00,0,0,0,"20180218_233558.845/LogFile.txt","","",1
+2018-02-18 23:36:03.897 -0600,"Success",0:00:00,0,0,0,"20180218_233603.897/LogFile.txt","","",1

@@ -1,0 +1,43 @@
+﻿2018-02-18 23:29:19.556 -0600	START		Running index.script
+2018-02-18 23:29:19.710 -0600	Log		9	4	on_foo	index.script
+2018-02-18 23:29:19.715 -0600	Log		8	4	on_foo	index.script
+2018-02-18 23:29:19.721 -0600	Log		7	4	on_foo	index.script
+2018-02-18 23:29:19.755 -0600	Log		6	4	on_foo	index.script
+2018-02-18 23:29:19.780 -0600	Log		5	4	on_foo	index.script
+2018-02-18 23:29:19.788 -0600	Log		4	4	on_foo	index.script
+2018-02-18 23:29:19.825 -0600	Log		3	4	on_foo	index.script
+2018-02-18 23:29:19.831 -0600	Log		2	4	on_foo	index.script
+2018-02-18 23:29:19.838 -0600	Log		1	4	on_foo	index.script
+2018-02-18 23:29:19.875 -0600	Log		0	4	on_foo	index.script
+2018-02-18 23:29:19.880 -0600	Log		-1	4	on_foo	index.script
+2018-02-18 23:29:19.886 -0600	Log		-2	4	on_foo	index.script
+2018-02-18 23:29:19.906 -0600	Log		-3	4	on_foo	index.script
+2018-02-18 23:29:19.931 -0600	Log		-4	4	on_foo	index.script
+2018-02-18 23:29:19.937 -0600	Log		-5	4	on_foo	index.script
+2018-02-18 23:29:19.956 -0600	Log		-6	4	on_foo	index.script
+2018-02-18 23:29:19.981 -0600	Log		-7	4	on_foo	index.script
+2018-02-18 23:29:19.988 -0600	Log		-8	4	on_foo	index.script
+2018-02-18 23:29:20.026 -0600	Log		-9	4	on_foo	index.script
+2018-02-18 23:29:20.032 -0600	Log		-10	4	on_foo	index.script
+2018-02-18 23:29:20.039 -0600	Log		-11	4	on_foo	index.script
+2018-02-18 23:29:20.076 -0600	Log		-12	4	on_foo	index.script
+2018-02-18 23:29:20.082 -0600	Log		-13	4	on_foo	index.script
+2018-02-18 23:29:20.089 -0600	Log		-14	4	on_foo	index.script
+2018-02-18 23:29:20.127 -0600	Log		-15	4	on_foo	index.script
+2018-02-18 23:29:20.133 -0600	Log		-16	4	on_foo	index.script
+2018-02-18 23:29:20.140 -0600	Log		-17	4	on_foo	index.script
+2018-02-18 23:29:20.166 -0600	Log		-18	4	on_foo	index.script
+2018-02-18 23:29:20.172 -0600	Log		-19	4	on_foo	index.script
+2018-02-18 23:29:20.200 -0600	Log		-20	4	on_foo	index.script
+2018-02-18 23:29:20.206 -0600	Log		-21	4	on_foo	index.script
+2018-02-18 23:29:20.236 -0600	Log		-22	4	on_foo	index.script
+2018-02-18 23:29:20.269 -0600	Log		-23	4	on_foo	index.script
+2018-02-18 23:29:20.302 -0600	Log		-24	4	on_foo	index.script
+2018-02-18 23:29:20.335 -0600	Log		-25	4	on_foo	index.script
+2018-02-18 23:29:20.367 -0600	Log		-26	4	on_foo	index.script
+2018-02-18 23:29:20.373 -0600	Log		-27	4	on_foo	index.script
+2018-02-18 23:29:20.404 -0600	Log		-28	4	on_foo	index.script
+2018-02-18 23:29:20.437 -0600	Log		-29	4	on_foo	index.script
+2018-02-18 23:29:20.472 -0600	Log		-30	4	on_foo	index.script
+2018-02-18 23:29:20.857 -0600	EndTestCase		(Duration:"1.299122", Errors:"1", Exceptions:"0", StartTime:"2018-02-18 23:29:19 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2018-02-18 23:29:20.872 -0600	FAILURE		STMaxCallDepthExceeded Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself. -- Execution Time 0:00:01 index.script

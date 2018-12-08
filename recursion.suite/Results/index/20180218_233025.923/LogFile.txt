@@ -1,0 +1,13 @@
+﻿2018-02-18 23:30:25.924 -0600	START		Running index.script
+2018-02-18 23:30:26.034 -0600	Log		9	4	on_foo	index.script
+2018-02-18 23:30:26.060 -0600	Log		8	4	on_foo	index.script
+2018-02-18 23:30:26.066 -0600	Log		7	4	on_foo	index.script
+2018-02-18 23:30:26.088 -0600	Log		6	4	on_foo	index.script
+2018-02-18 23:30:26.094 -0600	Log		5	4	on_foo	index.script
+2018-02-18 23:30:26.100 -0600	Log		4	4	on_foo	index.script
+2018-02-18 23:30:26.123 -0600	Log		3	4	on_foo	index.script
+2018-02-18 23:30:26.128 -0600	Log		2	4	on_foo	index.script
+2018-02-18 23:30:26.133 -0600	Log		1	4	on_foo	index.script
+2018-02-18 23:30:26.155 -0600	Log		0	4	on_foo	index.script
+2018-02-18 23:30:26.351 -0600	EndTestCase		(Duration:"0.425255", Errors:"0", Exceptions:"0", StartTime:"2018-02-18 23:30:25 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2018-02-18 23:30:26.366 -0600	SUCCESS		Execution Time 0:00:00 index.script

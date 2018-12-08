@@ -1,0 +1,13 @@
+﻿
+
+me.foo (10)
+
+
+
+on foo var
+	if (var >0) then
+		log var
+		put (var -1) into var
+		me.foo (var)	
+	end if
+end foo

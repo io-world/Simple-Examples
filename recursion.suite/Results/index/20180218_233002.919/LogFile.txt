@@ -1,0 +1,25 @@
+﻿2018-02-18 23:30:02.920 -0600	START		Running index.script
+2018-02-18 23:30:03.005 -0600	Log		9	4	on_foo	index.script
+2018-02-18 23:30:03.007 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:30:03.032 -0600	Log		8	4	on_foo	index.script
+2018-02-18 23:30:03.033 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:30:03.037 -0600	Log		7	4	on_foo	index.script
+2018-02-18 23:30:03.039 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:30:03.072 -0600	Log		6	4	on_foo	index.script
+2018-02-18 23:30:03.073 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:30:03.095 -0600	Log		5	4	on_foo	index.script
+2018-02-18 23:30:03.097 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:30:03.103 -0600	Log		4	4	on_foo	index.script
+2018-02-18 23:30:03.105 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:30:03.123 -0600	Log		3	4	on_foo	index.script
+2018-02-18 23:30:03.124 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:30:03.145 -0600	Log		2	4	on_foo	index.script
+2018-02-18 23:30:03.147 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:30:03.152 -0600	Log		1	4	on_foo	index.script
+2018-02-18 23:30:03.154 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:30:03.173 -0600	Log		0	4	on_foo	index.script
+2018-02-18 23:30:03.174 -0600	Log		call again	8	on_foo	index.script
+2018-02-18 23:30:03.196 -0600	Log		-1	4	on_foo	index.script
+2018-02-18 23:30:03.197 -0600	Log		end	6	on_foo	index.script
+2018-02-18 23:30:03.391 -0600	EndTestCase		(Duration:"0.470454", Errors:"0", Exceptions:"0", StartTime:"2018-02-18 23:30:02 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2018-02-18 23:30:03.406 -0600	SUCCESS		Execution Time 0:00:00 index.script

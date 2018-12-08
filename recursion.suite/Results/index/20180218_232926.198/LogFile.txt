@@ -1,0 +1,5 @@
+﻿2018-02-18 23:29:26.199 -0600	START		Running index.script
+2018-02-18 23:29:26.258 -0600	Log		9	4	on_foo	index.script
+2018-02-18 23:29:26.259 -0600	Log		end	6	on_foo	index.script
+2018-02-18 23:29:26.438 -0600	EndTestCase		(Duration:"0.238631", Errors:"0", Exceptions:"0", StartTime:"2018-02-18 23:29:26 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2018-02-18 23:29:26.462 -0600	SUCCESS		Execution Time 0:00:00 index.script
