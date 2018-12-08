@@ -1,0 +1,16 @@
+﻿
+
+
+put 13 into max
+
+put (0,1) into Varlist
+
+
+repeat max times
+	log last item of Varlist
+	push sum of Varlist  into Varlist
+	pop  item 1 of Varlist
+end repeat
+
+
+

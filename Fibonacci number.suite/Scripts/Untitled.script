@@ -1,0 +1,9 @@
+﻿
+
+put "AB C" into astring
+
+
+
+if astring contains ("ABC", ignorespaces:yes) then logSuccess yes
+
+
