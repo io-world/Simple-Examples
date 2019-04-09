@@ -1,0 +1,5 @@
+﻿2018-01-16 11:09:48.937 +0530	START		Running TestanImage.script
+2018-01-16 11:09:49.029 +0530	Exception	qTest/A/Favorites/Favorites 01	Could Not Open Image: qTest/A/Favorites/Favorites 01	9	on_testanimage	TestanImage.script
+2018-01-16 11:09:49.032 +0530	Log		text	18	on_testanimage	TestanImage.script
+2018-01-16 11:09:49.424 +0530	EndTestCase		(Duration:"0.485153", Errors:"0", Exceptions:"1", StartTime:"2018-01-16 11:09:48 +0530", Successes:"1", TestCase:"TestanImage.script", Warnings:"0")
+2018-01-16 11:09:49.463 +0530	SUCCESS		Execution Time 0:00:00 TestanImage.script

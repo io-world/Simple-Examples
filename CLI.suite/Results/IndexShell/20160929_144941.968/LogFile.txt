@@ -1,3 +1,0 @@
-﻿2016-09-29 14:49:41.968 -0600	START		Running Shell.script
-2016-09-29 14:49:43.779 -0600	EndTestCase		(Duration:"1.809858", Errors:"1", Exceptions:"0", StartTime:"2016-09-29 14:49:41 -0600", Successes:"0", TestCase:"Shell.script", Warnings:"0")
-2016-09-29 14:49:44.169 -0600	FAILURE	Screen_Error.png	STMaxCallDepthExceeded Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself. -- Execution Time 0:00:01 Shell.script

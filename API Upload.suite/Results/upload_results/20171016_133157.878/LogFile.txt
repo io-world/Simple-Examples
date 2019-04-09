@@ -1,0 +1,4 @@
+﻿2017-10-16 13:31:57.879 -0600	START		Running upload_results.script
+2017-10-16 13:31:58.395 -0600	Log		"file uploaded successfully"\n	11	on_upload_results	upload_results.script
+2017-10-16 13:31:58.748 -0600	EndTestCase		(Duration:"0.866721", Errors:"0", Exceptions:"0", StartTime:"2017-10-16 13:31:57 -0600", Successes:"1", TestCase:"upload_results.script", Warnings:"0")
+2017-10-16 13:31:58.765 -0600	SUCCESS		Execution Time 0:00:00 upload_results.script

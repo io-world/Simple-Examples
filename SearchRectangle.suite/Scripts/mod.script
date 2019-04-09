@@ -1,0 +1,54 @@
+﻿
+on FT2 SR, FText, Position
+	put RemoteScreenSize() into RSS
+	
+	repeat until Found = "yes"
+		if SR <> (0,0,item 1 of RSS,item 2 of RSS) then
+			log "Current SR:" &&SR
+			if imagefound( Text: FText, searchRectangle:(SR)) then
+				put FoundImageLocation() into FIL
+				put "yes" into Found
+			else
+				put (SR) +(-100,-100,100,100) into SR
+				if item 1 of SR <= 0
+					put "0" into item 1 of SR
+				end if
+				if  item 2 of SR <= 0
+					put "0" into item 2 of SR
+				end if
+				if  item 3 of SR >= item 1 of RSS
+					put item 1 of RSS into item 3 of SR
+				end if
+				
+				if  item 4 of SR >= item 2 of RSS
+					put item 2 of RSS into item 4 of SR
+				end if
+			end if
+		else
+			Log "Will Now Search the Entire Screen"
+			if imagefound( Text: FText) then
+				put FoundImageLocation() into FIL
+				put "yes" into Found
+			else
+				Log "Unable to Find Image"
+				Exit repeat
+			end if
+		end if
+		
+		if Found = "yes" then
+			log "Image was Found"
+			WaitFor 30, ( Text: FText,searchRectangle: SR)
+			put item 1 of Position into XX
+			put item 2 of Position into YY
+			put item 1 of RSS into MaxX
+			put item 2 of RSS into MaxY
+			if XX >=0 and XX <=  MaxX and YY >=0 and YY <=  MaxY 
+				click FoundImageLocation() + Position
+			else
+				logwarning "Unable to Click off Screen:" && FoundImageLocation() + Position
+			end if
+		end if
+	end repeat
+	
+end FT2
+

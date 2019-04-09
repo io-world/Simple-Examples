@@ -1,4 +1,0 @@
-﻿2016-09-14 20:55:24.788 -0400	START		Running index.script
-2016-09-14 20:55:24.941 -0400	Log		John	4	on_index	index.script
-2016-09-14 20:55:25.136 -0400	EndTestCase		(Duration:"0.347147", Errors:"0", Exceptions:"0", StartTime:"2016-09-14 20:55:24 -0400", Successes:"1", TestCase:"index.script", Warnings:"0")
-2016-09-14 20:55:25.141 -0400	SUCCESS		Execution Time 0:00:00 index.script

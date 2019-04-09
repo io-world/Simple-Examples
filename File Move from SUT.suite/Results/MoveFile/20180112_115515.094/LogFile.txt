@@ -1,0 +1,9 @@
+﻿2018-01-12 11:55:15.095 +0530	START		Running MoveFile.script
+2018-01-12 11:55:15.770 +0530	doubleclick	Network Icon	at (39, 130)	3	on_movefile	MoveFile.script
+2018-01-12 11:55:16.734 +0530	doubleclick	Network Icon/MacBook Pro Icon	at (690, 290)	4	on_movefile	MoveFile.script
+2018-01-12 11:55:17.571 +0530	waitfor	Download	found at (641, 268)	5	on_movefile	MoveFile.script
+2018-01-12 11:55:17.679 +0530	click		at (641, 268)	6	on_movefile	MoveFile.script
+2018-01-12 11:55:18.931 +0530	rightclick	File Icon	at (36, 454)	8	on_movefile	MoveFile.script
+2018-01-12 11:55:20.180 +0530	click	Cut	at (83, 689)	9	on_movefile	MoveFile.script
+2018-01-12 11:55:28.926 +0530	EndTestCase		(Duration:"13.829854", Errors:"1", Exceptions:"0", StartTime:"2018-01-12 11:55:15 +0530", Successes:"0", TestCase:"MoveFile.script", Warnings:"0")
+2018-01-12 11:55:28.927 +0530	ABORTED		Execution Time 0:00:13 MoveFile.script

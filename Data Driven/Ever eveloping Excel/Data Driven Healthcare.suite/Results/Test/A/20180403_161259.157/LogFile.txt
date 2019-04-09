@@ -1,0 +1,7 @@
+﻿2018-04-03 16:12:59.158 -0600	START		Running Test/A.script	19	on_index	Index.script
+2018-04-03 16:12:59.161 -0600	Log		code for Navigation for TestA 	6	on_test_a	Test/A.script
+2018-04-03 16:12:59.909 -0600	click	Test/A/Contacts	at (51, 600)	9	on_test_a	Test/A.script
+2018-04-03 16:12:59.979 -0600	imagefound	Test/A/Contacts/Contacts 01.png	found at (51, 600)	32	on_content	
+2018-04-03 16:12:59.980 -0600	Log		Image was found: Test/A/Contacts/Contacts 01.png	33	on_content	
+2018-04-03 16:13:01.307 -0600	EndTestCase		(Duration:"2.147654", Errors:"1", Exceptions:"0", StartTime:"2018-04-03 16:12:59 -0600", Successes:"0", TestCase:"Test/A.script", Warnings:"0")	19	on_index	Index.script
+2018-04-03 16:13:01.308 -0600	ABORTED		Execution Time 0:00:02 Test/A.script	19	on_index	Index.script

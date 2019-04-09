@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<runHistory script="attemptRecovery">
+ <run>
+  <RunDate>2018-06-06 15:38:58.334 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.349927</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_153858.334/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: hrome</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 15:40:30.801 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.345420</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_154030.801/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: hrome</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:31:10.189 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.287607</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_143110.189/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imageinfo Error - Could Not Open Image: (empty)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:32:56.947 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.320937</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_143256.947/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imageinfo Error - Could Not Open Image: (empty)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-12 08:24:12.264 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.399892</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180612_082412.264/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imageinfo Error - Could Not Open Image: (empty)</ErrorMessage>
+ </run>
+</runHistory>

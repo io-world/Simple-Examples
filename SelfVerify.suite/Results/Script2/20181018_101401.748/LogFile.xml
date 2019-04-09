@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Script2_script" package="SelfVerify.suite" timestamp="2018-10-18 10:14:01.748 -0600"
+ tests="1"  failures="1" errors="1" time="0.351197">
+  <properties>
+   <property name="RunDate" value="2018-10-18 10:14:01.748 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Script2.script" assertions="1" status="error"  time="0.348815">
+    <failure type="FAILURE" message="SCA SCA is wirtten incorrectly -- Execution Time 0:00:00 Script2.script" />
+    <error type="Throw" message="SCA - SCA is wirtten incorrectly" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,45 @@
+﻿2018-03-21 11:45:02.371 +0530	START		Running Master.script
+2018-03-21 11:45:03.001 +0530	imagerectangle	name	at (345,94,419,119)	4	on_master	Master.script
+2018-03-21 11:45:03.033 +0530	readtext		(205,126,539,149)
+2018-03-21 11:45:03.033 +0530	Log		Tiger Nixon	11	on_master	Master.script
+2018-03-21 11:45:03.060 +0530	readtext		(205,153,539,176)
+2018-03-21 11:45:03.061 +0530	Log		John Winters	11	on_master	Master.script
+2018-03-21 11:45:03.092 +0530	readtext		(205,180,539,203)
+2018-03-21 11:45:03.093 +0530	Log		Austin Cox	11	on_master	Master.script
+2018-03-21 11:45:03.123 +0530	readtext		(205,207,539,230)
+2018-03-21 11:45:03.124 +0530	Log		Charles Kelly	11	on_master	Master.script
+2018-03-21 11:45:03.151 +0530	readtext		(205,234,539,257)
+2018-03-21 11:45:03.152 +0530	Log		Amanda Satou	11	on_master	Master.script
+2018-03-21 11:45:03.201 +0530	readtext		(205,261,539,284)
+2018-03-21 11:45:03.201 +0530	Log		Brielle Williamson	11	on_master	Master.script
+2018-03-21 11:45:03.244 +0530	readtext		(205,288,539,311)
+2018-03-21 11:45:03.244 +0530	Log		Herrod Chandler	11	on_master	Master.script
+2018-03-21 11:45:03.280 +0530	readtext		(205,315,539,338)
+2018-03-21 11:45:03.281 +0530	Log		Rhona Davidson	11	on_master	Master.script
+2018-03-21 11:45:03.308 +0530	readtext		(205,342,539,365)
+2018-03-21 11:45:03.309 +0530	Log		Colleen Hurst	11	on_master	Master.script
+2018-03-21 11:45:03.340 +0530	readtext		(205,369,539,392)
+2018-03-21 11:45:03.341 +0530	Log		Sonya Frost	11	on_master	Master.script
+2018-03-21 11:45:03.369 +0530	readtext		(205,396,539,419)
+2018-03-21 11:45:03.369 +0530	Log		Name	11	on_master	Master.script
+2018-03-21 11:45:03.397 +0530	readtext		(205,423,539,446)
+2018-03-21 11:45:03.398 +0530	Log		s	11	on_master	Master.script
+2018-03-21 11:45:03.412 +0530	readtext		(205,450,539,473)
+2018-03-21 11:45:03.412 +0530	Log			11	on_master	Master.script
+2018-03-21 11:45:03.427 +0530	readtext		(205,477,539,500)
+2018-03-21 11:45:03.428 +0530	Log			11	on_master	Master.script
+2018-03-21 11:45:03.447 +0530	readtext		(205,504,539,527)
+2018-03-21 11:45:03.448 +0530	Log			11	on_master	Master.script
+2018-03-21 11:45:03.465 +0530	readtext		(205,531,539,554)
+2018-03-21 11:45:03.466 +0530	Log			11	on_master	Master.script
+2018-03-21 11:45:03.483 +0530	readtext		(205,558,539,581)
+2018-03-21 11:45:03.483 +0530	Log			11	on_master	Master.script
+2018-03-21 11:45:03.498 +0530	readtext		(205,585,539,608)
+2018-03-21 11:45:03.499 +0530	Log			11	on_master	Master.script
+2018-03-21 11:45:03.513 +0530	readtext		(205,612,539,635)
+2018-03-21 11:45:03.514 +0530	Log			11	on_master	Master.script
+2018-03-21 11:45:03.528 +0530	readtext		(205,639,539,662)
+2018-03-21 11:45:03.528 +0530	Log			11	on_master	Master.script
+2018-03-21 11:45:03.530 +0530	LogError		To Much Scrolling	14	on_master	Master.script
+2018-03-21 11:45:03.760 +0530	EndTestCase		(Duration:"1.38707", Errors:"1", Exceptions:"0", StartTime:"2018-03-21 11:45:02 +0530", Successes:"0", TestCase:"Master.script", Warnings:"0")
+2018-03-21 11:45:04.496 +0530	FAILURE	Screen_Error.png	Script Error Number of Errors logged: 1 -- Execution Time 0:00:01 Master.script

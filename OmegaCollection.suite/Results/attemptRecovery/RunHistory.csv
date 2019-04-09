@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-06-06 15:38:58.334 -0500,"Failure",0:00:00,1,0,1,"20180606_153858.334/LogFile.txt","","File Not Found -- imagefound Error - Could Not Open Image: hrome",0
+2018-06-06 15:40:30.801 -0500,"Failure",0:00:00,1,0,1,"20180606_154030.801/LogFile.txt","","File Not Found -- imagefound Error - Could Not Open Image: hrome",0
+2018-06-11 14:31:10.189 -0600,"Failure",0:00:00,1,0,1,"20180611_143110.189/LogFile.txt","","File Not Found -- imageinfo Error - Could Not Open Image: (empty)",0
+2018-06-11 14:32:56.947 -0600,"Failure",0:00:00,1,0,1,"20180611_143256.947/LogFile.txt","","File Not Found -- imageinfo Error - Could Not Open Image: (empty)",0
+2018-06-12 08:24:12.264 -0600,"Failure",0:00:00,1,0,1,"20180612_082412.264/LogFile.txt","","File Not Found -- imageinfo Error - Could Not Open Image: (empty)",0

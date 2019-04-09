@@ -1,0 +1,12 @@
+﻿2017-02-16 15:50:30.659 -0700	START		Running Index.script
+2017-02-16 15:50:30.775 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3 SImple/dataDrivenHealthcare.suite/Results/NewPatient/20170216_155030.774/LogFile.txt)	15	on_index	Index.script
+2017-02-16 15:50:30.856 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3 SImple/dataDrivenHealthcare.suite/Results/NewPatient/20170216_155030.855/LogFile.txt)	15	on_index	Index.script
+2017-02-16 15:50:30.925 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3 SImple/dataDrivenHealthcare.suite/Results/NewPatient/20170216_155030.925/LogFile.txt)	15	on_index	Index.script
+2017-02-16 15:50:30.986 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3 SImple/dataDrivenHealthcare.suite/Results/NewPatient/20170216_155030.985/LogFile.txt)	15	on_index	Index.script
+2017-02-16 15:50:31.048 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3 SImple/dataDrivenHealthcare.suite/Results/NewPatient/20170216_155031.048/LogFile.txt)	15	on_index	Index.script
+2017-02-16 15:50:31.122 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3 SImple/dataDrivenHealthcare.suite/Results/NewPatient/20170216_155031.121/LogFile.txt)	15	on_index	Index.script
+2017-02-16 15:50:31.271 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3 SImple/dataDrivenHealthcare.suite/Results/NewPatient/20170216_155031.270/LogFile.txt)	15	on_index	Index.script
+2017-02-16 15:50:31.347 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3 SImple/dataDrivenHealthcare.suite/Results/NewPatient/20170216_155031.347/LogFile.txt)	15	on_index	Index.script
+2017-02-16 15:50:31.417 -0700	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3 SImple/dataDrivenHealthcare.suite/Results/NewPatient/20170216_155031.416/LogFile.txt)	15	on_index	Index.script
+2017-02-16 15:50:31.655 -0700	EndTestCase		(Duration:"0.995036", Errors:"0", Exceptions:"0", StartTime:"2017-02-16 15:50:30 -0700", Successes:"10", TestCase:"Index.script", Warnings:"0")
+2017-02-16 15:50:31.674 -0700	SUCCESS		Execution Time 0:00:00 Index.script

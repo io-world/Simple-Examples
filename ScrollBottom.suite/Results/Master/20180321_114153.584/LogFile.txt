@@ -1,0 +1,6 @@
+﻿2018-03-21 11:41:53.586 +0530	START		Running Master.script
+2018-03-21 11:41:54.216 +0530	imagerectangle	name	at (345,94,419,119)	4	on_master	Master.script
+2018-03-21 11:41:54.243 +0530	readtext		(205,126,539,149)
+2018-03-21 11:41:54.243 +0530	Log		Tiger Nixon	6	on_master	Master.script
+2018-03-21 11:41:57.488 +0530	EndTestCase		(Duration:"3.901594", Errors:"0", Exceptions:"0", StartTime:"2018-03-21 11:41:53 +0530", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-03-21 11:41:57.505 +0530	SUCCESS		Execution Time 0:00:03 Master.script

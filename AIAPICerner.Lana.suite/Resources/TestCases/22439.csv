@@ -1,0 +1,72 @@
+State,Action
+Initial,Start
+Platform,iPhone
+Environment,Work
+Environment,Goto
+Travel,Lyft
+Travel,Switch Platform
+Platform,iPhone
+Environment,Work
+Environment,Goto
+Financial,Paypal
+Financial,ADP
+Financial,Switch Platform
+Platform,iPhone
+Environment,Personal
+Environment,Goto
+Music,Spotify
+Music,Back
+Environment,Work
+Environment,Goto
+News,NY Times
+News,Switch Platform
+Platform,Android
+Environment,Work
+Environment,Goto
+Social Media,Switch Platform
+Platform,PC
+Environment,Work
+Environment,Goto
+Financial,Back
+Environment,Personal
+Environment,Goto
+Messages,Back
+Environment,Work
+Environment,Goto
+Travel,Back
+Environment,Switch Platform
+Platform,Mac
+Environment,Personal
+Environment,Goto
+Messages,Switch Platform
+Platform,Android
+Environment,Work
+Environment,Goto
+Messages,Text Messages
+Messages,Slack
+Messages,Facebook Messenger
+Messages,WhatsApp
+Messages,Switch Platform
+Platform,iPhone
+Environment,Personal
+Environment,Goto
+Messages,Back
+Environment,Work
+Environment,Goto
+Social Media,Back
+Environment,Personal
+Environment,Goto
+Productivity,EggPlant
+Productivity,LinkedIn
+Productivity,EggPlant
+Productivity,LinkedIn
+Productivity,Switch Platform
+Platform,PC
+Environment,Work
+Environment,Goto
+Social Media,Twitter
+Social Media,Instagram
+Social Media,Switch Platform
+Platform,iPhone
+Environment,Work
+Environment,Goto

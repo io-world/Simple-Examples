@@ -1,0 +1,6 @@
+﻿2018-10-18 08:48:30.250 -0600	START		Running Master.script
+2018-10-18 08:48:30.320 -0600	connect		Windows 10:(null)	2	on_master	Master.script
+2018-10-18 08:48:40.424 -0600	Exception	Refresh Icon	No Image Found On Screen: "Refresh Icon"	5	on_master	Master.script
+2018-10-18 08:48:40.427 -0600	Throw		somename - problems	9	on_master	Master.script
+2018-10-18 08:48:40.765 -0600	EndTestCase		(Duration:"10.513357", Errors:"1", Exceptions:"2", StartTime:"2018-10-18 08:48:30 -0600", Successes:"0", TestCase:"Master.script", Warnings:"0")
+2018-10-18 08:48:40.868 -0600	FAILURE	Screen_Error.png	somename problems -- Execution Time 0:00:10 Master.script

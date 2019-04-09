@@ -1,0 +1,29 @@
+﻿on Orders
+	Click "Amazon/home/Orders"
+end Orders
+
+
+on TryPrime
+	Click "Amazon/home/TryPrime"
+end TryPrime
+
+on Cart
+	Click "Amazon/home/Cart"
+end Cart
+
+on TodaysDeals
+	Click "Amazon/home/TodaysDeals"
+end TodaysDeals
+
+on Home
+	Click "Amazon/home/Home"	
+end Home
+
+
+on sell
+	Click "Amazon/Home/Sell"
+end sell
+
+on help
+	Click "Amazon/Home/Help"
+end help

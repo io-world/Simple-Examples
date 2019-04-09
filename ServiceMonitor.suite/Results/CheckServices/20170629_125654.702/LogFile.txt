@@ -1,0 +1,19 @@
+﻿2017-06-29 12:56:54.703 -0600	START		Running CheckServices.script
+2017-06-29 12:56:54.819 -0600	typetext		[windowsKey]r	6	on_checkservices	CheckServices.script
+2017-06-29 12:56:55.686 -0600	typetext		services.msc[returnKey]	7	on_checkservices	CheckServices.script
+2017-06-29 12:56:56.398 -0600	moveto		at (1440, 900)	8	on_checkservices	CheckServices.script
+2017-06-29 12:56:57.212 -0600	waitfor	CheckServices/Gears Icon	found at (350, 136)	9	on_checkservices	CheckServices.script
+2017-06-29 12:57:01.316 -0600	imagefound	CheckServices/Windows Float	Unable to Find Image CheckServices/Windows Float within 3.00 seconds	12	on_checkservices	CheckServices.script
+2017-06-29 12:57:01.852 -0600	doubleclick	CheckServices/Columns/Description	at (672, 108)	18	on_checkservices	CheckServices.script
+2017-06-29 12:57:02.923 -0600	imagelocation	CheckServices/Columns/Name	at (365, 114)	22	on_checkservices	CheckServices.script
+2017-06-29 12:57:02.939 -0600	typetext		S	29	on_checkservices	CheckServices.script
+2017-06-29 12:57:03.656 -0600	typetext		[pageDown]	33	on_checkservices	CheckServices.script
+2017-06-29 12:57:06.339 -0600	imagefound	(TEXT:"SSDP Discover")	found at (398, 438)	35	on_checkservices	CheckServices.script
+2017-06-29 12:57:06.341 -0600	Log		Found : SSDP Discover	37	on_checkservices	CheckServices.script
+2017-06-29 12:57:12.014 -0600	imagelocation	(TEXT:"SSDP Discover")	at (398, 438)	44	on_checkservices	CheckServices.script
+2017-06-29 12:57:12.395 -0600	imagelocation	CheckServices/Columns/Status	at (785, 114)	45	on_checkservices	CheckServices.script
+2017-06-29 12:57:12.420 -0600	readtext		(765,432,815,450)
+2017-06-29 12:57:12.421 -0600	Log		The Status is: Running	70	on_checkservices	CheckServices.script
+2017-06-29 12:57:13.453 -0600	typetext		[windowsAltKey][F4]	74	on_checkservices	CheckServices.script
+2017-06-29 12:57:13.714 -0600	EndTestCase		(Duration:"19.009883", Errors:"0", Exceptions:"0", StartTime:"2017-06-29 12:56:54 -0600", Successes:"1", TestCase:"CheckServices.script", Warnings:"0")
+2017-06-29 12:57:13.754 -0600	SUCCESS		Execution Time 0:00:19 CheckServices.script

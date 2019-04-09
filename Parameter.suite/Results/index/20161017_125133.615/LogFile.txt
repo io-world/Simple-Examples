@@ -1,3 +1,0 @@
-﻿2016-10-17 12:51:33.616 -0600	START		Running index.script
-2016-10-17 12:51:34.037 -0600	EndTestCase		(Duration:"0.419356", Errors:"1", Exceptions:"0", StartTime:"2016-10-17 12:51:33 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-10-17 12:51:34.042 -0600	FAILURE		SenseTalk Compiler Exception in createnewpatient:\nWarning at line 4: Warning - Non-matching handler name: CreateNew -- Execution Time 0:00:00 index.script

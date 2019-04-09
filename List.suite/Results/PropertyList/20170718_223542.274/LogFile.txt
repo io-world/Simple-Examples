@@ -1,0 +1,6 @@
+﻿2017-07-18 22:35:42.275 -0400	START		Running PropertyList.script
+2017-07-18 22:35:42.320 -0400	Log		1/7/1900	8	on_propertylist	PropertyList.script
+2017-07-18 22:35:42.321 -0400	Log		john	8	on_propertylist	PropertyList.script
+2017-07-18 22:35:42.322 -0400	Log		doe	8	on_propertylist	PropertyList.script
+2017-07-18 22:35:42.506 -0400	EndTestCase		(Duration:"0.22966", Errors:"0", Exceptions:"0", StartTime:"2017-07-18 22:35:42 -0400", Successes:"1", TestCase:"PropertyList.script", Warnings:"0")
+2017-07-18 22:35:42.516 -0400	SUCCESS		Execution Time 0:00:00 PropertyList.script

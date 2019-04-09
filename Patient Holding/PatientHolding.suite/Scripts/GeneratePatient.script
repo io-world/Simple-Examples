@@ -1,0 +1,46 @@
+﻿params CSVName
+
+
+put (type:"CSV", file:ResourcePath(CSVName &".csv"),writable: "Yes") into myScriptData
+
+
+repeat 10 times
+	
+	put the numberFormat into defualtNumberFormat
+	set the numberFormat to "000000"
+	put random(000000, 999999) as text into Patient."Medical Record Number"
+	set the numberFormat to "000000000"
+	put random(000000000, 999999999) as text into SocialSecurity
+	set the numberFormat to defualtNumberFormat
+	
+	
+	put  (chars 1 to 3 of SocialSecurity & "-" & chars 4 to 5 of SocialSecurity & "-" & chars 6 to 9 of SocialSecurity) into Patient."Social Security Number"
+	put any item of ("Mr","Ms","Mrs","Dr")  into Patient.Suffix
+	put any item of ("Bruce","Carrie","Wonder","Darth","James","Homer","Optimus","Mickey","SpongeBob") into Patient."First Name"
+	put any item of (A..Z) into Patient."Middle Name"
+	put any item of ("Wayne","Underwood","Woman","Vader","Bond","Simpson","Prime","Mouse","SquarePants") into Patient."Last Name"
+	put any item of ("Married","Single","Divorced","Widowed","Separated","Domestic") into Patient."Marital Status"
+	put any item of("Male","Female") into Patient."Gender"
+	put any item of "1970-01-01" to today into Patient."Date of Birth"
+	
+	
+	
+	
+	put any item of today to (today plus 10 days) into Patient."Created Date"
+	put any item of today to (today plus 10 days) into Patient."Coding Date"
+	put any item of today to (today plus 10 days) into Patient."Billing Date"
+	put any item of today to (today plus 10 days) into Patient."Claims Date"
+	put any item of today to (today plus 10 days) into Patient."Charge Capture Date"
+	
+	
+	
+	
+	insert Patient into PatientList
+	
+	
+end repeat
+
+
+add records PatientList to myScriptData
+
+

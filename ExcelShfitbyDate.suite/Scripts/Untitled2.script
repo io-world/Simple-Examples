@@ -1,0 +1,18 @@
+﻿//-----------------------------------
+put 101 into alphaShfit
+
+
+put (A..Z) into alphabet
+put alphaShfit modulo 26 into AlphaDif
+if (AlphaDif = 0) then
+	put "Z" into AlphaAnswer
+else 
+	put item AlphaDif of alphabet into AlphaAnswer
+end if
+
+log AlphaAnswer
+//------------------------------------------
+
+
+
+

@@ -1,0 +1,13 @@
+﻿2017-07-11 09:17:00.418 -0600	START		Running Test/A.script	17	on_index	Index.script
+2017-07-11 09:17:00.420 -0600	Log		code for Navigation for TestA 	6	on_test_a	Test/A.script
+2017-07-11 09:17:01.115 -0600	click	Test/A/Contacts	at (51, 600)	9	on_test_a	Test/A.script
+2017-07-11 09:17:01.163 -0600	imagefound	Test/A/Contacts/Contacts 01.png	found at (51, 600)	22	on_content	Modules/Verify.script
+2017-07-11 09:17:01.165 -0600	Log		Image was found: Test/A/Contacts/Contacts 01.png	23	on_content	Modules/Verify.script
+2017-07-11 09:17:03.274 -0600	imagefound	Test/A/Contacts/Contacts 02.png	Unable to Find Image Test/A/Contacts/Contacts 02.png	22	on_content	Modules/Verify.script
+2017-07-11 09:17:03.275 -0600	LogWarning		Image was NOT found: Test/A/Contacts/Contacts 02.png	25	on_content	Modules/Verify.script
+2017-07-11 09:17:03.460 -0600	imagefound	(TEXT:"Tap the buttons")	found at (95, 242)	16	on_content	Modules/Verify.script
+2017-07-11 09:17:03.461 -0600	Log		Text was found: Tap the buttons	17	on_content	Modules/Verify.script
+2017-07-11 09:17:03.622 -0600	click	Test/A/Favorites/Favorites 01	at (159, 601)	22	on_test_a	Test/A.script
+2017-07-11 09:17:06.104 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	16	on_content	Modules/Verify.script
+2017-07-11 09:17:06.114 -0600	EndTestCase		(Duration:"5.694717", Errors:"1", Exceptions:"1", StartTime:"2017-07-11 09:17:00 -0600", Successes:"0", TestCase:"Test/A.script", Warnings:"1")	17	on_index	Index.script
+2017-07-11 09:17:06.115 -0600	ABORTED		Execution Time 0:00:05 Test/A.script	17	on_index	Index.script

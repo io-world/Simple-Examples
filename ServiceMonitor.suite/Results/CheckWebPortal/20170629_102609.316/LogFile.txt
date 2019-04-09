@@ -1,0 +1,5 @@
+﻿2017-06-29 10:26:09.317 -0600	START		Running CheckWebPortal.script
+2017-06-29 10:26:09.422 -0600	typetext		[windowsKey]r	2	on_checkwebportal	CheckWebPortal.script
+2017-06-29 10:26:10.261 -0600	typetext		Chrome.exe[returnKey]	3	on_checkwebportal	CheckWebPortal.script
+2017-06-29 10:26:10.507 -0600	EndTestCase		(Duration:"1.189484", Errors:"0", Exceptions:"0", StartTime:"2017-06-29 10:26:09 -0600", Successes:"1", TestCase:"CheckWebPortal.script", Warnings:"0")
+2017-06-29 10:26:10.513 -0600	SUCCESS		Execution Time 0:00:01 CheckWebPortal.script

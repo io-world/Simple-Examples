@@ -1,0 +1,25 @@
+﻿2018-03-21 11:42:58.006 +0530	START		Running Master.script
+2018-03-21 11:42:58.618 +0530	imagerectangle	name	at (345,94,419,119)	4	on_master	Master.script
+2018-03-21 11:42:58.651 +0530	readtext		(205,126,539,149)
+2018-03-21 11:42:58.652 +0530	Log		Tiger Nixon	10	on_master	Master.script
+2018-03-21 11:42:58.684 +0530	readtext		(205,126,539,149)
+2018-03-21 11:42:58.685 +0530	Log		Tiger Nixon	10	on_master	Master.script
+2018-03-21 11:42:58.719 +0530	readtext		(205,126,539,149)
+2018-03-21 11:42:58.720 +0530	Log		Tiger Nixon	10	on_master	Master.script
+2018-03-21 11:42:58.749 +0530	readtext		(205,126,539,149)
+2018-03-21 11:42:58.749 +0530	Log		Tiger Nixon	10	on_master	Master.script
+2018-03-21 11:42:58.776 +0530	readtext		(205,126,539,149)
+2018-03-21 11:42:58.776 +0530	Log		Tiger Nixon	10	on_master	Master.script
+2018-03-21 11:42:58.811 +0530	readtext		(205,126,539,149)
+2018-03-21 11:42:58.811 +0530	Log		Tiger Nixon	10	on_master	Master.script
+2018-03-21 11:42:58.838 +0530	readtext		(205,126,539,149)
+2018-03-21 11:42:58.839 +0530	Log		Tiger Nixon	10	on_master	Master.script
+2018-03-21 11:42:58.869 +0530	readtext		(205,126,539,149)
+2018-03-21 11:42:58.871 +0530	Log		Tiger Nixon	10	on_master	Master.script
+2018-03-21 11:42:58.902 +0530	readtext		(205,126,539,149)
+2018-03-21 11:42:58.903 +0530	Log		Tiger Nixon	10	on_master	Master.script
+2018-03-21 11:42:58.929 +0530	readtext		(205,126,539,149)
+2018-03-21 11:42:58.930 +0530	Log		Tiger Nixon	10	on_master	Master.script
+2018-03-21 11:42:58.931 +0530	LogError		To Much Scrolling	13	on_master	Master.script
+2018-03-21 11:42:59.160 +0530	EndTestCase		(Duration:"1.151971", Errors:"1", Exceptions:"0", StartTime:"2018-03-21 11:42:58 +0530", Successes:"0", TestCase:"Master.script", Warnings:"0")
+2018-03-21 11:42:59.901 +0530	FAILURE	Screen_Error.png	Script Error Number of Errors logged: 1 -- Execution Time 0:00:01 Master.script

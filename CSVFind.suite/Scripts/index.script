@@ -1,0 +1,20 @@
+﻿
+put file ResourcePath("PatientInformation.csv") into CSVFile
+put (the number of lines of CSVFile-1) into PatientCount
+put the number of items of line 1 of CSVFile into ItemCount
+put line 1 of CSVFile into ItemNames
+
+put "333333" into FindPatient
+
+repeat PatientCount times	
+	put line repeatindex()+1 of CSVFile into PatientInformation
+	
+	
+	if item 1 of PatientInformation = FindPatient then
+		repeat ItemCount times
+			log item repeatindex() of PatientInformation
+		end repeat
+	end if
+	
+	
+end repeat

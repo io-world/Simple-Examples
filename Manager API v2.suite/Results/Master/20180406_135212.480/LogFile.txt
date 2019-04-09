@@ -1,0 +1,10 @@
+﻿2018-04-06 13:52:15.912 -0600	START		Running Master.script
+2018-04-06 13:52:15.926 -0600	Log		127.0.0.1:8080	4	on_master	Master.script
+2018-04-06 13:52:15.945 -0600	LogWarning		Validation Warning: Missing HTTP.	2	function_getuserid	ePM_API_Class.script
+2018-04-06 13:52:16.040 -0600	Log		570c0a66547261080b00000b	8	on_master	Master.script
+2018-04-06 13:52:16.049 -0600	LogWarning		Validation Warning: Missing HTTP.	3	function_getsutid	ePM_API_Class.script
+2018-04-06 13:52:16.148 -0600	LogWarning		Validation Warning: Missing HTTP.	3	function_makeresveration	ePM_API_Class.script
+2018-04-06 13:52:16.492 -0600	Log		5902	18	on_master	Master.script
+2018-04-06 13:52:19.663 -0600	connect		127.0.0.1:5902	23	on_master	Master.script
+2018-04-06 13:52:20.072 -0600	EndTestCase		(Duration:"4.158563", Errors:"0", Exceptions:"0", StartTime:"2018-04-06 13:52:15 -0600", Successes:"1", TestCase:"Master.script", Warnings:"3")
+2018-04-06 13:52:20.367 -0600	SUCCESS		Execution Time 0:00:07 Master.script

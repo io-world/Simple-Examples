@@ -1,0 +1,7 @@
+﻿2017-06-29 10:25:19.583 -0600	START		Running index.script
+2017-06-29 10:25:19.721 -0600	typetext		[windowsKey]r	6	on_checkservices	CheckServices.script
+2017-06-29 10:25:20.592 -0600	typetext		services.msc[returnKey]	7	on_checkservices	CheckServices.script
+2017-06-29 10:25:21.303 -0600	moveto		at (1440, 900)	8	on_checkservices	CheckServices.script
+2017-06-29 10:25:21.306 -0600	Exception	Gears Icon	Could Not Open Image: Gears Icon	9	on_checkservices	CheckServices.script
+2017-06-29 10:25:21.581 -0600	EndTestCase		(Duration:"1.996482", Errors:"1", Exceptions:"1", StartTime:"2017-06-29 10:25:19 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-06-29 10:25:21.709 -0600	FAILURE	Screen_Error.png	File Not Found waitfor Error - Could Not Open Image: Gears Icon -- Execution Time 0:00:01 index.script

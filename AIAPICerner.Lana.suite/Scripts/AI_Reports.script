@@ -1,0 +1,29 @@
+﻿put "https://eggplantai.testplant.com/auth" into URL
+put "randy.hesse@testplant.com" into username
+put DecodeText("0rxP&sS)b)")into password
+put "OpenEMR5-1v1" into ModelName
+
+
+eAI_API(httpMethod:"POST",url:URL & "?username="&username&"&password="&password)
+put  JSONValue(API().responseBody) into Output
+//log Output
+
+
+put ("Authorization":"bearer" && Output.access_token, "Content-Type": "application/x-www-form-urlencoded") into RH
+put "https://eggplantai.testplant.com/api/run/report" into URL
+eAI_API(httpMethod:"POST",url:URL & "?ModelName="&ModelName,requestheaders:(RH))
+
+
+put JSONValue(api().responseBody) into ReportData
+put ReportData.rows into RData
+
+
+
+put the number of items of RData into max
+repeat max times
+	put item repeatindex() of RData into ReportLine
+	//log ReportLine.id
+	//log ReportLine.events
+	CreateTestCase ReportLine.id , ReportLine.events
+end repeat
+

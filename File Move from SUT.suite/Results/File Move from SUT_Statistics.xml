@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Master">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-01-12 12:05:33 +0530</FirstRun>
+  <LastRun>2018-01-12 12:06:52 +0530</LastRun>
+  <TotalTimeOnSuccess>50.913000</TotalTimeOnSuccess>
+ </script>
+ <script name="MoveFile">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-01-12 11:50:09 +0530</FirstRun>
+  <LastRun>2018-01-12 11:56:22 +0530</LastRun>
+  <TotalTimeOnSuccess>13.529580</TotalTimeOnSuccess>
+ </script>
+ <script name="CreateFile">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-01-12 11:42:53 +0530</FirstRun>
+  <LastRun>2018-01-12 15:08:08 +0530</LastRun>
+  <TotalTimeOnSuccess>38.569366</TotalTimeOnSuccess>
+ </script>
+ <script name="DelFile">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2018-01-12 12:04:31 +0530</FirstRun>
+  <LastRun>2018-01-12 12:05:04 +0530</LastRun>
+  <TotalTimeOnSuccess>0.554256</TotalTimeOnSuccess>
+ </script>
+ <script name="ReadFile">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-01-12 11:57:17 +0530</FirstRun>
+  <LastRun>2018-01-12 12:02:48 +0530</LastRun>
+  <TotalTimeOnSuccess>14.161905</TotalTimeOnSuccess>
+ </script>
+ <script name="DelFile1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-01-12 11:58:13 +0530</FirstRun>
+  <LastRun>2018-01-12 11:58:13 +0530</LastRun>
+  <TotalTimeOnSuccess>20.202993</TotalTimeOnSuccess>
+ </script>
+ <script name="ReadFile1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2018-01-12 11:54:07 +0530</FirstRun>
+  <LastRun>2018-01-12 11:54:27 +0530</LastRun>
+  <TotalTimeOnSuccess>14.745809</TotalTimeOnSuccess>
+ </script>
+</statistics>

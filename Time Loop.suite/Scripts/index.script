@@ -1,0 +1,31 @@
+﻿
+
+
+repeat forever
+	
+	
+	if the time equal to or  is greater than  "11:57 AM" then 
+		exit repeat
+	end if	
+	
+	log "Test"
+	
+	
+end repeat
+
+
+
+
+
+repeat forever
+	
+	
+	if the time equal to or  is greater than the time plus four hours then 
+		exit repeat
+	end if	
+	
+	log "Test"
+	
+	
+end repeat
+

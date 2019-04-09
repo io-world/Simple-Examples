@@ -1,6 +1,0 @@
-﻿2016-11-30 15:24:09.891 -0700	START		Running Read5.script
-2016-11-30 15:24:13.860 -0700	Log		("":"", Allergy1:"eggs", Allergy2:"", Allergy3:"", BP:"120/80", Charge1:"", Charge2:"", Charge3:"", CollectionDate:"", Comment1:"This is an allergy 1 comment.", Comment2:"", Comment3:"", Date:"", DepartmentIDONLY:"20100301001", LOS:"", MAProgressNote:"This is the MA progress note 9/13/2016", Med1:"advil", Med2:"", Med3:"", MedHist1:"Thyroid Cancer", MedHist2:"", MedHist3:"", Order1:"POC10", Order2:"", Order3:"", ProviderProgressnote:"", Pulse:"60", Pwd1:"Pwdpoc1", Pwd2:"Pwdpoc1", Reaction1:"agitationa", Reaction2:"", Reaction3:"", ResultValue:"", Severity1:"high", Severity2:"", Severity3:"", Source:"Oral", Status:"", SurgHist1:"Vascular Surgery", SurgHist2:"", SurgHist3:"", Temp:"98.6", Type1:"intolerance", Type2:"", Type3:"", UserID1:"tstambma", UserID2:"tstambmd", VisitInfo:"headache")	18	on_read5	Read5.script
-2016-11-30 15:24:13.878 -0700	Log		tstambma	19	on_read5	Read5.script
-2016-11-30 15:24:13.900 -0700	Log		tstambma	23	on_read5	Read5.script
-2016-11-30 15:24:15.067 -0700	EndTestCase		(Duration:"5.174644", Errors:"0", Exceptions:"0", StartTime:"2016-11-30 15:24:09 -0700", Successes:"1", TestCase:"Read5.script", Warnings:"0")
-2016-11-30 15:24:15.109 -0700	SUCCESS		Execution Time 0:00:05 Read5.script

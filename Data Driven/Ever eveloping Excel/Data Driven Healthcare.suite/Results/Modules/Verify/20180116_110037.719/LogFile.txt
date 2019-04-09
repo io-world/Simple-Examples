@@ -1,0 +1,7 @@
+﻿2018-01-16 11:00:37.720 +0530	START		Running Modules/Verify.script
+2018-01-16 11:00:37.869 +0530	Log		((CaptureDate:"2017-03-12 18:28:36 +0000", CaptureHost:"Tutorial Connection", CaptureLocation:(137,582), CaptureScreenSize:(427,640), Description:"", HotSpot:(22,19), ImageLocation:"", ImageName:"Test/A/Favorites/Favorites 02", ImagePath:"/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever eveloping Excel/Data Driven Healthcare.suite/Images/Test/A/Favorites/Favorites 02.png", ImageRectangle:"", ImageSize:(44,39), Pulsing:"False", Scale:"1", SearchType:"Tolerant"))	8	on_content	Modules/Verify.script
+2018-01-16 11:00:37.872 +0530	Log		ContentType: image	15	on_content	Modules/Verify.script
+2018-01-16 11:00:40.910 +0530	imagefound	Test/A/Favorites/Favorites 02	Unable to Find Image Test/A/Favorites/Favorites 02	35	on_content	Modules/Verify.script
+2018-01-16 11:00:40.912 +0530	LogWarning		Image was NOT found: Test/A/Favorites/Favorites 02	38	on_content	Modules/Verify.script
+2018-01-16 11:00:41.277 +0530	EndTestCase		(Duration:"3.555354", Errors:"0", Exceptions:"0", StartTime:"2018-01-16 11:00:37 +0530", Successes:"1", TestCase:"Modules/Verify.script", Warnings:"1")
+2018-01-16 11:00:41.297 +0530	SUCCESS		Execution Time 0:00:03 Modules/Verify.script

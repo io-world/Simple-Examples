@@ -1,0 +1,219 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Examples/TroubleshootingExamples/TroubleshootingExample1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2017-07-03 14:00:42 -0600</FirstRun>
+  <LastRun>2017-07-03 14:03:44 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Libraries/Logout">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-07-11 09:16:43 -0600</FirstRun>
+  <LastRun>2017-08-16 16:34:59 -0600</LastRun>
+  <TotalTimeOnSuccess>0.060491</TotalTimeOnSuccess>
+ </script>
+ <script name="Examples/Help">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-07-26 12:51:06 -0600</FirstRun>
+  <LastRun>2017-08-16 10:39:50 -0600</LastRun>
+  <TotalTimeOnSuccess>1.432663</TotalTimeOnSuccess>
+ </script>
+ <script name="GlobalDefine">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-01-12 14:44:30 +0530</FirstRun>
+  <LastRun>2018-01-12 14:44:30 +0530</LastRun>
+  <TotalTimeOnSuccess>0.731498</TotalTimeOnSuccess>
+ </script>
+ <script name="Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP)">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-07-03 14:05:23 -0600</FirstRun>
+  <LastRun>2017-07-26 12:23:02 -0600</LastRun>
+  <TotalTimeOnSuccess>0.763994</TotalTimeOnSuccess>
+ </script>
+ <script name="Index">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>9</NumberOfRuns>
+  <NumberOfFails>8</NumberOfFails>
+  <FirstRun>2017-07-03 13:59:40 -0600</FirstRun>
+  <LastRun>2018-04-04 10:11:25 -0600</LastRun>
+  <TotalTimeOnSuccess>450.531468</TotalTimeOnSuccess>
+ </script>
+ <script name="Examples/Examples/Example2">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2017-07-03 14:06:54 -0600</FirstRun>
+  <LastRun>2017-07-03 14:13:21 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Examples/TroubleshootingExamples/TroubleshootingExample4">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-05-04 15:00:40 -0500</FirstRun>
+  <LastRun>2017-07-03 14:04:35 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Examples/TroubleshootingExamples/TroubleshootingExample2 (No OOP)">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-07-03 14:05:28 -0600</FirstRun>
+  <LastRun>2017-07-03 14:05:28 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Test/B">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>53</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-07-11 09:14:58 -0600</FirstRun>
+  <LastRun>2017-08-16 16:34:54 -0600</LastRun>
+  <TotalTimeOnSuccess>242.080327</TotalTimeOnSuccess>
+ </script>
+ <script name="Test/NewPatient">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>63</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-07-03 14:00:30 -0600</FirstRun>
+  <LastRun>2017-08-16 16:34:59 -0600</LastRun>
+  <TotalTimeOnSuccess>0.932235</TotalTimeOnSuccess>
+ </script>
+ <script name="Examples/TroubleshootingExamples/TroubleshootingExample2">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-07-03 14:03:00 -0600</FirstRun>
+  <LastRun>2017-07-03 14:04:08 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Examples/Examples/Example4">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-07-03 14:13:46 -0600</FirstRun>
+  <LastRun>2017-07-03 14:13:46 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Libraries/SUTConnect">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2017-06-13 13:01:21 -0600</FirstRun>
+  <LastRun>2017-06-13 13:01:55 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="TestanImage">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>16</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2018-01-16 11:02:35 +0530</FirstRun>
+  <LastRun>2018-01-16 11:11:13 +0530</LastRun>
+  <TotalTimeOnSuccess>6.847508</TotalTimeOnSuccess>
+ </script>
+ <script name="Examples/Examples/Example6">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-07-03 14:14:19 -0600</FirstRun>
+  <LastRun>2017-07-03 14:15:47 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Examples/Examples/Example1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-07-03 14:06:49 -0600</FirstRun>
+  <LastRun>2017-07-03 14:47:08 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Examples/TroubleshootingExamples/TroubleshootingExample5">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-07-03 14:04:42 -0600</FirstRun>
+  <LastRun>2017-07-03 14:04:42 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Libraries/Login">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>13</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-04-17 12:59:56 -0600</FirstRun>
+  <LastRun>2018-04-04 10:08:35 -0600</LastRun>
+  <TotalTimeOnSuccess>11.568917</TotalTimeOnSuccess>
+ </script>
+ <script name="Test/A">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>64</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2017-07-03 14:00:07 -0600</FirstRun>
+  <LastRun>2017-08-16 16:34:47 -0600</LastRun>
+  <TotalTimeOnSuccess>311.557478</TotalTimeOnSuccess>
+ </script>
+ <script name="Examples/Examples/Example3">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-07-03 14:13:38 -0600</FirstRun>
+  <LastRun>2017-07-03 14:13:38 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Modules/Verify">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>22</NumberOfRuns>
+  <NumberOfFails>7</NumberOfFails>
+  <FirstRun>2017-07-11 09:11:52 -0600</FirstRun>
+  <LastRun>2018-01-16 11:02:01 +0530</LastRun>
+  <TotalTimeOnSuccess>47.708473</TotalTimeOnSuccess>
+ </script>
+ <script name="Examples/TroubleshootingExamples/TroubleshootingExample3">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-07-03 14:04:18 -0600</FirstRun>
+  <LastRun>2017-07-03 14:04:18 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Examples/TroubleshootingExamples/TroubleshootingExampleA1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-07-03 14:04:54 -0600</FirstRun>
+  <LastRun>2017-07-03 14:04:54 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="States/Zero">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2017-04-17 12:59:55 -0600</FirstRun>
+  <LastRun>2018-04-04 10:08:35 -0600</LastRun>
+  <TotalTimeOnSuccess>1.447373</TotalTimeOnSuccess>
+ </script>
+ <script name="Notes">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2017-08-16 17:20:51 -0600</FirstRun>
+  <LastRun>2018-04-04 10:44:13 -0600</LastRun>
+  <TotalTimeOnSuccess>0.949868</TotalTimeOnSuccess>
+ </script>
+ <script name="Examples/Examples/Example5">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-07-03 14:13:52 -0600</FirstRun>
+  <LastRun>2017-07-03 14:13:52 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+</statistics>

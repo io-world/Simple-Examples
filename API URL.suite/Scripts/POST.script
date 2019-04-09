@@ -1,0 +1,14 @@
+﻿
+
+
+
+
+put JSONFormat({"Name": "FIsher, Bobby", "Job Titles": "COMMANDER-IN-CHIEFS", "Department": "WHITE HOUSE", "Full Or Part-Time": "P", "Salary Or Hourly": "Salary", "Annual Salary": "$999,999.00"}) into Data
+
+
+
+post data to URL "http://52.89.33.16:5000/add-salary" with headers ("Content-Type": "application/json") 
+--put it into Message
+
+
+--log Message

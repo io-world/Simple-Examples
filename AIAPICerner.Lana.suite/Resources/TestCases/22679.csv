@@ -1,0 +1,7 @@
+State,Action
+Initial,Start
+Login Type,Nurse
+Patient Select,Adult
+Type of Med,Morpein
+doage,150mg
+add Med,Verify

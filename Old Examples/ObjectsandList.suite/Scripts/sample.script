@@ -1,0 +1,7 @@
+﻿
+
+
+
+put "patient1" into patientName
+do !<<put "john" into [[patientName]]>>
+log patient1

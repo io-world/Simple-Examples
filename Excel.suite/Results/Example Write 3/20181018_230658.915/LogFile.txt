@@ -1,0 +1,5 @@
+﻿2018-10-18 23:06:58.917 -0600	START		Running Example Write 3.script
+2018-10-18 23:06:59.024 -0600	Log		(file:"/Users/randyhesse/Documents/Simple Examples/Excel.suite/Resources/WebFormData.xlsx", name:"Results", type:"excel", writable:"Yes")	8	on_example_write_3	Example Write 3.script
+2018-10-18 23:06:59.037 -0600	Log		((_pk_:"1001", Column_4:"", Column_5:"", foo:"", @"hello cc":"", membernumber:"FOO"),(_pk_:"1002", Column_4:"", Column_5:"", foo:"", @"hello cc":"", membernumber:""),(_pk_:"1013", Column_4:"", Column_5:"", foo:"", @"hello cc":"2017-09-14 12:00:00 -0600", membernumber:"Error1"),(_pk_:"1014", Column_4:"", Column_5:"", foo:"", @"hello cc":"2017-09-14 12:00:00 -0600", membernumber:"Error2"),(_pk_:"1015", Column_4:"", Column_5:"", foo:"", @"hello cc":"2017-09-14 12:00:00 -0600", membernumber:"Error3"))	13	on_example_write_3	Example Write 3.script
+2018-10-18 23:06:59.347 -0600	EndTestCase		(Duration:"0.428837", Errors:"0", Exceptions:"0", StartTime:"2018-10-18 23:06:58 -0600", Successes:"1", TestCase:"Example Write 3.script", Warnings:"0")
+2018-10-18 23:06:59.400 -0600	SUCCESS		Execution Time 0:00:00 Example Write 3.script

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Master 1_script" package="OmegaCollection.suite" timestamp="2018-06-06 21:41:12.292 -0500"
+ tests="1"  failures="1" errors="1" time="8.975410">
+  <properties>
+   <property name="RunDate" value="2018-06-06 21:41:12.292 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Master 1.script" assertions="1" status="error"  time="8.973136">
+    <failure type="FAILURE" message="STInvalidNumber Value is not a number: '&quot;' -- Execution Time 0:00:08 Master 1.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;Chrome&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

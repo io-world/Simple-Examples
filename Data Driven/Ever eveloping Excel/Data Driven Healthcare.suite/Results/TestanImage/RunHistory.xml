@@ -1,0 +1,195 @@
+﻿<?xml version="1.0"?>
+<runHistory script="TestanImage">
+ <run>
+  <RunDate>2018-01-16 11:02:35.309 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.507783</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_110235.309/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:02:41.383 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.466580</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180116_110241.383/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imageinfo Error - Could Not Open Image: Test/A/Fasvorites/Favorites 01</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:03:38.135 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.461994</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180116_110338.135/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;imagename&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:05:46.695 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.493283</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_110546.695/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:06:02.476 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.516746</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_110602.476/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:06:17.604 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.499344</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_110617.604/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:06:22.163 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.466507</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_110622.163/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:07:27.908 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.493210</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_110727.908/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:09:48.936 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.486800</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_110948.936/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:09:53.478 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.461489</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_110953.478/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:10:00.655 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.469931</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_111000.655/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:10:09.170 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.482726</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_111009.170/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:10:19.430 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.483039</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_111019.430/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:10:29.691 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.461441</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_111029.691/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:10:44.845 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.525551</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_111044.845/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:11:13.686 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.499658</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_111113.686/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

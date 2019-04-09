@@ -1,0 +1,31 @@
+﻿2017-07-03 14:14:19.705 -0600	START		Running Examples/Examples/Example6.script
+2017-07-03 14:14:19.820 -0600	Log		Wareen	12	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.821 -0600	Log		PaSwOrD	13	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.841 -0600	Log			20	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.842 -0600	Log			21	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.853 -0600	Log			20	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.855 -0600	Log			21	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.862 -0600	Log			20	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.864 -0600	Log			21	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.872 -0600	Log			20	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.874 -0600	Log			21	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.881 -0600	Log			20	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.883 -0600	Log			21	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.890 -0600	Log			20	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.891 -0600	Log			21	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.899 -0600	Log			20	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.901 -0600	Log			21	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.908 -0600	Log			20	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.909 -0600	Log			21	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.920 -0600	Log			20	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.922 -0600	Log			21	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.936 -0600	Log			33	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.938 -0600	Log			34	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.947 -0600	Log			33	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.948 -0600	Log			34	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.956 -0600	Log			33	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.958 -0600	Log			34	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.973 -0600	Log			33	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:19.975 -0600	Log			34	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:14:20.257 -0600	EndTestCase		(Duration:"0.551438", Errors:"0", Exceptions:"0", StartTime:"2017-07-03 14:14:19 -0600", Successes:"1", TestCase:"Examples/Examples/Example6.script", Warnings:"0")
+2017-07-03 14:14:20.282 -0600	SUCCESS		Execution Time 0:00:00 Examples/Examples/Example6.script

@@ -1,0 +1,34 @@
+﻿
+log ReadText(571,180,687,205) // working
+
+
+//--------------------------------------------------------------------------------------------------------
+
+log ReadText(1377,183,1504,198) // Not working example
+
+//--------------------------------------------------------------------------------------------------------
+
+log ReadText((1377,183,1504,198),validCharacters:"*") // Not working example
+
+
+//--------------------------------------------------------------------------------------------------------
+
+log ReadText((1377,183,1504,198),validCharacters:"MRN:0X-") // working example
+
+
+//--------------------------------------------------------------------------------------------------------
+
+log ReadText((1158,582,1247,606)) // Not working example
+//--------------------------------------------------------------------------------------------------------
+
+log ReadText((1158,582,1247,606),validCharacters:"1234567890/JANFEBMARAPLMAYJUNYAGSEPTOCTNOVDC") // working example
+log ReadText((1165,537,1253,560),validCharacters:"1234567890/JANFEBMARAPLMAYJUNYAGSEPTOCTNOVDC") // working example
+//--------------------------------------------------------------------------------------------------------
+log ReadText((1158,582,1247,606),validCharacters:"1234567890/JANFEBMARAPLMAYJUNYAGSEPTOCTNOVDCl") // NOT working example notice the last character is lower L
+
+//--------------------------------------------------------------------------------------------------------
+log ReadText((1158,582,1247,606),validCharacters:"1234567890/JANFEBMARAPLMAYJUNYAGSEPTOCTNOVDC",ValidPattern:"[0-9][0-9]/[A-Z][A-Z][A-Z]/[0-9][0-9][0-9][0-9]") // working example
+
+log ReadText((1158,582,1247,606),ValidPattern:"[0-9][0-9]/[A-Z][A-Z][A-Z]/[0-9][0-9][0-9][0-9]") // working example
+
+

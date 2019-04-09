@@ -1,0 +1,3 @@
+﻿2017-11-09 13:13:23.548 -0700	START		Running Untitled.apitest
+2017-11-09 13:13:24.424 -0700	EndTestCase		(Duration:"0.874717", Errors:"0", Exceptions:"0", StartTime:"2017-11-09 13:13:23 -0700", Successes:"1", TestCase:"Untitled.apitest", Warnings:"0")
+2017-11-09 13:13:24.438 -0700	SUCCESS		Execution Time 0:00:00 Untitled.apitest

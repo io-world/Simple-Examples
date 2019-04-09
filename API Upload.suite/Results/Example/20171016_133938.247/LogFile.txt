@@ -1,0 +1,5 @@
+﻿2017-10-16 13:39:38.248 -0600	START		Running Untitled.script
+2017-10-16 13:39:38.300 -0600	Log		Full Result path is: /Users/randyhesse/Documents/Simple Examples/API Upload.suite/Results/SomeScript/20171016_133142.165/	20	on_untitled	Untitled.script
+2017-10-16 13:39:38.306 -0600	Log		Some Screen.png	28	on_untitled	Untitled.script
+2017-10-16 13:39:38.694 -0600	EndTestCase		(Duration:"0.444042", Errors:"0", Exceptions:"0", StartTime:"2017-10-16 13:39:38 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2017-10-16 13:39:38.725 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

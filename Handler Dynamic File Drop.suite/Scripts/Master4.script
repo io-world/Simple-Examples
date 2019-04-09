@@ -1,0 +1,20 @@
+﻿
+
+put  suiteinfo().scriptsFolder &"/Utilities/" into Pathway
+put the files of Pathway into ScriptList
+put the number of items of ScriptList into max
+
+repeat max times
+	put item repeatindex() of ScriptList into ScriptName
+	delete ".script" in ScriptName
+	put "Utilities/" &scriptname into AddingHelper
+	insert (AddingHelper)  into HLO.helpers
+end repeat
+
+
+(HLO).one
+
+
+(HLO).five
+
+

@@ -1,0 +1,60 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running ADT01.script",
+      "timestamp" : "2019-02-13 10:35:50.780 -0700"
+    },
+    {
+      "handlerName" : "on_adt01",
+      "message" : "ADT^A01",
+      "timestamp" : "2019-02-13 10:35:50.979 -0700",
+      "identifier" : "Log",
+      "scriptName" : "ADT01.script",
+      "handlerLine" : 21
+    },
+    {
+      "handlerName" : "on_adt01",
+      "message" : "DUCK^DONALD^D",
+      "timestamp" : "2019-02-13 10:35:51.028 -0700",
+      "identifier" : "Log",
+      "scriptName" : "ADT01.script",
+      "handlerLine" : 22
+    },
+    {
+      "handlerName" : "on_adt01",
+      "message" : "19241010",
+      "timestamp" : "2019-02-13 10:35:51.085 -0700",
+      "identifier" : "Log",
+      "scriptName" : "ADT01.script",
+      "handlerLine" : 23
+    },
+    {
+      "handlerName" : "on_adt01",
+      "message" : "M",
+      "timestamp" : "2019-02-13 10:35:51.138 -0700",
+      "identifier" : "Log",
+      "scriptName" : "ADT01.script",
+      "handlerLine" : 24
+    },
+    {
+      "handlerName" : "on_adt01",
+      "message" : "111 DUCK ST^^FOWL^CA^999990000^^M",
+      "timestamp" : "2019-02-13 10:35:51.180 -0700",
+      "identifier" : "Log",
+      "scriptName" : "ADT01.script",
+      "handlerLine" : 25
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.568555\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-02-13 10:35:50 -0700\", Successes:\"1\", TestCase:\"ADT01.script\", Warnings:\"0\")",
+      "timestamp" : "2019-02-13 10:35:51.393 -0700"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 ADT01.script",
+      "timestamp" : "2019-02-13 10:35:51.443 -0700"
+    }
+  ],
+  "createdTimestamp" : "2019-02-13 10:35:50.823 -0700"
+}

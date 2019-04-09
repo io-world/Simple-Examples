@@ -1,0 +1,39 @@
+﻿2018-03-21 13:11:50.206 +0530	START		Running Master.script
+2018-03-21 13:11:50.964 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:51.073 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:52.554 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:11:52.565 +0530	Log		(Cara Stevens,Hermione Butler,Lael Greer,Jonas Alexander,Shad Decker,Michael Bruce,Donna Snider,Name)	13	on_master	Master.script
+2018-03-21 13:11:53.905 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:54.014 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:55.497 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:11:55.498 +0530	Log		Keep on Scrolling	19	on_master	Master.script
+2018-03-21 13:11:55.504 +0530	Log		(Cara Stevens,Hermione Butler,Lael Greer,Jonas Alexander,Shad Decker,Michael Bruce,Donna Snider,Name)	20	on_master	Master.script
+2018-03-21 13:11:55.506 +0530	Log		PerviousName	21	on_master	Master.script
+2018-03-21 13:11:56.850 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:56.958 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:58.446 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:11:58.447 +0530	Log		Keep on Scrolling	19	on_master	Master.script
+2018-03-21 13:11:58.454 +0530	Log		(Cara Stevens,Hermione Butler,Lael Greer,Jonas Alexander,Shad Decker,Michael Bruce,Donna Snider,Name)	20	on_master	Master.script
+2018-03-21 13:11:58.455 +0530	Log		PerviousName	21	on_master	Master.script
+2018-03-21 13:11:59.786 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:59.893 +0530	readtext		(205,126,539,389)
+2018-03-21 13:12:00.959 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:12:00.960 +0530	Log		Keep on Scrolling	19	on_master	Master.script
+2018-03-21 13:12:00.966 +0530	Log		(Cara Stevens,Hermione Butler,Lael Greer,Jonas Alexander,Shad Decker,Michael Bruce,Donna Snider,Name)	20	on_master	Master.script
+2018-03-21 13:12:00.968 +0530	Log		PerviousName	21	on_master	Master.script
+2018-03-21 13:12:02.353 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:12:02.461 +0530	readtext		(205,126,539,389)
+2018-03-21 13:12:03.957 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:12:03.958 +0530	Log		Keep on Scrolling	19	on_master	Master.script
+2018-03-21 13:12:03.965 +0530	Log		(Cara Stevens,Hermione Butler,Lael Greer,Jonas Alexander,Shad Decker,Michael Bruce,Donna Snider,Name)	20	on_master	Master.script
+2018-03-21 13:12:03.966 +0530	Log		PerviousName	21	on_master	Master.script
+2018-03-21 13:12:05.311 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:12:05.420 +0530	readtext		(205,126,539,389)
+2018-03-21 13:12:06.911 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:12:06.912 +0530	Log		Keep on Scrolling	19	on_master	Master.script
+2018-03-21 13:12:06.918 +0530	Log		(Cara Stevens,Hermione Butler,Lael Greer,Jonas Alexander,Shad Decker,Michael Bruce,Donna Snider,Name)	20	on_master	Master.script
+2018-03-21 13:12:06.919 +0530	Log		PerviousName	21	on_master	Master.script
+2018-03-21 13:12:08.259 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:12:08.372 +0530	readtext		(205,126,539,389)
+2018-03-21 13:12:09.312 +0530	EndTestCase		(Duration:"19.104496", Errors:"1", Exceptions:"0", StartTime:"2018-03-21 13:11:50 +0530", Successes:"0", TestCase:"Master.script", Warnings:"0")
+2018-03-21 13:12:09.313 +0530	ABORTED		Execution Time 0:00:19 Master.script

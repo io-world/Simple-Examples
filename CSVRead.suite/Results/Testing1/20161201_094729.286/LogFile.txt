@@ -1,3 +1,0 @@
-﻿2016-12-01 09:47:29.287 -0700	START		Running Testing1.script
-2016-12-01 09:47:31.765 -0700	EndTestCase		(Duration:"2.475244", Errors:"0", Exceptions:"0", StartTime:"2016-12-01 09:47:29 -0700", Successes:"1", TestCase:"Testing1.script", Warnings:"0")
-2016-12-01 09:47:31.787 -0700	SUCCESS		Execution Time 0:00:02 Testing1.script

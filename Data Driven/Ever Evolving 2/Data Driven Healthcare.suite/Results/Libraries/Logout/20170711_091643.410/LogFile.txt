@@ -1,0 +1,4 @@
+﻿2017-07-11 09:16:43.411 -0600	START		Running Libraries/Logout.script	21	on_index	Index.script
+2017-07-11 09:16:43.413 -0600	Log		running logout	1	on_libraries_logout	Libraries/Logout.script
+2017-07-11 09:16:43.415 -0600	EndTestCase		(Duration:"0.002436", Errors:"0", Exceptions:"0", StartTime:"2017-07-11 09:16:43 -0600", Successes:"1", TestCase:"Libraries/Logout.script", Warnings:"0")	21	on_index	Index.script
+2017-07-11 09:16:43.429 -0600	SUCCESS		Execution Time 0:00:00 Libraries/Logout.script	21	on_index	Index.script

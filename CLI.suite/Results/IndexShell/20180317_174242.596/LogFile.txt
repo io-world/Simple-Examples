@@ -1,0 +1,4 @@
+﻿2018-03-17 17:42:42.597 +0530	START		Running IndexShell.script
+2018-03-17 17:42:50.677 +0530	Log			1	on_indexshell	IndexShell.script
+2018-03-17 17:42:50.817 +0530	EndTestCase		(Duration:"8.216261", Errors:"0", Exceptions:"0", StartTime:"2018-03-17 17:42:42 +0530", Successes:"1", TestCase:"IndexShell.script", Warnings:"0")
+2018-03-17 17:42:50.832 +0530	SUCCESS		Execution Time 0:00:08 IndexShell.script

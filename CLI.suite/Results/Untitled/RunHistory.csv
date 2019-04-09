@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-11-30 14:53:50.017 -0700,"Failure",0:00:00,1,0,0,"20181130_145350.017/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'username'",0
+2018-11-30 14:54:11.906 -0700,"Success",0:00:00,0,0,0,"20181130_145411.906/LogFile.txt","","",1
+2018-11-30 14:54:19.385 -0700,"Success",0:00:00,0,0,0,"20181130_145419.385/LogFile.txt","","",1
+2018-11-30 14:57:33.288 -0700,"Success",0:00:00,0,0,0,"20181130_145733.288/LogFile.txt","","",1
+2018-11-30 14:57:39.780 -0700,"Success",0:00:00,0,0,0,"20181130_145739.780/LogFile.txt","","",1

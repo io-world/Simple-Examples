@@ -1,0 +1,22 @@
+﻿
+
+
+
+
+set myScriptData to (type:"excel", file:ResourcePath("WebFormData.xlsx"), name:"Results",writable: "Yes")
+
+log myScriptData
+
+
+put the records of myScriptData into Patients
+
+log Patients
+
+
+
+put "testing123" into newMember.firstname
+
+add records newMember to myScriptData
+
+
+

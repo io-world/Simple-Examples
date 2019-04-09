@@ -1,0 +1,17 @@
+﻿
+SelfValidate my name
+
+
+put 2 into x
+
+if (x < 9) then 
+	log "YES"
+else
+	log "NO"
+end if
+
+
+//any old comment
+
+
+//SCA:(name:"John")

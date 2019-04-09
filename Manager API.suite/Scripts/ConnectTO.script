@@ -1,0 +1,12 @@
+﻿
+
+
+put JSONFormat({"Name": "FIsher, Bobby", "Job Titles": "COMMANDER-IN-CHIEFS", "Department": "WHITE HOUSE", "Full Or Part-Time": "P", "Salary Or Hourly": "Salary", "Annual Salary": "$999,999.00"}) into Data
+
+
+
+post data to URL "http://127.0.0.1:8080/api/sut_reservation/create" with headers ("Content-Type": "application/json") 
+put it into Message
+
+
+log Message

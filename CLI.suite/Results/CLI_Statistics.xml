@@ -2,18 +2,34 @@
 <statistics>
  <script name="Index">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
   <FirstRun>2016-09-29 14:53:55 -0600</FirstRun>
-  <LastRun>2016-09-29 14:53:55 -0600</LastRun>
-  <TotalTimeOnSuccess>4.978977</TotalTimeOnSuccess>
+  <LastRun>2018-11-30 14:46:51 -0700</LastRun>
+  <TotalTimeOnSuccess>25.913724</TotalTimeOnSuccess>
  </script>
  <script name="IndexShell">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2016-09-29 14:49:41 -0600</FirstRun>
+  <LastRun>2018-03-17 17:44:13 +0530</LastRun>
+  <TotalTimeOnSuccess>52.113145</TotalTimeOnSuccess>
+ </script>
+ <script name="Untitled">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>5</NumberOfRuns>
   <NumberOfFails>1</NumberOfFails>
-  <FirstRun>2016-09-29 14:49:41 -0600</FirstRun>
-  <LastRun>2016-09-29 14:53:54 -0600</LastRun>
-  <TotalTimeOnSuccess>34.022545</TotalTimeOnSuccess>
+  <FirstRun>2018-11-30 14:53:50 -0700</FirstRun>
+  <LastRun>2018-11-30 14:57:39 -0700</LastRun>
+  <TotalTimeOnSuccess>2.039591</TotalTimeOnSuccess>
+ </script>
+ <script name="index2">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>13</NumberOfRuns>
+  <NumberOfFails>10</NumberOfFails>
+  <FirstRun>2018-11-30 14:47:50 -0700</FirstRun>
+  <LastRun>2018-12-03 09:58:38 -0700</LastRun>
+  <TotalTimeOnSuccess>0.715478</TotalTimeOnSuccess>
  </script>
 </statistics>

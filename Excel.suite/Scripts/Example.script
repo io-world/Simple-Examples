@@ -1,6 +1,10 @@
 ﻿
 
 put Worksheet (ResourcePath("WebFormData.xlsx"), "PatientList") into WSheet
+put WSheet.cellrange() into Data
+
+log Data
+
 
 
 log WSheet.Cell("B2")

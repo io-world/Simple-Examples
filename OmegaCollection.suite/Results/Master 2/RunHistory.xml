@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Master 2">
+ <run>
+  <RunDate>2018-06-11 13:58:28.368 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.300024</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_135828.368/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- imageinfo Error - Too Few Parameters, please use imageinfo(imageName)
+</ErrorMessage>
+ </run>
+</runHistory>

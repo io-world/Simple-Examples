@@ -1,0 +1,4 @@
+﻿2017-11-13 11:26:17.874 -0700	START		Running Live Code.script
+2017-11-13 11:26:17.935 -0700	Log		(@"date of birth":"2006-06-13 12:00:00 -0600", @"first name":"Bruce", gender:"Male", @"last name":"Wayne", @"marital status":"Single", @"medical record number":"222222", @"middle name":"", prefix:"Mr", @"social security number":"113-83-3798")	14	on_live_code	Live Code.script
+2017-11-13 11:26:18.232 -0700	EndTestCase		(Duration:"0.356107", Errors:"0", Exceptions:"0", StartTime:"2017-11-13 11:26:17 -0700", Successes:"1", TestCase:"Live Code.script", Warnings:"0")
+2017-11-13 11:26:18.256 -0700	SUCCESS		Execution Time 0:00:00 Live Code.script

@@ -1,0 +1,44 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.script",
+      "timestamp" : "2018-11-30 14:54:11.907 -0700"
+    },
+    {
+      "handlerName" : "on_index2",
+      "message" : "(password:\"go data\", username:\"John\")",
+      "timestamp" : "2018-11-30 14:54:12.066 -0700",
+      "identifier" : "Log",
+      "scriptName" : "index2.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_index2",
+      "message" : "John",
+      "timestamp" : "2018-11-30 14:54:12.128 -0700",
+      "identifier" : "Log",
+      "scriptName" : "index2.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_index2",
+      "message" : "go data",
+      "timestamp" : "2018-11-30 14:54:12.189 -0700",
+      "identifier" : "Log",
+      "scriptName" : "index2.script",
+      "handlerLine" : 7
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.557287\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2018-11-30 14:54:11 -0700\", Successes:\"1\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+      "timestamp" : "2018-11-30 14:54:12.491 -0700"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Untitled.script",
+      "timestamp" : "2018-11-30 14:54:12.543 -0700"
+    }
+  ],
+  "createdTimestamp" : "2018-11-30 14:54:11.934 -0700"
+}

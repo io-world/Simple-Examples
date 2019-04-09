@@ -1,0 +1,4 @@
+﻿2017-10-16 13:27:11.594 -0600	START		Running Untitled.script
+2017-10-16 13:27:11.644 -0600	Log		(20171016_131716.595,20171016_131637.234,20171016_131313.002,20171016_131644.771)	14	on_untitled	Untitled.script
+2017-10-16 13:27:11.994 -0600	EndTestCase		(Duration:"0.397955", Errors:"0", Exceptions:"0", StartTime:"2017-10-16 13:27:11 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2017-10-16 13:27:12.035 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

@@ -1,0 +1,2 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-07-03 14:00:07.432 -0600,"Failure",0:00:00,1,0,0,"20170703_140007.432/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got ''.",0

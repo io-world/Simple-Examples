@@ -1,0 +1,16 @@
+﻿
+
+//  put file ("C:\folder\example_1.json") into JData
+
+put file ResourcePath("example_1.json") into JData
+
+
+put JSONValue(JDATA) into EPFDATA
+
+
+//put everyImageLocation(text:EPFDATA.color) into var
+
+//log var
+
+
+click text:EPFDATA.color,SearchRectangle:(525,512,1317,760)

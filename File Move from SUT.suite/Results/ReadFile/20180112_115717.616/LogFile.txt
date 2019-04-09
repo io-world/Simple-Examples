@@ -1,0 +1,4 @@
+﻿2018-01-12 11:57:17.618 +0530	START		Running ReadFile.script
+2018-01-12 11:57:17.720 +0530	Log		This File is From the System Under Test\n01/12/1811:54 AM	1	on_readfile	ReadFile.script
+2018-01-12 11:57:18.163 +0530	EndTestCase		(Duration:"0.543138", Errors:"0", Exceptions:"0", StartTime:"2018-01-12 11:57:17 +0530", Successes:"1", TestCase:"ReadFile.script", Warnings:"0")
+2018-01-12 11:57:18.182 +0530	SUCCESS		Execution Time 0:00:00 ReadFile.script

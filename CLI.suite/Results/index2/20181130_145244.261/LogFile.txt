@@ -1,0 +1,4 @@
+﻿2018-11-30 14:52:44.263 -0700	START		Running index2.script
+2018-11-30 14:52:44.274 -0700	Log		username:John,password:go data	4	on_index2	index2.script
+2018-11-30 14:52:44.334 -0700	EndTestCase		(Duration:"0.068549", Errors:"1", Exceptions:"0", StartTime:"2018-11-30 14:52:44 -0700", Successes:"0", TestCase:"index2.script", Warnings:"0")
+2018-11-30 14:52:44.339 -0700	FAILURE		STUnknownMessage ERROR: No Such Function: 'username' -- Execution Time 0:00:00 index2.script

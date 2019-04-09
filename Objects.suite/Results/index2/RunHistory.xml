@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<runHistory script="index2">
+ <run>
+  <RunDate>2018-08-13 22:09:08.301 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.328664</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180813_220908.301/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-08-13 22:09:19.439 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.284753</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180813_220919.439/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-08-13 22:35:30.789 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.374879</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180813_223530.789/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;age&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-08-13 22:35:43.427 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.358246</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180813_223543.427/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;age&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-08-13 22:35:53.791 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.325195</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180813_223553.791/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

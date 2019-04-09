@@ -1,9 +1,0 @@
-﻿2017-05-15 09:38:37.138 -0600	START		Running Read1.script
-2017-05-15 09:38:38.143 -0600	moveto	Show	at (109, 74)	1	on_read1	Read1.script
-2017-05-15 09:38:39.767 -0600	imagelocation	Show	at (28, 82)	2	on_read1	Read1.script
-2017-05-15 09:38:39.768 -0600	Log		(148,122,298,402)	5	on_read1	Read1.script
-2017-05-15 09:38:39.875 -0600	readtext		(148,122,298,402)
-2017-05-15 09:38:39.876 -0600	Log		Tiger Nixon\nGarrett Winters\nAshton Cox\nCedric Kelly\nAiri Satou\nBrielle Williamson\nHerrod Chandler\nRhona Davidson\nColleen Hurst\nSonya Frost	6	on_read1	Read1.script
-2017-05-15 09:38:40.917 -0600	moveto	(TEXT:"Garrett Winters")	at (212, 161)	9	on_read1	Read1.script
-2017-05-15 09:38:41.102 -0600	EndTestCase		(Duration:"3.963175", Errors:"0", Exceptions:"0", StartTime:"2017-05-15 09:38:37 -0600", Successes:"1", TestCase:"Read1.script", Warnings:"0")
-2017-05-15 09:38:41.121 -0600	SUCCESS		Execution Time 0:00:03 Read1.script

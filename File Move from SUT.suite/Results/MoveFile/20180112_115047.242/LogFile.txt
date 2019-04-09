@@ -1,0 +1,5 @@
+﻿2018-01-12 11:50:47.243 +0530	START		Running Untitled.script
+2018-01-12 11:50:47.916 +0530	doubleclick	Network Icon	at (39, 130)	3	on_untitled	Untitled.script
+2018-01-12 11:50:49.081 +0530	doubleclick	Network Icon/MacBook Pro Icon	at (690, 290)	4	on_untitled	Untitled.script
+2018-01-12 11:50:49.488 +0530	EndTestCase		(Duration:"2.243809", Errors:"0", Exceptions:"0", StartTime:"2018-01-12 11:50:47 +0530", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2018-01-12 11:50:49.521 +0530	SUCCESS		Execution Time 0:00:02 Untitled.script

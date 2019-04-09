@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0"?>
 <statistics>
+ <script name="Find3">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-06-01 09:33:37 -0600</FirstRun>
+  <LastRun>2017-06-01 09:33:37 -0600</LastRun>
+  <TotalTimeOnSuccess>56.939036</TotalTimeOnSuccess>
+ </script>
  <script name="Read2">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>67</NumberOfRuns>
@@ -10,19 +18,11 @@
  </script>
  <script name="Read4">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>29</NumberOfRuns>
+  <NumberOfRuns>30</NumberOfRuns>
   <NumberOfFails>2</NumberOfFails>
   <FirstRun>2016-11-09 16:16:17 -0700</FirstRun>
-  <LastRun>2017-05-31 10:42:02 -0600</LastRun>
-  <TotalTimeOnSuccess>229.746489</TotalTimeOnSuccess>
- </script>
- <script name="Find3">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2017-06-01 09:33:37 -0600</FirstRun>
-  <LastRun>2017-06-01 09:33:37 -0600</LastRun>
-  <TotalTimeOnSuccess>56.939036</TotalTimeOnSuccess>
+  <LastRun>2017-06-01 09:36:33 -0600</LastRun>
+  <TotalTimeOnSuccess>237.323240</TotalTimeOnSuccess>
  </script>
  <script name="Read1">
   <LastStatus>Success</LastStatus>
@@ -42,11 +42,11 @@
  </script>
  <script name="Read5">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>7</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
+  <NumberOfRuns>14</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
   <FirstRun>2016-11-09 16:29:22 -0700</FirstRun>
-  <LastRun>2017-02-22 15:23:51 -0700</LastRun>
-  <TotalTimeOnSuccess>5.094153</TotalTimeOnSuccess>
+  <LastRun>2018-06-19 13:20:29 -0600</LastRun>
+  <TotalTimeOnSuccess>82.275695</TotalTimeOnSuccess>
  </script>
  <script name="Find2">
   <LastStatus>Success</LastStatus>

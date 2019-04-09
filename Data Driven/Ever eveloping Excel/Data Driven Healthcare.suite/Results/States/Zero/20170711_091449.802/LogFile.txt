@@ -1,0 +1,5 @@
+﻿2017-07-11 09:14:49.804 -0600	START		Running States/Zero.script	11	on_index	Index.script
+2017-07-11 09:14:49.806 -0600	Log		Initiate Zero State	4	on_states_zero	States/Zero.script
+2017-07-11 09:14:49.989 -0600	click	Test/A/Contacts	at (51, 600)	7	on_states_zero	States/Zero.script
+2017-07-11 09:14:49.991 -0600	EndTestCase		(Duration:"0.185521", Errors:"0", Exceptions:"0", StartTime:"2017-07-11 09:14:49 -0600", Successes:"1", TestCase:"States/Zero.script", Warnings:"0")	11	on_index	Index.script
+2017-07-11 09:14:50.016 -0600	SUCCESS		Execution Time 0:00:00 States/Zero.script	11	on_index	Index.script

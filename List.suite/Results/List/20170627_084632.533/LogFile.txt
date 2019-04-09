@@ -1,0 +1,5 @@
+﻿2017-06-27 08:46:32.535 -0600	START		Running List.script
+2017-06-27 08:46:32.594 -0600	Log		bananas	4	on_list	List.script
+2017-06-27 08:46:32.595 -0600	Log		chips	9	on_list	List.script
+2017-06-27 08:46:32.773 -0600	EndTestCase		(Duration:"0.236998", Errors:"0", Exceptions:"0", StartTime:"2017-06-27 08:46:32 -0600", Successes:"1", TestCase:"List.script", Warnings:"0")
+2017-06-27 08:46:32.781 -0600	SUCCESS		Execution Time 0:00:00 List.script

@@ -1,0 +1,18 @@
+﻿
+
+
+
+
+Click "AddressBar"
+TypeText "https://www.progressive.com/", returnkey
+
+
+//waitfor:10, "Car"
+
+Click "Car"
+
+Click "BigCar"
+TypeText "80301"
+if imagefound("QuoteAuto") then
+	Log "found it"
+end if

@@ -1,0 +1,8 @@
+﻿
+
+run "CreateFile"
+
+run "MoveFile"
+run "ReadFile"
+
+run "DelFile"

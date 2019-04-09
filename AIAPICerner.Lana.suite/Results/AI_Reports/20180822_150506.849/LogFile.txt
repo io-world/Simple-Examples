@@ -1,0 +1,5 @@
+﻿2018-08-22 15:05:06.851 -0600	START		Running AI_Reports.script
+2018-08-22 15:05:06.910 -0600	LogWarning		Validation Warning: Empty request body.	7	on_ai_reports	AI_Reports.script
+2018-08-22 15:05:07.179 -0600	LogWarning		Validation Warning: Empty request body.	14	on_ai_reports	AI_Reports.script
+2018-08-22 15:05:12.605 -0600	EndTestCase		(Duration:"5.753146", Errors:"0", Exceptions:"0", StartTime:"2018-08-22 15:05:06 -0600", Successes:"1", TestCase:"AI_Reports.script", Warnings:"2")
+2018-08-22 15:05:12.615 -0600	SUCCESS		Execution Time 0:00:05 AI_Reports.script

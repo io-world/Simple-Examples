@@ -1,0 +1,33 @@
+﻿
+
+
+
+
+
+
+put "GeneratePatientAPI" (20) into PatientList
+CreateCSV "WebFormData2",PatientList
+
+
+
+(*
+
+
+put "GeneratePatient" (10) into PatientList
+CreateCSV "WebFormData1",PatientList
+
+
+
+
+
+*)
+
+
+
+
+
+
+
+put "ProcessingMain" ("WebFormData2") into FinalPatientList
+CreateCSV "WebFormDataFinal",FinalPatientList
+

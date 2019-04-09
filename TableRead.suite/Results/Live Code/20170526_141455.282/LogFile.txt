@@ -1,4 +1,0 @@
-﻿2017-05-26 14:14:55.283 -0600	START		Running Live Code.script
-2017-05-26 14:14:57.800 -0600	click	(TEXT:"jonas Alexander")	at (221, 215)	1	on_live_code	Live Code.script
-2017-05-26 14:14:58.220 -0600	EndTestCase		(Duration:"2.935975", Errors:"0", Exceptions:"0", StartTime:"2017-05-26 14:14:55 -0600", Successes:"1", TestCase:"Live Code.script", Warnings:"0")
-2017-05-26 14:14:58.230 -0600	SUCCESS		Execution Time 0:00:02 Live Code.script

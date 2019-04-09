@@ -1,0 +1,14 @@
+﻿2017-07-03 14:04:54.426 -0600	START		Running Examples/TroubleshootingExamples/TroubleshootingExampleA1.script
+2017-07-03 14:04:54.485 -0600	Log		code for Navigation for TestA 	6	on_examples_troubleshootingexamples_troubleshootingexamplea1	Examples/TroubleshootingExamples/TroubleshootingExampleA1.script
+2017-07-03 14:04:54.711 -0600	click	Test/A/Contacts	at (51, 600)	9	on_examples_troubleshootingexamples_troubleshootingexamplea1	Examples/TroubleshootingExamples/TroubleshootingExampleA1.script
+2017-07-03 14:04:54.760 -0600	imagefound	Test/A/Contacts/Contacts 01.png	found at (51, 600)	11	on_imagec	Modules/Verify.script
+2017-07-03 14:04:54.762 -0600	Log		Image was found: Test/A/Contacts/Contacts 01.png	12	on_imagec	Modules/Verify.script
+2017-07-03 14:04:56.858 -0600	imagefound	Test/A/Contacts/Contacts 02.png	Unable to Find Image Test/A/Contacts/Contacts 02.png	11	on_imagec	Modules/Verify.script
+2017-07-03 14:04:56.860 -0600	LogWarning		Image was NOT found: Test/A/Contacts/Contacts 02.png	14	on_imagec	Modules/Verify.script
+2017-07-03 14:04:56.994 -0600	imagefound	(TEXT:"Tap the buttons")	found at (95, 242)	11	on_textc	Modules/Verify.script
+2017-07-03 14:04:56.995 -0600	Log		Text was found: Tap the buttons	12	on_textc	Modules/Verify.script
+2017-07-03 14:04:57.156 -0600	click	Test/A/Favorites/Favorites 01	at (159, 601)	23	on_examples_troubleshootingexamples_troubleshootingexamplea1	Examples/TroubleshootingExamples/TroubleshootingExampleA1.script
+2017-07-03 14:05:00.697 -0600	imagefound	(TEXT:"plan")	Unable to Find Image (TEXT:"plan")	11	on_textc	Modules/Verify.script
+2017-07-03 14:05:00.698 -0600	LogWarning		Text was NOT found: plan	14	on_textc	Modules/Verify.script
+2017-07-03 14:05:01.010 -0600	EndTestCase		(Duration:"6.582223", Errors:"0", Exceptions:"0", StartTime:"2017-07-03 14:04:54 -0600", Successes:"1", TestCase:"Examples/TroubleshootingExamples/TroubleshootingExampleA1.script", Warnings:"2")
+2017-07-03 14:05:01.034 -0600	SUCCESS		Execution Time 0:00:06 Examples/TroubleshootingExamples/TroubleshootingExampleA1.script

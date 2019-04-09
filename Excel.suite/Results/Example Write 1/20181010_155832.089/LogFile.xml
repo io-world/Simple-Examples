@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Example Write1_script" package="Excel.suite" timestamp="2018-10-10 15:58:32.089 -0400"
+ tests="1"  failures="1" errors="0" time="0.324475">
+  <properties>
+   <property name="RunDate" value="2018-10-10 15:58:32.089 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Example Write1.script" assertions="1" status="failure"  time="0.322257">
+    <failure type="FAILURE" message="Cell Error Cell identifier must be either two positive numbers (row, column) or a letter-number identifier (like &quot;C6&quot;). Got (B,2) -- Execution Time 0:00:00 Example Write1.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

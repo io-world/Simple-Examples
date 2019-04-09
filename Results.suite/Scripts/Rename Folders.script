@@ -1,0 +1,22 @@
+﻿
+
+
+
+put ScriptResults("index").LogFile into FilePath
+
+
+log FilePath
+put FilePath into OFP
+put FilePath into FPS
+split FPS by "/"
+put the number of items of FPS into PC
+put item PC-1 of FPS into OFN
+replace OFN with "something" in FilePath
+put FilePath into NFP
+log OFP
+log NFP
+
+
+copy folder OFP to NFP
+
+delete folder OFP

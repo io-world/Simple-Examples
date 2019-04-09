@@ -1,5 +1,0 @@
-﻿2016-12-19 21:21:36.460 -0800	START		Running Read5.script
-2016-12-19 21:21:36.577 -0800	Log		81	6	on_read5	Read5.script
-2016-12-19 21:21:38.680 -0800	pausescript			15	on_read5	Read5.script
-2016-12-19 21:25:12.095 -0800	EndTestCase		(Duration:"215.633554", Errors:"1", Exceptions:"0", StartTime:"2016-12-19 21:21:36 -0800", Successes:"0", TestCase:"Read5.script", Warnings:"0")
-2016-12-19 21:25:12.096 -0800	ABORTED		Execution Time 0:03:35 Read5.script

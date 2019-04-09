@@ -1,0 +1,20 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running index2.script",
+      "timestamp" : "2018-12-03 09:54:19.632 -0700"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.071798\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2018-12-03 09:54:19 -0700\", Successes:\"0\", TestCase:\"index2.script\", Warnings:\"0\")",
+      "timestamp" : "2018-12-03 09:54:19.707 -0700"
+    },
+    {
+      "identifier" : "FAILURE",
+      "message" : "SRUN_InvalidValueExpr Unable to take value of expression 'username:\"John\",password:\"go data\"' (reason: (null)) -- Execution Time 0:00:00 index2.script",
+      "timestamp" : "2018-12-03 09:54:19.713 -0700"
+    }
+  ],
+  "createdTimestamp" : "2018-12-03 09:54:19.634 -0700"
+}

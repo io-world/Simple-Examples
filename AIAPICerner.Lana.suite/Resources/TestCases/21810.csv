@@ -1,0 +1,19 @@
+State,Action
+Initial,Patient
+Registration,Forms
+Waiting Room,In Patient
+Cardiology,Electrocardiogram
+Cardiology,Back
+Waiting Room,In Patient
+Diagnostic imaging,Ultrasound
+Diagnostic imaging,Code Blue
+Diagnostic imaging,Network Drop
+Diagnostic imaging,Ultrasound
+Diagnostic imaging,X-Ray
+Diagnostic imaging,Back
+Waiting Room,In Patient
+Maternity departments,Postnatal care
+Maternity departments,Back
+Waiting Room,In Patient
+Diagnostic imaging,Ultrasound
+Diagnostic imaging,X-Ray

@@ -1,0 +1,20 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running index2.script",
+      "timestamp" : "2019-03-11 09:56:27.620 -0600"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.624516\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2019-03-11 09:56:27 -0600\", Successes:\"0\", TestCase:\"index2.script\", Warnings:\"0\")",
+      "timestamp" : "2019-03-11 09:56:28.246 -0600"
+    },
+    {
+      "identifier" : "FAILURE",
+      "message" : "STMaxCallDepthExceeded Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself. -- Execution Time 0:00:00 index2.script",
+      "timestamp" : "2019-03-11 09:56:28.260 -0600"
+    }
+  ],
+  "createdTimestamp" : "2019-03-11 09:56:27.621 -0600"
+}

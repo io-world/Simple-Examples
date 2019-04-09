@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="upload_results">
+ <run>
+  <RunDate>2017-10-16 13:13:04.421 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.795167</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20171016_131304.421/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-10-16 13:31:57.878 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.868511</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20171016_133157.878/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-10-16 14:00:49.977 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.268230</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20171016_140049.977/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

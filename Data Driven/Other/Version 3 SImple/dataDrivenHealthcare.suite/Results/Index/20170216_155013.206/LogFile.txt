@@ -1,0 +1,4 @@
+﻿2017-02-16 15:50:13.207 -0700	START		Running Index.script
+2017-02-16 15:50:13.307 -0700	Exception		Unable to locate script named: Test/NewPatient	26	on_index	Index.script
+2017-02-16 15:50:13.536 -0700	EndTestCase		(Duration:"0.327717", Errors:"1", Exceptions:"1", StartTime:"2017-02-16 15:50:13 -0700", Successes:"0", TestCase:"Index.script", Warnings:"0")
+2017-02-16 15:50:13.848 -0700	FAILURE	Screen_Error.png	Error Running Script Command runwithnewresults Error - Unable to locate script named: Test/NewPatient -- Execution Time 0:00:00 Index.script

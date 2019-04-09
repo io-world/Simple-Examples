@@ -1,0 +1,29 @@
+﻿params V
+
+put  "Modules/Verify" into V
+
+
+Log "code for Navigation for TestA "
+
+---Navigation Commands
+click "Contacts/Buttons/Contacts"
+
+
+
+---Navigation Commands
+
+---Verifcation Commands
+(V).Content  "Contacts/Buttons/Contacts/Blue" , 1
+(V).Content "Contacts/Buttons/Contacts/gray" , 2
+(V).Content "Tap the buttons" , 5,(0,0,500,500)
+---Verifcation Commands
+
+
+
+---Navigation Commands
+click "Favorites/Buttons/Favorites/"
+---Navigation Commands
+
+---Verifcation Commands
+(V).Content "plan" , "3"
+---Verifcation Commands

@@ -1,0 +1,4 @@
+﻿2017-07-18 21:40:45.389 -0400	START		Running RunScriptEncrypt.script
+2017-07-18 21:40:45.435 -0400	Log		\n\n\nLog " this will do something"\n\n\nrepeat 10 times\n\t\n\t\nlog "yup"\n\nend repeat	6	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-18 21:40:45.567 -0400	EndTestCase		(Duration:"0.176731", Errors:"0", Exceptions:"0", StartTime:"2017-07-18 21:40:45 -0400", Successes:"1", TestCase:"RunScriptEncrypt.script", Warnings:"0")
+2017-07-18 21:40:45.575 -0400	SUCCESS		Execution Time 0:00:00 RunScriptEncrypt.script

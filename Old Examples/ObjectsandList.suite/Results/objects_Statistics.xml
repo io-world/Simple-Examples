@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Plist2">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>29</NumberOfRuns>
+  <NumberOfFails>8</NumberOfFails>
+  <FirstRun>2017-03-12 15:36:35 -0500</FirstRun>
+  <LastRun>2017-03-12 16:04:16 -0500</LastRun>
+  <TotalTimeOnSuccess>5.161141</TotalTimeOnSuccess>
+ </script>
+ <script name="sample">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2017-03-12 16:08:50 -0500</FirstRun>
+  <LastRun>2017-03-12 16:11:33 -0500</LastRun>
+  <TotalTimeOnSuccess>1.652624</TotalTimeOnSuccess>
+ </script>
+ <script name="PList">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>9</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2017-03-09 14:13:14 -0600</FirstRun>
+  <LastRun>2017-03-12 15:28:42 -0500</LastRun>
+  <TotalTimeOnSuccess>1.698143</TotalTimeOnSuccess>
+ </script>
+ <script name="index">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-03-09 14:21:30 -0600</FirstRun>
+  <LastRun>2017-03-12 15:30:29 -0500</LastRun>
+  <TotalTimeOnSuccess>1.966415</TotalTimeOnSuccess>
+ </script>
+</statistics>

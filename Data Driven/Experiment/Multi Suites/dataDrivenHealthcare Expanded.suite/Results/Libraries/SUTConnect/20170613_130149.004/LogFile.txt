@@ -1,0 +1,6 @@
+﻿2017-06-13 13:01:49.005 -0600	START		Running Libraries/SUTConnect.script
+2017-06-13 13:01:49.045 -0600	Log		Connection:(Availability:"Active", Bonjour:"False", ColorDepth:"32", Connected:"True", Name:"Windows 10", Pass_code:"=2)F-K[US]*", PortNum:"5900", Reverse:"False", ScreenSize:(1440,900), ServerID:"172.16.229.147", Status:"Connected", Type:"vnc", Visible:"True")	2	on_libraries_sutconnect	Libraries/SUTConnect.script
+2017-06-13 13:01:49.047 -0600	Log		You are Connect	9	on_libraries_sutconnect	Libraries/SUTConnect.script
+2017-06-13 13:01:49.049 -0600	Log		Connection Information(Availability:"Active", Bonjour:"False", ColorDepth:"32", Connected:"True", Name:"Windows 10", Pass_code:"=2)F-K[US]*", PortNum:"5900", Reverse:"False", ScreenSize:(1440,900), ServerID:"172.16.229.147", Status:"Connected", Type:"vnc", Visible:"True")	10	on_libraries_sutconnect	Libraries/SUTConnect.script
+2017-06-13 13:01:49.277 -0600	EndTestCase		(Duration:"0.270895", Errors:"0", Exceptions:"0", StartTime:"2017-06-13 13:01:49 -0600", Successes:"1", TestCase:"Libraries/SUTConnect.script", Warnings:"0")
+2017-06-13 13:01:49.310 -0600	SUCCESS		Execution Time 0:00:00 Libraries/SUTConnect.script

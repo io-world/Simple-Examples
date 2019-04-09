@@ -1,0 +1,30 @@
+﻿----------------DO Not Touch--------------------------------------
+set GD to a new "GlobalDefine"
+(GD).SetupFiles
+
+-------------------------------------------------------------------------
+
+
+
+
+
+Run (GD).GetUser 4
+log global UserInformation
+log global UserInformation.username
+log global UserInformation.password
+-------------------------------------------------------------------------
+
+Run (GD).BuildPatient 10
+log global patient
+log global patient.MedicalRecordNumber
+
+-------------------------------------------------------------------------
+
+
+put (GD).GetUser (2) into Patient
+log Patient
+
+
+
+put (GD).BuildPatient (2) into Patient
+log Patient

@@ -1,8 +1,13 @@
 ﻿
+BeginTestCase FOO
 
 put 10 into var
-
+wait 4
 
 log var
 
+EndTestCase FOO
 
+
+put the Result into TR
+log TR.Duration

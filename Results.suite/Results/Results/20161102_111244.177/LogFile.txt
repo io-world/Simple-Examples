@@ -1,5 +1,0 @@
-﻿2016-11-02 11:12:44.178 -0400	START		Running Results.script
-2016-11-02 11:12:44.253 -0400	Log		/Users/randyhesse/Documents/Simple Examples/Results.suite/Results/index/20161021_095455.902/LogFile.txt	3	on_results	Results.script
-2016-11-02 11:12:44.263 -0400	Log		2016-10-21 09:54:55.960 -0600\tLog\t\t10\t6\ton_index\tindex.script	5	on_results	Results.script
-2016-11-02 11:12:44.880 -0400	EndTestCase		(Duration:"0.699537", Errors:"0", Exceptions:"0", StartTime:"2016-11-02 11:12:44 -0400", Successes:"1", TestCase:"Results.script", Warnings:"0")
-2016-11-02 11:12:44.910 -0400	SUCCESS		Execution Time 0:00:00 Results.script

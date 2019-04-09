@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="ResultRename.script" package="Folders.suite" timestamp="2017-08-26 16:27:08.123 -0600"
+ tests="1" successes="1" errors="0" time="0.198045">
+  <properties>
+   <property name="RunDate" value="2017-08-26 16:27:08.123 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="ResultRename.script" assertions="1" successes="1" errors="0" time="0.196581">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,22 @@
+﻿{
+    CaptureDate = "2019-02-14 17:08:49 +0000";
+    CaptureHost = "pastedImage_1.png \U2013 /Users/randyhesse/Desktop";
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    CropRectangle = "6,13,34,43";
+    HasAlpha = 1;
+    HotSpotX = 19;
+    HotSpotY = 30;
+    ImageDescription = <>;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 0;
+    OriginalLocationY = 172;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    tags =     (
+    );
+}

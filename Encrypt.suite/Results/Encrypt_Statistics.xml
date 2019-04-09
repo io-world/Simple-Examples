@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="DecryptScript">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>17</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-07-18 22:11:08 -0400</FirstRun>
+  <LastRun>2017-07-18 22:31:40 -0400</LastRun>
+  <TotalTimeOnSuccess>4.549167</TotalTimeOnSuccess>
+ </script>
+ <script name="Workflow1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2017-07-17 21:43:54 -0400</FirstRun>
+  <LastRun>2017-07-17 21:44:00 -0400</LastRun>
+  <TotalTimeOnSuccess>0.178106</TotalTimeOnSuccess>
+ </script>
+ <script name="RunPasswordEncrypt">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>23</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2017-07-11 13:21:34 -0600</FirstRun>
+  <LastRun>2017-08-02 11:15:56 -0600</LastRun>
+  <TotalTimeOnSuccess>74.218923</TotalTimeOnSuccess>
+ </script>
+ <script name="EncryptScript">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>61</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2017-07-17 21:45:48 -0400</FirstRun>
+  <LastRun>2017-07-18 22:28:15 -0400</LastRun>
+  <TotalTimeOnSuccess>48.633594</TotalTimeOnSuccess>
+ </script>
+</statistics>

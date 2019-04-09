@@ -1,0 +1,10 @@
+﻿2018-06-11 15:12:33.506 -0600	START		Running Master 1.script
+2018-06-11 15:12:42.585 -0600	Exception	chromeasdasd	No Image Found On Screen: "chromeasdasd"	1	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 15:12:42.660 -0600	Log		Error Name: Runtime Error at line 1: Image Not Found - click Error - No Image Found On Screen: "chromeasdasd"	19	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:12:42.661 -0600	Log		Action Name: click	20	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:12:42.662 -0600	Log		Image Name: chromeasdasd	21	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:12:42.664 -0600	Log		New Collection: /Users/randyhesse/Documents/Simple Examples/OmegaCollection.suite/Images/chromeasdasd/	22	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:12:43.412 -0600	capturescreen	chromeasdasd/chromeasdasd-2018-06-11--15-12-42.png	(0,0,1920,1080)	33	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:12:45.040 -0600	click	chromeasdasd	at (960, 540)	1	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 15:12:45.302 -0600	EndTestCase		(Duration:"11.793799", Errors:"0", Exceptions:"1", StartTime:"2018-06-11 15:12:33 -0600", Successes:"1", TestCase:"Master 1.script", Warnings:"0")
+2018-06-11 15:12:45.317 -0600	SUCCESS		Execution Time 0:00:11 Master 1.script

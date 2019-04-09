@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="CheckWebPortal.script" package="ServiceMonitor.suite" timestamp="2017-06-29 11:03:23.717 -0600"
+ tests="1" successes="1" errors="0" time="13.538550">
+  <properties>
+   <property name="RunDate" value="2017-06-29 11:03:23.717 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="CheckWebPortal.script" assertions="1" successes="1" errors="0" time="13.537062">
+  </testcase>
+ </testsuite>
+</testsuites>

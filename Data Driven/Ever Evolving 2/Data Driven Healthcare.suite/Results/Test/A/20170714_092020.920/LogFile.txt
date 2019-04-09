@@ -1,0 +1,14 @@
+﻿2017-07-14 09:20:20.921 -0600	START		Running Test/A.script	16	on_index	Index.script
+2017-07-14 09:20:20.945 -0600	Log		code for Navigation for TestA 	6	on_test_a	Test/A.script
+2017-07-14 09:20:21.548 -0600	click	Test/A/Contacts	at (51, 600)	9	on_test_a	Test/A.script
+2017-07-14 09:20:21.601 -0600	imagefound	Test/A/Contacts/Contacts 01.png	found at (51, 600)	31	on_content	Modules/Verify.script
+2017-07-14 09:20:21.602 -0600	Log		Image was found: Test/A/Contacts/Contacts 01.png	32	on_content	Modules/Verify.script
+2017-07-14 09:20:23.723 -0600	imagefound	Test/A/Contacts/Contacts 02.png	Unable to Find Image Test/A/Contacts/Contacts 02.png	31	on_content	Modules/Verify.script
+2017-07-14 09:20:23.726 -0600	LogWarning		Image was NOT found: Test/A/Contacts/Contacts 02.png	34	on_content	Modules/Verify.script
+2017-07-14 09:20:23.853 -0600	imagefound	(TEXT:"Tap the buttons")	found at (95, 242)	25	on_content	Modules/Verify.script
+2017-07-14 09:20:23.854 -0600	Log		Text was found: Tap the buttons	26	on_content	Modules/Verify.script
+2017-07-14 09:20:24.018 -0600	click	Test/A/Favorites/Favorites 01	at (159, 601)	22	on_test_a	Test/A.script
+2017-07-14 09:20:27.523 -0600	imagefound	(TEXT:"plan")	Unable to Find Image (TEXT:"plan")	25	on_content	Modules/Verify.script
+2017-07-14 09:20:27.524 -0600	LogWarning		Text was NOT found: plan	28	on_content	Modules/Verify.script
+2017-07-14 09:20:27.528 -0600	EndTestCase		(Duration:"6.60582", Errors:"0", Exceptions:"0", StartTime:"2017-07-14 09:20:20 -0600", Successes:"1", TestCase:"Test/A.script", Warnings:"2")	16	on_index	Index.script
+2017-07-14 09:20:27.541 -0600	SUCCESS		Execution Time 0:00:06 Test/A.script	16	on_index	Index.script

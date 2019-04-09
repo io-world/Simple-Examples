@@ -1,0 +1,11 @@
+﻿2018-06-11 12:39:23.164 -0600	START		Running Master 1.script
+2018-06-11 12:39:41.030 -0600	Exception	thing	No Image Found On Screen: "thing"	1	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 12:39:41.101 -0600	Log		var1Runtime Error at line 1: Image Not Found - click Error - No Image Found On Screen: "thing"	3	function_attemptrecovery	attemptRecovery.script
+2018-06-11 12:39:41.102 -0600	Log		var2click	5	function_attemptrecovery	attemptRecovery.script
+2018-06-11 12:39:41.105 -0600	Log		var3(thing)	6	function_attemptrecovery	attemptRecovery.script
+2018-06-11 12:39:41.107 -0600	Log		var4	7	function_attemptrecovery	attemptRecovery.script
+2018-06-11 12:39:41.108 -0600	Log		var5	8	function_attemptrecovery	attemptRecovery.script
+2018-06-11 12:39:41.111 -0600	Log		image inage((CaptureDate:"2018-06-11 18:39:12 +0000", CaptureHost:"Windows 10", CaptureLocation:(427,67), CaptureScreenSize:(1920,1080), Description:"", HotSpot:(112,17), ImageLocation:"", ImageName:"thing", ImagePath:"/Users/randyhesse/Documents/Simple Examples/OmegaCollection.suite/Images/thing/rImportbookmarksnow.png", ImageRectangle:"", ImageSize:(224,34), ImageTolerance:"66", Pulsing:"False", Scale:"1", SearchType:"Smooth"),(Description:"", HotSpot:(23.5,23.5), ImageLocation:(189,134), ImageName:"thing", ImagePath:"/Users/randyhesse/Documents/Simple Examples/OmegaCollection.suite/Images/thing/Chrome.png", ImageRectangle:(165,110,212,157), ImageSize:(47,47), Pulsing:"False", Scale:"1", SearchType:"Tolerant"))	11	function_attemptrecovery	attemptRecovery.script
+2018-06-11 12:39:41.131 -0600	Throw		Image Not Found - click Error - No Image Found On Screen: "thing"	20	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 12:39:41.408 -0600	EndTestCase		(Duration:"18.242088", Errors:"1", Exceptions:"2", StartTime:"2018-06-11 12:39:23 -0600", Successes:"0", TestCase:"Master 1.script", Warnings:"0")
+2018-06-11 12:39:41.486 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "thing" -- Execution Time 0:00:18 Master 1.script

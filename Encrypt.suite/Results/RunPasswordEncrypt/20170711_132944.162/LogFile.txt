@@ -1,0 +1,4 @@
+﻿2017-07-11 13:29:44.163 -0600	START		Running index.script
+2017-07-11 13:29:58.018 -0600	Log		pASSWorDmno4	11	on_index	index.script
+2017-07-11 13:29:58.419 -0600	EndTestCase		(Duration:"14.254609", Errors:"0", Exceptions:"0", StartTime:"2017-07-11 13:29:44 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-07-11 13:29:58.456 -0600	SUCCESS		Execution Time 0:00:14 index.script

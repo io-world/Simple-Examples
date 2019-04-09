@@ -1,0 +1,17 @@
+﻿2017-06-29 15:49:29.979 -0600	START		Running index.script
+2017-06-29 15:49:30.073 -0600	typetext		[windowsKey]	9	on_index	index.script
+2017-06-29 15:49:30.817 -0600	typetext		cmd	10	on_index	index.script
+2017-06-29 15:49:31.960 -0600	rightclick	Command Prompt Icon	at (75, 392)	11	on_index	index.script
+2017-06-29 15:49:33.160 -0600	click	administrator	at (179, 416)	12	on_index	index.script
+2017-06-29 15:49:33.648 -0600	waitfor	Command Prompt Icon Small	found at (126, 119)	13	on_index	index.script
+2017-06-29 15:49:34.578 -0600	typetext		regjump HKLM\Software\Microsoft\Windows\CurrentVersion[returnKey]	14	on_index	index.script
+2017-06-29 15:49:35.540 -0600	doubleclick	Columns/Type	at (578, 48)	18	on_index	index.script
+2017-06-29 15:49:36.601 -0600	imagelocation	Columns/Name	at (420, 57)	22	on_index	index.script
+2017-06-29 15:49:37.298 -0600	imagefound	(TEXT:"ProgramFilesPath")	found at (465, 231)	26	on_index	index.script
+2017-06-29 15:49:37.674 -0600	imagelocation	Columns/data	at (948, 56)	28	on_index	index.script
+2017-06-29 15:49:37.883 -0600	readtext		(934,224,1048,241)
+2017-06-29 15:49:37.883 -0600	Log		WiD9»fleS%	33	on_index	index.script
+2017-06-29 15:49:39.912 -0600	typetext		[windowsAltKey][F4]	41	on_index	index.script
+2017-06-29 15:49:40.944 -0600	typetext		[windowsAltKey][F4]	44	on_index	index.script
+2017-06-29 15:49:41.257 -0600	EndTestCase		(Duration:"11.27602", Errors:"0", Exceptions:"0", StartTime:"2017-06-29 15:49:29 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-06-29 15:49:41.289 -0600	SUCCESS		Execution Time 0:00:11 index.script

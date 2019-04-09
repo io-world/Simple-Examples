@@ -1,0 +1,4 @@
+﻿2018-10-18 10:14:39.554 -0600	START		Running Script2.script
+2018-10-18 10:14:39.607 -0600	Throw		SCA - SCA is wirtten incorrectly	18	on_selfvalidate	SelfValidate.script
+2018-10-18 10:14:39.822 -0600	EndTestCase		(Duration:"0.266755", Errors:"1", Exceptions:"1", StartTime:"2018-10-18 10:14:39 -0600", Successes:"0", TestCase:"Script2.script", Warnings:"0")
+2018-10-18 10:14:39.836 -0600	FAILURE		SCA SCA is wirtten incorrectly -- Execution Time 0:00:00 Script2.script

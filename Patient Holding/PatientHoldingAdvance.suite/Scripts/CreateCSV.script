@@ -1,0 +1,21 @@
+﻿params CSVName
+
+
+
+put <<"Medical Record Number","Suffix","First Name","Middle Name","Last Name","Date of Birth","Social Security Number","Gender","Marital Status","Created Date","Coding Date","Billing Date","Claims Date","Charge Capture Date">> into Header
+
+
+
+
+
+create file ResourcePath(CSVName &".csv")
+put  ResourcePath(CSVName &".csv") into MyFileVar
+
+
+//create file ResourcePath("WebFormData3.csv")
+//put  ResourcePath("WebFormData3.csv") into MyFileVar
+open  file MyFileVar
+write Header to file MyFileVar
+close   file MyFileVar
+
+

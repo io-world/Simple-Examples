@@ -1,0 +1,6 @@
+﻿2018-08-22 14:22:20.794 -0600	START		Running eAI_Class.script
+2018-08-22 14:22:20.878 -0600	LogWarning		Validation Warning: Empty request body.	9	on_eai_class	eAI_Class.script
+2018-08-22 14:22:21.637 -0600	LogWarning		Validation Warning: Empty request body.	19	on_eai_class	eAI_Class.script
+2018-08-22 14:22:26.154 -0600	Log			30	on_eai_class	eAI_Class.script
+2018-08-22 14:22:26.855 -0600	EndTestCase		(Duration:"6.059476", Errors:"0", Exceptions:"0", StartTime:"2018-08-22 14:22:20 -0600", Successes:"1", TestCase:"eAI_Class.script", Warnings:"2")
+2018-08-22 14:22:26.873 -0600	SUCCESS		Execution Time 0:00:06 eAI_Class.script

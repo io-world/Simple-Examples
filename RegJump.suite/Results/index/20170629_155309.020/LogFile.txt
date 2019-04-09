@@ -1,0 +1,16 @@
+﻿2017-06-29 15:53:09.022 -0600	START		Running index.script
+2017-06-29 15:53:09.109 -0600	typetext		[windowsKey]	9	on_index	index.script
+2017-06-29 15:53:09.849 -0600	typetext		cmd	10	on_index	index.script
+2017-06-29 15:53:11.010 -0600	rightclick	Command Prompt Icon	at (75, 392)	11	on_index	index.script
+2017-06-29 15:53:12.204 -0600	click	administrator	at (179, 416)	12	on_index	index.script
+2017-06-29 15:53:12.309 -0600	waitfor	Command Prompt Icon Small	found at (74, 67)	13	on_index	index.script
+2017-06-29 15:53:13.627 -0600	typetext		regjump HKLM\Software\Microsoft\Windows\CurrentVersion[returnKey]	14	on_index	index.script
+2017-06-29 15:53:14.573 -0600	doubleclick	Columns/Type	at (578, 48)	18	on_index	index.script
+2017-06-29 15:53:15.655 -0600	imagelocation	Columns/Name	at (420, 57)	22	on_index	index.script
+2017-06-29 15:53:16.359 -0600	imagefound	(TEXT:"ProgramFilesDir")	found at (461, 193)	26	on_index	index.script
+2017-06-29 15:53:16.734 -0600	imagelocation	Columns/data	at (948, 56)	28	on_index	index.script
+2017-06-29 15:53:16.837 -0600	readtext		(934,186,1048,203)
+2017-06-29 15:53:16.837 -0600	Log		G\Pnx^am Fies	33	on_index	index.script
+2017-06-29 15:53:19.937 -0600	typetext		altRun[F4]	42	on_index	index.script
+2017-06-29 15:53:20.232 -0600	EndTestCase		(Duration:"11.208898", Errors:"1", Exceptions:"0", StartTime:"2017-06-29 15:53:09 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-06-29 15:53:20.599 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'wrl' -- Execution Time 0:00:11 index.script

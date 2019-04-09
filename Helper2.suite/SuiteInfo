@@ -1,13 +1,11 @@
 ﻿{
-    EPVersionNumber = 1612182246;
+    EPVersionNumber = 1802231659;
     Schedules =     (
     );
     ScriptMetaData =     {
     };
+    SuiteEncodedTextKey = "`G6BgE>&fu:JYBk_";
     helpedSuitesInfo =     (
-                {
-            filePath = "../Simple Examples/Helper.suite";
-        }
     );
     helperSuitesInfo =     (
     );

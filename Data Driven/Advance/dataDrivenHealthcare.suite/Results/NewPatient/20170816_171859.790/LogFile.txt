@@ -1,0 +1,11 @@
+﻿2017-08-16 17:18:59.791 -0600	START		Running NewPatient.script	12	on_index	Index.script
+2017-08-16 17:18:59.793 -0600	Log		555555	8	on_newpatient	NewPatient.script
+2017-08-16 17:18:59.794 -0600	Log		Dr	9	on_newpatient	NewPatient.script
+2017-08-16 17:18:59.795 -0600	Log		Darth	10	on_newpatient	NewPatient.script
+2017-08-16 17:18:59.796 -0600	Log		Vader	11	on_newpatient	NewPatient.script
+2017-08-16 17:18:59.797 -0600	Log		12/23/87	12	on_newpatient	NewPatient.script
+2017-08-16 17:18:59.798 -0600	Log		744-85-1232	13	on_newpatient	NewPatient.script
+2017-08-16 17:18:59.799 -0600	Log		Male	14	on_newpatient	NewPatient.script
+2017-08-16 17:18:59.800 -0600	Log		Widowed	15	on_newpatient	NewPatient.script
+2017-08-16 17:18:59.802 -0600	EndTestCase		(Duration:"0.009175", Errors:"0", Exceptions:"0", StartTime:"2017-08-16 17:18:59 -0600", Successes:"1", TestCase:"NewPatient.script", Warnings:"0")	12	on_index	Index.script
+2017-08-16 17:18:59.810 -0600	SUCCESS		Execution Time 0:00:00 NewPatient.script	12	on_index	Index.script

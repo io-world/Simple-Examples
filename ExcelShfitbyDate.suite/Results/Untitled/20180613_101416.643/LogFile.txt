@@ -1,0 +1,5 @@
+﻿2018-06-13 10:14:16.645 -0600	START		Running Untitled.script
+2018-06-13 10:14:16.797 -0600	Log		Day Differences is 12	10	on_untitled	Untitled.script
+2018-06-13 10:14:16.801 -0600	Log		bar Shfit is (0,12)	20	on_untitled	Untitled.script
+2018-06-13 10:14:17.191 -0600	EndTestCase		(Duration:"0.54473", Errors:"0", Exceptions:"0", StartTime:"2018-06-13 10:14:16 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2018-06-13 10:14:17.224 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

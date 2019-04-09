@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Advance.script" package="Handlers.suite" timestamp="2018-03-14 16:13:12.737 +0530"
+ tests="1" successes="1" errors="0" time="0.816586">
+  <properties>
+   <property name="RunDate" value="2018-03-14 16:13:12.737 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Advance.script" assertions="1" successes="1" errors="0" time="0.814413">
+  </testcase>
+ </testsuite>
+</testsuites>

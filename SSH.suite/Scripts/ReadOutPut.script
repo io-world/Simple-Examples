@@ -1,0 +1,16 @@
+﻿
+
+
+
+
+put ImageRectangle("Putty Command Window")+(-5,0,400,800) into TerminalWindow
+put EveryImageRectangle(text:"demo@",SearchRectangle:TerminalWindow) into DemoL
+
+
+put item -2 of DemoL into TopRec
+put last item of DemoL into BottomRec
+
+insert (item 1 of TopRec,item 4 of TopRec) into ReadOutputWindow
+insert (item 1 of BottomRec+(400),item 2 of BottomRec) into ReadOutputWindow
+
+log ReadText(ReadOutputWindow)

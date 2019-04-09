@@ -1,0 +1,31 @@
+﻿put new "Modules/GlobalDefine" with (new "Modules/Verify") into GD
+
+
+Run "Libraries/SUTConnect"
+RunWithNewResults "States/Zero" 
+If the result.errors is greater than 0
+	exit script
+End If
+
+------------------------------------------------------------------------------------
+
+
+repeat (GD).GetUserCount times
+	RunWithNewResults "Libraries/Login" , (GD).GetUser (repeatindex()+1)
+	repeat (GD).PatientCount times
+		RunWithNewResults  "Test/A" ,(GD)
+		RunWithNewResults "Test/B" , (GD)
+		RunWithNewResults "Test/NewPatient", (GD)."BuildPatient"  (repeatindex()+1)
+	end repeat---------------------------------------------------------------------
+	RunWithNewResults "Libraries/Logout"
+end repeat
+------------------------------------------------------------------------------------
+Run "States/Report"
+
+
+
+
+
+RunWithNewResults "States/Zero"
+
+

@@ -1,0 +1,135 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Baz">
+ <run>
+  <RunDate>2018-04-03 21:07:11.868 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.272301</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180403_210711.868/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;Person&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-03 21:09:05.755 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.298135</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180403_210905.755/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;calculateage&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-03 21:09:31.451 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.293978</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180403_210931.451/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-03 21:09:45.328 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.509153</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180403_210945.328/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STMaxCallDepthExceeded -- Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-03 21:10:21.767 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.304238</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180403_211021.767/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-03 21:10:38.526 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.262682</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180403_211038.526/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-03 21:11:03.643 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.294742</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180403_211103.643/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-03 21:11:11.556 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.305678</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180403_211111.556/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-03 21:11:15.039 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.268833</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180403_211115.039/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-03 21:11:34.452 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.286127</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180403_211134.452/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-03 21:11:39.978 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.274027</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180403_211139.978/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

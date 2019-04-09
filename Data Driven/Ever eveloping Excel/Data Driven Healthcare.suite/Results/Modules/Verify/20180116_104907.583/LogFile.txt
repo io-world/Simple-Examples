@@ -1,0 +1,4 @@
+﻿2018-01-16 10:49:07.585 +0530	START		Running Modules/Verify.script
+2018-01-16 10:49:07.728 +0530	Exception		Remote Connection Unavailable	19	on_content	Modules/Verify.script
+2018-01-16 10:49:08.073 +0530	EndTestCase		(Duration:"0.486953", Errors:"1", Exceptions:"1", StartTime:"2018-01-16 10:49:07 +0530", Successes:"0", TestCase:"Modules/Verify.script", Warnings:"0")
+2018-01-16 10:49:08.097 +0530	FAILURE		No Remote Connection remotescreensize Error - Remote Connection Unavailable -- Execution Time 0:00:00 Modules/Verify.script

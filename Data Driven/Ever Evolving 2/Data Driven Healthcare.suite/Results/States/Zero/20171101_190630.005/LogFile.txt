@@ -1,0 +1,5 @@
+﻿2017-11-01 19:06:30.006 -0600	START		Running States/Zero.script	32	on_index	Index.script
+2017-11-01 19:06:30.014 -0600	Log		Initiate Zero State	4	on_states_zero	States/Zero.script
+2017-11-01 19:06:30.420 -0600	click	Contacts/Buttons/Contacts	at (53, 607)	5	on_states_zero	States/Zero.script
+2017-11-01 19:06:30.422 -0600	EndTestCase		(Duration:"0.414583", Errors:"0", Exceptions:"0", StartTime:"2017-11-01 19:06:30 -0600", Successes:"1", TestCase:"States/Zero.script", Warnings:"0")	32	on_index	Index.script
+2017-11-01 19:06:30.442 -0600	SUCCESS		Execution Time 0:00:00 States/Zero.script	32	on_index	Index.script

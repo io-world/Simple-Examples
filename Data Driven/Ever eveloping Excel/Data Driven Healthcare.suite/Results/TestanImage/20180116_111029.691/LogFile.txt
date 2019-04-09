@@ -1,0 +1,6 @@
+﻿2018-01-16 11:10:29.692 +0530	START		Running TestanImage.script
+2018-01-16 11:10:29.772 +0530	Exception	qTest/A/Favorites/Favorites 01	Could Not Open Image: qTest/A/Favorites/Favorites 01	9	on_testanimage	TestanImage.script
+2018-01-16 11:10:29.775 +0530	Log		Runtime Error at line 9: File Not Found - imageinfo Error - Could Not Open Image: qTest/A/Favorites/Favorites 01	13	on_testanimage	TestanImage.script
+2018-01-16 11:10:29.777 +0530	Log		text	19	on_testanimage	TestanImage.script
+2018-01-16 11:10:30.153 +0530	EndTestCase		(Duration:"0.459818", Errors:"0", Exceptions:"1", StartTime:"2018-01-16 11:10:29 +0530", Successes:"1", TestCase:"TestanImage.script", Warnings:"0")
+2018-01-16 11:10:30.184 +0530	SUCCESS		Execution Time 0:00:00 TestanImage.script

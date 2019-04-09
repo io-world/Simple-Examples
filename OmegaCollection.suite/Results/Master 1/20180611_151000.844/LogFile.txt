@@ -1,0 +1,5 @@
+﻿2018-06-11 15:10:00.846 -0600	START		Running Master 1.script
+2018-06-11 15:10:01.075 -0600	Exception	Chrome	Could Not Open Image: Chrome	1	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 15:10:01.109 -0600	Exception	Chrome	Could Not Open Image: Chrome	3	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:10:01.466 -0600	EndTestCase		(Duration:"0.618198", Errors:"1", Exceptions:"2", StartTime:"2018-06-11 15:10:00 -0600", Successes:"0", TestCase:"Master 1.script", Warnings:"0")
+2018-06-11 15:10:02.212 -0600	FAILURE	Screen_Error.png	File Not Found imageinfo Error - Could Not Open Image: Chrome -- Execution Time 0:00:00 Master 1.script

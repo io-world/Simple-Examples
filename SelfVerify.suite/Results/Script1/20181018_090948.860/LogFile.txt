@@ -1,0 +1,5 @@
+﻿2018-10-18 09:09:48.862 -0600	START		Running Script1.script
+2018-10-18 09:09:49.095 -0600	Log		YES	7	on_script1	Script1.script
+2018-10-18 09:09:49.109 -0600	Log		Script1.script	16	on_script1	Script1.script
+2018-10-18 09:09:49.388 -0600	EndTestCase		(Duration:"0.510478", Errors:"0", Exceptions:"0", StartTime:"2018-10-18 09:09:48 -0600", Successes:"1", TestCase:"Script1.script", Warnings:"0")
+2018-10-18 09:09:49.412 -0600	SUCCESS		Execution Time 0:00:00 Script1.script

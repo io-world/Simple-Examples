@@ -1,0 +1,7 @@
+﻿2018-03-21 12:54:35.571 +0530	START		Running Master.script
+2018-03-21 12:54:36.267 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:54:36.375 +0530	readtext		(205,126,539,389)
+2018-03-21 12:54:36.382 +0530	Log		(Cara Stevens,Hermione Butler,Lael Greer,Jonas Alexander,Shad Decker,Michael Bruce,Donna Snider,Name)	9	on_master	Master.script
+2018-03-21 12:54:37.750 +0530	click	Next	at (1878, 360)	10	on_master	Master.script
+2018-03-21 12:54:38.719 +0530	EndTestCase		(Duration:"3.146888", Errors:"1", Exceptions:"0", StartTime:"2018-03-21 12:54:35 +0530", Successes:"0", TestCase:"Master.script", Warnings:"0")
+2018-03-21 12:54:38.720 +0530	ABORTED		Execution Time 0:00:03 Master.script

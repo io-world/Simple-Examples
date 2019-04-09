@@ -1,5 +1,0 @@
-﻿2016-12-19 21:33:18.070 -0800	START		Running Read6.script
-2016-12-19 21:33:18.208 -0800	Log		PatientLine:Mr,Bruce,,Wayne,222222,6/13/06,113-83-3798,Male,Single	10	on_read6	Read6.script
-2016-12-19 21:33:18.230 -0800	Log		PatientLine:Mrs,Carrie,,Underwood,333333,3/16/14,583-00-6387,Female,Married	10	on_read6	Read6.script
-2016-12-19 21:33:18.457 -0800	EndTestCase		(Duration:"0.385623", Errors:"0", Exceptions:"0", StartTime:"2016-12-19 21:33:18 -0800", Successes:"1", TestCase:"Read6.script", Warnings:"0")
-2016-12-19 21:33:18.468 -0800	SUCCESS		Execution Time 0:00:00 Read6.script

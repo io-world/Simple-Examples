@@ -1,0 +1,11 @@
+﻿2018-10-22 10:29:23.293 -0600	START		Running Master.script
+2018-10-22 10:29:23.440 -0600	Log		EXEPath: "/Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Resources/screen_compare/screen_compare"	22	on_screen_compare	screen_compare.script
+2018-10-22 10:29:23.442 -0600	Log		ImagePath1: /Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Images/ScreenshotA.png	23	on_screen_compare	screen_compare.script
+2018-10-22 10:29:23.447 -0600	Log		ImagePath2: /Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Images/ScreenshotB.png	24	on_screen_compare	screen_compare.script
+2018-10-22 10:29:23.449 -0600	Log		OutputImagePath: /Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Images/newimage.png	25	on_screen_compare	screen_compare.script
+2018-10-22 10:29:23.450 -0600	Log		OutputTextPath: /Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Resources/newtext.txt	26	on_screen_compare	screen_compare.script
+2018-10-22 10:29:23.452 -0600	Log		Running Shell Command: "/Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Resources/screen_compare/screen_compare" --input /Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Images/ScreenshotA.png --input /Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Images/ScreenshotB.png --output /Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Images/newimage.png > /Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Resources/newtext.txt	27	on_screen_compare	screen_compare.script
+2018-10-22 10:29:23.523 -0600	Log		------------------------------------------------------------	30	on_screen_compare	screen_compare.script
+2018-10-22 10:29:23.525 -0600	Log		Result of Shell: 1	31	on_screen_compare	screen_compare.script
+2018-10-22 10:29:23.763 -0600	EndTestCase		(Duration:"0.468842", Errors:"0", Exceptions:"0", StartTime:"2018-10-22 10:29:23 -0600", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-10-22 10:29:23.778 -0600	SUCCESS		Execution Time 0:00:00 Master.script

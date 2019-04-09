@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="index.script" package="RegJump.suite" timestamp="2017-06-29 15:53:40.584 -0600"
+ tests="1" successes="1" errors="0" time="14.203974">
+  <properties>
+   <property name="RunDate" value="2017-06-29 15:53:40.584 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="index.script" assertions="1" successes="1" errors="0" time="14.201315">
+  </testcase>
+ </testsuite>
+</testsuites>

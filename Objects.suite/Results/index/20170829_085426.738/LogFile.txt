@@ -1,0 +1,5 @@
+﻿2017-08-29 08:54:26.739 -0600	START		Running index.script
+2017-08-29 08:54:26.793 -0600	Log		Start all of it	2	on_initialize	
+2017-08-29 08:54:26.798 -0600	Log		Rabbit	14	on_index	index.script
+2017-08-29 08:54:27.389 -0600	EndTestCase		(Duration:"0.648907", Errors:"1", Exceptions:"0", StartTime:"2017-08-29 08:54:26 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-08-29 08:54:28.138 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'login' -- Execution Time 0:00:00 index.script

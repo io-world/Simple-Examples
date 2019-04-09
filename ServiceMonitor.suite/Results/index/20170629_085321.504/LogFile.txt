@@ -1,0 +1,5 @@
+﻿2017-06-29 08:53:21.506 -0600	START		Running index.script
+2017-06-29 08:53:21.563 -0600	typetext		[windowsKey]r	1	on_index	index.script
+2017-06-29 08:53:22.430 -0600	typetext		services.msc[returnKey]	2	on_index	index.script
+2017-06-29 08:53:22.601 -0600	EndTestCase		(Duration:"1.094088", Errors:"0", Exceptions:"0", StartTime:"2017-06-29 08:53:21 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-06-29 08:53:22.613 -0600	SUCCESS		Execution Time 0:00:01 index.script

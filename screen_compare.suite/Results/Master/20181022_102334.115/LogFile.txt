@@ -1,0 +1,9 @@
+﻿2018-10-22 10:23:34.116 -0600	START		Running Master.script
+2018-10-22 10:23:34.220 -0600	Log		EXEPath: /Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Resources/screen_compare/screen_compare	21	on_screen_compare	screen_compare.script
+2018-10-22 10:23:34.221 -0600	Log		ImagePath1 /Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Images/ScreenshotA.png	22	on_screen_compare	screen_compare.script
+2018-10-22 10:23:34.228 -0600	Log		ImagePath2 /Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Images/ScreenshotA.png	23	on_screen_compare	screen_compare.script
+2018-10-22 10:23:34.230 -0600	Log		OutputImagePath /Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Images/newimage.png	24	on_screen_compare	screen_compare.script
+2018-10-22 10:23:34.232 -0600	Log		OutputTextPath /Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Resources/newtext.txt	25	on_screen_compare	screen_compare.script
+2018-10-22 10:23:34.234 -0600	Log		Running Shell Command: /Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Resources/screen_compare/screen_compare --input /Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Images/ScreenshotA.png --input /Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Images/ScreenshotB.png --output /Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Images/newimage.png > /Users/randyhesse/Documents/Simple Examples/screen_compare.suite/Resources/newtext.txt	26	on_screen_compare	screen_compare.script
+2018-10-22 10:23:34.515 -0600	EndTestCase		(Duration:"0.39751", Errors:"0", Exceptions:"0", StartTime:"2018-10-22 10:23:34 -0600", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-10-22 10:23:34.545 -0600	SUCCESS		Execution Time 0:00:00 Master.script

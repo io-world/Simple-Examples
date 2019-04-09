@@ -1,0 +1,4 @@
+﻿2018-07-25 20:39:20.338 -0600	START		Running Run EAI.apitest
+2018-07-25 20:39:20.343 -0600	LogWarning		Validation Warning: Empty request body.
+2018-07-25 20:39:20.903 -0600	EndTestCase		(Duration:"0.563861", Errors:"0", Exceptions:"0", StartTime:"2018-07-25 20:39:20 -0600", Successes:"1", TestCase:"Run EAI.apitest", Warnings:"1")
+2018-07-25 20:39:20.918 -0600	SUCCESS		Execution Time 0:00:00 Run EAI.apitest

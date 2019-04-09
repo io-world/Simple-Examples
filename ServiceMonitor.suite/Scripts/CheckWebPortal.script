@@ -1,0 +1,24 @@
+﻿
+TypeText windowsKey & "r"
+TypeText "Chrome.exe" , returnKey
+WaitFor 10,"CheckWebPortal/Refresh Icons/Chrome"
+StartMovie "Load time Video"
+
+wait 5
+TypeText controlKey & "l"
+TypeText "www.amazon.com" , returnKey
+WaitFor 10,"CheckWebPortal/Refresh Icons/Chrome"
+log "WebPage took:"&& the Result && "to load"
+
+wait 5
+TypeText altKey &F4
+wait 1
+
+
+//Login and Logout Script
+
+StopMovie
+
+///all browers with Begintestcase A only with images.
+
+OCR valid Text

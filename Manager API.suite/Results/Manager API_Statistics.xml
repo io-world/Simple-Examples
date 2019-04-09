@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Master">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>15</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2018-04-06 10:12:07 -0600</FirstRun>
+  <LastRun>2018-04-06 12:14:11 -0600</LastRun>
+  <TotalTimeOnSuccess>9.963733</TotalTimeOnSuccess>
+ </script>
+ <script name="ConnectTO">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2018-04-06 09:41:41 -0600</FirstRun>
+  <LastRun>2018-04-06 09:42:37 -0600</LastRun>
+  <TotalTimeOnSuccess>0.789674</TotalTimeOnSuccess>
+ </script>
+</statistics>

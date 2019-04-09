@@ -20,3 +20,12 @@ to handle GenericNumb with numOne, numTwo
 	
 	return ("Return from GenericNumber" && answerTwo)
 end GenericNumb
+
+to GenericNumb2 numOne, numTwo
+	put numOne + numTwo into answerOne	
+	put numOne - numTwo into answerTwo
+	
+	log "Answer from GenericNumb" && answerOne
+	
+	return ("Return from GenericNumber" && answerTwo)
+end GenericNumb2

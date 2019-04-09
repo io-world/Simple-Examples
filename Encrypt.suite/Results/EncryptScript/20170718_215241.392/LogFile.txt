@@ -1,0 +1,3 @@
+﻿2017-07-18 21:52:41.393 -0400	START		Running RunScriptEncrypt.script
+2017-07-18 21:52:41.653 -0400	EndTestCase		(Duration:"0.258504", Errors:"1", Exceptions:"0", StartTime:"2017-07-18 21:52:41 -0400", Successes:"0", TestCase:"RunScriptEncrypt.script", Warnings:"0")
+2017-07-18 21:52:41.661 -0400	FAILURE		STFileException Attempt to access unopened file: /Users/randyhesse/Documents/Simple Examples/Encrypt.suite/Scripts/EncryptedWorkflow.script -- Execution Time 0:00:00 RunScriptEncrypt.script

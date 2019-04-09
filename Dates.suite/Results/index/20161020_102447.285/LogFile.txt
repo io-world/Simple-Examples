@@ -1,4 +1,0 @@
-﻿2016-10-20 10:24:47.293 -0600	START		Running index.script
-2016-10-20 10:24:47.381 -0600	Log		Randy Hesse four hundred ninety eight million six hundred seventy three thousand four hundred eighty seven	7	on_index	index.script
-2016-10-20 10:24:48.286 -0600	EndTestCase		(Duration:"0.991812", Errors:"0", Exceptions:"0", StartTime:"2016-10-20 10:24:47 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
-2016-10-20 10:24:48.301 -0600	SUCCESS		Execution Time 0:00:00 index.script

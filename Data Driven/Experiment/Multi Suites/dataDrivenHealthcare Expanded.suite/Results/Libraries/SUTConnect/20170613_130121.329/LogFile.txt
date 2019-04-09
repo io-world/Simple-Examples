@@ -1,0 +1,5 @@
+﻿2017-06-13 13:01:21.331 -0600	START		Running Libraries/SUTConnect.script
+2017-06-13 13:01:21.369 -0600	Log		Connection:	2	on_libraries_sutconnect	Libraries/SUTConnect.script
+2017-06-13 13:01:21.371 -0600	LogError		Not connected to a SUT, quitting the script	5	on_libraries_sutconnect	Libraries/SUTConnect.script
+2017-06-13 13:01:21.604 -0600	EndTestCase		(Duration:"0.271772", Errors:"1", Exceptions:"0", StartTime:"2017-06-13 13:01:21 -0600", Successes:"0", TestCase:"Libraries/SUTConnect.script", Warnings:"0")
+2017-06-13 13:01:21.644 -0600	FAILURE		Script Error Number of Errors logged: 1 -- Execution Time 0:00:00 Libraries/SUTConnect.script

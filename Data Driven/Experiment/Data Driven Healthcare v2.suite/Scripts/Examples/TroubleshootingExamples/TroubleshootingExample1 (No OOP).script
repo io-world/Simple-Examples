@@ -1,0 +1,17 @@
+﻿
+
+//Use the Script to Create New Patient
+
+
+put "Modules/GlobalDefine".TroubleShooting (3) into Patient
+log  Patient.MedicalRecordNumber
+log  Patient.Prefix
+log  Patient.FirstName
+log  Patient.LastName
+log  Patient.DateofBirth
+log  Patient.SocialSecurityNumber
+log  Patient.Gender
+log  Patient.MaritalStatus
+
+
+typetext  Patient.MaritalStatus

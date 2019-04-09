@@ -1,4 +1,0 @@
-﻿2016-09-29 10:26:15.431 -0600	START		Running Results.script
-2016-09-29 10:26:15.482 -0600	Log			5	on_results	Results.script
-2016-09-29 10:26:15.756 -0600	EndTestCase		(Duration:"0.323605", Errors:"1", Exceptions:"0", StartTime:"2016-09-29 10:26:15 -0600", Successes:"0", TestCase:"Results.script", Warnings:"0")
-2016-09-29 10:26:16.182 -0600	FAILURE	Screen_Error.png	STFileAccessException Unable to open file  as requested -- Execution Time 0:00:00 Results.script

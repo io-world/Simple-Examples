@@ -6,7 +6,11 @@ end if
 
 
 
+put ColorAtLocation(255,200) into BC
+log BC
 
+
+put ReadText((0,0,900,900), contrast:on,ContrastColor: BC,saveimagefile:("/Users/randyhesse/Desktop/test.png"))
 
 
 CaptureScreen (name:SuiteInfo().ImagesFolder&slash&"NewImageName",Rectangle: (100,100,700,400))

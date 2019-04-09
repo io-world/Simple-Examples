@@ -1,0 +1,208 @@
+﻿<?xml version="1.0"?>
+<runHistory script="index">
+ <run>
+  <RunDate>2017-06-29 13:00:41.075 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.134495</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170629_130041.075/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-29 13:01:13.710 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>2.325444</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170629_130113.710/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-29 13:03:31.615 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.244392</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170629_130331.615/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-29 13:04:05.855 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.033632</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170629_130405.855/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-29 13:10:10.283 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.657798</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170629_131010.283/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-29 13:10:56.907 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.412491</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170629_131056.907/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-29 14:41:26.386 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.652561</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170629_144126.386/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-29 14:49:42.937 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20170629_144942.937/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-29 15:45:35.890 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>18.554644</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170629_154535.890/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagelocation Error - Unable To Find Image &quot;(TEXT:&quot;OneCoreNoBootDWM&quot;)&quot;  Restricted Search Rectangle ((419,71),(607,800))
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-29 15:47:37.502 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>12.080782</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170629_154737.502/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-29 15:48:09.780 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>12.271608</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170629_154809.780/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-29 15:49:02.007 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>16.336900</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170629_154902.007/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-29 15:49:29.978 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.277724</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170629_154929.978/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-29 15:51:03.170 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.076336</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170629_155103.170/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-29 15:52:32.883 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>11.321526</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170629_155232.883/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;wrl&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-29 15:53:09.020 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>11.210825</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170629_155309.020/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;wrl&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-29 15:53:40.584 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>14.203974</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170629_155340.584/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

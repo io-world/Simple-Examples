@@ -1,0 +1,17 @@
+﻿TypeText windowsKey & "r"
+TypeText "notepad.exe" , returnKey
+WaitFor 8.0, "NotePad Icon"
+wait 1
+TypeText "This File is From the System Under Test" , returnKey
+TypeText the date && the time
+wait 1
+TypeText controlkey & "s"
+WaitFor 8.0, "Filename"
+TypeText "Config.txt"
+TypeText returnKey
+wait 1
+click "NotePad Icon" 
+Click "Close"
+
+
+TypeText altKey &f4

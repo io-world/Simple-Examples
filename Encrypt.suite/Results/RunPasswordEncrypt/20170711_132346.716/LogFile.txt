@@ -1,0 +1,4 @@
+﻿2017-07-11 13:23:46.717 -0600	START		Running index.script
+2017-07-11 13:23:49.373 -0600	Log		mdsswoog1234	12	on_index	index.script
+2017-07-11 13:23:49.566 -0600	EndTestCase		(Duration:"2.847856", Errors:"0", Exceptions:"0", StartTime:"2017-07-11 13:23:46 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-07-11 13:23:49.580 -0600	SUCCESS		Execution Time 0:00:02 index.script

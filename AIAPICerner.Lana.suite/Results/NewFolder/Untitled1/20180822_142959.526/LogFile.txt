@@ -1,0 +1,4 @@
+﻿2018-08-22 14:29:59.528 -0600	START		Running Untitled1.script
+2018-08-22 14:29:59.567 -0600	Log			8	on_untitled1	Untitled1.script
+2018-08-22 14:30:00.327 -0600	EndTestCase		(Duration:"0.797498", Errors:"0", Exceptions:"0", StartTime:"2018-08-22 14:29:59 -0600", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2018-08-22 14:30:00.345 -0600	SUCCESS		Execution Time 0:00:00 Untitled1.script

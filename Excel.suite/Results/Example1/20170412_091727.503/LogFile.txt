@@ -1,4 +1,0 @@
-﻿2017-04-12 09:17:27.504 -0600	START		Running index.script
-2017-04-12 09:17:27.552 -0600	Log		Worksheet("PatientList") of Workbook("/Users/randyhesse/Desktop/Excel.suite/Resources/WebFormData.xlsx")	4	on_index	index.script
-2017-04-12 09:17:28.284 -0600	EndTestCase		(Duration:"0.778679", Errors:"0", Exceptions:"0", StartTime:"2017-04-12 09:17:27 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
-2017-04-12 09:17:28.293 -0600	SUCCESS		Execution Time 0:00:00 index.script

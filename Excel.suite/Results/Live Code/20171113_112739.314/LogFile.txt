@@ -1,0 +1,21 @@
+﻿2017-11-13 11:27:39.316 -0700	START		Running Live Code.script
+2017-11-13 11:27:39.381 -0700	Log		Bruce	16	on_live_code	Live Code.script
+2017-11-13 11:27:39.383 -0700	Log		--------------------------------------------------------------------------------------	17	on_live_code	Live Code.script
+2017-11-13 11:27:39.385 -0700	Log		Carrie	16	on_live_code	Live Code.script
+2017-11-13 11:27:39.387 -0700	Log		--------------------------------------------------------------------------------------	17	on_live_code	Live Code.script
+2017-11-13 11:27:39.391 -0700	Log		Wonder	16	on_live_code	Live Code.script
+2017-11-13 11:27:39.394 -0700	Log		--------------------------------------------------------------------------------------	17	on_live_code	Live Code.script
+2017-11-13 11:27:39.396 -0700	Log		Darth	16	on_live_code	Live Code.script
+2017-11-13 11:27:39.398 -0700	Log		--------------------------------------------------------------------------------------	17	on_live_code	Live Code.script
+2017-11-13 11:27:39.401 -0700	Log		James	16	on_live_code	Live Code.script
+2017-11-13 11:27:39.402 -0700	Log		--------------------------------------------------------------------------------------	17	on_live_code	Live Code.script
+2017-11-13 11:27:39.404 -0700	Log		Homer	16	on_live_code	Live Code.script
+2017-11-13 11:27:39.405 -0700	Log		--------------------------------------------------------------------------------------	17	on_live_code	Live Code.script
+2017-11-13 11:27:39.406 -0700	Log		Optimus	16	on_live_code	Live Code.script
+2017-11-13 11:27:39.409 -0700	Log		--------------------------------------------------------------------------------------	17	on_live_code	Live Code.script
+2017-11-13 11:27:39.411 -0700	Log		Mickey	16	on_live_code	Live Code.script
+2017-11-13 11:27:39.414 -0700	Log		--------------------------------------------------------------------------------------	17	on_live_code	Live Code.script
+2017-11-13 11:27:39.417 -0700	Log		SpongeBob	16	on_live_code	Live Code.script
+2017-11-13 11:27:39.418 -0700	Log		--------------------------------------------------------------------------------------	17	on_live_code	Live Code.script
+2017-11-13 11:27:39.709 -0700	EndTestCase		(Duration:"0.391149", Errors:"0", Exceptions:"0", StartTime:"2017-11-13 11:27:39 -0700", Successes:"1", TestCase:"Live Code.script", Warnings:"0")
+2017-11-13 11:27:39.725 -0700	SUCCESS		Execution Time 0:00:00 Live Code.script

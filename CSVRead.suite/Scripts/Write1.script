@@ -1,0 +1,14 @@
+﻿put "/Users/randyhesse/Desktop/WebFormData.csv" into MyFileVar
+open  file MyFileVar
+
+put "SOMETHING" into MyWrite
+write return to file MyFileVar at eof
+write MyWrite to file MyFileVar
+close file MyFileVar
+
+
+put "/Users/randyhesse/Desktop/WebFormData 2.csv" into MyFileVar
+
+delete line 1 of file MyFileVar
+
+

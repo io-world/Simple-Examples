@@ -1,0 +1,5 @@
+﻿2017-07-13 23:01:21.805 -0600	START		Running index.script
+2017-07-13 23:01:21.921 -0600	Log		Start all of it	2	on_initialize	
+2017-07-13 23:01:21.924 -0600	Log		Windows 10	9	on_index	index.script
+2017-07-13 23:01:22.061 -0600	EndTestCase		(Duration:"0.255404", Errors:"0", Exceptions:"0", StartTime:"2017-07-13 23:01:21 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-07-13 23:01:22.070 -0600	SUCCESS		Execution Time 0:00:00 index.script

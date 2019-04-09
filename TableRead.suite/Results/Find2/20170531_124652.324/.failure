@@ -1,1 +1,0 @@
-2017-05-31 12:46:52.324 -0600,Failure,0:00:02,1,0,0,20170531_124652.324/LogFile.txt,"","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got '(-200,-10)' and '(891,134,891,161)'",0

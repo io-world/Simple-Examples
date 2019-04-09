@@ -1,0 +1,20 @@
+﻿----------------DO Not Touch--------------------------------------
+set GD to a new "GlobalDefine"
+(GD).SetupFiles
+-------------------------------------------------------------------------
+
+
+Run (GD).BuildPatient 10
+log global patient
+log global patient.MedicalRecordNumber
+
+
+
+
+-------------------------------------------------------------------------
+
+log (GD).PatientCount
+log (GD).ColumnNames
+------------------------------
+put (GD).GETALL ("Medical Record Number") into  VARS
+log VARS

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="List">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-03-12 16:16:26 -0500</FirstRun>
+  <LastRun>2017-03-12 16:16:41 -0500</LastRun>
+  <TotalTimeOnSuccess>0.637061</TotalTimeOnSuccess>
+ </script>
+ <script name="PropertyList">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>9</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2017-03-09 14:13:14 -0600</FirstRun>
+  <LastRun>2017-03-12 15:28:42 -0500</LastRun>
+  <TotalTimeOnSuccess>1.698143</TotalTimeOnSuccess>
+ </script>
+ <script name="sample">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>27</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2017-03-12 16:08:50 -0500</FirstRun>
+  <LastRun>2017-10-31 14:41:36 -0600</LastRun>
+  <TotalTimeOnSuccess>6.074979</TotalTimeOnSuccess>
+ </script>
+ <script name="index">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>9</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-03-09 14:21:30 -0600</FirstRun>
+  <LastRun>2017-06-26 15:59:06 -0600</LastRun>
+  <TotalTimeOnSuccess>2.366341</TotalTimeOnSuccess>
+ </script>
+</statistics>

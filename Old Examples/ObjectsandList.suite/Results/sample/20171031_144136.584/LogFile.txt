@@ -1,0 +1,4 @@
+﻿2017-10-31 14:41:36.585 -0600	START		Running sample.script
+2017-10-31 14:41:36.638 -0600	Log		john	7	on_sample	sample.script
+2017-10-31 14:41:36.903 -0600	EndTestCase		(Duration:"0.316282", Errors:"0", Exceptions:"0", StartTime:"2017-10-31 14:41:36 -0600", Successes:"1", TestCase:"sample.script", Warnings:"0")
+2017-10-31 14:41:36.918 -0600	SUCCESS		Execution Time 0:00:00 sample.script

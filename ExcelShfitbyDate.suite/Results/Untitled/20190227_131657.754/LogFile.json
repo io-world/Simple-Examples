@@ -1,0 +1,52 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.script",
+      "timestamp" : "2019-02-27 13:16:57.755 -0700"
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "Day Differences is 271.041667",
+      "timestamp" : "2019-02-27 13:16:57.839 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 10
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "Bar Shift is (10,11.041667)",
+      "timestamp" : "2019-02-27 13:16:57.841 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 17
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "(13,14.041667)",
+      "timestamp" : "2019-02-27 13:16:57.842 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 24
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "(M,N)",
+      "timestamp" : "2019-02-27 13:16:57.867 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 31
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.401873\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-02-27 13:16:57 -0700\", Successes:\"1\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+      "timestamp" : "2019-02-27 13:16:58.158 -0700"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Untitled.script",
+      "timestamp" : "2019-02-27 13:16:58.176 -0700"
+    }
+  ],
+  "createdTimestamp" : "2019-02-27 13:16:57.756 -0700"
+}

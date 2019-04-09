@@ -1,0 +1,4 @@
+﻿2018-06-14 10:25:42.685 -0600	START		Running ADT01.script
+2018-06-14 10:25:42.731 -0600	Log		ADT^A01	21	on_adt01	ADT01.script
+2018-06-14 10:25:42.970 -0600	EndTestCase		(Duration:"0.283299", Errors:"0", Exceptions:"0", StartTime:"2018-06-14 10:25:42 -0600", Successes:"1", TestCase:"ADT01.script", Warnings:"0")
+2018-06-14 10:25:42.987 -0600	SUCCESS		Execution Time 0:00:00 ADT01.script

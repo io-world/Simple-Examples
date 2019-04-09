@@ -1,0 +1,4 @@
+﻿2018-06-11 14:05:29.603 -0600	START		Running Click.script
+2018-06-11 14:05:29.656 -0600	Exception		Could Not Open Image: (empty)	4	on_click	Click.script
+2018-06-11 14:05:29.903 -0600	EndTestCase		(Duration:"0.29819", Errors:"1", Exceptions:"1", StartTime:"2018-06-11 14:05:29 -0600", Successes:"0", TestCase:"Click.script", Warnings:"0")
+2018-06-11 14:05:30.738 -0600	FAILURE	Screen_Error.png	File Not Found imagefound Error - Could Not Open Image: (empty) -- Execution Time 0:00:00 Click.script

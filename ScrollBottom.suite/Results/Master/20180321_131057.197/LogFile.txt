@@ -1,0 +1,79 @@
+﻿2018-03-21 13:10:57.198 +0530	START		Running Master.script
+2018-03-21 13:10:57.836 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:10:57.959 +0530	readtext		(205,126,539,389)
+2018-03-21 13:10:59.252 +0530	click	Next	at (1878, 441)	9	on_master	Master.script
+2018-03-21 13:10:59.253 +0530	Log		(Tiger Nixon,John Winters,Austin Cox,Charles Kelly,Amanda Satou,Brielle Williamson,Herrod Chandler,Rhona Davidson,Colleen Hurst,Sonya Frost)	13	on_master	Master.script
+2018-03-21 13:11:00.163 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:00.271 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:01.000 +0530	click	Next	at (1878, 441)	9	on_master	Master.script
+2018-03-21 13:11:01.001 +0530	Log		(Jena Gaines,Quinn Flynn,Charde Marshall,Haley Kennedy,Tatyana Fitzpatrick,Michael Silva,Paul Byrd,Gloria Little,Bradley Greer,Dai Rios)	13	on_master	Master.script
+2018-03-21 13:11:02.297 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:02.402 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:03.136 +0530	click	Next	at (1878, 441)	9	on_master	Master.script
+2018-03-21 13:11:03.137 +0530	Log		(Jenette Caldwell,Yuri Berry,Caesar Vance,Doris Wilder,Angelica Ramos,Gavin Joyce,Jennifer Chang,Brenden Wagner,Fiona Green,Shou Itou)	13	on_master	Master.script
+2018-03-21 13:11:04.463 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:04.587 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:05.296 +0530	click	Next	at (1878, 441)	9	on_master	Master.script
+2018-03-21 13:11:05.297 +0530	Log		(Michelle House,Suki Burks,Prescott Bartlett,Gavin Cortez,Martena Mccray,Unity Butler,Howard Hatfield,Hope Fuentes,Vivian Harrell,Timothy Mooney)	13	on_master	Master.script
+2018-03-21 13:11:06.634 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:06.746 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:07.471 +0530	click	Next	at (1878, 441)	9	on_master	Master.script
+2018-03-21 13:11:07.473 +0530	Log		(Jackson Bradshaw,Olivia Liang,Bruno Nash,Sakura Yamamoto,Thor Walton,Finn Camacho,Serge Baldwin,Zenaida Frank,Zorita Serrano,Jennifer Acosta)	13	on_master	Master.script
+2018-03-21 13:11:08.793 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:08.897 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:10.229 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:11:10.230 +0530	Log		(Cara Stevens,Hermione Butler,Lael Greer,Jonas Alexander,Shad Decker,Michael Bruce,Donna Snider,Name)	13	on_master	Master.script
+2018-03-21 13:11:11.943 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:12.122 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:13.467 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:11:13.468 +0530	Log		Keep on Scrolling	19	on_master	Master.script
+2018-03-21 13:11:14.756 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:14.856 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:16.179 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:11:16.622 +0530	Log		Keep on Scrolling	19	on_master	Master.script
+2018-03-21 13:11:17.518 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:17.616 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:18.951 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:11:18.952 +0530	Log		Keep on Scrolling	19	on_master	Master.script
+2018-03-21 13:11:20.288 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:20.393 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:21.738 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:11:21.739 +0530	Log		Keep on Scrolling	19	on_master	Master.script
+2018-03-21 13:11:23.076 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:23.185 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:24.568 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:11:24.570 +0530	Log		Keep on Scrolling	19	on_master	Master.script
+2018-03-21 13:11:25.913 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:26.025 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:27.395 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:11:27.397 +0530	Log		Keep on Scrolling	19	on_master	Master.script
+2018-03-21 13:11:28.734 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:28.833 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:30.158 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:11:30.159 +0530	Log		Keep on Scrolling	19	on_master	Master.script
+2018-03-21 13:11:31.494 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:31.600 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:32.980 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:11:32.981 +0530	Log		Keep on Scrolling	19	on_master	Master.script
+2018-03-21 13:11:34.268 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:34.380 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:35.660 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:11:35.661 +0530	Log		Keep on Scrolling	19	on_master	Master.script
+2018-03-21 13:11:37.047 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:37.152 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:38.637 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:11:38.639 +0530	Log		Keep on Scrolling	19	on_master	Master.script
+2018-03-21 13:11:39.972 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:40.082 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:41.584 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:11:41.586 +0530	Log		Keep on Scrolling	19	on_master	Master.script
+2018-03-21 13:11:42.931 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:43.040 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:44.532 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:11:44.533 +0530	Log		Keep on Scrolling	19	on_master	Master.script
+2018-03-21 13:11:45.925 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:11:46.035 +0530	readtext		(205,126,539,389)
+2018-03-21 13:11:47.504 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:11:47.506 +0530	Log		Keep on Scrolling	19	on_master	Master.script
+2018-03-21 13:11:48.461 +0530	EndTestCase		(Duration:"51.261972", Errors:"1", Exceptions:"0", StartTime:"2018-03-21 13:10:57 +0530", Successes:"0", TestCase:"Master.script", Warnings:"0")
+2018-03-21 13:11:48.462 +0530	ABORTED		Execution Time 0:00:51 Master.script

@@ -1,0 +1,13 @@
+﻿put ("apple","bananas","chips") into Glist
+
+
+log item 2 of glist
+
+
+put 3 into var
+
+log item var of glist
+
+
+
+log item index of "chips" in Glist

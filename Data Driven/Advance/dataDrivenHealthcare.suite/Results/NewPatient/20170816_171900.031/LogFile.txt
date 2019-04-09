@@ -1,0 +1,11 @@
+﻿2017-08-16 17:19:00.032 -0600	START		Running NewPatient.script	12	on_index	Index.script
+2017-08-16 17:19:00.042 -0600	Log		101010	8	on_newpatient	NewPatient.script
+2017-08-16 17:19:00.043 -0600	Log		Mr	9	on_newpatient	NewPatient.script
+2017-08-16 17:19:00.044 -0600	Log		SpongeBob	10	on_newpatient	NewPatient.script
+2017-08-16 17:19:00.045 -0600	Log		SquarePants	11	on_newpatient	NewPatient.script
+2017-08-16 17:19:00.046 -0600	Log		6/14/00	12	on_newpatient	NewPatient.script
+2017-08-16 17:19:00.047 -0600	Log		984-56-3166	13	on_newpatient	NewPatient.script
+2017-08-16 17:19:00.048 -0600	Log		Male	14	on_newpatient	NewPatient.script
+2017-08-16 17:19:00.049 -0600	Log		Single	15	on_newpatient	NewPatient.script
+2017-08-16 17:19:00.051 -0600	EndTestCase		(Duration:"0.01703", Errors:"0", Exceptions:"0", StartTime:"2017-08-16 17:19:00 -0600", Successes:"1", TestCase:"NewPatient.script", Warnings:"0")	12	on_index	Index.script
+2017-08-16 17:19:00.065 -0600	SUCCESS		Execution Time 0:00:00 NewPatient.script	12	on_index	Index.script

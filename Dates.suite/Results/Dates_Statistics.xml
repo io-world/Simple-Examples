@@ -16,6 +16,14 @@
   <LastRun>2016-10-20 10:25:27 -0600</LastRun>
   <TotalTimeOnSuccess>1.457325</TotalTimeOnSuccess>
  </script>
+ <script name="Example1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>11</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2017-02-23 10:53:45 -0700</FirstRun>
+  <LastRun>2017-02-23 11:05:10 -0700</LastRun>
+  <TotalTimeOnSuccess>2.547819</TotalTimeOnSuccess>
+ </script>
  <script name="index">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>44</NumberOfRuns>

@@ -1,7 +1,0 @@
-﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
-2016-10-17 12:51:33.615 -0600,"Failure",0:00:00,1,0,0,"20161017_125133.615/LogFile.txt","","SenseTalk Compiler Exception -- in createnewpatient:\nWarning at line 4: Warning - Non-matching handler name: CreateNew",0
-2016-10-17 12:51:40.548 -0600,"Success",0:00:00,0,0,0,"20161017_125140.548/LogFile.txt","","",1
-2016-10-17 12:52:18.134 -0600,"Success",0:00:00,0,0,0,"20161017_125218.134/LogFile.txt","","",1
-2016-10-17 12:52:41.975 -0600,"Success",0:00:00,0,0,0,"20161017_125241.975/LogFile.txt","","",1
-2016-10-17 12:54:39.039 -0600,"Success",0:00:00,0,0,0,"20161017_125439.039/LogFile.txt","","",1
-2016-10-17 12:56:17.014 -0600,"Success",0:00:00,0,0,0,"20161017_125617.014/LogFile.txt","","",1

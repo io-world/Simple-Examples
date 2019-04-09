@@ -1,0 +1,5 @@
+﻿2018-01-12 11:47:04.593 +0530	START		Running index.script
+2018-01-12 11:47:04.696 +0530	typetext		[windowsKey]r	1	on_index	index.script
+2018-01-12 11:47:05.552 +0530	typetext		notepad.exe[returnKey]	2	on_index	index.script
+2018-01-12 11:47:08.511 +0530	EndTestCase		(Duration:"3.9166", Errors:"1", Exceptions:"0", StartTime:"2018-01-12 11:47:04 +0530", Successes:"0", TestCase:"index.script", Warnings:"0")
+2018-01-12 11:47:08.512 +0530	ABORTED		Execution Time 0:00:03 index.script

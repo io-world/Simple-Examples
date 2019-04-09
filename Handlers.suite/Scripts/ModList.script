@@ -1,0 +1,6 @@
+﻿on foo param1
+	log "you have enter into FOO"
+	log item 1 of param1
+	log item 2 of param1
+	log item 3 of param1
+end foo

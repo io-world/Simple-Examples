@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Examples/TroubleshootingExamples/TroubleshootingExample1">
+ <run>
+  <RunDate>2017-07-03 14:00:42.546 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.436506</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170703_140042.546/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;troubleshoot&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-03 14:01:04.013 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.491992</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_140104.013/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-03 14:03:44.628 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.494374</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_140344.628/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

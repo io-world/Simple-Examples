@@ -1,0 +1,63 @@
+﻿2018-03-21 11:48:51.016 +0530	START		Running Master.script
+2018-03-21 11:48:51.674 +0530	imagerectangle	name	at (345,94,419,119)	1	on_master	Master.script
+2018-03-21 11:48:51.724 +0530	readtext		(205,126,539,149)
+2018-03-21 11:48:51.725 +0530	Log		Tiger Nixon	7	on_master	Master.script
+2018-03-21 11:48:51.795 +0530	readtext		(205,153,539,176)
+2018-03-21 11:48:51.796 +0530	Log		John Winters	7	on_master	Master.script
+2018-03-21 11:48:51.858 +0530	readtext		(205,180,539,203)
+2018-03-21 11:48:51.859 +0530	Log		Austin Cox	7	on_master	Master.script
+2018-03-21 11:48:51.926 +0530	readtext		(205,207,539,230)
+2018-03-21 11:48:51.926 +0530	Log		Charles Kelly	7	on_master	Master.script
+2018-03-21 11:48:51.991 +0530	readtext		(205,234,539,257)
+2018-03-21 11:48:51.991 +0530	Log		Amanda Satou	7	on_master	Master.script
+2018-03-21 11:48:52.070 +0530	readtext		(205,261,539,284)
+2018-03-21 11:48:52.071 +0530	Log		Brielle Williamson	7	on_master	Master.script
+2018-03-21 11:48:52.136 +0530	readtext		(205,288,539,311)
+2018-03-21 11:48:52.137 +0530	Log		Herrod Chandler	7	on_master	Master.script
+2018-03-21 11:48:52.191 +0530	readtext		(205,315,539,338)
+2018-03-21 11:48:52.192 +0530	Log		Rhona Davidson	7	on_master	Master.script
+2018-03-21 11:48:52.260 +0530	readtext		(205,342,539,365)
+2018-03-21 11:48:52.261 +0530	Log		Colleen Hurst	7	on_master	Master.script
+2018-03-21 11:48:52.339 +0530	readtext		(205,369,539,392)
+2018-03-21 11:48:52.340 +0530	Log		Sonya Frost	7	on_master	Master.script
+2018-03-21 11:48:52.423 +0530	readtext		(205,396,539,419)
+2018-03-21 11:48:52.424 +0530	Log		Jena Gaines	7	on_master	Master.script
+2018-03-21 11:48:52.508 +0530	readtext		(205,423,539,446)
+2018-03-21 11:48:52.509 +0530	Log		Quinn Flynn	7	on_master	Master.script
+2018-03-21 11:48:52.591 +0530	readtext		(205,450,539,473)
+2018-03-21 11:48:52.592 +0530	Log		Charde Marshall	7	on_master	Master.script
+2018-03-21 11:48:52.656 +0530	readtext		(205,477,539,500)
+2018-03-21 11:48:52.657 +0530	Log		Haley Kennedy	7	on_master	Master.script
+2018-03-21 11:48:52.739 +0530	readtext		(205,504,539,527)
+2018-03-21 11:48:52.740 +0530	Log		Tatyana Fitzpatrick	7	on_master	Master.script
+2018-03-21 11:48:52.826 +0530	readtext		(205,531,539,554)
+2018-03-21 11:48:52.826 +0530	Log		Michael Silva	7	on_master	Master.script
+2018-03-21 11:48:52.905 +0530	readtext		(205,558,539,581)
+2018-03-21 11:48:52.906 +0530	Log		Paul Byrd	7	on_master	Master.script
+2018-03-21 11:48:52.998 +0530	readtext		(205,585,539,608)
+2018-03-21 11:48:52.999 +0530	Log		Gloria Little	7	on_master	Master.script
+2018-03-21 11:48:53.089 +0530	readtext		(205,612,539,635)
+2018-03-21 11:48:53.090 +0530	Log		Bradley Greer	7	on_master	Master.script
+2018-03-21 11:48:53.151 +0530	readtext		(205,639,539,662)
+2018-03-21 11:48:53.151 +0530	Log		Dai Rios	7	on_master	Master.script
+2018-03-21 11:48:53.244 +0530	readtext		(205,666,539,689)
+2018-03-21 11:48:53.244 +0530	Log		Jenette Caldwell	7	on_master	Master.script
+2018-03-21 11:48:53.321 +0530	readtext		(205,693,539,716)
+2018-03-21 11:48:53.322 +0530	Log		Yuri Berry	7	on_master	Master.script
+2018-03-21 11:48:53.407 +0530	readtext		(205,720,539,743)
+2018-03-21 11:48:53.408 +0530	Log		Caesar Vance	7	on_master	Master.script
+2018-03-21 11:48:53.493 +0530	readtext		(205,747,539,770)
+2018-03-21 11:48:53.494 +0530	Log		Doris Wilder	7	on_master	Master.script
+2018-03-21 11:48:53.557 +0530	readtext		(205,774,539,797)
+2018-03-21 11:48:53.558 +0530	Log		Angelica Ramos	7	on_master	Master.script
+2018-03-21 11:48:53.637 +0530	readtext		(205,801,539,824)
+2018-03-21 11:48:53.638 +0530	Log		Name	7	on_master	Master.script
+2018-03-21 11:48:53.729 +0530	readtext		(205,828,539,851)
+2018-03-21 11:48:53.730 +0530	Log		s	7	on_master	Master.script
+2018-03-21 11:48:53.749 +0530	readtext		(205,855,539,878)
+2018-03-21 11:48:53.750 +0530	Log			7	on_master	Master.script
+2018-03-21 11:48:53.802 +0530	readtext		(205,882,539,905)
+2018-03-21 11:48:53.802 +0530	Log			7	on_master	Master.script
+2018-03-21 11:48:53.805 +0530	LogWarning		Already Ready this	13	on_master	Master.script
+2018-03-21 11:48:54.036 +0530	EndTestCase		(Duration:"3.018038", Errors:"0", Exceptions:"0", StartTime:"2018-03-21 11:48:51 +0530", Successes:"1", TestCase:"Master.script", Warnings:"1")
+2018-03-21 11:48:54.165 +0530	SUCCESS		Execution Time 0:00:03 Master.script

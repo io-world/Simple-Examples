@@ -1,5 +1,0 @@
-﻿2017-05-26 14:17:53.653 -0600	START		Running Live Code.script
-2017-05-26 14:17:53.748 -0600	readtext		(158,122,286,147)
-2017-05-26 14:17:53.749 -0600	Log		Tiger Nixon	5	on_live_code	Live Code.script
-2017-05-26 14:17:54.120 -0600	EndTestCase		(Duration:"0.464996", Errors:"0", Exceptions:"0", StartTime:"2017-05-26 14:17:53 -0600", Successes:"1", TestCase:"Live Code.script", Warnings:"0")
-2017-05-26 14:17:54.154 -0600	SUCCESS		Execution Time 0:00:00 Live Code.script

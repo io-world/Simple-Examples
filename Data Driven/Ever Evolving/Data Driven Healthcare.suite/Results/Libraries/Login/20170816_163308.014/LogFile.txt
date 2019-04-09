@@ -1,0 +1,6 @@
+﻿2017-08-16 16:33:08.015 -0600	START		Running Libraries/Login.script	17	on_index	Index.script
+2017-08-16 16:33:08.017 -0600	Log		Carrie	4	on_libraries_login	Libraries/Login.script
+2017-08-16 16:33:08.017 -0600	Log		p455w0rd!	5	on_libraries_login	Libraries/Login.script
+2017-08-16 16:33:08.498 -0600	typetext		username	13	on_libraries_login	Libraries/Login.script
+2017-08-16 16:33:09.298 -0600	EndTestCase		(Duration:"1.282249", Errors:"0", Exceptions:"0", StartTime:"2017-08-16 16:33:08 -0600", Successes:"1", TestCase:"Libraries/Login.script", Warnings:"0")	17	on_index	Index.script
+2017-08-16 16:33:09.313 -0600	SUCCESS		Execution Time 0:00:01 Libraries/Login.script	17	on_index	Index.script

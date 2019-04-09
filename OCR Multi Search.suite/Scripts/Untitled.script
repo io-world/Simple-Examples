@@ -1,0 +1,45 @@
+﻿put "Buttons" into ClickOCR.Text
+put "*" into ClickOCR.ValidWords
+put "*" into ClickOCR.ValidCharacters
+put "1" into ClickOCR.WaitFor
+put (0,0,500,500) into ClickOCR.SearchRectangle
+put True into ClickOCR.EnableAggressiveTextExtraction
+put keys of ClickOCR into OCRKeys
+
+
+
+insert "Text" before item 1 of OCRKeys
+delete item 4 of OCRKeys
+
+//log ClickOCR
+//log OCRKeys
+
+
+
+put the number of properties of ClickOCR into max
+repeat max times
+	
+	put item repeatindex() of OCRKeys into key1
+	put clickOCR.(key1)into PROP.(key1)
+	
+	//log PROP
+	//click PROP
+	
+	(*if ImageFound(PROP) then
+		log "Found it"
+	else
+		log "nope"
+	end if*)
+	
+	
+end repeat
+
+(*//-----------------------------------------------
+//http://docs.testplant.com/ePF/SenseTalk/stk-run-options-properties.htm
+put the AutoOCRUpdateDiagnostics into OrigSettings // Stores the current settings of the global property in the variable 'OrigSettings'
+
+set the AutoOCRUpdateDiagnostics to (CaseSensitive, ValidCharacters)
+
+click text:"Testplant"
+
+set the AutoOCRUpdateDiagnostics to OrigSettings // Returns the global property to its original settings from the variable*)

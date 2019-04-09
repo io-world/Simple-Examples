@@ -1,4 +1,0 @@
-﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
-2017-02-16 15:41:47.727 -0700,"Success",0:00:00,0,0,0,"20170216_154147.727/LogFile.txt","","",1
-2017-02-16 15:41:53.587 -0700,"Success",0:00:00,0,0,0,"20170216_154153.587/LogFile.txt","","",1
-2017-02-16 15:42:30.786 -0700,"Success",0:00:00,0,0,0,"20170216_154230.786/LogFile.txt","","",1

@@ -1,10 +1,16 @@
-﻿put "Windows 10" into SUTSystem
+﻿
+put ConnectionInfo().name into SUTSystem
+log SUTSystem
+
+
 Connect SUTSystem
 TypeText windowsKey & "r"
 TypeText "shutdown /r /t 0" , returnKey
 wait 1 
 Disconnect SUTSystem
 wait 10
+
+
 repeat 5 times
 	Try
 		log "Trying to Connect"
@@ -20,6 +26,9 @@ repeat 5 times
 	end if
 	wait 1
 end repeat
+
+
+
 if connectedstatus = "yes" then
 	repeat until ImageFound(10, "Background")
 		log "Looking for loaded Background"	

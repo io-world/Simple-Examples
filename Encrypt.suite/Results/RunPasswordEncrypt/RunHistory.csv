@@ -1,0 +1,24 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-07-11 13:21:34.856 -0600,"Failure",0:00:00,1,0,0,"20170711_132134.856/LogFile.txt","","STUnknownMessage -- ERROR: 'decodetext' was called as a Command, but is only available as a Function",0
+2017-07-11 13:22:06.837 -0600,"Success",0:00:00,0,0,0,"20170711_132206.837/LogFile.txt","","",1
+2017-07-11 13:23:05.878 -0600,"Success",0:00:04,0,0,0,"20170711_132305.878/LogFile.txt","","",1
+2017-07-11 13:23:30.964 -0600,"Failure",0:00:01,1,0,0,"20170711_132330.964/LogFile.txt","","Invalid Key -- Encoding key cannot be blank",0
+2017-07-11 13:23:36.946 -0600,"Success",0:00:01,0,0,0,"20170711_132336.946/LogFile.txt","","",1
+2017-07-11 13:23:40.479 -0600,"Success",0:00:02,0,0,0,"20170711_132340.479/LogFile.txt","","",1
+2017-07-11 13:23:46.716 -0600,"Success",0:00:02,0,0,0,"20170711_132346.716/LogFile.txt","","",1
+2017-07-11 13:24:02.132 -0600,"Success",0:00:03,0,0,0,"20170711_132402.132/LogFile.txt","","",1
+2017-07-11 13:24:11.326 -0600,"Success",0:00:02,0,0,0,"20170711_132411.326/LogFile.txt","","",1
+2017-07-11 13:24:36.043 -0600,"Success",0:00:03,0,0,0,"20170711_132436.043/LogFile.txt","","",1
+2017-07-11 13:24:45.855 -0600,"Success",0:00:01,0,0,0,"20170711_132445.855/LogFile.txt","","",1
+2017-07-11 13:25:45.015 -0600,"Success",0:00:05,0,0,0,"20170711_132545.015/LogFile.txt","","",1
+2017-07-11 13:25:59.888 -0600,"Success",0:00:01,0,0,0,"20170711_132559.888/LogFile.txt","","",1
+2017-07-11 13:26:09.820 -0600,"Failure",0:00:02,1,0,0,"20170711_132609.820/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'typedecodetext'",0
+2017-07-11 13:27:08.881 -0600,"Success",0:00:03,0,0,0,"20170711_132708.881/LogFile.txt","","",1
+2017-07-11 13:29:44.162 -0600,"Success",0:00:14,0,0,0,"20170711_132944.162/LogFile.txt","","",1
+2017-07-11 13:30:11.641 -0600,"Success",0:00:03,0,0,0,"20170711_133011.641/LogFile.txt","","",1
+2017-07-11 13:30:20.936 -0600,"Success",0:00:02,0,0,0,"20170711_133020.936/LogFile.txt","","",1
+2017-07-11 13:35:24.394 -0600,"Success",0:00:05,0,0,0,"20170711_133524.394/LogFile.txt","","",1
+2017-07-18 22:33:35.782 -0400,"Failure",0:00:00,1,0,1,"20170718_223335.782/LogFile.txt","","No Remote Connection -- typeencodedtext Error - Remote Connection Unavailable",0
+2017-08-02 11:14:24.768 -0600,"Failure",0:00:00,1,0,0,"20170802_111424.768/LogFile.txt","","SenseTalk Compiler Exception -- in runpasswordencrypt:\nSyntax Error at line 3: Syntax Error - can't understand ""!"" at or near character 47",0
+2017-08-02 11:14:34.866 -0600,"Success",0:00:06,0,0,0,"20170802_111434.866/LogFile.txt","","",1
+2017-08-02 11:15:56.148 -0600,"Success",0:00:07,0,0,0,"20170802_111556.148/LogFile.txt","","",1

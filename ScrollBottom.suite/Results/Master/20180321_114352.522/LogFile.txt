@@ -1,0 +1,14 @@
+﻿2018-03-21 11:43:52.523 +0530	START		Running Master.script
+2018-03-21 11:43:53.123 +0530	imagerectangle	name	at (345,94,419,119)	4	on_master	Master.script
+2018-03-21 11:43:53.154 +0530	readtext		(205,126,539,149)
+2018-03-21 11:43:53.154 +0530	Log		Tiger Nixon	10	on_master	Master.script
+2018-03-21 11:43:54.193 +0530	readtext		(205,150,539,173)
+2018-03-21 11:43:54.193 +0530	Log		John Winters	10	on_master	Master.script
+2018-03-21 11:43:55.231 +0530	readtext		(205,174,539,197)
+2018-03-21 11:43:55.232 +0530	Log		Austin Cox	10	on_master	Master.script
+2018-03-21 11:43:56.290 +0530	readtext		(205,198,539,221)
+2018-03-21 11:43:56.290 +0530	Log		Charles Kellv	10	on_master	Master.script
+2018-03-21 11:43:57.387 +0530	readtext		(205,222,539,245)
+2018-03-21 11:43:57.387 +0530	Log		S\nirnanHa Qatmi	10	on_master	Master.script
+2018-03-21 11:43:58.340 +0530	EndTestCase		(Duration:"5.815919", Errors:"1", Exceptions:"0", StartTime:"2018-03-21 11:43:52 +0530", Successes:"0", TestCase:"Master.script", Warnings:"0")
+2018-03-21 11:43:58.341 +0530	ABORTED		Execution Time 0:00:05 Master.script

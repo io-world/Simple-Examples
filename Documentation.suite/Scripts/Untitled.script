@@ -1,0 +1,10 @@
+﻿
+
+
+put ReadText((111,64,1042,362)) into data
+
+
+repeat with each line of data
+	
+	log it
+end repeat

@@ -1,0 +1,51 @@
+﻿
+on Create CSVName
+	put <<"Medical Record Number","Suffix","First Name","Middle Name","Last Name","Date of Birth","Social Security Number","Gender","Marital Status","Created Date","Coding Date","Billing Date","Claims Date","Charge Capture Date">> into Header
+	create file ResourcePath(CSVName &".csv")
+	put  ResourcePath(CSVName &".csv") into MyFileVar
+	open  file MyFileVar
+	write Header to file MyFileVar
+	close   file MyFileVar
+	
+	
+	put (type:"CSV", file:ResourcePath(CSVName &".csv"),writable: "Yes") into my CSVCall
+	put CSVName into my CSVName
+end Create
+
+
+
+
+on Delete CSVName
+
+	if CSVName is not empty then
+		put CSVName into my CSVName
+	end if
+	
+	
+	Try	
+		Delete file ResourcePath(my CSVName &".csv")
+	Catch 
+		Log "File does not exist"	
+	End try
+end Delete
+
+
+
+on Write PatientList
+	add records PatientList to my CSVCall
+end Write
+
+on DirectWrite CSVName, PatientList
+
+
+	put <<"Medical Record Number","Suffix","First Name","Middle Name","Last Name","Date of Birth","Social Security Number","Gender","Marital Status","Created Date","Coding Date","Billing Date","Claims Date","Charge Capture Date">> into Header
+	put  ResourcePath(CSVName &".csv") into MyFileVar
+	open  file MyFileVar
+	write Header to file MyFileVar
+	close   file MyFileVar
+	put (type:"CSV", file:ResourcePath(CSVName &".csv"),writable: "Yes") into MyFileVar
+	add records PatientList to MyFileVar
+	
+	
+	
+end DirectWrite

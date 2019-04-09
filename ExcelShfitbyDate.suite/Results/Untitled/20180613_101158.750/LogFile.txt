@@ -1,0 +1,5 @@
+﻿2018-06-13 10:11:58.751 -0600	START		Running Untitled.script
+2018-06-13 10:11:58.894 -0600	Log		12	9	on_untitled	Untitled.script
+2018-06-13 10:11:58.897 -0600	Log		0 12	24	on_untitled	Untitled.script
+2018-06-13 10:11:59.279 -0600	EndTestCase		(Duration:"0.526244", Errors:"0", Exceptions:"0", StartTime:"2018-06-13 10:11:58 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2018-06-13 10:11:59.318 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

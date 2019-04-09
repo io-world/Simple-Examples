@@ -1,0 +1,21 @@
+Medical Record Number,Suffix,First Name,Middle Name,Last Name,Date of Birth,Social Security Number,Gender,Marital Status,Created Date,Coding Date,Billing Date,Claims Date,Charge Capture Date
+071021,Dr,Anna,M,James,1981-08-14,399-60-2300,Female,Domestic,,Completed,2018-12-02,2018-12-05,2018-12-06
+574148,Mrs,Amy,G,Reed,1998-03-09,036-28-8674,Female,Married,Completed,2018-12-01,2018-12-02,,
+354223,Dr,Olivia,Y,Carlson,2000-02-01,337-48-2562,Female,Widowed,2018-12-01,2018-12-03,2018-12-05,2018-12-06,
+511451,Ms,Margaret,L,Jenkins,1993-03-05,040-72-9921,Female,Domestic,2018-12-05,,,2018-12-06,
+231883,Mr,Anthony,X,Martin,2017-08-23,358-78-1838,Male,Divorced,2018-12-01,2018-12-03,2018-12-08,2018-12-09,
+885287,Ms,Frances,F,Beck,2005-02-16,415-76-2524,Female,Divorced,2018-12-02,2018-12-03,,2018-12-05,
+598722,Mr,Scott,W,Ruiz,1992-12-12,128-54-2292,Male,Domestic,2018-12-03,,2018-12-04,,2018-12-06
+367058,Mr,Billy,H,Brown,1994-06-18,557-89-1652,Male,Single,,2018-12-06,2018-12-07,2018-12-09,2018-12-10
+753295,Mrs,Rachel,K,Bell,2014-03-26,804-48-6695,Female,Married,2018-12-01,,,2018-12-07,2018-12-08
+142272,Ms,Evelyn,Y,Aguilar,1985-07-14,198-91-9632,Female,Divorced,,2018-12-07,2018-12-08,2018-12-08,
+451449,Mr,Steven,G,Johnson,1979-09-02,475-70-3956,Male,Domestic,Not Completed,,,2018-12-06,2018-12-10
+510382,Mrs,Rachel,M,Robinson,1972-11-03,029-15-5708,Female,Married,2018-12-01,2018-12-03,2018-12-06,2018-12-06,
+349875,Ms,Madison,U,Adams,1988-08-02,686-18-5651,Female,Single,,,2018-12-04,,2018-12-09
+922876,Mr,Aaron,M,Sanchez,1997-12-06,580-50-6495,Male,Widowed,2018-12-02,2018-12-03,2018-12-06,2018-12-07,2018-12-08
+681495,Ms,Martha,T,Ellis,2015-11-14,221-02-7836,Female,Domestic,Completed,,2018-12-01,2018-12-03,2018-12-09
+867431,Dr,Jane,Q,Perez,1981-12-08,731-04-4738,Female,Single,,2018-12-02,2018-12-03,,2018-12-10
+194513,Mrs,Stephanie,I,Rice,2010-08-04,444-08-6760,Female,Married,,2018-12-04,2018-12-08,2018-12-10,2018-12-10
+360948,Mr,Randy,W,Mills,1975-05-24,972-37-6479,Male,Married,Completed,2018-12-02,2018-12-06,,2018-12-08
+460722,Mr,Lawrence,P,Powell,1981-11-23,401-91-1516,Male,Domestic,2018-12-01,,2018-12-06,2018-12-07,
+817568,Ms,Judy,A,Hall,2005-09-25,756-83-3300,Female,Widowed,2018-12-03,2018-12-04,2018-12-08,2018-12-08,2018-12-09

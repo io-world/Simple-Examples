@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Master.script" package="ScrollBottom.suite" timestamp="2018-03-21 11:46:37.561 +0530"
+ tests="1" successes="0" errors="1" time="1.443250">
+  <properties>
+   <property name="RunDate" value="2018-03-21 11:46:37.561 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Master.script" assertions="1" successes="0" errors="1" time="1.440857">
+    <failure type="LogError">To Much Scrolling</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,31 @@
+State,Action
+Initial,Launch Epic 2017
+HyperSpace,OK
+EVS Command Center,Create a new Request
+Cleaning Request,Unit
+Cleaning Request,Bed
+Bed Select,Cancel
+Cleaning Request,Cleaning Protocols
+Cleaning Protocol Test,Cancel
+Cleaning Protocol Test,Aire Borne Contact
+Cleaning Protocol Test,Accept
+Cleaning Request,Room
+Cleaning Request,Unit
+Cleaning Request,Cleaning Protocols
+Cleaning Protocol Test,Cancel
+Cleaning Protocol Test,Contact
+Cleaning Protocol Test,Airbourne Respirator
+Cleaning Protocol Test,Back
+Cleaning Request,Bed
+Bed Select,Back
+Cleaning Request,Room
+Cleaning Request,Cancel
+EVS Command Center,Create a new Request
+Cleaning Request,Priority
+Cleaning Request,Cleaning Protocols
+Cleaning Protocol Test,Back
+Cleaning Request,Cancel
+EVS Command Center,Create a new Request
+Cleaning Request,Priority
+Cleaning Request,Room
+Cleaning Request,Cancel

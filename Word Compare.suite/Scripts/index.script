@@ -1,0 +1,15 @@
+﻿set a to (1,2,3,4,5,6,7)
+set b to 1..20 by 3
+
+set b to b as list
+log b
+put items of b that are not in a into out
+
+log out
+
+
+
+
+put (1,2,3,4,5,6,7,1,2,3,4,5,6) into FOO
+
+log the unique items of foo

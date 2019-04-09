@@ -1,0 +1,6 @@
+﻿2017-08-29 08:54:07.936 -0600	START		Running index.script
+2017-08-29 08:54:07.987 -0600	Log		Start all of it	2	on_initialize	
+2017-08-29 08:54:08.024 -0600	Log		Rabbit	14	on_index	index.script
+2017-08-29 08:54:08.030 -0600	Log			2	on_login	
+2017-08-29 08:54:08.634 -0600	EndTestCase		(Duration:"0.696377", Errors:"0", Exceptions:"0", StartTime:"2017-08-29 08:54:07 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-08-29 08:54:08.660 -0600	SUCCESS		Execution Time 0:00:00 index.script

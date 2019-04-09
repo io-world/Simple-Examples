@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="PropertyList">
+ <run>
+  <RunDate>2017-06-27 08:46:34.602 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.252698</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170627_084634.602/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-18 22:35:42.274 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.231146</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170718_223542.274/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

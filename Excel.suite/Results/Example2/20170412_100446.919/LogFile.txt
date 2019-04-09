@@ -1,3 +1,0 @@
-﻿2017-04-12 10:04:46.920 -0600	START		Running Example2.script
-2017-04-12 10:04:47.767 -0600	EndTestCase		(Duration:"0.845586", Errors:"1", Exceptions:"0", StartTime:"2017-04-12 10:04:46 -0600", Successes:"0", TestCase:"Example2.script", Warnings:"0")
-2017-04-12 10:04:48.085 -0600	FAILURE	Screen_Error.png	Worksheet Error CellRange() requires a worksheet to read from (got: (null)) -- Execution Time 0:00:00 Example2.script

@@ -1,0 +1,42 @@
+﻿
+(*
+to initialize
+	put 0 into my counter
+end initialize
+*)
+
+
+on COW
+	try
+		me.foo
+	catch
+		log "REDO"
+		me.foo
+	end try
+end COW
+
+
+on FOO
+	log "FROM FOO"
+	click "image"
+end FOO
+
+
+
+on BAR
+	
+	log "RESULTS" && result.errors
+	
+	log "from BAR"
+	log "my var:" && my var
+	
+	
+end BAR
+
+
+
+on BAZ
+
+	log "from BAZ"
+	
+end BAZ

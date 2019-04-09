@@ -1,0 +1,7 @@
+﻿2017-07-17 23:19:49.749 -0400	START		Running index.script
+2017-07-17 23:19:49.806 -0400	Log		Running Flow 1	1	on_flow1	Flow1.script
+2017-07-17 23:19:49.808 -0400	Log		Running Flow 2	1	on_flow2	Flow2.script
+2017-07-17 23:19:49.837 -0400	Log		Running Flow 3	1	on_flow3	Flow3.script
+2017-07-17 23:19:49.839 -0400	Exception		Remote Connection Unavailable	4	on_flow3	Flow3.script
+2017-07-17 23:19:50.013 -0400	EndTestCase		(Duration:"0.262742", Errors:"1", Exceptions:"1", StartTime:"2017-07-17 23:19:49 -0400", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-07-17 23:19:50.021 -0400	FAILURE		No Remote Connection click Error - Remote Connection Unavailable -- Execution Time 0:00:00 index.script

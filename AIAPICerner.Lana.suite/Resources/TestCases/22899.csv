@@ -1,0 +1,38 @@
+State,Action
+Initial,Patient
+Registration,Forms
+Waiting Room,In Patient
+Pharmacy,Oxycodone
+Pharmacy,Hydrocodone
+Pharmacy,Ibuprofen
+Pharmacy,Oxycodone
+Pharmacy,Network Drop
+Pharmacy,Back
+Waiting Room,In Patient
+Diagnostic imaging,Nuclear Medicine
+Diagnostic imaging,Back
+Waiting Room,In Patient
+Oncology,Radiation
+Oncology,Back
+Waiting Room,In Patient
+Maternity departments,Postnatal care
+Maternity departments,Delivery Suite
+Maternity departments,Back
+Waiting Room,In Patient
+Diagnostic imaging,Nuclear Medicine
+Diagnostic imaging,Back
+Waiting Room,In Patient
+Pharmacy,Network Drop
+Pharmacy,Hydrocodone
+Pharmacy,Oxycodone
+Pharmacy,Ibuprofen
+Pharmacy,Back
+Waiting Room,Network Drop
+Waiting Room,In Patient
+Maternity departments,Back
+Waiting Room,In Patient
+Oncology,Chemotherapy
+Oncology,Radiation
+Oncology,Network Drop
+Oncology,Back
+Waiting Room,In Patient

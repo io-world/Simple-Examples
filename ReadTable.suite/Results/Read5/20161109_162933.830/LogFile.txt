@@ -1,4 +1,0 @@
-﻿2016-11-09 16:29:33.832 -0700	START		Running Read5.script
-2016-11-09 16:29:35.529 -0700	Log		((001,Bulbasaur,Fushigidane,231,,,,080,,,),(002,Ivysaur,Fushigisou,232,,,,081,,,Bulbasaur),(003,Venusaur,Fushigibana,233,,,,082,,,Ivysaur),(004,Charmander,Hitokage,234,,,,083,,,Egg),(005,Charmeleon,Lizardo,235,,,,084,,,Charmander),(006,Charizard,Lizardon,236,,,,085,,,Charmeleon),(007,Squirtle,Zenigame,237,,,,086,,,Egg),(008,Wartortle,Kameil,238,,,,087,,,Squirtle),(009,Blastoise,Kamex,239,,,,088,,,Wartortle),(010,Caterpie,Caterpie,024,,,,023,,,Egg),(011,Metapod,Transel,025,,,,024,,,Caterpie),(012,Butterfree,Butterfree,026,,,,025,,,Meta pod),(013,Weedle,Beedle,027,,,,026,,,Egg))	2	on_read5	Read5.script
-2016-11-09 16:29:36.545 -0700	EndTestCase		(Duration:"2.711474", Errors:"0", Exceptions:"0", StartTime:"2016-11-09 16:29:33 -0700", Successes:"1", TestCase:"Read5.script", Warnings:"0")
-2016-11-09 16:29:36.557 -0700	SUCCESS		Execution Time 0:00:02 Read5.script

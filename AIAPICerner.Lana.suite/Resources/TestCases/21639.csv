@@ -1,0 +1,11 @@
+State,Action
+Initial,Patient
+Registration,Forms
+Waiting Room,In Patient
+Intensive Care Unit,Haemodynamic monitoring
+Intensive Care Unit,Code Blue
+Intensive Care Unit,Ventilator
+Intensive Care Unit,Crash Cart
+Intensive Care Unit,Haemodynamic monitoring
+Intensive Care Unit,Back
+Waiting Room,In Patient

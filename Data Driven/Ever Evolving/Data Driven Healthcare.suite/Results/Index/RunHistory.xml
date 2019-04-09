@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Index">
+ <run>
+  <RunDate>2017-07-03 13:59:40.979 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.562678</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170703_135940.979/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: Test/A/Contacts</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-16 16:27:30.164 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>450.531468</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170816_162730.164/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-11-01 18:56:43.259 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.436340</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20171101_185643.259/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-11-01 18:58:11.099 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>499.670256</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20171101_185811.099/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

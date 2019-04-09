@@ -1,0 +1,11 @@
+﻿2018-06-11 14:34:00.685 -0600	START		Running Master 1.script
+2018-06-11 14:34:09.272 -0600	Exception	HOLDING	No Image Found On Screen: "HOLDING"	1	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 14:34:10.125 -0600	Log		Error Name: Runtime Error at line 1: Image Not Found - click Error - No Image Found On Screen: "HOLDING"	5	function_attemptrecovery	attemptRecovery.script
+2018-06-11 14:34:10.127 -0600	Log		Action Name: click	6	function_attemptrecovery	attemptRecovery.script
+2018-06-11 14:34:10.135 -0600	Log		Image Name: (HOLDING)	7	function_attemptrecovery	attemptRecovery.script
+2018-06-11 14:34:10.154 -0600	Log		Going to re capture: (HOLDING)	20	function_attemptrecovery	attemptRecovery.script
+2018-06-11 14:34:11.017 -0600	capturescreen	chrome/chrome-2018-06-11--14-34-10.png	(165,110,212,157)	29	function_attemptrecovery	attemptRecovery.script
+2018-06-11 14:34:11.048 -0600	Exception	HOLDING	Could Not Open Image: HOLDING	1	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 14:34:11.052 -0600	Throw		File Not Found - click Error - Could Not Open Image: HOLDING	15	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 14:34:11.331 -0600	EndTestCase		(Duration:"10.644957", Errors:"1", Exceptions:"3", StartTime:"2018-06-11 14:34:00 -0600", Successes:"0", TestCase:"Master 1.script", Warnings:"0")
+2018-06-11 14:34:12.187 -0600	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: HOLDING -- Execution Time 0:00:10 Master 1.script

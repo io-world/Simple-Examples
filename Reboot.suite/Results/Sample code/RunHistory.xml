@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Sample code">
+ <run>
+  <RunDate>2017-07-27 13:59:13.071 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.513790</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170727_135913.071/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Connection Failed -- Unable to connect to Server:172.16.229.147 on port:5900
+Connection Timed Out - Unable to Connect to Host</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-27 14:00:04.669 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.518460</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170727_140004.669/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Connection Failed -- Unable to connect to Server:172.16.229.147 on port:5900
+Connection Timed Out - Unable to Connect to Host</ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,9 @@
+﻿log "something"
+
+
+//SOME CODE
+
+
+--ResultRename (the name of me)
+
+log  ScriptResults()

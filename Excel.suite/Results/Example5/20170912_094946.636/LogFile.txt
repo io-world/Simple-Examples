@@ -1,0 +1,4 @@
+﻿2017-09-12 09:49:46.637 -0600	START		Running Example5.script
+2017-09-12 09:49:46.713 -0600	Log		(@"date of birth":"2014-03-16 12:00:00 -0600", @"first name":"Carrie", gender:"Female", @"last name":"Underwood", @"marital status":"Married", @"medical record number":"333333", @"middle name":"", prefix:"Mrs", @"social security number":"583-00-6387")	7	on_example5	Example5.script
+2017-09-12 09:49:46.945 -0600	EndTestCase		(Duration:"0.306585", Errors:"0", Exceptions:"0", StartTime:"2017-09-12 09:49:46 -0600", Successes:"1", TestCase:"Example5.script", Warnings:"0")
+2017-09-12 09:49:46.956 -0600	SUCCESS		Execution Time 0:00:00 Example5.script

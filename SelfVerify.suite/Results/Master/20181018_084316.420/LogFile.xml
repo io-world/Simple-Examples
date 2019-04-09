@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Master_script" package="SelfVerify.suite" timestamp="2018-10-18 08:43:16.420 -0600"
+ tests="1"  failures="0" errors="0" time="14.506975">
+  <properties>
+   <property name="RunDate" value="2018-10-18 08:43:16.420 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Master.script" assertions="1" status="success"  time="14.504744">
+  </testcase>
+ </testsuite>
+</testsuites>

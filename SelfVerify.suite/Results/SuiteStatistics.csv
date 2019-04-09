@@ -1,0 +1,3 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+Script1,Success,14,0,2018-10-18 08:40:03 -0600,2018-12-07 18:38:27 -0700,0:00:00
+Script2,Failure,9,3,2018-10-18 10:07:55 -0600,2018-10-18 10:14:39 -0600,0:00:00

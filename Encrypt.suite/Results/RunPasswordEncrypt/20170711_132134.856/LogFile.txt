@@ -1,0 +1,4 @@
+﻿2017-07-11 13:21:34.857 -0600	START		Running index.script
+2017-07-11 13:21:34.897 -0600	Log		&vdwkU9ND~r?	2	on_index	index.script
+2017-07-11 13:21:35.124 -0600	EndTestCase		(Duration:"0.265461", Errors:"1", Exceptions:"0", StartTime:"2017-07-11 13:21:34 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-07-11 13:21:35.154 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: 'decodetext' was called as a Command, but is only available as a Function -- Execution Time 0:00:00 index.script

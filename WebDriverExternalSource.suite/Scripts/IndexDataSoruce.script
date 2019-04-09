@@ -1,0 +1,36 @@
+﻿
+put the WebDriver into Driver
+put RemoteScreenRectangle() into  Driver.WindowRectangle
+
+put "https://www.progressive.com/" into Driver.url 
+
+
+
+
+put file ResourcePath("SeleniumDataSet.csv") into SeleniumDataSet
+put (the number of lines of SeleniumDataSet)-1 into SeleniumLineCount
+
+repeat SeleniumLineCount times
+	
+	put repeatindex() +1 into LineStart
+	put line LineStart of SeleniumDataSet into SeleniumDataLine
+	//-------------------------------------------------------------------------------------
+	put item 1 of  SeleniumDataLine into UserActions
+	put item 2 of  SeleniumDataLine into LocatorStrategy
+	put item 3 of  SeleniumDataLine into ElementIdentifier
+	log UserActions
+	log LocatorStrategy
+	log ElementIdentifier
+	//-------------------------------------------------------------------------------------
+	put (ElementIdentifier) into EggplantCall.(LocatorStrategy)
+	//-------------------------------------------------------------------------------------
+	if UserActions = "Assert" then
+		Assert that WebElementFound(EggplantCall) is True
+	else if UserActions = "Click" then
+		Click EggplantCall
+	else if UserActions = "Moveto" then
+		moveto EggplantCall
+	end if
+	//-------------------------------------------------------------------------------------
+	put empty into EggplantCall
+end repeat

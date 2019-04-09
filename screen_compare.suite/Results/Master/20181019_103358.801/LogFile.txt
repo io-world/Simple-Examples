@@ -1,0 +1,9 @@
+﻿2018-10-19 10:33:58.802 -0600	START		Running Master.script
+2018-10-19 10:33:58.936 -0600	Log		EXEPath: /Users/randyhesse/Desktop/screen_compare.suite/Resources/screen_compare/screen_compare	21	on_screen_compare	screen_compare.script
+2018-10-19 10:33:58.937 -0600	Log		ImagePath1 /Users/randyhesse/Desktop/screen_compare.suite/Images/ScreenshotA.png	22	on_screen_compare	screen_compare.script
+2018-10-19 10:33:58.939 -0600	Log		ImagePath2 /Users/randyhesse/Desktop/screen_compare.suite/Images/ScreenshotA.png	23	on_screen_compare	screen_compare.script
+2018-10-19 10:33:58.940 -0600	Log		OutputImagePath /Users/randyhesse/Desktop/screen_compare.suite/Images/newimage.png	24	on_screen_compare	screen_compare.script
+2018-10-19 10:33:58.941 -0600	Log		OutputTextPath /Users/randyhesse/Desktop/screen_compare.suite/Resources/newtext.txt	25	on_screen_compare	screen_compare.script
+2018-10-19 10:33:58.942 -0600	Log		Running Shell Command: /Users/randyhesse/Desktop/screen_compare.suite/Resources/screen_compare/screen_compare --input /Users/randyhesse/Desktop/screen_compare.suite/Images/ScreenshotA.png --input /Users/randyhesse/Desktop/screen_compare.suite/Images/ScreenshotB.png --output /Users/randyhesse/Desktop/screen_compare.suite/Images/newimage.png > /Users/randyhesse/Desktop/screen_compare.suite/Resources/newtext.txt	26	on_screen_compare	screen_compare.script
+2018-10-19 10:33:59.510 -0600	EndTestCase		(Duration:"0.705856", Errors:"0", Exceptions:"0", StartTime:"2018-10-19 10:33:58 -0600", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-10-19 10:33:59.527 -0600	SUCCESS		Execution Time 0:00:00 Master.script

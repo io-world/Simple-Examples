@@ -1,0 +1,7 @@
+﻿2017-07-13 23:02:21.459 -0600	START		Running index.script
+2017-07-13 23:02:21.556 -0600	Log		Start all of it	2	on_initialize	
+2017-07-13 23:02:21.560 -0600	Log		Windows 10	9	on_index	index.script
+2017-07-13 23:02:21.561 -0600	Log		penny	11	on_index	index.script
+2017-07-13 23:02:21.562 -0600	Log		something and :blah	2	on_displayout	
+2017-07-13 23:02:21.702 -0600	EndTestCase		(Duration:"0.241824", Errors:"0", Exceptions:"0", StartTime:"2017-07-13 23:02:21 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-07-13 23:02:21.708 -0600	SUCCESS		Execution Time 0:00:00 index.script

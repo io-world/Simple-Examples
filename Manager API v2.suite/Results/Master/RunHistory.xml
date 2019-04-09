@@ -1,0 +1,233 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Master">
+ <run>
+  <RunDate>2018-04-06 10:12:07.320 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.568369</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180406_101207.320/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-06 10:12:58.696 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.801191</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180406_101258.696/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-06 10:13:12.769 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.746355</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180406_101312.769/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-06 10:29:16.323 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.751087</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180406_102916.323/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-06 10:29:26.967 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.891436</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180406_102926.967/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-06 10:35:03.580 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.727720</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180406_103503.580/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-06 10:36:59.438 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.803081</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180406_103659.438/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-06 11:15:29.943 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.917319</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180406_111529.943/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-06 11:15:50.366 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.879884</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180406_111550.366/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-06 11:16:17.904 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.950279</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180406_111617.904/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-06 11:16:41.893 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.870709</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180406_111641.893/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-06 11:17:32.369 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.056303</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180406_111732.369/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-06 11:21:55.244 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.078148</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180406_112155.244/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;username&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-06 12:07:32.777 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.210643</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180406_120732.777/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Connection Failed -- Unable to connect to Server:127.0.0.1 on port:5902
+Connection Error: 61:Connection refused</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-06 12:14:11.848 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.065087</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180406_121411.848/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Connection Failed -- Unable to connect to Server:127.0.0.1 on port:5902
+Connection Error: 61:Connection refused</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-06 13:52:12.480 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>7.591116</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180406_135212.480/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-06 13:59:03.236 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.360082</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180406_135903.236/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-06 14:06:44.869 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.130484</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180406_140644.869/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-06 14:07:03.386 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>7.980993</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180406_140703.386/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

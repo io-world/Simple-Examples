@@ -1,0 +1,6 @@
+﻿shell ("/Applications/VMware\ Fusion.app/Contents/Library/vmrun -T fusion start /Users/randyhesse/Documents/Virtual\ Machines.localized/Windows\ 10\ x64.vmwarevm/Windows\ 10\ x64.vmx gui")
+
+
+
+
+shell ("/Applications/VMware\ Fusion.app/Contents/Library/vmrun -T fusion stop /Users/randyhesse/Documents/Virtual\ Machines.localized/Windows\ 10\ x64.vmwarevm/Windows\ 10\ x64.vmx gui")

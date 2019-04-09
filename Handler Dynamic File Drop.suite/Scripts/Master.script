@@ -1,0 +1,21 @@
+﻿
+
+
+put  suiteinfo().scriptsFolder &"/Utilities/" into Pathway
+put the files of Pathway into myFolder
+
+repeat  the number of items in  myFolder times
+	
+	
+	put item repeatindex() of myFolder into scriptname
+	put "/Utilities/"& scriptname into scriptname
+	
+	//insert scriptname  into  HLO's helpers
+	put scriptname ">>  into HLO's helpers
+	
+end repeat
+
+
+
+(HLO).five
+

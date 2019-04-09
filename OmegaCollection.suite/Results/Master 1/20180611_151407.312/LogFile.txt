@@ -1,0 +1,4 @@
+﻿2018-06-11 15:14:07.314 -0600	START		Running Master 1.script
+2018-06-11 15:14:08.282 -0600	click	chromeasdasd	at (189, 134)	1	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 15:14:08.540 -0600	EndTestCase		(Duration:"1.225402", Errors:"0", Exceptions:"0", StartTime:"2018-06-11 15:14:07 -0600", Successes:"1", TestCase:"Master 1.script", Warnings:"0")
+2018-06-11 15:14:08.557 -0600	SUCCESS		Execution Time 0:00:01 Master 1.script

@@ -1,0 +1,20 @@
+﻿/-----------------------------------------------------------
+put "services.msc" into CommandExecute
+shell "c:\windows\system32\cmd.exe"&<< /c ">>&CommandExecute&<<">>
+shell "c:\windows\system32\cmd.exe",<< /c ">>&CommandExecute&<<">>
+
+//-----------------------------------------------------------
+put "C:\windows\system32\notepad.exe" into CommandExecute
+shell "c:\windows\system32\cmd.exe",<< /c ">>&CommandExecute&<<">>
+
+//-----------------------------------------------------------
+put "ping 127.0.0.1" into CommandExecute
+shell "c:\windows\system32\cmd.exe",<< /c ">>&CommandExecute&<<" > c:\output\out.txt>>
+//-----------------------------------------------------------
+put "ping 127.0.0.1" into CommandExecute
+shell "c:\windows\system32\cmd.exe",<< /c ">>&CommandExecute&<<" > >>&ResourcePath()&<<\output.txt>>
+//-----------------------------------------------------------
+put "ping 127.0.0.1" into CommandExecute
+shell "c:\windows\system32\cmd.exe",<< /c ">>&CommandExecute&<<" > >>&ResourcePath()&<<\output.txt>>
+wait 5
+log file ResourcePath("output.txt")

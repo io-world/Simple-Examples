@@ -1,0 +1,4 @@
+﻿2017-07-12 16:42:20.136 -0600	START		Running Untitled.script
+2017-07-12 16:42:20.342 -0600	Log		"Successfully added salary information for 'Hesse, Randy'"\n	12	on_untitled	Untitled.script
+2017-07-12 16:42:20.687 -0600	EndTestCase		(Duration:"0.544664", Errors:"0", Exceptions:"0", StartTime:"2017-07-12 16:42:20 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2017-07-12 16:42:20.699 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

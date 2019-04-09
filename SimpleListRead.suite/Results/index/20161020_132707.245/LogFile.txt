@@ -1,5 +1,0 @@
-﻿2016-10-20 13:27:07.247 -0600	START		Running index.script
-2016-10-20 13:27:07.651 -0600	imagelocation	ClassSchedule	at (87, 86)	2	on_index	index.script
-2016-10-20 13:27:07.919 -0600	moveto		at (527, 171)	5	on_index	index.script
-2016-10-20 13:27:08.970 -0600	EndTestCase		(Duration:"1.721856", Errors:"0", Exceptions:"0", StartTime:"2016-10-20 13:27:07 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
-2016-10-20 13:27:08.977 -0600	SUCCESS		Execution Time 0:00:01 index.script

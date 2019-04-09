@@ -1,0 +1,31 @@
+State,Action
+Initial,Patient
+Registration,Forms
+Waiting Room,In Patient
+Cardiology,Back
+Waiting Room,In Patient
+Oncology,Chemotherapy
+Oncology,Back
+Waiting Room,In Patient
+Intensive Care Unit,Ventilator
+Intensive Care Unit,Haemodynamic monitoring
+Intensive Care Unit,Crash Cart
+Intensive Care Unit,Ventilator
+Intensive Care Unit,Back
+Waiting Room,Network Drop
+Waiting Room,In Patient
+Cardiology,Back
+Waiting Room,In Patient
+Diagnostic imaging,Nuclear Medicine
+Diagnostic imaging,Back
+Waiting Room,Code Blue
+Waiting Room,In Patient
+Oncology,Radiation
+Oncology,Chemotherapy
+Oncology,Code Blue
+Oncology,Back
+Waiting Room,In Patient
+General surgery,Day
+General surgery,Back
+Waiting Room,Out Patient
+Diagnostic Complete,Patient Leaves

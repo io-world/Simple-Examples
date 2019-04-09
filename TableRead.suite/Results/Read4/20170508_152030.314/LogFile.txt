@@ -1,4 +1,0 @@
-﻿2017-05-08 15:20:30.315 -0400	START		Running Read4.script
-2017-05-08 15:21:40.194 -0400	Exception	Show	Unable To Find Image "Show"	1	on_read4	Read4.script
-2017-05-08 15:21:40.458 -0400	EndTestCase		(Duration:"70.142052", Errors:"1", Exceptions:"1", StartTime:"2017-05-08 15:20:30 -0400", Successes:"0", TestCase:"Read4.script", Warnings:"0")
-2017-05-08 15:21:40.459 -0400	ABORTED		Execution Time 0:01:10 Read4.script

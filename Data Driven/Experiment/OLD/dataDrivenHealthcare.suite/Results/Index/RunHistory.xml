@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Index">
+ <run>
+  <RunDate>2017-07-03 13:59:40.979 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.562678</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170703_135940.979/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: Test/A/Contacts</ErrorMessage>
+ </run>
+</runHistory>

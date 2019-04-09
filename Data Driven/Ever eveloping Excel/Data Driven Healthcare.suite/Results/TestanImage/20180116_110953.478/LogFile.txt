@@ -1,0 +1,5 @@
+﻿2018-01-16 11:09:53.479 +0530	START		Running TestanImage.script
+2018-01-16 11:09:53.570 +0530	Throw		something - (no reason given)	10	on_testanimage	TestanImage.script
+2018-01-16 11:09:53.573 +0530	Log		text	18	on_testanimage	TestanImage.script
+2018-01-16 11:09:53.940 +0530	EndTestCase		(Duration:"0.459548", Errors:"0", Exceptions:"1", StartTime:"2018-01-16 11:09:53 +0530", Successes:"1", TestCase:"TestanImage.script", Warnings:"0")
+2018-01-16 11:09:53.977 +0530	SUCCESS		Execution Time 0:00:00 TestanImage.script

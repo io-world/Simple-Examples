@@ -1,0 +1,5 @@
+﻿2017-07-11 09:19:34.315 -0600	START		Running Modules/Verify.script
+2017-07-11 09:19:34.363 -0600	LogError		The Content Name does not exist	5	on_content	Modules/Verify.script
+2017-07-11 09:19:34.364 -0600	Exception		Image Property List did not contain "ImageName" property	24	on_content	Modules/Verify.script
+2017-07-11 09:19:34.561 -0600	EndTestCase		(Duration:"0.244851", Errors:"2", Exceptions:"1", StartTime:"2017-07-11 09:19:34 -0600", Successes:"0", TestCase:"Modules/Verify.script", Warnings:"0")
+2017-07-11 09:19:34.635 -0600	FAILURE	Screen_Error.png	Image Not Found imagefound Error - Image Property List did not contain "ImageName" property -- Execution Time 0:00:00 Modules/Verify.script

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Libraries/SUTConnect">
+ <run>
+  <RunDate>2017-06-13 13:01:21.329 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.274306</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170613_130121.329/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-13 13:01:34.042 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.268739</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170613_130134.042/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-13 13:01:49.004 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.272273</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170613_130149.004/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-06-13 13:01:55.221 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.285777</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170613_130155.221/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

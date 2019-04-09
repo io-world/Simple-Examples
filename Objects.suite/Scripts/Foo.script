@@ -1,0 +1,8 @@
+﻿
+function logins
+	return my accountName 
+end logins
+
+function REED
+	return "ducks"
+end REED

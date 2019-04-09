@@ -1,0 +1,3 @@
+﻿2017-07-27 14:22:52.661 -0600	START		Running Module.script
+2017-07-27 14:22:52.922 -0600	EndTestCase		(Duration:"0.259426", Errors:"1", Exceptions:"0", StartTime:"2017-07-27 14:22:52 -0600", Successes:"0", TestCase:"Module.script", Warnings:"0")
+2017-07-27 14:22:53.242 -0600	FAILURE	Screen_Error.png	STFileSystemException Failed to move /Users/randyhesse/Desktop/Screen Shot 2017-07-26 at 1.50.26 PM into folder /Users/randyhesse/Desktop/Barcode (Error: “Screen Shot 2017-07-26 at 1.50.26 PM” couldn’t be moved to “Barcode” because either the former doesn't exist, or the folder containing the latter doesn't exist.) -- Execution Time 0:00:00 Module.script

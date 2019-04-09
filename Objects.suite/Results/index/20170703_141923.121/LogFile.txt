@@ -1,0 +1,8 @@
+﻿2017-07-03 14:19:23.121 -0600	START		Running index.script
+2017-07-03 14:19:23.177 -0600	Log		Windows 10	8	on_index	index.script
+2017-07-03 14:19:23.179 -0600	Log		The Status is Alive	2	on_status	
+2017-07-03 14:19:23.224 -0600	Log		The Status is Alive	2	function_status	
+2017-07-03 14:19:23.226 -0600	Log		THe Function was executed correctly	16	on_index	index.script
+2017-07-03 14:19:23.237 -0600	Log		jjjj	3	on_displayout	
+2017-07-03 14:19:23.502 -0600	EndTestCase		(Duration:"0.379244", Errors:"0", Exceptions:"0", StartTime:"2017-07-03 14:19:23 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-07-03 14:19:23.509 -0600	SUCCESS		Execution Time 0:00:00 index.script

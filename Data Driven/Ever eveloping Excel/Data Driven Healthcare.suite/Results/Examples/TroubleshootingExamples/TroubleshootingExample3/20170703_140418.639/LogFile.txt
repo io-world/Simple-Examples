@@ -1,0 +1,12 @@
+﻿2017-07-03 14:04:18.640 -0600	START		Running Examples/TroubleshootingExamples/TroubleshootingExample3.script
+2017-07-03 14:04:18.759 -0600	Log		999999	11	on_examples_troubleshootingexamples_troubleshootingexample3	Examples/TroubleshootingExamples/TroubleshootingExample3.script
+2017-07-03 14:04:18.760 -0600	Log		Dr	12	on_examples_troubleshootingexamples_troubleshootingexample3	Examples/TroubleshootingExamples/TroubleshootingExample3.script
+2017-07-03 14:04:18.762 -0600	Log		Mickey	13	on_examples_troubleshootingexamples_troubleshootingexample3	Examples/TroubleshootingExamples/TroubleshootingExample3.script
+2017-07-03 14:04:18.763 -0600	Log		Mouse	14	on_examples_troubleshootingexamples_troubleshootingexample3	Examples/TroubleshootingExamples/TroubleshootingExample3.script
+2017-07-03 14:04:18.764 -0600	Log		6/14/00	15	on_examples_troubleshootingexamples_troubleshootingexample3	Examples/TroubleshootingExamples/TroubleshootingExample3.script
+2017-07-03 14:04:18.765 -0600	Log		984-56-3166	16	on_examples_troubleshootingexamples_troubleshootingexample3	Examples/TroubleshootingExamples/TroubleshootingExample3.script
+2017-07-03 14:04:18.766 -0600	Log		Male	17	on_examples_troubleshootingexamples_troubleshootingexample3	Examples/TroubleshootingExamples/TroubleshootingExample3.script
+2017-07-03 14:04:18.768 -0600	Log		Single	18	on_examples_troubleshootingexamples_troubleshootingexample3	Examples/TroubleshootingExamples/TroubleshootingExample3.script
+2017-07-03 14:04:18.795 -0600	Log		Patient	23	on_examples_troubleshootingexamples_troubleshootingexample3	Examples/TroubleshootingExamples/TroubleshootingExample3.script
+2017-07-03 14:04:19.126 -0600	EndTestCase		(Duration:"0.484897", Errors:"0", Exceptions:"0", StartTime:"2017-07-03 14:04:18 -0600", Successes:"1", TestCase:"Examples/TroubleshootingExamples/TroubleshootingExample3.script", Warnings:"0")
+2017-07-03 14:04:19.168 -0600	SUCCESS		Execution Time 0:00:00 Examples/TroubleshootingExamples/TroubleshootingExample3.script

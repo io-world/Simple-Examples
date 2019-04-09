@@ -1,0 +1,15 @@
+﻿2017-06-29 15:47:37.503 -0600	START		Running index.script
+2017-06-29 15:47:37.592 -0600	typetext		[windowsKey]	9	on_index	index.script
+2017-06-29 15:47:38.334 -0600	typetext		cmd	10	on_index	index.script
+2017-06-29 15:47:39.476 -0600	rightclick	Command Prompt Icon	at (75, 392)	11	on_index	index.script
+2017-06-29 15:47:40.662 -0600	click	administrator	at (179, 416)	12	on_index	index.script
+2017-06-29 15:47:41.213 -0600	waitfor	Command Prompt Icon Small	found at (178, 171)	13	on_index	index.script
+2017-06-29 15:47:41.878 -0600	typetext		regjump HKLM\Software\Microsoft\Windows[returnKey]	14	on_index	index.script
+2017-06-29 15:47:42.833 -0600	doubleclick	Columns/Type	at (466, 48)	18	on_index	index.script
+2017-06-29 15:47:43.900 -0600	imagelocation	Columns/Name	at (420, 57)	22	on_index	index.script
+2017-06-29 15:47:48.256 -0600	imagefound	(TEXT:"OneCoreNoBootDWM")	Unable to Find Image (TEXT:"OneCoreNoBootDWM")	28	on_index	index.script
+2017-06-29 15:47:48.257 -0600	LogError		Unable to Run: RL	38	on_index	index.script
+2017-06-29 15:47:48.283 -0600	typetext		[windowsAltKey][F4]	43	on_index	index.script
+2017-06-29 15:47:49.315 -0600	typetext		[windowsAltKey][F4]	46	on_index	index.script
+2017-06-29 15:47:49.583 -0600	EndTestCase		(Duration:"12.079035", Errors:"1", Exceptions:"0", StartTime:"2017-06-29 15:47:37 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-06-29 15:47:49.934 -0600	FAILURE	Screen_Error.png	Script Error Number of Errors logged: 1 -- Execution Time 0:00:12 index.script

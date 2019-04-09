@@ -1,6 +1,0 @@
-﻿2016-12-07 15:15:23.333 -0500	START		Running Read3.script
-2016-12-07 15:15:23.414 -0500	Log		10	7	on_read3	Read3.script
-2016-12-07 15:15:23.722 -0500	Log		Mr,Bruce,,Wayne,222222,6/13/06,113-83-3798,Male,Single	14	on_read3	Read3.script
-2016-12-07 15:15:23.728 -0500	Log		Mrs,Carrie,,Underwood,333333,3/16/14,583-00-6387,Female,Married	15	on_read3	Read3.script
-2016-12-07 15:15:24.092 -0500	EndTestCase		(Duration:"0.757703", Errors:"0", Exceptions:"0", StartTime:"2016-12-07 15:15:23 -0500", Successes:"1", TestCase:"Read3.script", Warnings:"0")
-2016-12-07 15:15:24.118 -0500	SUCCESS		Execution Time 0:00:00 Read3.script

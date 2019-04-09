@@ -1,0 +1,8 @@
+﻿2018-09-14 11:25:30.169 -0400	START		Running ADT01.script
+2018-09-14 11:25:30.286 -0400	Log		ADT^A01	21	on_adt01	ADT01.script
+2018-09-14 11:25:30.287 -0400	Log		DUCK^DONALD^D	22	on_adt01	ADT01.script
+2018-09-14 11:25:30.289 -0400	Log		19241010	23	on_adt01	ADT01.script
+2018-09-14 11:25:30.290 -0400	Log		M	24	on_adt01	ADT01.script
+2018-09-14 11:25:30.292 -0400	Log		111 DUCK ST^^FOWL^CA^999990000^^M	25	on_adt01	ADT01.script
+2018-09-14 11:25:30.465 -0400	EndTestCase		(Duration:"0.289408", Errors:"0", Exceptions:"0", StartTime:"2018-09-14 11:25:30 -0400", Successes:"1", TestCase:"ADT01.script", Warnings:"0")
+2018-09-14 11:25:30.480 -0400	SUCCESS		Execution Time 0:00:00 ADT01.script

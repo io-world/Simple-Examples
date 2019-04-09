@@ -1,0 +1,14 @@
+﻿
+
+
+on one
+
+	log " the one"
+	
+end one
+
+
+on two
+
+	log " the two"
+end two

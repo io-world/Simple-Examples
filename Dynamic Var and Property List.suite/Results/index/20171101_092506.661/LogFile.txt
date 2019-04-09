@@ -1,0 +1,5 @@
+﻿2017-11-01 09:25:06.662 -0600	START		Running index.script
+2017-11-01 09:25:06.714 -0600	Log		(var1:"John", var2:"Randy", var3:"something", var4:"nothing", var5:"Pants", var6:"6001", var7:"Cart")	27	on_index	index.script
+2017-11-01 09:25:06.715 -0600	Log		something	28	on_index	index.script
+2017-11-01 09:25:06.884 -0600	EndTestCase		(Duration:"0.221522", Errors:"0", Exceptions:"0", StartTime:"2017-11-01 09:25:06 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-11-01 09:25:06.900 -0600	SUCCESS		Execution Time 0:00:00 index.script

@@ -1,0 +1,5 @@
+﻿2018-10-18 08:41:30.750 -0600	START		Running Master.script
+2018-10-18 08:41:31.480 -0600	connect		Windows 10:(null)	2	on_master	Master.script
+2018-10-18 08:41:31.488 -0600	Exception	asd	Could Not Open Image: asd	5	on_master	Master.script
+2018-10-18 08:41:32.813 -0600	EndTestCase		(Duration:"2.060182", Errors:"0", Exceptions:"1", StartTime:"2018-10-18 08:41:30 -0600", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-10-18 08:41:32.831 -0600	SUCCESS		Execution Time 0:00:02 Master.script

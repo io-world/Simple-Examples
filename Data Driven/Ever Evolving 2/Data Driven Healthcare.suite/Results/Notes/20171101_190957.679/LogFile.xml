@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Notes.script" package="Data Driven Healthcare.suite" timestamp="2017-11-01 19:09:57.679 -0600"
+ tests="1" successes="1" errors="0" time="0.385030">
+  <properties>
+   <property name="RunDate" value="2017-11-01 19:09:57.679 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Notes.script" assertions="1" successes="1" errors="0" time="0.383313">
+  </testcase>
+ </testsuite>
+</testsuites>

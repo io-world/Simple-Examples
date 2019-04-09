@@ -1,0 +1,21 @@
+﻿2018-04-03 21:20:15.718 -0600	START		Running Untitled.script
+2018-04-03 21:20:16.107 -0600	readtext		(111,64,1042,362)
+2018-04-03 21:20:16.114 -0600	Log		NAME:	9	on_untitled	Untitled.script
+2018-04-03 21:20:16.116 -0600	Log		DESCRIPTION:	9	on_untitled	Untitled.script
+2018-04-03 21:20:16.117 -0600	Log		PARAMETERS:	9	on_untitled	Untitled.script
+2018-04-03 21:20:16.119 -0600	Log		VALIDATED SUTS:	9	on_untitled	Untitled.script
+2018-04-03 21:20:16.120 -0600	Log		LAST VALIDATED:	9	on_untitled	Untitled.script
+2018-04-03 21:20:16.121 -0600	Log		AUTHOR:	9	on_untitled	Untitled.script
+2018-04-03 21:20:16.122 -0600	Log		DATE:	9	on_untitled	Untitled.script
+2018-04-03 21:20:16.123 -0600	Log		MasterRu nner	9	on_untitled	Untitled.script
+2018-04-03 21:20:16.124 -0600	Log		Master Script	9	on_untitled	Untitled.script
+2018-04-03 21:20:16.125 -0600	Log		This version begins using a more modular approach that will be used to hide credentials	9	on_untitled	Untitled.script
+2018-04-03 21:20:16.126 -0600	Log		and uses some of the more advanced features of eggPlant.	9	on_untitled	Untitled.script
+2018-04-03 21:20:16.127 -0600	Log		Incorporates a more structured approach to the entire package	9	on_untitled	Untitled.script
+2018-04-03 21:20:16.128 -0600	Log		Parameters and vanables are pulled from an accompanying EXCEL spreadsheet in the	9	on_untitled	Untitled.script
+2018-04-03 21:20:16.129 -0600	Log		Resources area to a set of global properties.	9	on_untitled	Untitled.script
+2018-04-03 21:20:16.130 -0600	Log		I	9	on_untitled	Untitled.script
+2018-04-03 21:20:16.131 -0600	Log		Bonnie D Kempke (BDK)	9	on_untitled	Untitled.script
+2018-04-03 21:20:16.132 -0600	Log		27 Jul 2017	9	on_untitled	Untitled.script
+2018-04-03 21:20:16.345 -0600	EndTestCase		(Duration:"0.625309", Errors:"0", Exceptions:"0", StartTime:"2018-04-03 21:20:15 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2018-04-03 21:20:16.376 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

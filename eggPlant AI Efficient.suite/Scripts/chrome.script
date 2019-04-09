@@ -1,0 +1,58 @@
+﻿on Open
+	TypeText windowsKey & "r"
+	TypeText "chrome.exe" , returnKey
+end Open
+
+on NewTab
+	TypeText controlKey & "t"
+end NewTab
+
+on Incognito
+	TypeText controlKey & shiftkey & "n"
+end Incognito
+
+on GotoAddress
+	BeginTestCase "Chrome Load Time"
+	WaitFor 10, "Chrome/Refresh Icon"
+	endTestCase "Chrome Load Time"
+	TypeText controlKey & "l"
+	TypeText "www.amazon.com" , returnKey
+end GotoAddress
+
+on Loading PageName
+	
+	if (PageName is empty) then 
+		put the date && the time into PageName
+	end if
+	
+	BeginTestCase PageName
+	WaitFor 10, "Chrome/Refresh Icon"
+	endTestCase PageName
+	log PageName && "took" &&the result.Duration && "to load"
+	
+end loading
+
+on Close
+	if (ConnectionInfo().name <> "Windows 10") then
+		Connect "Windows 10"
+	end if
+	
+	repeat 3 times
+		put RemoteScreenSize() into RSS
+		if  imagefound(1,image:"Chrome/Refresh Icon",searchRectangle:((0,0),RSS*(0.25,0.25))) then
+			TypeText altKey & f4
+		end if
+		if (repeatindex() = "3") then
+			logwarning "Chrome is already Closed"
+			exit repeat
+		end if
+	end repeat
+	
+end close
+
+
+on Back
+	click "Chrome/Back"
+	
+	
+end Back

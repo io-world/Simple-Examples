@@ -1,0 +1,68 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.script",
+      "timestamp" : "2019-02-27 13:14:59.176 -0700"
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "(Text:\"Buttons\")",
+      "timestamp" : "2019-02-27 13:14:59.256 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 25
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "(EnableAggressiveTextExtraction:\"True\", Text:\"Buttons\")",
+      "timestamp" : "2019-02-27 13:14:59.258 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 25
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "(EnableAggressiveTextExtraction:\"True\", SearchRectangle:(0,0,500,500), Text:\"Buttons\")",
+      "timestamp" : "2019-02-27 13:14:59.261 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 25
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "(EnableAggressiveTextExtraction:\"True\", SearchRectangle:(0,0,500,500), Text:\"Buttons\", ValidCharacters:\"*\")",
+      "timestamp" : "2019-02-27 13:14:59.263 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 25
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "(EnableAggressiveTextExtraction:\"True\", SearchRectangle:(0,0,500,500), Text:\"Buttons\", ValidCharacters:\"*\", ValidWords:\"*\")",
+      "timestamp" : "2019-02-27 13:14:59.265 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 25
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "(EnableAggressiveTextExtraction:\"True\", SearchRectangle:(0,0,500,500), Text:\"Buttons\", ValidCharacters:\"*\", ValidWords:\"*\", WaitFor:\"1\")",
+      "timestamp" : "2019-02-27 13:14:59.268 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 25
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.354889\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-02-27 13:14:59 -0700\", Successes:\"1\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+      "timestamp" : "2019-02-27 13:14:59.532 -0700"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Untitled.script",
+      "timestamp" : "2019-02-27 13:14:59.548 -0700"
+    }
+  ],
+  "createdTimestamp" : "2019-02-27 13:14:59.177 -0700"
+}

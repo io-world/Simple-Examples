@@ -1,0 +1,6 @@
+﻿2018-10-18 08:51:01.783 -0600	START		Running Master.script
+2018-10-18 08:51:01.857 -0600	connect		Windows 10:(null)	2	on_master	Master.script
+2018-10-18 08:51:11.315 -0600	Exception	Refresh Icon	No Image Found On Screen: "Refresh Icon"	5	on_master	Master.script
+2018-10-18 08:51:11.318 -0600	Throw		Your Script is terrible - problems: Runtime Error at line 5: Image Not Found - click Error - No Image Found On Screen: "Refresh Icon"	9	on_master	Master.script
+2018-10-18 08:51:11.688 -0600	EndTestCase		(Duration:"9.903244", Errors:"1", Exceptions:"2", StartTime:"2018-10-18 08:51:01 -0600", Successes:"0", TestCase:"Master.script", Warnings:"0")
+2018-10-18 08:51:11.787 -0600	FAILURE	Screen_Error.png	Your Script is terrible problems: Runtime Error at line 5: Image Not Found - click Error - No Image Found On Screen: "Refresh Icon" -- Execution Time 0:00:09 Master.script

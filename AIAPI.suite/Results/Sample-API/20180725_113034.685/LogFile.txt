@@ -1,0 +1,4 @@
+﻿2018-07-25 11:30:34.686 -0600	START		Running Sample.apitest
+2018-07-25 11:30:34.691 -0600	LogWarning		Validation Warning: Empty request body.
+2018-07-25 11:32:15.204 -0600	EndTestCase		(Duration:"100.516971", Errors:"0", Exceptions:"0", StartTime:"2018-07-25 11:30:34 -0600", Successes:"1", TestCase:"Sample.apitest", Warnings:"1")
+2018-07-25 11:32:15.213 -0600	ABORTED		Execution Time 0:01:40 Sample.apitest

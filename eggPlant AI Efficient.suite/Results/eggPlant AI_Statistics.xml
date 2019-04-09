@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="ZeroState">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>57</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-11-06 13:47:20 -0700</FirstRun>
+  <LastRun>2017-12-12 22:02:39 -0600</LastRun>
+  <TotalTimeOnSuccess>0.960957</TotalTimeOnSuccess>
+ </script>
+ <script name="index">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-11-09 20:06:43 -0700</FirstRun>
+  <LastRun>2017-11-09 20:06:43 -0700</LastRun>
+  <TotalTimeOnSuccess>4.752719</TotalTimeOnSuccess>
+ </script>
+</statistics>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Examples/TroubleshootingExamples/TroubleshootingExample4">
+ <run>
+  <RunDate>2017-07-03 14:04:30.485 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.361585</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_140430.485/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-03 14:04:35.318 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.380751</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_140435.318/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

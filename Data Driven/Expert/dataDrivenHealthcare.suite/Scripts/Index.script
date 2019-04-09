@@ -1,0 +1,33 @@
+﻿----------------DO Not Touch--------------------------------------
+set GD to a new "Modules/GlobalDefine"
+
+Run (GD).SetupFiles
+Run (GD).SetupEnvironment
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+Connect "Tutorial Connection"
+-------------------------------------------------------------------------
+-----------Code Below can be altered--------------------------
+RunWithNewResults "States/Zero" 
+-------------------------------------------------------------------------
+RunWithNewResults "Libraries/Login" , (GD).GetUser ("3")
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+
+
+repeat (GD).PatientCount times
+	Run  "Test/A"
+	Run "Test/B"
+	put (GD)."BuildPatient"  (repeatindex()+1) into NewPatient
+	RunWithNewResults "Test/NewPatient", NewPatient
+end repeat
+
+
+RunWithNewResults "Libraries/Logout"
+RunWithNewResults "States/Zero"
+
+
+
+Run "States/Report"
+

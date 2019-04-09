@@ -3,3 +3,15 @@ put (last item of ScriptResults("index")).logfile into MyFilePath
 log MyFilePath
 put file MyFilePath into MyFileVar
 log line 2 of MyFileVar
+
+
+log ScriptResults("index").logfile
+
+
+
+log ScriptResults()
+
+
+
+put  shell("ls")into var
+log var

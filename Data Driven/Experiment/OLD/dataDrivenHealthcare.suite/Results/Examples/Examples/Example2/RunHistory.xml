@@ -1,0 +1,99 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Examples/Examples/Example2">
+ <run>
+  <RunDate>2017-07-03 14:06:54.932 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.523984</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_140654.932/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-03 14:07:16.402 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.515994</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_140716.402/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-03 14:09:36.342 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.543957</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_140936.342/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-03 14:09:58.654 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.593022</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_140958.654/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-03 14:10:50.223 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.514593</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170703_141050.223/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-03 14:11:57.513 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.583915</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_141157.513/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-03 14:13:15.805 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.526269</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_141315.805/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-03 14:13:21.424 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.530815</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_141321.424/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

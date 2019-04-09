@@ -1,0 +1,16 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-04-06 10:12:07.320 -0600,"Success",0:00:00,0,0,0,"20180406_101207.320/LogFile.txt","","",1
+2018-04-06 10:12:58.696 -0600,"Success",0:00:00,0,0,0,"20180406_101258.696/LogFile.txt","","",1
+2018-04-06 10:13:12.769 -0600,"Success",0:00:00,0,0,0,"20180406_101312.769/LogFile.txt","","",1
+2018-04-06 10:29:16.323 -0600,"Success",0:00:00,0,0,0,"20180406_102916.323/LogFile.txt","","",1
+2018-04-06 10:29:26.967 -0600,"Success",0:00:00,0,0,0,"20180406_102926.967/LogFile.txt","","",1
+2018-04-06 10:35:03.580 -0600,"Success",0:00:00,0,0,0,"20180406_103503.580/LogFile.txt","","",1
+2018-04-06 10:36:59.438 -0600,"Success",0:00:00,0,0,0,"20180406_103659.438/LogFile.txt","","",1
+2018-04-06 11:15:29.943 -0600,"Success",0:00:00,0,0,0,"20180406_111529.943/LogFile.txt","","",1
+2018-04-06 11:15:50.366 -0600,"Success",0:00:00,0,0,0,"20180406_111550.366/LogFile.txt","","",1
+2018-04-06 11:16:17.904 -0600,"Success",0:00:00,0,0,0,"20180406_111617.904/LogFile.txt","","",1
+2018-04-06 11:16:41.893 -0600,"Success",0:00:00,0,0,0,"20180406_111641.893/LogFile.txt","","",1
+2018-04-06 11:17:32.369 -0600,"Success",0:00:01,0,0,0,"20180406_111732.369/LogFile.txt","","",1
+2018-04-06 11:21:55.244 -0600,"Failure",0:00:01,1,0,0,"20180406_112155.244/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'username'",0
+2018-04-06 12:07:32.777 -0600,"Failure",0:00:01,1,0,0,"20180406_120732.777/LogFile.txt","","Connection Failed -- Unable to connect to Server:127.0.0.1 on port:5902\nConnection Error: 61:Connection refused",0
+2018-04-06 12:14:11.848 -0600,"Failure",0:00:01,1,0,0,"20180406_121411.848/LogFile.txt","","Connection Failed -- Unable to connect to Server:127.0.0.1 on port:5902\nConnection Error: 61:Connection refused",0

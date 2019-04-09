@@ -1,0 +1,15 @@
+State,Action
+Initial,Verify SUT
+Initial,Zero State
+Login Screen,Admin
+Reset Tabs,Close All Tabs
+Home,Menu Select
+Procedures Dropdown,Launch Dicom
+Procedures Dropdown,Batch Results
+Procedures Dropdown,Back
+Home,Menu Select
+Flow Board Home,Status
+Flow Board Home,Submit
+Flow Board Home,Back
+Home,Menu Select
+Procedures Dropdown,Logout and Exit

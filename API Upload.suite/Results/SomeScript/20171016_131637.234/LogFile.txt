@@ -1,0 +1,5 @@
+﻿2017-10-16 13:16:37.236 -0600	START		Running SomeScript.script
+2017-10-16 13:16:37.288 -0600	connect		Tutorial Connection:(null)	2	on_somescript	SomeScript.script
+2017-10-16 13:16:37.292 -0600	Exception	Contacts Blue	Could Not Open Image: Contacts Blue	3	on_somescript	SomeScript.script
+2017-10-16 13:16:37.559 -0600	EndTestCase		(Duration:"0.322319", Errors:"1", Exceptions:"1", StartTime:"2017-10-16 13:16:37 -0600", Successes:"0", TestCase:"SomeScript.script", Warnings:"0")
+2017-10-16 13:16:37.639 -0600	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: Contacts Blue -- Execution Time 0:00:00 SomeScript.script

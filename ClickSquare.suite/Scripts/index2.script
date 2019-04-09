@@ -1,0 +1,20 @@
+﻿
+
+put (500,500) into StartPosition
+
+
+
+
+repeat 10 times
+	
+	
+	put repeatindex()*10 into (Adjustment)
+	
+	put (Adjustment,0)+StartPosition into StartPosition
+	Click StartPosition
+	
+	
+	put (0,Adjustment)+StartPosition into StartPosition
+	Click StartPosition
+	
+end repeat

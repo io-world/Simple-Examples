@@ -1,0 +1,12 @@
+﻿2017-07-03 14:05:23.493 -0600	START		Running Examples/TD Object/Example1.script
+2017-07-03 14:05:23.573 -0600	Log		333333	7	on_examples_td_object_example1	Examples/TD Object/Example1.script
+2017-07-03 14:05:23.575 -0600	Log		Mrs	8	on_examples_td_object_example1	Examples/TD Object/Example1.script
+2017-07-03 14:05:23.577 -0600	Log		Carrie	9	on_examples_td_object_example1	Examples/TD Object/Example1.script
+2017-07-03 14:05:23.578 -0600	Log		Underwood	10	on_examples_td_object_example1	Examples/TD Object/Example1.script
+2017-07-03 14:05:23.580 -0600	Log		3/16/14	11	on_examples_td_object_example1	Examples/TD Object/Example1.script
+2017-07-03 14:05:23.582 -0600	Log		583-00-6387	12	on_examples_td_object_example1	Examples/TD Object/Example1.script
+2017-07-03 14:05:23.583 -0600	Log		Female	13	on_examples_td_object_example1	Examples/TD Object/Example1.script
+2017-07-03 14:05:23.584 -0600	Log		Married	14	on_examples_td_object_example1	Examples/TD Object/Example1.script
+2017-07-03 14:05:23.669 -0600	typetext		Married	17	on_examples_td_object_example1	Examples/TD Object/Example1.script
+2017-07-03 14:05:23.999 -0600	EndTestCase		(Duration:"0.504516", Errors:"0", Exceptions:"0", StartTime:"2017-07-03 14:05:23 -0600", Successes:"1", TestCase:"Examples/TD Object/Example1.script", Warnings:"0")
+2017-07-03 14:05:24.013 -0600	SUCCESS		Execution Time 0:00:00 Examples/TD Object/Example1.script

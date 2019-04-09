@@ -1,0 +1,34 @@
+﻿
+put "/Users/randyhesse/Documents/Demos" into FolderPath
+
+
+
+
+put the folders of FolderPath into FoldersList
+
+
+
+
+put the number of items of FoldersList  into max
+repeat max times
+	put item repeatindex() of FoldersList into SF
+	if SF contains ".suite" then		
+		put FolderPath&"/"&SF&"/Results" into ResultPath
+		put folders of ResultPath into ResultFolders
+		put the number of items of ResultFolders into RPMAX
+		repeat RPMAX
+			put item repeatindex() of ResultFolders into RFL
+			put  ResultPath &"/" & RFL into FP
+			log FP
+			
+			delete folder FP
+			
+		end repeat	
+	else
+		log SF
+		
+	end if
+end repeat
+
+
+

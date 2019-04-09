@@ -1,0 +1,85 @@
+﻿2017-06-19 22:37:54.423 -0600	START		Running index.script
+2017-06-19 22:37:54.480 -0600	Log		.git	28	on_index	index.script
+2017-06-19 22:37:54.482 -0600	Log		/Users/randyhesse/Documents/Demos/Amazon.suite/Results/GlobalsSet	22	on_index	index.script
+2017-06-19 22:37:54.492 -0600	Log		/Users/randyhesse/Documents/Demos/Amazon.suite/Results/index	22	on_index	index.script
+2017-06-19 22:37:54.698 -0600	Log		/Users/randyhesse/Documents/Demos/Amazon.suite/Results/Read	22	on_index	index.script
+2017-06-19 22:37:54.705 -0600	Log		/Users/randyhesse/Documents/Demos/Bing.suite/Results/Index	22	on_index	index.script
+2017-06-19 22:37:54.783 -0600	Log		/Users/randyhesse/Documents/Demos/Bing.suite/Results/Untitled	22	on_index	index.script
+2017-06-19 22:37:54.789 -0600	Log		/Users/randyhesse/Documents/Demos/Calculator.suite/Results/Calculator	22	on_index	index.script
+2017-06-19 22:37:54.807 -0600	Log		/Users/randyhesse/Documents/Demos/Calculator.suite/Results/Index	22	on_index	index.script
+2017-06-19 22:37:54.972 -0600	Log		/Users/randyhesse/Documents/Demos/ConfigureEnvironment.suite/Results/Browsers	22	on_index	index.script
+2017-06-19 22:37:54.984 -0600	Log		/Users/randyhesse/Documents/Demos/ConfigureEnvironment.suite/Results/Resolution	22	on_index	index.script
+2017-06-19 22:37:55.031 -0600	Log		/Users/randyhesse/Documents/Demos/ConfigureEnvironment.suite/Results/ZeroState	22	on_index	index.script
+2017-06-19 22:37:55.118 -0600	Log		/Users/randyhesse/Documents/Demos/Demo.suite/Results/asd	22	on_index	index.script
+2017-06-19 22:37:55.124 -0600	Log		/Users/randyhesse/Documents/Demos/Demo.suite/Results/asdasd	22	on_index	index.script
+2017-06-19 22:37:55.134 -0600	Log		/Users/randyhesse/Documents/Demos/Demo.suite/Results/barcod	22	on_index	index.script
+2017-06-19 22:37:55.154 -0600	Log		/Users/randyhesse/Documents/Demos/Demo.suite/Results/controle	22	on_index	index.script
+2017-06-19 22:37:55.163 -0600	Log		/Users/randyhesse/Documents/Demos/Demo.suite/Results/data	22	on_index	index.script
+2017-06-19 22:37:55.192 -0600	Log		/Users/randyhesse/Documents/Demos/Demo.suite/Results/dual	22	on_index	index.script
+2017-06-19 22:37:55.197 -0600	Log		/Users/randyhesse/Documents/Demos/Demo.suite/Results/edge	22	on_index	index.script
+2017-06-19 22:37:55.381 -0600	Log		/Users/randyhesse/Documents/Demos/Demo.suite/Results/googs	22	on_index	index.script
+2017-06-19 22:37:55.390 -0600	Log		/Users/randyhesse/Documents/Demos/Demo.suite/Results/index	22	on_index	index.script
+2017-06-19 22:37:55.402 -0600	Log		/Users/randyhesse/Documents/Demos/Demo.suite/Results/look	22	on_index	index.script
+2017-06-19 22:37:55.411 -0600	Log		/Users/randyhesse/Documents/Demos/Demo.suite/Results/master	22	on_index	index.script
+2017-06-19 22:37:55.423 -0600	Log		/Users/randyhesse/Documents/Demos/Demo.suite/Results/Modules	22	on_index	index.script
+2017-06-19 22:37:55.427 -0600	Log		/Users/randyhesse/Documents/Demos/Demo.suite/Results/something	22	on_index	index.script
+2017-06-19 22:37:55.451 -0600	Log		/Users/randyhesse/Documents/Demos/Demo.suite/Results/util	22	on_index	index.script
+2017-06-19 22:37:55.457 -0600	Log		/Users/randyhesse/Documents/Demos/Demo.suite/Results/whatever	22	on_index	index.script
+2017-06-19 22:37:55.460 -0600	Log		/Users/randyhesse/Documents/Demos/Demo.suite/Results/zxzxzxc	22	on_index	index.script
+2017-06-19 22:37:55.465 -0600	Log		/Users/randyhesse/Documents/Demos/Dropbox.suite/Results/AndroidLib	22	on_index	index.script
+2017-06-19 22:37:55.472 -0600	Log		/Users/randyhesse/Documents/Demos/Dropbox.suite/Results/index	22	on_index	index.script
+2017-06-19 22:37:55.627 -0600	Log		/Users/randyhesse/Documents/Demos/Dropbox.suite/Results/RightC	22	on_index	index.script
+2017-06-19 22:37:55.635 -0600	Log		/Users/randyhesse/Documents/Demos/Google Maps.suite/Results/close	22	on_index	index.script
+2017-06-19 22:37:55.764 -0600	Log		/Users/randyhesse/Documents/Demos/Google Maps.suite/Results/close2	22	on_index	index.script
+2017-06-19 22:37:55.768 -0600	Log		/Users/randyhesse/Documents/Demos/Google Maps.suite/Results/index	22	on_index	index.script
+2017-06-19 22:37:55.893 -0600	Log		/Users/randyhesse/Documents/Demos/GoogleMap RX.suite/Results/GlobalDefine	22	on_index	index.script
+2017-06-19 22:37:55.901 -0600	Log		/Users/randyhesse/Documents/Demos/GoogleMap RX.suite/Results/index	22	on_index	index.script
+2017-06-19 22:37:55.931 -0600	Log		/Users/randyhesse/Documents/Demos/GoogleMap RX.suite/Results/Modules	22	on_index	index.script
+2017-06-19 22:37:55.961 -0600	Log		/Users/randyhesse/Documents/Demos/GoogleMap RX.suite/Results/opTime	22	on_index	index.script
+2017-06-19 22:37:55.968 -0600	Log		/Users/randyhesse/Documents/Demos/GoogleMap RX.suite/Results/Test	22	on_index	index.script
+2017-06-19 22:37:56.031 -0600	Log		/Users/randyhesse/Documents/Demos/GoogleMap RX.suite/Results/ZeroState	22	on_index	index.script
+2017-06-19 22:37:56.046 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Results/CreatePatient	22	on_index	index.script
+2017-06-19 22:37:56.100 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Results/Demo	22	on_index	index.script
+2017-06-19 22:37:56.105 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Results/Index	22	on_index	index.script
+2017-06-19 22:37:56.189 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Results/Library	22	on_index	index.script
+2017-06-19 22:37:56.294 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Results/Login	22	on_index	index.script
+2017-06-19 22:37:56.303 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Results/Login Turbo	22	on_index	index.script
+2017-06-19 22:37:56.307 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Results/Logoff	22	on_index	index.script
+2017-06-19 22:37:56.327 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Results/Logon	22	on_index	index.script
+2017-06-19 22:37:56.590 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Results/Logout	22	on_index	index.script
+2017-06-19 22:37:56.595 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Results/Master	22	on_index	index.script
+2017-06-19 22:37:56.615 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Results/Modules	22	on_index	index.script
+2017-06-19 22:37:56.714 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Results/Patient	22	on_index	index.script
+2017-06-19 22:37:56.755 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Results/test1	22	on_index	index.script
+2017-06-19 22:37:56.808 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v2.suite/Results/TestTableCall	22	on_index	index.script
+2017-06-19 22:37:56.837 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/CreatePatient	22	on_index	index.script
+2017-06-19 22:37:56.885 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Demo	22	on_index	index.script
+2017-06-19 22:37:56.890 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Index	22	on_index	index.script
+2017-06-19 22:37:57.110 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Library	22	on_index	index.script
+2017-06-19 22:37:57.207 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Login	22	on_index	index.script
+2017-06-19 22:37:57.216 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Login Turbo	22	on_index	index.script
+2017-06-19 22:37:57.220 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Logoff	22	on_index	index.script
+2017-06-19 22:37:57.241 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Logon	22	on_index	index.script
+2017-06-19 22:37:57.486 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Logout	22	on_index	index.script
+2017-06-19 22:37:57.491 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Master	22	on_index	index.script
+2017-06-19 22:37:57.509 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Modules	22	on_index	index.script
+2017-06-19 22:37:57.631 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Patient	22	on_index	index.script
+2017-06-19 22:37:57.667 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/test1	22	on_index	index.script
+2017-06-19 22:37:57.720 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/TestTableCall	22	on_index	index.script
+2017-06-19 22:37:57.746 -0600	Log		/Users/randyhesse/Documents/Demos/OpenEMR Windows 10 v3.suite/Results/Untitled	22	on_index	index.script
+2017-06-19 22:37:57.782 -0600	Log		/Users/randyhesse/Documents/Demos/OtherTools.suite/Results/index	22	on_index	index.script
+2017-06-19 22:37:57.981 -0600	Log		/Users/randyhesse/Documents/Demos/OtherTools.suite/Results/Output	22	on_index	index.script
+2017-06-19 22:37:58.033 -0600	Log		/Users/randyhesse/Documents/Demos/OtherTools.suite/Results/RESTful	22	on_index	index.script
+2017-06-19 22:37:58.050 -0600	Log		/Users/randyhesse/Documents/Demos/OtherTools.suite/Results/Untitled	22	on_index	index.script
+2017-06-19 22:37:58.059 -0600	Log		/Users/randyhesse/Documents/Demos/Spotify.suite/Results/index	22	on_index	index.script
+2017-06-19 22:37:58.115 -0600	Log		/Users/randyhesse/Documents/Demos/Spotify.suite/Results/spotify	22	on_index	index.script
+2017-06-19 22:37:58.131 -0600	Log		/Users/randyhesse/Documents/Demos/Spotify.suite/Results/Untitled	22	on_index	index.script
+2017-06-19 22:37:58.138 -0600	Log		/Users/randyhesse/Documents/Demos/Stocks.suite/Results/index	22	on_index	index.script
+2017-06-19 22:37:58.328 -0600	Log		/Users/randyhesse/Documents/Demos/Stocks.suite/Results/Loop it	22	on_index	index.script
+2017-06-19 22:37:58.334 -0600	Log		/Users/randyhesse/Documents/Demos/Stocks.suite/Results/TripleClick	22	on_index	index.script
+2017-06-19 22:37:58.500 -0600	Log		/Users/randyhesse/Documents/Demos/Stocks.suite/Results/v1	22	on_index	index.script
+2017-06-19 22:37:58.511 -0600	Log		/Users/randyhesse/Documents/Demos/Text Message.suite/Results/Index	22	on_index	index.script
+2017-06-19 22:37:58.554 -0600	Log		/Users/randyhesse/Documents/Demos/Twitter.suite/Results/index	22	on_index	index.script
+2017-06-19 22:37:58.589 -0600	Log		/Users/randyhesse/Documents/Demos/Twitter.suite/Results/Libraries	22	on_index	index.script
+2017-06-19 22:37:58.712 -0600	EndTestCase		(Duration:"4.287255", Errors:"0", Exceptions:"0", StartTime:"2017-06-19 22:37:54 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-06-19 22:37:58.718 -0600	SUCCESS		Execution Time 0:00:04 index.script

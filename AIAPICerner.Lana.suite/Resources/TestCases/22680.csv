@@ -1,0 +1,7 @@
+State,Action
+Initial,Start
+Login Type,Physcians
+Patient Select,Pedriac
+Type of Med,tylenol
+doage,200mg
+add Med,Verify

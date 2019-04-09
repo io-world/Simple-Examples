@@ -1,0 +1,31 @@
+﻿
+
+
+put "2018-06-01" into StartDate
+
+put the date minus StartDate into SecondDif
+put (SecondDif / 1 day) into DayDif
+put DayDif into ShfitColumn
+
+log "Day Differences is" && ShfitColumn
+//---------------------------
+
+put ShfitColumn modulo 26 into alphaShift_M
+put ShfitColumn divided by 26 rounded 0 decimal places into alphaShift_D
+put (alphaShift_D,alphaShift_M) into BarShift
+
+log "Bar Shift is" && BarShift
+//---------------------------------------
+put (3,3) into BarStart -- (C,C)
+
+put BarStart + BarShift into BarNumberAnswer
+
+
+log BarNumberAnswer
+
+put (A..Z) into alphabet
+
+
+put (item (item 1 of BarNumberAnswer) of alphabet,item (item 2 of BarNumberAnswer) of alphabet) into BarNumberAnswerAlphabet
+
+log BarNumberAnswerAlphabet

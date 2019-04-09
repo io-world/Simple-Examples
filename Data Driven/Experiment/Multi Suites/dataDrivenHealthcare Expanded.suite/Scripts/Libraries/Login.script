@@ -1,0 +1,21 @@
+﻿params Userinformation
+
+
+Log  Userinformation.Username
+Log  Userinformation.Password
+
+
+
+
+
+
+
+TypeText  username
+
+
+
+Set the scriptlogging to Silent
+TypeText  password
+Set the scriptlogging to On
+
+

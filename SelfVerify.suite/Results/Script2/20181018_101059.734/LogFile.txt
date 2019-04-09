@@ -1,0 +1,5 @@
+﻿2018-10-18 10:10:59.735 -0600	START		Running Script2.script
+2018-10-18 10:10:59.817 -0600	LogWarning		//SCA:(name:"Mary")	20	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:59.819 -0600	Log		NO	15	on_script2	Script2.script
+2018-10-18 10:11:00.012 -0600	EndTestCase		(Duration:"0.274997", Errors:"0", Exceptions:"0", StartTime:"2018-10-18 10:10:59 -0600", Successes:"1", TestCase:"Script2.script", Warnings:"1")
+2018-10-18 10:11:00.030 -0600	SUCCESS		Execution Time 0:00:00 Script2.script

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="eAI_Class_script" package="AIAPI.suite" timestamp="2018-07-25 11:38:59.185 -0600"
+ tests="1"  failures="0" errors="0" time="0.866654">
+  <properties>
+   <property name="RunDate" value="2018-07-25 11:38:59.185 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="eAI_Class.script" assertions="1" status="success"  time="0.864704">
+  </testcase>
+ </testsuite>
+</testsuites>

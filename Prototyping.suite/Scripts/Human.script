@@ -1,0 +1,10 @@
+﻿
+function Person (First, Last, age, Sex)
+	
+	put First into Person.First
+	put Last into Person.Last
+	put age into Person.age
+	put Sex into Person.Sex
+	
+	return Person
+end Person

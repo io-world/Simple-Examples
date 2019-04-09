@@ -1,4 +1,0 @@
-﻿2016-09-29 10:20:16.670 -0600	START		Running Results.script
-2016-09-29 10:20:16.768 -0600	Log		(Duration:"0.352386", Errors:"0", Exceptions:"0", LogFile:"/Users/randyhesse/Documents/Simple Examples/Variables.suite/Results/index/20160929_101815.774/LogFile.txt", ReturnValue:"", RunDate:"2016-09-29 10:18:15.774 -0600", Status:"Success", Successes:"1", Warnings:"0")	5	on_results	Results.script
-2016-09-29 10:20:17.014 -0600	EndTestCase		(Duration:"0.34172", Errors:"0", Exceptions:"0", StartTime:"2016-09-29 10:20:16 -0600", Successes:"1", TestCase:"Results.script", Warnings:"0")
-2016-09-29 10:20:17.018 -0600	SUCCESS		Execution Time 0:00:00 Results.script

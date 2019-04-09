@@ -1,0 +1,5 @@
+﻿2018-04-06 09:55:03.130 -0600	START		Running GetSut.script
+2018-04-06 09:55:03.422 -0600	Log		Amazon Web Server 597b5477547261028e000001	12	on_getsut	GetSut.script
+2018-04-06 09:55:03.424 -0600	Log		Windows 10 582cce9e5472610322000001	12	on_getsut	GetSut.script
+2018-04-06 09:55:03.736 -0600	EndTestCase		(Duration:"0.604209", Errors:"0", Exceptions:"0", StartTime:"2018-04-06 09:55:03 -0600", Successes:"1", TestCase:"GetSut.script", Warnings:"0")
+2018-04-06 09:55:03.757 -0600	SUCCESS		Execution Time 0:00:00 GetSut.script

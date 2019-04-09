@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="eAI_Class_script" package="AIAPICerner.Lana.suite" timestamp="2018-08-22 14:35:19.440 -0600"
+ tests="1"  failures="0" errors="0" time="5.445886">
+  <properties>
+   <property name="RunDate" value="2018-08-22 14:35:19.440 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="eAI_Class.script" assertions="1" status="success"  time="5.442912">
+  </testcase>
+ </testsuite>
+</testsuites>

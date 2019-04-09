@@ -1,9 +1,0 @@
-﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
-2016-11-09 16:16:17.999 -0700,"Failure",0:00:03,1,0,0,"20161109_161617.999/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got '(120,-10)' and 'LineImage'",0
-2016-11-09 16:18:28.561 -0700,"Success",0:00:04,0,0,0,"20161109_161828.561/LogFile.txt","","",1
-2016-11-09 16:19:03.134 -0700,"Failure",0:00:04,1,0,1,"20161109_161903.134/LogFile.txt","","Error Running Script Command -- imagelocation Error - Image Property List did not contain ""ImageName"" property",0
-2016-11-09 16:19:28.163 -0700,"Success",0:00:15,0,0,0,"20161109_161928.163/LogFile.txt","","",1
-2016-11-09 16:19:57.001 -0700,"Running",0:00:00,0,0,0,"20161109_161957.001/LogFile.txt","","",0
-2016-11-09 16:20:14.660 -0700,"Success",0:00:15,0,0,0,"20161109_162014.660/LogFile.txt","","",1
-2016-11-09 16:25:44.434 -0700,"Success",0:00:11,0,0,0,"20161109_162544.434/LogFile.txt","","",1
-2016-11-09 16:29:00.775 -0700,"Success",0:00:11,0,0,0,"20161109_162900.775/LogFile.txt","","",1

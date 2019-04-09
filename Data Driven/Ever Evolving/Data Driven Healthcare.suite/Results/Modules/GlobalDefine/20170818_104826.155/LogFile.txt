@@ -1,0 +1,3 @@
+﻿2017-08-18 10:48:26.157 -0500	START		Running Modules/GlobalDefine.script
+2017-08-18 10:48:26.346 -0500	EndTestCase		(Duration:"0.188254", Errors:"0", Exceptions:"0", StartTime:"2017-08-18 10:48:26 -0500", Successes:"1", TestCase:"Modules/GlobalDefine.script", Warnings:"0")
+2017-08-18 10:48:26.365 -0500	SUCCESS		Execution Time 0:00:00 Modules/GlobalDefine.script

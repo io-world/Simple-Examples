@@ -1,0 +1,5 @@
+﻿2018-06-11 14:43:20.365 -0600	START		Running Master 1.script
+2018-06-11 14:43:28.630 -0600	Exception	Chrome	No Image Found On Screen: "Chrome"	1	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 14:43:28.705 -0600	Exception		Too Few Parameters, please use imageinfo(imageName)\n	6	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 14:43:29.029 -0600	EndTestCase		(Duration:"8.661897", Errors:"1", Exceptions:"2", StartTime:"2018-06-11 14:43:20 -0600", Successes:"0", TestCase:"Master 1.script", Warnings:"0")
+2018-06-11 14:43:29.109 -0600	FAILURE	Screen_Error.png	Error Running Script Command attemptrecovery Error - Too Few Parameters, please use imageinfo(imageName)\n -- Execution Time 0:00:08 Master 1.script

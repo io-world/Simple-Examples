@@ -1,0 +1,19 @@
+﻿2018-03-21 13:14:53.505 +0530	START		Running Master.script
+2018-03-21 13:14:55.310 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:14:55.440 +0530	readtext		(205,126,539,389)
+2018-03-21 13:14:56.910 +0530	click	Next	at (1878, 441)	9	on_master	Master.script
+2018-03-21 13:14:56.911 +0530	Log		(Tiger Nixon,John Winters,Austin Cox,Charles Kelly,Amanda Satou,Brielle Williamson,Herrod Chandler,Rhona Davidson,Colleen Hurst,Sonya Frost)	13	on_master	Master.script
+2018-03-21 13:14:58.617 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:14:58.735 +0530	readtext		(205,126,539,389)
+2018-03-21 13:14:59.551 +0530	click	Next	at (1878, 441)	9	on_master	Master.script
+2018-03-21 13:14:59.552 +0530	Log		(Jena Gaines,Quinn Flynn,Charde Marshall,Haley Kennedy,Tatyana Fitzpatrick,Michael Silva,Paul Byrd,Gloria Little,Bradley Greer,Dai Rios)	13	on_master	Master.script
+2018-03-21 13:15:01.208 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:15:01.327 +0530	readtext		(205,126,539,389)
+2018-03-21 13:15:02.118 +0530	click	Next	at (1878, 441)	9	on_master	Master.script
+2018-03-21 13:15:02.119 +0530	Log		(Jenette Caldwell,Yuri Berry,Caesar Vance,Doris Wilder,Angelica Ramos,Gavin Joyce,Jennifer Chang,Brenden Wagner,Fiona Green,Shou Itou)	13	on_master	Master.script
+2018-03-21 13:15:03.771 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:15:03.899 +0530	readtext		(205,126,539,389)
+2018-03-21 13:15:04.660 +0530	click	Next	at (1878, 441)	9	on_master	Master.script
+2018-03-21 13:15:04.661 +0530	Log		(Michelle House,Suki Burks,Prescott Bartlett,Gavin Cortez,Martena Mccray,Unity Butler,Howard Hatfield,Hope Fuentes,Vivian Harrell,Timothy Mooney)	13	on_master	Master.script
+2018-03-21 13:15:05.568 +0530	EndTestCase		(Duration:"12.061746", Errors:"1", Exceptions:"0", StartTime:"2018-03-21 13:14:53 +0530", Successes:"0", TestCase:"Master.script", Warnings:"0")
+2018-03-21 13:15:05.569 +0530	ABORTED		Execution Time 0:00:12 Master.script

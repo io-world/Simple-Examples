@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Script1.script in Usability Mode",
+      "timestamp" : "2018-10-18 09:18:54.309 -0600"
+    },
+    {
+      "handlerName" : "on_script1",
+      "message" : "YES",
+      "timestamp" : "2018-10-18 09:18:54.433 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Script1.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_script1",
+      "message" : "Script1.script",
+      "timestamp" : "2018-10-18 09:18:59.475 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Script1.script",
+      "handlerLine" : 17
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"5.41339\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2018-10-18 09:18:54 -0600\", Successes:\"1\", TestCase:\"Script1.script\", Warnings:\"0\")",
+      "timestamp" : "2018-10-18 09:18:59.745 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:05 Script1.script",
+      "timestamp" : "2018-10-18 09:18:59.800 -0600"
+    }
+  ],
+  "created_timestamp" : "2018-10-18 09:18:54.331 -0600"
+}

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<runHistory script="index">
+ <run>
+  <RunDate>2017-09-05 08:12:37.088 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.230281</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170905_081237.088/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-09-05 08:12:52.741 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.219247</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170905_081252.741/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-09-05 08:12:56.950 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.228627</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170905_081256.950/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Unknown Property or Function -- Unable to access global property or function &#x27;RESULTS&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-09-05 08:20:57.112 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.250548</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170905_082057.112/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Unknown Property or Function -- Unable to access global property or function &#x27;RESULTS&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-09-05 08:21:02.291 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.237378</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170905_082102.291/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

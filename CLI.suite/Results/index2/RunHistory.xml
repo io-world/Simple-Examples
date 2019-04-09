@@ -1,0 +1,123 @@
+﻿<?xml version="1.0"?>
+<runHistory script="index2">
+ <run>
+  <RunDate>2018-11-30 14:51:00.992 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.542819</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181130_145100.992/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-11-30 14:51:51.120 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.072364</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181130_145151.120/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;username&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-11-30 14:52:44.261 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.071870</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181130_145244.261/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;username&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-11-30 14:55:11.469 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.071172</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181130_145511.469/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;username&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-11-30 14:55:50.922 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.071814</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181130_145550.922/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;username&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-11-30 14:56:30.122 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.076232</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181130_145630.122/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;username&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-11-30 14:57:11.057 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.074873</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181130_145711.057/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: &#x27;params&#x27; was called as a Command, but is only available as a Function</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-03 09:52:04.996 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.076792</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181203_095204.996/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;username&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-03 09:54:19.630 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.075478</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181203_095419.630/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_InvalidValueExpr -- Unable to take value of expression &#x27;username:&quot;John&quot;,password:&quot;go data&quot;&#x27; (reason: (null))</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-12-03 09:58:38.291 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.077751</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181203_095838.291/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_InvalidValueExpr -- Unable to take value of expression &#x27;username:&quot;John&quot;,password:&quot;go data&quot;&#x27; (reason: (null))</ErrorMessage>
+ </run>
+</runHistory>

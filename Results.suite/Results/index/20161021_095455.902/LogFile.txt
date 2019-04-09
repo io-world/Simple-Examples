@@ -1,4 +1,0 @@
-﻿2016-10-21 09:54:55.903 -0600	START		Running index.script
-2016-10-21 09:54:55.960 -0600	Log		10	6	on_index	index.script
-2016-10-21 09:54:57.175 -0600	EndTestCase		(Duration:"1.270355", Errors:"0", Exceptions:"0", StartTime:"2016-10-21 09:54:55 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
-2016-10-21 09:54:57.179 -0600	SUCCESS		Execution Time 0:00:01 index.script

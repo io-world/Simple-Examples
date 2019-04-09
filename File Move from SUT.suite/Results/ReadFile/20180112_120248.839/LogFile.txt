@@ -1,0 +1,4 @@
+﻿2018-01-12 12:02:48.840 +0530	START		Running ReadFile.script
+2018-01-12 12:03:00.958 +0530	Log		we waited way to long	13	on_readfile	ReadFile.script
+2018-01-12 12:03:01.403 +0530	EndTestCase		(Duration:"12.561527", Errors:"0", Exceptions:"0", StartTime:"2018-01-12 12:02:48 +0530", Successes:"1", TestCase:"ReadFile.script", Warnings:"0")
+2018-01-12 12:03:01.420 +0530	SUCCESS		Execution Time 0:00:12 ReadFile.script

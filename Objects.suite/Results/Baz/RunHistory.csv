@@ -1,0 +1,12 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-04-03 21:07:11.868 -0600,"Failure",0:00:00,1,0,0,"20180403_210711.868/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Person'.",0
+2018-04-03 21:09:05.755 -0600,"Failure",0:00:00,1,0,0,"20180403_210905.755/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'calculateage'",0
+2018-04-03 21:09:31.451 -0600,"Success",0:00:00,0,0,0,"20180403_210931.451/LogFile.txt","","",1
+2018-04-03 21:09:45.328 -0600,"Failure",0:00:00,1,0,0,"20180403_210945.328/LogFile.txt","","STMaxCallDepthExceeded -- Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself.",0
+2018-04-03 21:10:21.767 -0600,"Success",0:00:00,0,0,0,"20180403_211021.767/LogFile.txt","","",1
+2018-04-03 21:10:38.526 -0600,"Success",0:00:00,0,0,0,"20180403_211038.526/LogFile.txt","","",1
+2018-04-03 21:11:03.643 -0600,"Success",0:00:00,0,0,0,"20180403_211103.643/LogFile.txt","","",1
+2018-04-03 21:11:11.556 -0600,"Success",0:00:00,0,0,0,"20180403_211111.556/LogFile.txt","","",1
+2018-04-03 21:11:15.039 -0600,"Success",0:00:00,0,0,0,"20180403_211115.039/LogFile.txt","","",1
+2018-04-03 21:11:34.452 -0600,"Success",0:00:00,0,0,0,"20180403_211134.452/LogFile.txt","","",1
+2018-04-03 21:11:39.978 -0600,"Success",0:00:00,0,0,0,"20180403_211139.978/LogFile.txt","","",1

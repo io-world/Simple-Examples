@@ -1,0 +1,7 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-01-12 11:54:07.332 +0530,"Failure",0:00:00,1,0,0,"20180112_115407.332/LogFile.txt","","STInvalidParameters -- Command createfile was called with invalid parameters",0
+2018-01-12 11:54:27.148 +0530,"Success",0:00:14,0,0,0,"20180112_115427.148/LogFile.txt","","",1
+2018-01-12 11:58:13.143 +0530,"Success",0:00:20,0,0,0,"20180112_115813.143/LogFile.txt","","",1
+2018-01-12 12:03:20.261 +0530,"Running",0:00:00,0,0,0,"20180112_120320.261/LogFile.txt","","",0
+2018-01-12 12:05:33.674 +0530,"Success",0:00:25,0,0,0,"20180112_120533.674/LogFile.txt","","",1
+2018-01-12 12:06:52.861 +0530,"Success",0:00:25,0,0,0,"20180112_120652.861/LogFile.txt","","",1

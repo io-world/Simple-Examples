@@ -1,12 +1,39 @@
-﻿
-Library.subtractNum 4,5
-login
+﻿Library.subtractNum, 4,5
+run  Library.subtractNum, 4,5
+run  Library.subtractNum 4,5
+run  "Library".subtractNum 4,5
 
-
+------------------------------------------------
 put Library.addNum(5,6) into var
 log var
-
-
-
+-----------------------------------------------------
 Library.GenericNumb 2,7
 log Library.GenericNumb (2,7)
+log Library.GenericNumb2 (2,7)
+-----------------------------------------------------
+RunWithNewResults "SingleMod", 4, 3,2
+Run "SingleMod", 4, 3,2
+log "SingleMod" (4, 3,2)
+-----------------------------------------------------
+put (4, 3,2) into var
+Run "SingleMod", var as parameters //splits it into different parameter
+
+--------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
+Run "Modules/anotherLibrary".subtractNum, 4,5
+-----------------------------------------------------
+put "Modules/anotherLibrary".addNum(5,6) into var
+log var
+-----------------------------------------------------
+"Modules/anotherLibrary".GenericNumb 2,7
+log "Modules/anotherLibrary".GenericNumb (2,7)
+-----------------------------------------------------
+Run "Modules/SingleMod2" , 4, 3,2
+RunWithNewResults "Modules/SingleMod2" , 4, 3,2
+-----------------------------------------------------
+ModList.foo (2,"hollo",70)
+-----------------------------------------------
+put (2,"hollo",70) into var
+Run "ModList".foo var ///as parameters
+-----------------------------------------------

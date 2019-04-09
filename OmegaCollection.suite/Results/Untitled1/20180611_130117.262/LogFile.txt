@@ -1,0 +1,4 @@
+﻿2018-06-11 13:01:17.263 -0600	START		Running Untitled1.script
+2018-06-11 13:01:30.870 -0600	Exception	chrome	No Image Found On Screen: "chrome"	1	on_untitled1	Untitled1.script
+2018-06-11 13:01:31.144 -0600	EndTestCase		(Duration:"13.87979", Errors:"1", Exceptions:"1", StartTime:"2018-06-11 13:01:17 -0600", Successes:"0", TestCase:"Untitled1.script", Warnings:"0")
+2018-06-11 13:01:31.145 -0600	ABORTED		Execution Time 0:00:13 Untitled1.script

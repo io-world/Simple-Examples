@@ -1,0 +1,29 @@
+State,Action
+Initial,Start
+Entrance,meda-vac
+Department Transfer,Transfer to
+Ambulatory,action 1
+Ambulatory,back
+Department Transfer,Transfer to
+Cupid,echo cardiogrham
+Cupid,nukemed
+Cupid,Back
+Department Transfer,Transfer to
+Ambulatory,Action2
+Ambulatory,back
+Department Transfer,Transfer to
+Cupid,echo cardiogrham
+Cupid,nukemed
+Cupid,Back
+Department Transfer,Transfer to
+Ambulatory,Action2
+Ambulatory,action 1
+Ambulatory,back
+Department Transfer,Transfer to
+Ambulatory,back
+Department Transfer,Transfer to
+Cupid,echo cardiogrham
+Cupid,x-ray
+Cupid,Back
+Department Transfer,Transfer to
+discharge,patient leaves

@@ -1,0 +1,26 @@
+﻿2018-10-18 10:10:12.462 -0600	START		Running Script2.script
+2018-10-18 10:10:12.529 -0600	Log			17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.531 -0600	Log			17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.532 -0600	Log			17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.533 -0600	Log		SelfValidate my name	17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.533 -0600	Log			17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.534 -0600	Log			17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.535 -0600	Log			17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.536 -0600	Log			17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.537 -0600	Log			17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.538 -0600	Log		put 20 into x	17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.539 -0600	Log			17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.540 -0600	Log		if (x < 9) then 	17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.541 -0600	Log		\tlog "YES"	17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.542 -0600	Log		else	17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.543 -0600	Log		\tlog "NO"	17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.543 -0600	Log		end if	17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.544 -0600	Log			17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.545 -0600	Log			17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.546 -0600	Log		//any old comment	17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.547 -0600	Log			17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.548 -0600	Log			17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.549 -0600	Log		//SCA:(name:"Mary")	17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:12.552 -0600	Log		NO	15	on_script2	Script2.script
+2018-10-18 10:10:12.758 -0600	EndTestCase		(Duration:"0.29436", Errors:"0", Exceptions:"0", StartTime:"2018-10-18 10:10:12 -0600", Successes:"1", TestCase:"Script2.script", Warnings:"0")
+2018-10-18 10:10:12.773 -0600	SUCCESS		Execution Time 0:00:00 Script2.script

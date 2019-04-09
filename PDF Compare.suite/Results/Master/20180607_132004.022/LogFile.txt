@@ -1,0 +1,18 @@
+﻿2018-06-07 13:20:04.023 -0500	START		Running Master.script
+2018-06-07 13:20:04.741 -0500	imagerectangle	WHITEPAPER	at (565,447,669,485)	1	on_master	Master.script
+2018-06-07 13:20:05.062 -0500	readtext		(565,517,1319,815)
+2018-06-07 13:20:05.063 -0500	Log		1. Introduction\nTest automation can deliver huge benefits in terms of time to market, quality, productivity, and auditability to\nalmost any team creating or deploying software. For example, Testplant™ has worked with a leading global news\npublisher to reduce their app update cycle from three weeks to two days, a major UK bank to reduce post-release\ndefects by 65 percent, and one of the world's top five retailers to double the number of apps they are delivering\nwithout increasing the size of their test team. These stories are not uncommon—test automation really has deliv¬\nered amazing benefits to lots of companies.\nBut, there are also a large number of teams which have been trying to rollout test automation for years and not\nachieved any tangible benefits, often having invested significant effort. Why?\nTestplant has worked closely with hundreds of companies to successfully deploy test automation, and has\nanalyzed many failed test automation efforts. Based on this experience, we have identified two critical success\nfactors that are common in successful efforts and missing in failed efforts.	7	on_master	Master.script
+2018-06-07 13:20:05.070 -0500	Log		1. Introduction	12	on_master	Master.script
+2018-06-07 13:20:05.072 -0500	Log		Test automation can deliver huge benefits in terms of time to market, quality, productivity, and auditability to	12	on_master	Master.script
+2018-06-07 13:20:05.073 -0500	Log		almost any team creating or deploying software. For example, Testplant™ has worked with a leading global news	12	on_master	Master.script
+2018-06-07 13:20:05.075 -0500	Log		publisher to reduce their app update cycle from three weeks to two days, a major UK bank to reduce post-release	12	on_master	Master.script
+2018-06-07 13:20:05.077 -0500	Log		defects by 65 percent, and one of the world's top five retailers to double the number of apps they are delivering	12	on_master	Master.script
+2018-06-07 13:20:05.079 -0500	Log		without increasing the size of their test team. These stories are not uncommon—test automation really has deliv¬	12	on_master	Master.script
+2018-06-07 13:20:05.080 -0500	Log		ered amazing benefits to lots of companies.	12	on_master	Master.script
+2018-06-07 13:20:05.082 -0500	Log		But, there are also a large number of teams which have been trying to rollout test automation for years and not	12	on_master	Master.script
+2018-06-07 13:20:05.083 -0500	Log		achieved any tangible benefits, often having invested significant effort. Why?	12	on_master	Master.script
+2018-06-07 13:20:05.084 -0500	Log		Testplant has worked closely with hundreds of companies to successfully deploy test automation, and has	12	on_master	Master.script
+2018-06-07 13:20:05.086 -0500	Log		analyzed many failed test automation efforts. Based on this experience, we have identified two critical success	12	on_master	Master.script
+2018-06-07 13:20:05.087 -0500	Log		factors that are common in successful efforts and missing in failed efforts.	12	on_master	Master.script
+2018-06-07 13:20:05.566 -0500	EndTestCase		(Duration:"1.541368", Errors:"0", Exceptions:"0", StartTime:"2018-06-07 13:20:04 -0500", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-06-07 13:20:05.585 -0500	SUCCESS		Execution Time 0:00:01 Master.script

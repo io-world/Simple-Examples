@@ -1,0 +1,9 @@
+﻿2019-02-27 13:14:55.465 -0700	START		Running Untitled.script
+2019-02-27 13:14:55.574 -0700	Log		(Text:"Buttons")	25	on_untitled	Untitled.script
+2019-02-27 13:14:55.577 -0700	Log		(EnableAggressiveTextExtraction:"True", Text:"Buttons")	25	on_untitled	Untitled.script
+2019-02-27 13:14:55.582 -0700	Log		(EnableAggressiveTextExtraction:"True", SearchRectangle:(0,0,500,500), Text:"Buttons")	25	on_untitled	Untitled.script
+2019-02-27 13:14:55.585 -0700	Log		(EnableAggressiveTextExtraction:"True", SearchRectangle:(0,0,500,500), Text:"Buttons", ValidCharacters:"*")	25	on_untitled	Untitled.script
+2019-02-27 13:14:55.588 -0700	Log		(EnableAggressiveTextExtraction:"True", SearchRectangle:(0,0,500,500), Text:"Buttons", ValidCharacters:"*", ValidWords:"*")	25	on_untitled	Untitled.script
+2019-02-27 13:14:55.591 -0700	Log		(EnableAggressiveTextExtraction:"True", SearchRectangle:(0,0,500,500), Text:"Buttons", ValidCharacters:"*", ValidWords:"*", WaitFor:"1")	25	on_untitled	Untitled.script
+2019-02-27 13:14:55.889 -0700	EndTestCase		(Duration:"0.421708", Errors:"0", Exceptions:"0", StartTime:"2019-02-27 13:14:55 -0700", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2019-02-27 13:14:55.914 -0700	SUCCESS		Execution Time 0:00:00 Untitled.script

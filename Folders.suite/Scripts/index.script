@@ -1,0 +1,21 @@
+﻿
+put Suiteinfo().path & "/Scripts" into LocationofScripts
+log LocationofScripts
+put  the name of me into CurrentScript
+log CurrentScript
+
+put the name of each item of the files of LocationofScripts which ends with ".script" into ScriptsNames
+put the number of items of ScriptsNames into ScriptsCounts
+
+repeat ScriptsCounts times
+	
+	put item repeatIndex() of ScriptsNames into ExecuteScriptName
+	
+	if ExecuteScriptName <> CurrentScript then
+		run ExecuteScriptName
+		
+	end if
+	
+	
+end repeat
+

@@ -1,0 +1,18 @@
+﻿2018-06-07 12:05:06.647 -0500	START		Running Master.script
+2018-06-07 12:05:07.087 -0500	imagerectangle	WHITEPAPER	at (565,258,669,296)	1	on_master	Master.script
+2018-06-07 12:05:07.442 -0500	readtext		(565,328,1319,626)
+2018-06-07 12:05:07.443 -0500	Log		3. Preparation tasks\nThis section lists a set of critical preparation tasks that should be included in your project plan.\n3.1 Set up your test environment.\nAn inadequate test environment is possibly the most common cause of wasted time and unreliable test\nresults. It is essential that you design and set up a reliable test environment before you start significant test\nscript creation and execution. Note that setting up a reliable test environment is not difficult if planned and\nresourced properly, but if it is done in an ad hoc manner, it usually causes problems.\nYou should consider the following when setting up your test environment:\n•\tEnsure all the necessary test systems are included in the environment. If you are testing mobile,\nthere are many references available on the Internet to help you define a representative set of\ndevices for your target audience.\n•\tEnsure there are enoueh test svstems so that no one is ever waiting. Consider manual testers.	7	on_master	Master.script
+2018-06-07 12:05:07.450 -0500	Log		3. Preparation tasks	12	on_master	Master.script
+2018-06-07 12:05:07.452 -0500	Log		This section lists a set of critical preparation tasks that should be included in your project plan.	12	on_master	Master.script
+2018-06-07 12:05:07.454 -0500	Log		3.1 Set up your test environment.	12	on_master	Master.script
+2018-06-07 12:05:07.455 -0500	Log		An inadequate test environment is possibly the most common cause of wasted time and unreliable test	12	on_master	Master.script
+2018-06-07 12:05:07.456 -0500	Log		results. It is essential that you design and set up a reliable test environment before you start significant test	12	on_master	Master.script
+2018-06-07 12:05:07.458 -0500	Log		script creation and execution. Note that setting up a reliable test environment is not difficult if planned and	12	on_master	Master.script
+2018-06-07 12:05:07.459 -0500	Log		resourced properly, but if it is done in an ad hoc manner, it usually causes problems.	12	on_master	Master.script
+2018-06-07 12:05:07.460 -0500	Log		You should consider the following when setting up your test environment:	12	on_master	Master.script
+2018-06-07 12:05:07.461 -0500	Log		•\tEnsure all the necessary test systems are included in the environment. If you are testing mobile,	12	on_master	Master.script
+2018-06-07 12:05:07.463 -0500	Log		there are many references available on the Internet to help you define a representative set of	12	on_master	Master.script
+2018-06-07 12:05:07.464 -0500	Log		devices for your target audience.	12	on_master	Master.script
+2018-06-07 12:05:07.466 -0500	Log		•\tEnsure there are enoueh test svstems so that no one is ever waiting. Consider manual testers.	12	on_master	Master.script
+2018-06-07 12:05:07.826 -0500	EndTestCase		(Duration:"1.177103", Errors:"0", Exceptions:"0", StartTime:"2018-06-07 12:05:06 -0500", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-06-07 12:05:07.846 -0500	SUCCESS		Execution Time 0:00:01 Master.script

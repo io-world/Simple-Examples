@@ -1,6 +1,0 @@
-﻿2017-05-31 10:47:46.067 -0600	START		Running Find1.script
-2017-05-31 10:47:46.421 -0600	imagelocation	Show	at (28, 82)	1	on_find1	Find1.script
-2017-05-31 10:47:46.480 -0600	readtext		(18,92,1408,117)
-2017-05-31 10:47:46.482 -0600	Log		Office\tAge\tStart date\tSalary	11	on_find1	Find1.script
-2017-05-31 10:47:46.803 -0600	EndTestCase		(Duration:"0.734366", Errors:"0", Exceptions:"0", StartTime:"2017-05-31 10:47:46 -0600", Successes:"1", TestCase:"Find1.script", Warnings:"0")
-2017-05-31 10:47:46.839 -0600	SUCCESS		Execution Time 0:00:00 Find1.script

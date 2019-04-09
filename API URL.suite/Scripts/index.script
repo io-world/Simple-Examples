@@ -1,0 +1,14 @@
+﻿
+
+put url ("http://maps.googleapis.com/maps/api/geocode/json?address=Chicago") into JData
+log Jdata
+
+
+
+
+
+
+put JSONValue(JData) into data
+
+log item 2 of data.results.address_components
+

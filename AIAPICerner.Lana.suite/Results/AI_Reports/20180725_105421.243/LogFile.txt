@@ -1,0 +1,4 @@
+﻿2018-07-25 10:54:21.244 -0600	START		Running eAI_Class.script
+2018-07-25 10:54:21.691 -0600	EndTestCase		(Duration:"0.442142", Errors:"1", Exceptions:"0", StartTime:"2018-07-25 10:54:21 -0600", Successes:"0", TestCase:"eAI_Class.script", Warnings:"0")
+2018-07-25 10:54:22.297 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'epm_api' -- Execution Time 0:00:00 eAI_Class.script
+2018-07-25 10:54:23.409 -0600	FAILURE	Screen_Error_Web.png	STUnknownMessage ERROR: No Such Command: 'epm_api' -- Execution Time 0:00:00 eAI_Class.script

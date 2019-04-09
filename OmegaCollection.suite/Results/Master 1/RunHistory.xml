@@ -1,0 +1,1823 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Master">
+ <run>
+  <RunDate>2018-06-05 23:16:42.763 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.504641</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180605_231642.763/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-05 23:21:24.804 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.992343</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180605_232124.804/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-05 23:21:30.709 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.062967</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180605_232130.709/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-05 23:21:52.341 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.997910</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180605_232152.341/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-05 23:21:54.083 -0500</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20180605_232154.083/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-05 23:22:03.399 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.103971</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180605_232203.399/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 08:20:11.524 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.406623</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_082011.524/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 08:20:59.786 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.055133</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_082059.786/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 15:32:57.949 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.253649</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_153257.949/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 15:34:26.254 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.307238</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_153426.254/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 15:35:01.751 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.978175</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_153501.751/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imageinfo Error - Could Not Open Image:  &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 15:35:59.114 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.778888</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_153559.114/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imageinfo Error - Could Not Open Image:  &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 15:36:50.206 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.852097</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_153650.206/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imageinfo Error - Could Not Open Image: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 15:37:17.648 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.794261</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_153717.648/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 15:38:12.761 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.822679</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_153812.761/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 15:40:59.351 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.054466</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_154059.351/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 15:41:57.984 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.273305</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_154157.984/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 15:43:11.080 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.893204</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_154311.080/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imageinfo Error - Could Not Open Image: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 15:44:27.586 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.819790</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_154427.586/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 15:45:02.866 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.250723</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_154502.866/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 15:45:06.063 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.856221</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_154506.063/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 15:48:49.366 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.801777</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_154849.366/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 15:49:47.409 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.540753</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_154947.409/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 15:53:24.475 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.201126</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_155324.475/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- capturescreen Error - Error Computing Rectangle: (
+    1001,
+    615,
+    1048,
+    662
+)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 21:32:50.458 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.039293</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_213250.458/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 21:33:16.705 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>11.386754</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_213316.705/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 21:37:46.367 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.445434</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_213746.367/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 21:38:55.946 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.446182</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_213855.946/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 21:41:12.292 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>8.975410</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_214112.292/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;&quot;&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 21:41:56.859 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>8.519262</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_214156.859/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imageinfo Error - Could Not Open Image: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 21:44:09.534 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>7.053607</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_214409.534/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 21:46:16.402 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.044204</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_214616.402/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 21:46:18.851 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>7.185460</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_214618.851/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 21:46:28.985 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>7.369262</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_214628.985/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 21:46:42.904 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.999131</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_214642.904/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 21:46:50.152 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.056899</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_214650.152/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 21:47:05.914 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.037717</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_214705.914/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 21:47:09.401 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>8.984970</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_214709.401/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;&quot;&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 21:47:33.397 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.686822</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_214733.397/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 21:56:06.154 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.666669</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_215606.154/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 21:56:52.514 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.895472</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_215652.514/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 21:56:55.393 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.060869</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_215655.393/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 22:12:14.203 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.970408</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_221214.203/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 22:12:17.524 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.387115</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_221217.524/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 22:14:12.479 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.958325</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_221412.479/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 22:15:28.021 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.724356</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_221528.021/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 22:15:47.613 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.986476</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_221547.613/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 22:16:02.744 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.026662</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_221602.744/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 22:17:00.987 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>11.869544</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_221700.987/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 22:17:39.559 -0500</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20180606_221739.559/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 22:18:33.966 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>11.862918</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_221833.966/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 22:19:12.582 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.020167</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_221912.582/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 22:19:17.539 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>12.017262</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_221917.539/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 22:20:00.663 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.692299</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_222000.663/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 22:22:47.640 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.016726</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_222247.640/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 22:24:22.790 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>12.789970</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180606_222422.790/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-06 22:24:46.289 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.723063</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180606_222446.289/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 12:25:51.172 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.377748</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_122551.172/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 12:25:54.265 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>11.620690</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_122554.265/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 12:33:58.674 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>11.783123</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_123358.674/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 12:35:30.081 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>16.231012</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_123530.081/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 12:36:47.901 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>11.105051</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_123647.901/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;thing&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 12:38:23.057 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.667773</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_123823.057/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;thing&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 12:39:23.163 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>18.243731</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_123923.163/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;thing&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 12:40:48.360 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>19.228867</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_124048.360/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;thing&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 12:45:54.869 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.284290</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_124554.869/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 12:45:58.992 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>14.218235</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_124558.992/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 12:46:25.679 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>2.200302</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_124625.679/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 12:47:11.047 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.315800</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_124711.047/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 12:47:14.362 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>15.549662</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_124714.362/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 13:49:46.886 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.497770</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_134946.886/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 13:50:32.500 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.381606</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_135032.500/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 13:51:44.711 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>13.269824</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>3</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_135144.711/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: Chrome</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 13:57:27.974 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.208920</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_135727.974/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 13:57:30.833 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.360438</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_135730.833/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STInvalidBoolean -- Value &#x27;)&#x27; is not TRUE, FALSE, YES, NO, ON, OFF or empty</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 13:58:53.775 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.962262</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_135853.775/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- attemptrecovery Error - Too Few Parameters, please use imageinfo(imageName)
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 13:59:17.472 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>12.734211</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>3</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_135917.472/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: Chrome</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:00:19.736 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.981160</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_140019.736/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:01:43.102 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.098034</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_140143.102/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:04:26.574 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>12.613379</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_140426.574/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:05:37.198 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.150688</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_140537.198/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:05:39.158 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>13.207479</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_140539.158/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:07:05.393 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.170736</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_140705.393/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:07:10.146 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>12.647327</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_140710.146/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:33:01.524 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.854020</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_143301.524/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:33:57.500 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.168370</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_143357.500/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:34:00.684 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.647049</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>3</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_143400.684/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: HOLDING</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:36:29.089 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.140091</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_143629.089/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:36:31.790 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.426632</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_143631.790/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:38:47.145 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.173694</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_143847.145/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:38:49.659 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>12.299127</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_143849.659/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:40:18.203 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.134686</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_144018.203/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:40:27.664 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.771685</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_144027.664/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:42:22.199 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>8.785742</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_144222.199/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:43:20.364 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>8.663697</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_144320.364/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- attemptrecovery Error - Too Few Parameters, please use imageinfo(imageName)
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:44:26.678 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.738711</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_144426.678/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- attemptrecovery Error - Too Few Parameters, please use imageinfo(imageName)
+</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:45:14.840 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>19.026049</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>3</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_144514.840/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:47:04.366 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>18.215155</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>3</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_144704.366/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:51:43.210 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>18.011663</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>3</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_145143.210/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:55:12.934 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>25.411796</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>3</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_145512.934/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:56:58.364 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>17.879815</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>3</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_145658.364/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 14:59:18.112 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>17.764506</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>3</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_145918.112/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:00:44.056 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20180611_150044.056/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:01:27.840 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20180611_150127.840/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:02:42.195 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.639743</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_150242.195/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileSystemException -- Failed to move /Users/randyhesse/Documents/Users/randyhesse/Documents/Simple Examples/OmegaCollection.suite/Images/Chrome into folder /Users/randyhesse/Documents/Simple Examples/OmegaCollection.suite/Images/Chrome/chromeasdasd (Error: “Chrome” couldn’t be moved to “chromeasdasd” because either the former doesn’t exist, or the folder containing the latter doesn’t exist.)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:04:54.104 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.172195</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_150454.104/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:04:56.193 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>12.442326</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_150456.193/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:05:45.322 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>19.757939</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>3</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_150545.322/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:06:28.285 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.389890</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_150628.285/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imageinfo Error - Could Not Open Image: Chrome</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:06:36.596 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.065064</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_150636.596/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:06:38.510 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>21.820810</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>3</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_150638.510/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:09:00.200 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.568043</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_150900.200/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:09:01.445 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.418367</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_150901.445/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileSystemException -- Failed to move /Users/randyhesse/Documents/Users/randyhesse/Documents/Simple Examples/OmegaCollection.suite/Images/Chrome into folder /Users/randyhesse/Documents/Simple Examples/OmegaCollection.suite/Images/Chrome/chromeasdasd (Error: “Chrome” couldn’t be moved to “chromeasdasd” because either the former doesn’t exist, or the folder containing the latter doesn’t exist.)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:10:00.844 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.620460</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_151000.844/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imageinfo Error - Could Not Open Image: Chrome</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:10:07.891 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.453713</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_151007.891/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imageinfo Error - Could Not Open Image: Chrome</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:10:19.163 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.217247</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_151019.163/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:10:24.737 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.095670</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_151024.737/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:12:33.504 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.797262</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_151233.504/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:13:02.352 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>32.263769</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_151302.352/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileSystemException -- Failed to create folder </ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:14:07.312 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.227440</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_151407.312/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:14:09.536 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.531168</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_151409.536/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:14:35.454 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.905096</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_151435.454/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:14:42.914 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>31.848720</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_151442.914/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileSystemException -- Failed to create folder </ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:17:22.587 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.568225</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_151722.587/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imageinfo Error - Could Not Open Image: chromeasdasd</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:17:30.311 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>13.270810</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_151730.311/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:20:32.767 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.069119</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_152032.767/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:27:17.388 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.232352</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_152717.388/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:27:19.778 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.471328</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_152719.778/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:27:47.905 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.611364</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_152747.905/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:30:21.989 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.535533</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_153021.989/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:31:01.942 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.522417</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_153101.942/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:31:48.302 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.544177</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_153148.302/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:32:21.074 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.594787</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_153221.074/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:34:55.890 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.465661</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_153455.890/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:36:33.966 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.450510</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_153633.966/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:36:50.485 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.407090</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_153650.485/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:38:08.618 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.774758</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_153808.618/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:38:37.584 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.245191</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_153837.584/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:38:39.687 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.550204</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_153839.687/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:40:13.568 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.258720</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_154013.568/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:40:15.620 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.649354</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_154015.620/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:40:45.169 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>28.625228</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_154045.169/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileSystemException -- Failed to create folder </ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:42:52.799 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.941751</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180611_154252.799/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-11 15:43:11.722 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20180611_154311.722/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-12 08:22:33.636 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>10.562979</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180612_082233.636/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-12 08:23:41.254 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.981095</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180612_082341.254/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-12 08:25:33.088 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.213934</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180612_082533.088/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-12 08:25:35.374 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.225117</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180612_082535.374/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Chrome&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-12 08:26:13.799 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>14.627162</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180612_082613.799/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-12 08:26:38.536 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.953051</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180612_082638.536/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-06-12 08:26:50.291 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>30.406288</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180612_082650.291/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileSystemException -- Failed to create folder </ErrorMessage>
+ </run>
+</runHistory>

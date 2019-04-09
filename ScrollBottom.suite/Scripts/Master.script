@@ -1,0 +1,24 @@
+﻿
+
+repeat forever
+	put ImageRectangle(image:"name") into NR
+	put NR+(-140,32,120,270) into ReadName
+	put ReadText(ReadName) into Namelist
+	split Namelist by return
+	Click "Next"
+	
+	if (Namelist <> PerviousNameList)then
+		put Namelist into PerviousNameList
+		log "On page:" && repeatindex()  
+		log "we have:"&&Namelist
+	else if (Namelist = PerviousNameList)
+		logwarning "We can not scroll anymore"
+		wait 4
+		Exit repeat
+	else
+		logerror "something went really wrong"
+	end if
+	wait 1
+end repeat
+
+

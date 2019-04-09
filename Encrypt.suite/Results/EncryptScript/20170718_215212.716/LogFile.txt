@@ -1,0 +1,3 @@
+﻿2017-07-18 21:52:12.717 -0400	START		Running RunScriptEncrypt.script
+2017-07-18 21:52:12.923 -0400	EndTestCase		(Duration:"0.204551", Errors:"1", Exceptions:"0", StartTime:"2017-07-18 21:52:12 -0400", Successes:"0", TestCase:"RunScriptEncrypt.script", Warnings:"0")
+2017-07-18 21:52:12.930 -0400	FAILURE		InvalidCommandOrRange Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters) -- Execution Time 0:00:00 RunScriptEncrypt.script

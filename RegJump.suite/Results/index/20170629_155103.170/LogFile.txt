@@ -1,0 +1,17 @@
+﻿2017-06-29 15:51:03.171 -0600	START		Running index.script
+2017-06-29 15:51:03.266 -0600	typetext		[windowsKey]	9	on_index	index.script
+2017-06-29 15:51:04.006 -0600	typetext		cmd	10	on_index	index.script
+2017-06-29 15:51:04.889 -0600	rightclick	Command Prompt Icon	at (75, 392)	11	on_index	index.script
+2017-06-29 15:51:06.087 -0600	click	administrator	at (179, 416)	12	on_index	index.script
+2017-06-29 15:51:06.195 -0600	waitfor	Command Prompt Icon Small	found at (126, 119)	13	on_index	index.script
+2017-06-29 15:51:07.502 -0600	typetext		regjump HKLM\Software\Microsoft\Windows\CurrentVersion[returnKey]	14	on_index	index.script
+2017-06-29 15:51:08.447 -0600	doubleclick	Columns/Type	at (578, 48)	18	on_index	index.script
+2017-06-29 15:51:09.482 -0600	imagelocation	Columns/Name	at (420, 57)	22	on_index	index.script
+2017-06-29 15:51:10.186 -0600	imagefound	(TEXT:"ProgramFilesPath")	found at (465, 231)	26	on_index	index.script
+2017-06-29 15:51:10.352 -0600	doubleclick		at (465, 231)	27	on_index	index.script
+2017-06-29 15:51:11.080 -0600	typetext		[controlKey]c	28	on_index	index.script
+2017-06-29 15:51:12.900 -0600	Log		put ImageLocation("Columns/data") into ILD\n\tput (item 1 of ILD, item 2 of RL) into DP\n\tinsert DP+(-14,-7) into RR\n\tinsert DP+(100,10) into RR\n\tput ColorAtLocation(DP+(100,10)) into CAT\n\tlog ReadText(RR, contrast:on, contrastColor:(CAT))\n\twait 2	29	on_index	index.script
+2017-06-29 15:51:12.927 -0600	typetext		[windowsAltKey][F4]	40	on_index	index.script
+2017-06-29 15:51:13.956 -0600	typetext		[windowsAltKey][F4]	43	on_index	index.script
+2017-06-29 15:51:14.247 -0600	EndTestCase		(Duration:"11.074629", Errors:"0", Exceptions:"0", StartTime:"2017-06-29 15:51:03 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-06-29 15:51:14.275 -0600	SUCCESS		Execution Time 0:00:11 index.script

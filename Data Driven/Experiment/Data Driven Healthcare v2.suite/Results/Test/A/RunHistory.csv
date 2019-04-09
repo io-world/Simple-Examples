@@ -1,0 +1,18 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-07-03 14:00:07.432 -0600,"Failure",0:00:00,1,0,0,"20170703_140007.432/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got ''.",0
+2017-07-11 09:03:36.377 -0600,"Failure",0:00:00,1,0,1,"20170711_090336.377/LogFile.txt","","File Not Found -- imagefound Error - Could Not Open Image: 2",0
+2017-07-11 09:11:07.443 -0600,"Failure",0:00:00,1,0,1,"20170711_091107.443/LogFile.txt","","Image Not Found -- imagefound Error - Image Property List did not contain ""ImageName"" property",0
+2017-07-11 09:13:17.363 -0600,"Failure",0:00:00,1,0,1,"20170711_091317.363/LogFile.txt","","Image Not Found -- imagefound Error - Image Property List did not contain ""ImageName"" property",0
+2017-07-11 09:13:26.220 -0600,"Success",0:00:07,0,2,0,"20170711_091326.220/LogFile.txt","","",1
+2017-07-11 09:13:34.366 -0600,"Running",0:00:00,0,0,0,"20170711_091334.366/LogFile.txt","","",0
+2017-07-11 09:13:43.256 -0600,"Success",0:00:06,0,2,0,"20170711_091343.256/LogFile.txt","","",1
+2017-07-11 09:14:51.601 -0600,"Success",0:00:06,0,2,0,"20170711_091451.601/LogFile.txt","","",1
+2017-07-11 09:15:04.260 -0600,"Success",0:00:06,0,2,0,"20170711_091504.260/LogFile.txt","","",1
+2017-07-11 09:15:16.611 -0600,"Success",0:00:06,0,2,0,"20170711_091516.611/LogFile.txt","","",1
+2017-07-11 09:15:29.028 -0600,"Success",0:00:06,0,2,0,"20170711_091529.028/LogFile.txt","","",1
+2017-07-11 09:15:41.412 -0600,"Success",0:00:06,0,2,0,"20170711_091541.412/LogFile.txt","","",1
+2017-07-11 09:15:53.762 -0600,"Success",0:00:06,0,2,0,"20170711_091553.762/LogFile.txt","","",1
+2017-07-11 09:16:06.183 -0600,"Success",0:00:06,0,2,0,"20170711_091606.183/LogFile.txt","","",1
+2017-07-11 09:16:18.599 -0600,"Success",0:00:06,0,2,0,"20170711_091618.599/LogFile.txt","","",1
+2017-07-11 09:16:31.011 -0600,"Success",0:00:06,0,2,0,"20170711_091631.011/LogFile.txt","","",1
+2017-07-11 09:16:44.828 -0600,"Success",0:00:08,0,2,0,"20170711_091644.828/LogFile.txt","","",1

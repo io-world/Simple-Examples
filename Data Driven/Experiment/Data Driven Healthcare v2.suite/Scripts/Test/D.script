@@ -1,0 +1,27 @@
+﻿params V
+
+
+
+
+
+Log "code for Navigation for TestB "
+
+
+---Navigation Commands
+click "Test/b/history"
+---Navigation Commands
+
+
+---Verifcation Commands
+(V).Content "Tap the buttons" , 5,(0,0,500,500)
+---Verifcation Commands
+
+
+
+---Navigation Commands
+click "Test/b/downloads"
+---Navigation Commands
+
+---Verifcation Commands
+(V).Content "is a Lie" , "3"
+---Verifcation Commands

@@ -1,0 +1,4 @@
+﻿2018-04-06 14:07:07.189 -0600	START		Running Master.script
+2018-04-06 14:07:10.918 -0600	connect		127.0.0.1:5902	17	on_master	Master.script
+2018-04-06 14:07:11.368 -0600	EndTestCase		(Duration:"4.177116", Errors:"0", Exceptions:"0", StartTime:"2018-04-06 14:07:07 -0600", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-04-06 14:07:11.687 -0600	SUCCESS		Execution Time 0:00:07 Master.script

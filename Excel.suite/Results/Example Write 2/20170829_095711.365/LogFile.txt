@@ -1,0 +1,3 @@
+﻿2017-08-29 09:57:11.366 -0600	START		Running Example6.script
+2017-08-29 09:57:11.626 -0600	EndTestCase		(Duration:"0.255445", Errors:"1", Exceptions:"0", StartTime:"2017-08-29 09:57:11 -0600", Successes:"0", TestCase:"Example6.script", Warnings:"0")
+2017-08-29 09:57:11.635 -0600	FAILURE		STDatabaseException Can't Add records a non-Writable database connection -- Execution Time 0:00:00 Example6.script

@@ -1,0 +1,5 @@
+﻿2018-04-06 10:36:59.440 -0600	START		Running Master.script
+2018-04-06 10:37:00.068 -0600	Log		(Windows 10,582cce9e5472610322000001)	10	on_master	Master.script
+2018-04-06 10:37:00.070 -0600	Log		(Administrator,570c0a66547261080b00000b)	11	on_master	Master.script
+2018-04-06 10:37:00.242 -0600	EndTestCase		(Duration:"0.800377", Errors:"0", Exceptions:"0", StartTime:"2018-04-06 10:36:59 -0600", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-04-06 10:37:00.258 -0600	SUCCESS		Execution Time 0:00:00 Master.script

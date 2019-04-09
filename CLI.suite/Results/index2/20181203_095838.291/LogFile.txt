@@ -1,0 +1,5 @@
+﻿2018-12-03 09:58:38.293 -0700	START		Running index2.script
+2018-12-03 09:58:38.305 -0700	Log		False	3	on_index2	index2.script
+2018-12-03 09:58:38.306 -0700	Log		username:"John",password:"go data"	5	on_index2	index2.script
+2018-12-03 09:58:38.370 -0700	EndTestCase		(Duration:"0.075002", Errors:"1", Exceptions:"0", StartTime:"2018-12-03 09:58:38 -0700", Successes:"0", TestCase:"index2.script", Warnings:"0")
+2018-12-03 09:58:38.374 -0700	FAILURE		SRUN_InvalidValueExpr Unable to take value of expression 'username:"John",password:"go data"' (reason: (null)) -- Execution Time 0:00:00 index2.script

@@ -1,0 +1,79 @@
+﻿//Service to Check
+put "SSDP Discover" into S2C
+---put "Start" into ChangeStatus
+
+--------------------------------------------------------------
+TypeText windowsKey & "r"
+TypeText "services.msc" , returnKey
+moveto RemoteScreenSize()
+WaitFor 20,  "CheckServices/Gears Icon"
+wait 1
+
+if ImageFound(3, "CheckServices/Windows Float") then
+	click foundimagelocation()
+	wait 1
+end if
+---------------------- 
+
+doubleclick image:"CheckServices/Columns/Description", hotspot:(-7,2)
+put item 1 of foundImageLocation() into XLength
+
+
+put imagelocation("CheckServices/Columns/Name") into ILCM
+insert ILCM+(-7,13) into RR
+insert (XLength,820) into RR
+
+put the first character of S2c into InitialLetter
+
+
+TypeText InitialLetter
+
+
+repeat 2 times
+	TypeText pagedown
+	wait 2
+	if imagefound(text: S2C, searchRectangle: (RR))
+		put FoundImageLocation() into FILS
+		log "Found :"&& S2C
+		Exit repeat
+	end if
+	
+end repeat
+------------------------------
+
+put imagelocation(text:"SSDP Discover") into FILS
+put ImageLocation("CheckServices/Columns/Status") into ILS
+
+
+put (item 1 of ILS,item 2 of FILS) into SL
+
+
+
+if ChangeStatus = "Start"  or ChangeStatus = "Stop" or ChangeStatus = "Restart" then
+	rightclick SL
+	if imagefound("CheckServices/Status/"&ChangeStatus) then
+		click FoundImageLocation()
+		wait 1
+		repeat until not imagefound (1,"CheckServices/Service Control")
+			log ChangeStatus &"ing"
+		end repeat
+		wait 2
+		log "Finished"
+	else
+		logerror "Unable to:" && ChangeStatus && "service"
+	end if
+	
+else
+	insert SL+(-20,-6) into SRR
+	insert SL+(30,12) into SRR
+	put ReadText(SRR) into Status
+	log "The Status is:" &&Status
+	wait 1
+	
+end if
+TypeText altKey & F4
+
+
+
+
+

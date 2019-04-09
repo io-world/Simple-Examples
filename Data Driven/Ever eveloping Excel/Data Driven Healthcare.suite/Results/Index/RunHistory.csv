@@ -1,0 +1,11 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-07-03 13:59:40.979 -0600,"Failure",0:00:01,1,0,1,"20170703_135940.979/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Test/A/Contacts",0
+2017-08-16 16:27:30.164 -0600,"Success",0:07:30,0,0,0,"20170816_162730.164/LogFile.txt","","",1
+2017-08-18 10:51:06.777 -0500,"Failure",0:00:00,1,0,0,"20170818_105106.777/LogFile.txt","","Workbook Error -- Wrong file type (must be 'xls' or 'xlsx' file): /Users/randyhesse/Documents/Demos/(/)",0
+2017-08-18 10:51:21.415 -0500,"Failure",0:00:00,1,0,0,"20170818_105121.415/LogFile.txt","","Workbook Error -- Wrong file type (must be 'xls' or 'xlsx' file): /Users/randyhesse/Documents/Demos/(/)",0
+2018-01-12 14:44:33.774 +0530,"Failure",0:00:00,1,0,0,"20180112_144433.774/LogFile.txt","","Workbook Error -- Wrong file type (must be 'xls' or 'xlsx' file): /Users/randyhesse/Documents/Demos/(/)",0
+2018-04-03 16:12:28.003 -0600,"Failure",0:00:00,1,0,0,"20180403_161228.003/LogFile.txt","","STFileException -- File /Users/randyhesse/Documents/Simple Examples/Data Driven/Ever eveloping Excel/Data Driven Healthcare.suite/Resources/PatientInformation.xlsx couldn't be read using the defaultStringEncoding (UTF8)",0
+2018-04-04 10:08:34.669 -0600,"Running",0:00:00,0,0,0,"20180404_100834.669/LogFile.txt","","",0
+2018-04-04 10:08:43.208 -0600,"Failure",0:00:00,1,0,0,"20180404_100843.208/LogFile.txt","","Workbook Error -- Wrong file type (must be 'xls' or 'xlsx' file): /Users/randyhesse/Documents/(/)",0
+2018-04-04 10:09:49.448 -0600,"Failure",0:00:00,1,0,0,"20180404_100949.448/LogFile.txt","","Workbook Error -- Wrong file type (must be 'xls' or 'xlsx' file): /Users/randyhesse/Documents/(/)",0
+2018-04-04 10:11:25.239 -0600,"Failure",0:00:00,1,0,0,"20180404_101125.239/LogFile.txt","","Workbook Error -- Wrong file type (must be 'xls' or 'xlsx' file): /Users/randyhesse/Documents/(/)",0

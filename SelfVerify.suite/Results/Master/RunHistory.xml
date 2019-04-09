@@ -1,0 +1,149 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Master">
+ <run>
+  <RunDate>2018-10-18 08:40:53.252 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.255046</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181018_084053.252/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 08:41:30.748 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>2.063483</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181018_084130.748/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 08:43:06.461 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.772139</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181018_084306.461/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 08:43:16.420 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>14.506975</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181018_084316.420/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 08:43:47.151 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>7.895445</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181018_084347.151/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 08:44:29.938 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>10.631614</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181018_084429.938/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 08:45:42.222 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.003239</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181018_084542.222/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in master:
+Syntax Error at line 11: Syntax Error - can&#x27;t understand &quot;trys&quot; at or near character 88</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 08:48:24.033 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.003630</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181018_084824.033/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in master:
+Syntax Error at line 14: Syntax Error - can&#x27;t understand &quot;trys&quot; at or near character 110</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 08:48:30.249 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.515516</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181018_084830.249/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>somename -- problems</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 08:49:55.072 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>11.683346</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181018_084955.072/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>somename -- problems</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 08:50:17.067 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>10.301801</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181018_085017.067/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Runtime Error at line 5: Image Not Found - click Error - No Image Found On Screen: &quot;Refresh Icon&quot; -- problems</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 08:51:01.781 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.906215</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181018_085101.781/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Your Script is terrible -- problems: Runtime Error at line 5: Image Not Found - click Error - No Image Found On Screen: &quot;Refresh Icon&quot;</ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,16 @@
+﻿
+
+put (0,0) into ColumnBar
+
+
+put 28 into ShfitColumn
+
+
+
+
+
+put ShfitColumn modulo 26 into alphaShift_M
+put ShfitColumn divided by 26 rounded 0 decimal places into alphaShift_D
+
+log alphaShift_D   && alphaShift_M
+

@@ -1,0 +1,8 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-07-17 23:19:02.542 -0400,"Success",0:00:00,0,0,0,"20170717_231902.542/LogFile.txt","","",1
+2017-07-17 23:19:49.748 -0400,"Failure",0:00:00,1,0,1,"20170717_231949.748/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",0
+2017-07-17 23:20:15.417 -0400,"Success",0:00:00,0,0,1,"20170717_232015.417/LogFile.txt","","",1
+2017-07-17 23:20:27.928 -0400,"Success",0:00:00,0,0,1,"20170717_232027.928/LogFile.txt","","",1
+2017-07-17 23:20:42.711 -0400,"Success",0:00:00,0,0,1,"20170717_232042.711/LogFile.txt","","",1
+2017-07-17 23:20:55.124 -0400,"Success",0:00:00,0,0,1,"20170717_232055.124/LogFile.txt","","",1
+2017-07-17 23:25:48.939 -0400,"Success",0:00:00,0,0,1,"20170717_232548.939/LogFile.txt","","",1

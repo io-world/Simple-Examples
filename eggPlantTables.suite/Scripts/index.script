@@ -1,0 +1,7 @@
+﻿DoubleClick "Google"
+WaitFor 30, "Refresh Icon"
+click FoundImageLocation()
+TypeText "www.amazon.com" 
+TypeText returnKey
+WaitFor 30, "Refresh Icon"
+TypeText altKey & F4

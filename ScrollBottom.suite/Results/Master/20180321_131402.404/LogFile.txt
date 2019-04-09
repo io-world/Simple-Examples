@@ -1,0 +1,11 @@
+﻿2018-03-21 13:14:02.405 +0530	START		Running Master.script
+2018-03-21 13:14:03.162 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:14:03.270 +0530	readtext		(205,126,539,389)
+2018-03-21 13:14:04.752 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:14:04.754 +0530	Log		(Cara Stevens,Hermione Butler,Lael Greer,Jonas Alexander,Shad Decker,Michael Bruce,Donna Snider,Name)	13	on_master	Master.script
+2018-03-21 13:14:06.092 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 13:14:06.200 +0530	readtext		(205,126,539,389)
+2018-03-21 13:14:07.681 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 13:14:07.682 +0530	LogWarning		We can not scroll anymore	15	on_master	Master.script
+2018-03-21 13:14:11.964 +0530	EndTestCase		(Duration:"9.557303", Errors:"0", Exceptions:"0", StartTime:"2018-03-21 13:14:02 +0530", Successes:"1", TestCase:"Master.script", Warnings:"1")
+2018-03-21 13:14:11.981 +0530	SUCCESS		Execution Time 0:00:09 Master.script

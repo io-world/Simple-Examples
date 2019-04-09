@@ -1,0 +1,7 @@
+﻿2017-06-29 09:25:42.858 -0600	START		Running index.script
+2017-06-29 09:25:42.918 -0600	typetext		[windowsKey]r	1	on_index	index.script
+2017-06-29 09:25:43.791 -0600	typetext		services.msc[returnKey]	2	on_index	index.script
+2017-06-29 09:25:44.507 -0600	moveto		at (1440, 900)	3	on_index	index.script
+2017-06-29 09:25:44.692 -0600	waitfor	Gears Icon	found at (350, 668)	4	on_index	index.script
+2017-06-29 09:25:45.298 -0600	EndTestCase		(Duration:"2.439013", Errors:"1", Exceptions:"0", StartTime:"2017-06-29 09:25:42 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-06-29 09:25:45.299 -0600	ABORTED		Execution Time 0:00:02 index.script

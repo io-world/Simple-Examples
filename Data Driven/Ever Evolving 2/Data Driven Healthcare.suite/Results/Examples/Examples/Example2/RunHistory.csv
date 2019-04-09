@@ -1,0 +1,9 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-07-03 14:06:54.932 -0600,"Success",0:00:00,0,0,0,"20170703_140654.932/LogFile.txt","","",1
+2017-07-03 14:07:16.402 -0600,"Success",0:00:00,0,0,0,"20170703_140716.402/LogFile.txt","","",1
+2017-07-03 14:09:36.342 -0600,"Success",0:00:00,0,0,0,"20170703_140936.342/LogFile.txt","","",1
+2017-07-03 14:09:58.654 -0600,"Success",0:00:00,0,0,0,"20170703_140958.654/LogFile.txt","","",1
+2017-07-03 14:10:50.223 -0600,"Failure",0:00:00,1,0,0,"20170703_141050.223/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got ''.",0
+2017-07-03 14:11:57.513 -0600,"Success",0:00:00,0,0,0,"20170703_141157.513/LogFile.txt","","",1
+2017-07-03 14:13:15.805 -0600,"Success",0:00:00,0,0,0,"20170703_141315.805/LogFile.txt","","",1
+2017-07-03 14:13:21.424 -0600,"Success",0:00:00,0,0,0,"20170703_141321.424/LogFile.txt","","",1

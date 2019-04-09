@@ -1,0 +1,9 @@
+﻿2018-06-11 13:50:32.501 -0600	START		Running Master 1.script
+2018-06-11 13:50:42.499 -0600	Exception	Chrome	No Image Found On Screen: "Chrome"	1	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 13:50:42.568 -0600	Log		Error Name: Runtime Error at line 1: Image Not Found - click Error - No Image Found On Screen: "Chrome"	5	function_attemptrecovery	attemptRecovery.script
+2018-06-11 13:50:42.570 -0600	Log		Action Name: click	6	function_attemptrecovery	attemptRecovery.script
+2018-06-11 13:50:42.571 -0600	Log		Image Name: (Chrome)	7	function_attemptrecovery	attemptRecovery.script
+2018-06-11 13:50:42.574 -0600	Log		((CaptureDate:"2018-06-11 19:01:01 +0000", CaptureHost:"Windows 10", CaptureLocation:(165,110), CaptureScreenSize:(1920,1080), Description:"", HotSpot:(21,31), ImageLocation:"", ImageName:"Chrome", ImagePath:"/Users/randyhesse/Documents/Simple Examples/OmegaCollection.suite/Images/chrome.png", ImageRectangle:"", ImageSize:(47,47), Pulsing:"False", Scale:"1", SearchType:"Tolerant"))	10	function_attemptrecovery	attemptRecovery.script
+2018-06-11 13:50:42.616 -0600	Throw		Image Not Found - click Error - No Image Found On Screen: "Chrome"	20	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 13:50:42.882 -0600	EndTestCase		(Duration:"10.379425", Errors:"1", Exceptions:"2", StartTime:"2018-06-11 13:50:32 -0600", Successes:"0", TestCase:"Master 1.script", Warnings:"0")
+2018-06-11 13:50:42.957 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Chrome" -- Execution Time 0:00:10 Master 1.script

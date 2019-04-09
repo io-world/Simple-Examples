@@ -1,0 +1,14 @@
+﻿2018-01-12 11:48:49.587 +0530	START		Running index.script
+2018-01-12 11:48:49.695 +0530	typetext		[windowsKey]r	1	on_index	index.script
+2018-01-12 11:48:50.554 +0530	typetext		notepad.exe[returnKey]	2	on_index	index.script
+2018-01-12 11:48:51.279 +0530	waitfor	NotePad Icon	found at (18, 17)	3	on_index	index.script
+2018-01-12 11:48:52.795 +0530	typetext		This File is From the System Under Test[returnKey]	5	on_index	index.script
+2018-01-12 11:48:53.699 +0530	typetext		01/12/1811:48 AM	6	on_index	index.script
+2018-01-12 11:48:54.729 +0530	typetext		[controlKey]s	8	on_index	index.script
+2018-01-12 11:48:55.354 +0530	waitfor	Filename	found at (204, 433)	9	on_index	index.script
+2018-01-12 11:48:55.562 +0530	typetext		Config.txt	10	on_index	index.script
+2018-01-12 11:48:56.276 +0530	typetext		[returnKey]	11	on_index	index.script
+2018-01-12 11:48:57.610 +0530	click	NotePad Icon	at (18, 17)	13	on_index	index.script
+2018-01-12 11:48:58.829 +0530	click	Close	at (52, 163)	14	on_index	index.script
+2018-01-12 11:48:59.214 +0530	EndTestCase		(Duration:"9.626498", Errors:"0", Exceptions:"0", StartTime:"2018-01-12 11:48:49 +0530", Successes:"1", TestCase:"index.script", Warnings:"0")
+2018-01-12 11:48:59.240 +0530	SUCCESS		Execution Time 0:00:09 index.script

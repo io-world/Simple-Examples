@@ -1,0 +1,14 @@
+﻿2017-07-17 21:44:00.529 -0400	START		Running Workflow1.script
+2017-07-17 21:44:00.568 -0400	Log		 this will do something	4	on_workflow1	Workflow1.script
+2017-07-17 21:44:00.569 -0400	Log		yup	10	on_workflow1	Workflow1.script
+2017-07-17 21:44:00.570 -0400	Log		yup	10	on_workflow1	Workflow1.script
+2017-07-17 21:44:00.571 -0400	Log		yup	10	on_workflow1	Workflow1.script
+2017-07-17 21:44:00.572 -0400	Log		yup	10	on_workflow1	Workflow1.script
+2017-07-17 21:44:00.573 -0400	Log		yup	10	on_workflow1	Workflow1.script
+2017-07-17 21:44:00.573 -0400	Log		yup	10	on_workflow1	Workflow1.script
+2017-07-17 21:44:00.574 -0400	Log		yup	10	on_workflow1	Workflow1.script
+2017-07-17 21:44:00.575 -0400	Log		yup	10	on_workflow1	Workflow1.script
+2017-07-17 21:44:00.576 -0400	Log		yup	10	on_workflow1	Workflow1.script
+2017-07-17 21:44:00.576 -0400	Log		yup	10	on_workflow1	Workflow1.script
+2017-07-17 21:44:00.707 -0400	EndTestCase		(Duration:"0.176626", Errors:"0", Exceptions:"0", StartTime:"2017-07-17 21:44:00 -0400", Successes:"1", TestCase:"Workflow1.script", Warnings:"0")
+2017-07-17 21:44:00.717 -0400	SUCCESS		Execution Time 0:00:00 Workflow1.script

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Master.script" package="PDF Compare.suite" timestamp="2018-06-07 09:10:17.623 -0500"
+ tests="1" successes="1" errors="0" time="1.155782">
+  <properties>
+   <property name="RunDate" value="2018-06-07 09:10:17.623 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Master.script" assertions="1" successes="1" errors="0" time="1.153829">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,23 @@
+﻿2019-03-11 09:56:36.865 -0600	START		Running index2.script
+2019-03-11 09:56:36.935 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:36.940 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:36.944 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:36.948 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:36.951 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:36.954 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:36.959 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:36.962 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:36.966 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:36.969 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:36.973 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:36.976 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:36.979 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:36.984 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:36.989 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:36.992 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:36.995 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:37.003 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:37.010 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:37.017 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 09:56:37.486 -0600	EndTestCase		(Duration:"0.619569", Errors:"1", Exceptions:"0", StartTime:"2019-03-11 09:56:36 -0600", Successes:"0", TestCase:"index2.script", Warnings:"0")
+2019-03-11 09:56:37.502 -0600	FAILURE		STMaxCallDepthExceeded Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself. -- Execution Time 0:00:00 index2.script

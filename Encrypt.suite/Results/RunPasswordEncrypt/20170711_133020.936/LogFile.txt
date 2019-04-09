@@ -1,0 +1,4 @@
+﻿2017-07-11 13:30:20.936 -0600	START		Running index.script
+2017-07-11 13:30:23.270 -0600	Log		password1234	11	on_index	index.script
+2017-07-11 13:30:23.804 -0600	EndTestCase		(Duration:"2.866802", Errors:"0", Exceptions:"0", StartTime:"2017-07-11 13:30:20 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-07-11 13:30:23.811 -0600	SUCCESS		Execution Time 0:00:02 index.script

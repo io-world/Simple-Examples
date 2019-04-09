@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<runHistory script="List">
+ <run>
+  <RunDate>2017-06-27 08:46:32.533 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.239384</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170627_084632.533/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-18 22:35:50.044 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.232226</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170718_223550.044/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-01 14:07:16.045 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.541993</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190401_140716.045/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;chips&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-04-01 14:07:44.180 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.427722</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190401_140744.180/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;index&#x27;</ErrorMessage>
+ </run>
+</runHistory>

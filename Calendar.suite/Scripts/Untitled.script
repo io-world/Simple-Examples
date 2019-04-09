@@ -1,0 +1,32 @@
+﻿put "2017-12-15" into DOB
+put formattedTime("%a", DOB) into DOM_DayName
+split DOB by "-"
+put item 1 of DOB into DOB_Y
+put item 2 of DOB into DOB_M
+put item 3 of DOB into DOB_D
+put the month  into Today_M
+put the year  into Today_Y
+
+
+put Today_Y-DOB_Y into Y_dif
+
+
+
+
+
+
+
+put ImageLocation("WK") into WKCoord
+insert WKCoord +(18,-7) into RR
+insert WKCoord +(250,10) into RR
+(*put ReadText(RR) into Days
+split days by space*)
+put ImageLocation(Text:DOM_DayName,searchRectangle:(RR)) into DNL
+insert DNL+(-5,10) into RR2
+insert DNL+(15,150) into RR2
+log ReadText(RR2)
+click text:DOB_D, searchRectangle:(RR2)
+wait 4
+
+
+

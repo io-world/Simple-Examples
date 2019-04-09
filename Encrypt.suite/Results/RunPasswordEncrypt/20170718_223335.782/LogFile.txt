@@ -1,0 +1,5 @@
+﻿2017-07-18 22:33:35.782 -0400	START		Running RunPasswordEncrypt.script
+2017-07-18 22:33:35.827 -0400	Log		password1234	11	on_runpasswordencrypt	RunPasswordEncrypt.script
+2017-07-18 22:33:35.829 -0400	Exception		Remote Connection Unavailable	13	on_runpasswordencrypt	RunPasswordEncrypt.script
+2017-07-18 22:33:36.083 -0400	EndTestCase		(Duration:"0.299686", Errors:"1", Exceptions:"1", StartTime:"2017-07-18 22:33:35 -0400", Successes:"0", TestCase:"RunPasswordEncrypt.script", Warnings:"0")
+2017-07-18 22:33:36.097 -0400	FAILURE		No Remote Connection typeencodedtext Error - Remote Connection Unavailable -- Execution Time 0:00:00 RunPasswordEncrypt.script

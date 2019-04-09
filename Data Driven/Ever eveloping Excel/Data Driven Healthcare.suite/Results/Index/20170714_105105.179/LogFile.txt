@@ -1,0 +1,16 @@
+﻿2017-07-14 10:51:05.180 -0600	START		Running Index.script
+2017-07-14 10:51:05.288 -0600	connect		Tutorial Connection:(null)	4	on_libraries_sutconnect	Libraries/SUTConnect.script
+2017-07-14 10:51:05.289 -0600	Log		You are Connect	13	on_libraries_sutconnect	Libraries/SUTConnect.script
+2017-07-14 10:51:05.290 -0600	Log		Connection Information(Availability:"Active", Bonjour:"False", ColorDepth:"32", Connected:"True", Name:"Tutorial Connection", PortNum:"5900", Reverse:"False", ScreenSize:(427,640), ServerID:"TutorialSUT", Status:"Connected", Type:"vnc", Visible:"False")	14	on_libraries_sutconnect	Libraries/SUTConnect.script
+2017-07-14 10:51:05.329 -0600	runwithnewresults		Zero.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving/Data Driven Healthcare.suite/Results/States/Zero/20170714_105105.328/LogFile.txt)	9	on_index	Index.script
+2017-07-14 10:51:05.583 -0600	runwithnewresults		Login.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving/Data Driven Healthcare.suite/Results/Libraries/Login/20170714_105105.582/LogFile.txt)	13	on_index	Index.script
+2017-07-14 10:51:07.175 -0600	runwithnewresults		A.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving/Data Driven Healthcare.suite/Results/Test/A/20170714_105107.174/LogFile.txt)	15	on_index	Index.script
+2017-07-14 10:51:13.977 -0600	runwithnewresults		B.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving/Data Driven Healthcare.suite/Results/Test/B/20170714_105113.977/LogFile.txt)	16	on_index	Index.script
+2017-07-14 10:51:19.605 -0600	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving/Data Driven Healthcare.suite/Results/Test/NewPatient/20170714_105119.604/LogFile.txt)	17	on_index	Index.script
+2017-07-14 10:51:19.645 -0600	runwithnewresults		A.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving/Data Driven Healthcare.suite/Results/Test/A/20170714_105119.644/LogFile.txt)	15	on_index	Index.script
+2017-07-14 10:51:26.161 -0600	runwithnewresults		B.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving/Data Driven Healthcare.suite/Results/Test/B/20170714_105126.160/LogFile.txt)	16	on_index	Index.script
+2017-07-14 10:51:31.800 -0600	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving/Data Driven Healthcare.suite/Results/Test/NewPatient/20170714_105131.799/LogFile.txt)	17	on_index	Index.script
+2017-07-14 10:51:31.833 -0600	runwithnewresults		A.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving/Data Driven Healthcare.suite/Results/Test/A/20170714_105131.832/LogFile.txt)	15	on_index	Index.script
+2017-07-14 10:51:38.584 -0600	runwithnewresults		B.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving/Data Driven Healthcare.suite/Results/Test/B/20170714_105138.583/LogFile.txt)	16	on_index	Index.script
+2017-07-14 10:51:41.182 -0600	EndTestCase		(Duration:"36.000788", Errors:"2", Exceptions:"0", StartTime:"2017-07-14 10:51:05 -0600", Successes:"9", TestCase:"Index.script", Warnings:"8")
+2017-07-14 10:51:41.183 -0600	ABORTED		Execution Time 0:00:36 Index.script

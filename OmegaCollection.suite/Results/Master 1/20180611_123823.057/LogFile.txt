@@ -1,0 +1,11 @@
+﻿2018-06-11 12:38:23.058 -0600	START		Running Master 1.script
+2018-06-11 12:38:33.331 -0600	Exception	thing	No Image Found On Screen: "thing"	1	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 12:38:33.401 -0600	Log		var1Runtime Error at line 1: Image Not Found - click Error - No Image Found On Screen: "thing"	3	function_attemptrecovery	attemptRecovery.script
+2018-06-11 12:38:33.402 -0600	Log		var2click	5	function_attemptrecovery	attemptRecovery.script
+2018-06-11 12:38:33.404 -0600	Log		var3(thing)	6	function_attemptrecovery	attemptRecovery.script
+2018-06-11 12:38:33.405 -0600	Log		var4	7	function_attemptrecovery	attemptRecovery.script
+2018-06-11 12:38:33.406 -0600	Log		var5	8	function_attemptrecovery	attemptRecovery.script
+2018-06-11 12:38:33.410 -0600	Log		image inage((Description:"", HotSpot:(23.5,23.5), ImageLocation:(189,134), ImageName:"thing", ImagePath:"/Users/randyhesse/Documents/Simple Examples/OmegaCollection.suite/Images/thing/Chrome.png", ImageRectangle:(165,110,212,157), ImageSize:(47,47), Pulsing:"False", Scale:"1", SearchType:"Tolerant"))	11	function_attemptrecovery	attemptRecovery.script
+2018-06-11 12:38:33.448 -0600	Throw		Image Not Found - click Error - No Image Found On Screen: "thing"	20	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 12:38:33.725 -0600	EndTestCase		(Duration:"10.665568", Errors:"1", Exceptions:"2", StartTime:"2018-06-11 12:38:23 -0600", Successes:"0", TestCase:"Master 1.script", Warnings:"0")
+2018-06-11 12:38:33.807 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "thing" -- Execution Time 0:00:10 Master 1.script

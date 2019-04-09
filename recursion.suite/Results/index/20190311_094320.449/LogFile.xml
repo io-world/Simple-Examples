@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="index_script" package="recursion.suite" timestamp="2019-03-11 09:43:20.449 -0600"
+ tests="1"  failures="0" errors="0" time="0.341738">
+  <properties>
+   <property name="RunDate" value="2019-03-11 09:43:20.449 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="index.script" assertions="1" status="success"  time="0.339518">
+  </testcase>
+ </testsuite>
+</testsuites>

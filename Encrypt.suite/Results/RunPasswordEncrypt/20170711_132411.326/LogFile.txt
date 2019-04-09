@@ -1,0 +1,4 @@
+﻿2017-07-11 13:24:11.327 -0600	START		Running index.script
+2017-07-11 13:24:13.962 -0600	Log		9'@@Gm;*Z[_2	8	on_index	index.script
+2017-07-11 13:24:14.165 -0600	EndTestCase		(Duration:"2.837259", Errors:"0", Exceptions:"0", StartTime:"2017-07-11 13:24:11 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-07-11 13:24:14.172 -0600	SUCCESS		Execution Time 0:00:02 index.script

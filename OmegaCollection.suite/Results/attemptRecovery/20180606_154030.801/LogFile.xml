@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="attemptRecovery_script" package="OmegaCollection.suite" timestamp="2018-06-06 15:40:30.801 -0500"
+ tests="1"  failures="1" errors="1" time="0.345420">
+  <properties>
+   <property name="RunDate" value="2018-06-06 15:40:30.801 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="attemptRecovery.script" assertions="1" status="error"  time="0.343431">
+    <failure type="FAILURE" message="File Not Found imagefound Error - Could Not Open Image: hrome -- Execution Time 0:00:00 attemptRecovery.script" />
+    <error type="Exception" message="Could Not Open Image: hrome" />
+  </testcase>
+ </testsuite>
+</testsuites>

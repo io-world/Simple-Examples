@@ -1,0 +1,36 @@
+﻿
+
+put new "CSVCLass"  into CO
+
+Run (CO).Create "WebFormData3"
+
+
+put "GeneratePatientAPI" (200) into PatientList
+log PatientList
+
+
+Run (CO).Write  , PatientList
+
+put "ProcessingMain" ("WebFormData3") into FinalPatientList
+
+log FinalPatientList
+//---------------------------------------------
+
+put new "CSVCLass"  into CO
+Run (CO).Create "WebFormData4"
+Run (CO).Write  , FinalPatientList
+
+
+//--FULLL
+
+//------------------------------------------------------------
+//------------------------------------------------------------
+
+
+
+put new "CSVCLass"  into CO
+Run (CO).Create "WebFormData3"
+put "GeneratePatientAPI" (20) into PatientList
+Run (CO).Write  , PatientList
+
+

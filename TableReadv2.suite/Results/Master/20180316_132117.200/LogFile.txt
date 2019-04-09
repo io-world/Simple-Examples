@@ -1,0 +1,4 @@
+﻿2018-03-16 13:21:17.201 +0530	START		Running Master.script
+2018-03-16 13:21:28.057 +0530	Exception	show	Unable To Find Image "show"	4	on_master	Master.script
+2018-03-16 13:21:28.361 +0530	EndTestCase		(Duration:"11.158623", Errors:"1", Exceptions:"1", StartTime:"2018-03-16 13:21:17 +0530", Successes:"0", TestCase:"Master.script", Warnings:"0")
+2018-03-16 13:21:28.362 +0530	ABORTED		Execution Time 0:00:11 Master.script

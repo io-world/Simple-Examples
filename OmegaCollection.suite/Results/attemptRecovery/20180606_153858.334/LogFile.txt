@@ -1,0 +1,4 @@
+﻿2018-06-06 15:38:58.335 -0500	START		Running attemptRecovery.script
+2018-06-06 15:38:58.403 -0500	Exception	hrome	Could Not Open Image: hrome	16	on_attemptrecovery	attemptRecovery.script
+2018-06-06 15:38:58.684 -0500	EndTestCase		(Duration:"0.347932", Errors:"1", Exceptions:"1", StartTime:"2018-06-06 15:38:58 -0500", Successes:"0", TestCase:"attemptRecovery.script", Warnings:"0")
+2018-06-06 15:38:59.506 -0500	FAILURE	Screen_Error.png	File Not Found imagefound Error - Could Not Open Image: hrome -- Execution Time 0:00:00 attemptRecovery.script

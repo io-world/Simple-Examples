@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="index2_script" package="CLI.suite" timestamp="2018-12-03 09:58:38.291 -0700"
+ tests="1"  failures="1" errors="0" time="0.077751">
+  <properties>
+   <property name="RunDate" value="2018-12-03 09:58:38.291 -0700"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="index2.script" assertions="1" status="failure"  time="0.075002">
+    <failure type="FAILURE" message="SRUN_InvalidValueExpr Unable to take value of expression 'username:&quot;John&quot;,password:&quot;go data&quot;' (reason: (null)) -- Execution Time 0:00:00 index2.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

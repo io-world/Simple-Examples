@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Script1.script",
+      "timestamp" : "2018-10-18 09:12:41.796 -0600"
+    },
+    {
+      "handlerName" : "on_script1",
+      "message" : "YES",
+      "timestamp" : "2018-10-18 09:12:41.912 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Script1.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_script1",
+      "message" : "Script1.script",
+      "timestamp" : "2018-10-18 09:12:41.923 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Script1.script",
+      "handlerLine" : 16
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.350456\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2018-10-18 09:12:41 -0600\", Successes:\"1\", TestCase:\"Script1.script\", Warnings:\"0\")",
+      "timestamp" : "2018-10-18 09:12:42.158 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Script1.script",
+      "timestamp" : "2018-10-18 09:12:42.182 -0600"
+    }
+  ],
+  "created_timestamp" : "2018-10-18 09:12:41.807 -0600"
+}

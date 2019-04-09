@@ -1,0 +1,38 @@
+﻿params ScriptName
+
+put "test1" into Sr
+
+
+put the last item of ScriptResults() into SR
+
+delete "/LogFile.txt" from SR.LogFile
+
+
+
+put SR.Logfile into  FilePath
+split SR.LogFile by "/"
+put the last item of SR.LogFile into TimeDateName
+
+
+
+put "DepartmentID" &"-"& "whatever" into NN
+
+
+put FilePath into OFP
+put FilePath into NFP
+replace TimeDateName with NN in NFP
+
+log "This:"& OFP
+log "Will be replaced with this:" &NFP
+
+
+(*
+Try
+	delete folder NFP
+End try
+
+
+copy folder OFP to NFP
+delete folder OFP
+*)
+

@@ -1,0 +1,69 @@
+State,Action
+Initial,Patient
+Registration,Forms
+Waiting Room,In Patient
+Intensive Care Unit,Haemodynamic monitoring
+Intensive Care Unit,Crash Cart
+Intensive Care Unit,Network Drop
+Intensive Care Unit,Back
+Waiting Room,In Patient
+Cardiology,Code Blue
+Cardiology,Back
+Waiting Room,In Patient
+Maternity departments,Back
+Waiting Room,Network Drop
+Waiting Room,In Patient
+Pharmacy,Code Blue
+Pharmacy,Back
+Waiting Room,In Patient
+Intensive Care Unit,Crash Cart
+Intensive Care Unit,Haemodynamic monitoring
+Intensive Care Unit,Ventilator
+Intensive Care Unit,Back
+Waiting Room,In Patient
+Cardiology,Electrocardiogram
+Cardiology,Network Drop
+Cardiology,Back
+Waiting Room,In Patient
+Intensive Care Unit,Crash Cart
+Intensive Care Unit,Back
+Waiting Room,Network Drop
+Waiting Room,In Patient
+Cardiology,Back
+Waiting Room,In Patient
+Pharmacy,Ibuprofen
+Pharmacy,Back
+Waiting Room,In Patient
+Diagnostic imaging,Back
+Waiting Room,In Patient
+Oncology,Radiation
+Oncology,Back
+Waiting Room,In Patient
+Intensive Care Unit,Crash Cart
+Intensive Care Unit,Back
+Waiting Room,Network Drop
+Waiting Room,In Patient
+Intensive Care Unit,Crash Cart
+Intensive Care Unit,Ventilator
+Intensive Care Unit,Haemodynamic monitoring
+Intensive Care Unit,Back
+Waiting Room,In Patient
+Pharmacy,Back
+Waiting Room,In Patient
+Intensive Care Unit,Crash Cart
+Intensive Care Unit,Haemodynamic monitoring
+Intensive Care Unit,Back
+Waiting Room,In Patient
+Intensive Care Unit,Crash Cart
+Intensive Care Unit,Back
+Waiting Room,Code Blue
+Waiting Room,In Patient
+Diagnostic imaging,X-Ray
+Diagnostic imaging,Ultrasound
+Diagnostic imaging,Back
+Waiting Room,In Patient
+General surgery,Thyroid
+General surgery,Kidney
+General surgery,Back
+Waiting Room,Out Patient
+Diagnostic Complete,Patient Leaves

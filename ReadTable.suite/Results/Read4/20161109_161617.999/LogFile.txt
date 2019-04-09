@@ -1,9 +1,0 @@
-﻿2016-11-09 16:16:18.000 -0700	START		Running Read4.script
-2016-11-09 16:16:18.561 -0700	imagelocation	English Name	at (335, 236)	1	on_read4	Read4.script
-2016-11-09 16:16:18.572 -0700	moveto		at (335, 136)	1	on_read4	Read4.script
-2016-11-09 16:16:19.770 -0700	imagelocation	List	at (220, 170)	4	on_read4	Read4.script
-2016-11-09 16:16:20.300 -0700	imagelocation	List	at (220, 170)	5	on_read4	Read4.script
-2016-11-09 16:16:20.404 -0700	readtext		(200,270,270,770)
-2016-11-09 16:16:20.408 -0700	Log		001\n002\n003\n004\n005\n006\n007\n008\n009\n010\n011\n012\n013\n014\n015	8	on_read4	Read4.script
-2016-11-09 16:16:21.436 -0700	EndTestCase		(Duration:"3.434286", Errors:"1", Exceptions:"0", StartTime:"2016-11-09 16:16:18 -0700", Successes:"0", TestCase:"Read4.script", Warnings:"0")
-2016-11-09 16:16:21.988 -0700	FAILURE	Screen_Error.png	SenseTalk Runtime Exception Invalid operands for addition: expected numbers, dates and/or lists; got '(120,-10)' and 'LineImage' -- Execution Time 0:00:03 Read4.script

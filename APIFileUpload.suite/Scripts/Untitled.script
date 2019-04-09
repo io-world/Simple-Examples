@@ -1,0 +1,13 @@
+﻿
+
+put "http://52.89.33.16:5000/save-file" into serverURL
+
+put file ResourcePath("test.json") into var
+
+post multipart (body:var, filename:"file.json",  fieldname:"file") to URL serverURL
+
+put it into postresults
+log postresults
+
+
+

@@ -1,0 +1,4 @@
+﻿2018-07-25 21:08:23.250 -0600	START		Running Untitled.script
+2018-07-25 21:08:23.311 -0600	Log		!)Cgi}YC]i!	6	on_untitled	Untitled.script
+2018-07-25 21:08:23.636 -0600	EndTestCase		(Duration:"0.384765", Errors:"0", Exceptions:"0", StartTime:"2018-07-25 21:08:23 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2018-07-25 21:08:23.655 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

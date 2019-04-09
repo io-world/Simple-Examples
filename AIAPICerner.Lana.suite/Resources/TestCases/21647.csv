@@ -1,0 +1,31 @@
+State,Action
+Initial,Patient
+Registration,Forms
+Waiting Room,In Patient
+Cardiology,Electrocardiogram
+Cardiology,Network Drop
+Cardiology,Back
+Waiting Room,In Patient
+Diagnostic imaging,Ultrasound
+Diagnostic imaging,X-Ray
+Diagnostic imaging,Nuclear Medicine
+Diagnostic imaging,Ultrasound
+Diagnostic imaging,Back
+Waiting Room,Code Blue
+Waiting Room,In Patient
+Maternity departments,Delivery Suite
+Maternity departments,Postnatal care
+Maternity departments,Delivery Suite
+Maternity departments,Back
+Waiting Room,In Patient
+Cardiology,Back
+Waiting Room,In Patient
+Maternity departments,Postnatal care
+Maternity departments,Back
+Waiting Room,In Patient
+Oncology,Radiation
+Oncology,Back
+Waiting Room,In Patient
+Intensive Care Unit,Haemodynamic monitoring
+Intensive Care Unit,Network Drop
+Intensive Care Unit,Crash Cart

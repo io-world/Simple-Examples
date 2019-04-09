@@ -1,5 +1,0 @@
-﻿2016-11-01 22:57:29.250 -0400	START		Running Read4.script
-2016-11-01 22:57:36.317 -0400	Log		(Date_of_Birth:"6/13/06", First_Name:"Bruce", Gender:"Male", Last_Name:"Wayne", Marital_Status:"Single", Medical_Record_Number:"222222", Middle_Name:"", Prefix:"Mr", Social_Security_Number:"113-83-3798")	33	on_read4	Read4.script
-2016-11-01 22:57:36.338 -0400	Log		(Date_of_Birth:"3/16/14", First_Name:"Carrie", Gender:"Female", Last_Name:"Underwood", Marital_Status:"Married", Medical_Record_Number:"333333", Middle_Name:"", Prefix:"Mrs", Social_Security_Number:"583-00-6387")	34	on_read4	Read4.script
-2016-11-01 22:57:36.709 -0400	EndTestCase		(Duration:"7.45683", Errors:"0", Exceptions:"0", StartTime:"2016-11-01 22:57:29 -0400", Successes:"1", TestCase:"Read4.script", Warnings:"0")
-2016-11-01 22:57:36.748 -0400	SUCCESS		Execution Time 0:00:07 Read4.script

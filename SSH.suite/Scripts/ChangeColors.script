@@ -1,0 +1,27 @@
+﻿RightClick "Putty Command Window"
+Click "ChangeSettings"
+
+
+
+Click (Image:"Colours", WaitFor:8)
+Click "DefaultForeground"
+Click "Modify"
+Click "Black"
+Click "OK"
+
+
+Click "DefaultBackground"
+Click "Modify"
+Click "White"
+Click "OK"
+
+
+Click "Appearance"
+Click "Change"
+Click "Size"
+TypeText "18"
+Click "OK"
+
+
+
+Click "Apply"

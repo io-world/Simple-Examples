@@ -1,0 +1,23 @@
+﻿{
+    CaptureDate = "2019-02-16 03:49:22 +0000";
+    CaptureHost = "Windows 10";
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    CropRectangle = "2,0,57,10";
+    HasAlpha = 1;
+    HotSpotX = 44;
+    HotSpotY = 22;
+    ImageDescription = <>;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 896;
+    OriginalLocationY = 413;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+    tags =     (
+    );
+}

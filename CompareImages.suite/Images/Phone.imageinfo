@@ -1,0 +1,18 @@
+﻿{
+    CaptureDate = "2017-01-26 21:41:42 +0000";
+    CaptureHost = "eggCan.local";
+    CaptureScreenSize =     (
+        750,
+        1334
+    );
+    HasAlpha = 1;
+    HotSpotX = 35;
+    HotSpotY = 41;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 84;
+    OriginalLocationY = 1194;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+}

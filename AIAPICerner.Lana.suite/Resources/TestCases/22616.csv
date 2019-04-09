@@ -1,0 +1,16 @@
+State,Action
+Initial,Patient
+Registration,Code Blue
+Registration,Forms
+Waiting Room,In Patient
+Intensive Care Unit,Haemodynamic monitoring
+Intensive Care Unit,Back
+Waiting Room,In Patient
+Maternity departments,Postnatal care
+Maternity departments,Delivery Suite
+Maternity departments,Network Drop
+Maternity departments,Delivery Suite
+Maternity departments,Back
+Waiting Room,Code Blue
+Waiting Room,In Patient
+Diagnostic imaging,X-Ray

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Master.script" package="Manager API v2.suite" timestamp="2018-04-06 13:52:12.480 -0600"
+ tests="1" successes="1" errors="0" time="7.591116">
+  <properties>
+   <property name="RunDate" value="2018-04-06 13:52:12.480 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Master.script" assertions="1" successes="1" errors="0" time="4.158563">
+  </testcase>
+ </testsuite>
+</testsuites>

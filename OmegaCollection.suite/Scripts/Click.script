@@ -1,0 +1,8 @@
+﻿params pictures
+
+
+if ImageFound(3, pictures) then
+	log "Going to Click on it"
+else
+	log "something"
+end if

@@ -1,0 +1,23 @@
+﻿
+
+
+
+
+put "https://www.progressive.com/" into the Webdriver.url
+
+
+click webXPath: <<//*[@id="primary"]/div/ul[1]/li[2]/span[1]/small>>
+click webCssSelector: <<#zipCode_ueno>>
+
+SendKeys "80209"
+
+
+if WebElementFound(webID: "qsButton_ueno") then
+	Log "Quote Auto was found"
+else
+	Logerror "Quote Auto was not found"
+end if
+
+
+
+

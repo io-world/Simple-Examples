@@ -1,0 +1,152 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-06-05 23:16:42.763 -0500,"Failure",0:00:10,1,0,2,"20180605_231642.763/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-05 23:21:24.804 -0500,"Success",0:00:00,0,0,0,"20180605_232124.804/LogFile.txt","","",1
+2018-06-05 23:21:30.709 -0500,"Success",0:00:01,0,0,0,"20180605_232130.709/LogFile.txt","","",1
+2018-06-05 23:21:52.341 -0500,"Success",0:00:00,0,0,0,"20180605_232152.341/LogFile.txt","","",1
+2018-06-05 23:21:54.083 -0500,"Running",0:00:00,0,0,0,"20180605_232154.083/LogFile.txt","","",0
+2018-06-05 23:22:03.399 -0500,"Success",0:00:01,0,0,0,"20180605_232203.399/LogFile.txt","","",1
+2018-06-06 08:20:11.524 -0500,"Success",0:00:00,0,0,0,"20180606_082011.524/LogFile.txt","","",1
+2018-06-06 08:20:59.786 -0500,"Success",0:00:01,0,0,0,"20180606_082059.786/LogFile.txt","","",1
+2018-06-06 15:32:57.949 -0500,"Failure",0:00:10,1,0,2,"20180606_153257.949/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 15:34:26.254 -0500,"Failure",0:00:10,1,0,2,"20180606_153426.254/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 15:35:01.751 -0500,"Failure",0:00:09,1,0,2,"20180606_153501.751/LogFile.txt","","File Not Found -- imageinfo Error - Could Not Open Image:  ""Chrome""",0
+2018-06-06 15:35:59.114 -0500,"Failure",0:00:09,1,0,2,"20180606_153559.114/LogFile.txt","","File Not Found -- imageinfo Error - Could Not Open Image:  ""Chrome""",0
+2018-06-06 15:36:50.206 -0500,"Failure",0:00:09,1,0,2,"20180606_153650.206/LogFile.txt","","File Not Found -- imageinfo Error - Could Not Open Image: ""Chrome""",0
+2018-06-06 15:37:17.648 -0500,"Failure",0:00:09,1,0,2,"20180606_153717.648/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 15:38:12.761 -0500,"Failure",0:00:09,1,0,2,"20180606_153812.761/LogFile.txt","","File Not Found -- imagefound Error - Could Not Open Image: ""Chrome""",0
+2018-06-06 15:40:59.351 -0500,"Failure",0:00:10,1,0,2,"20180606_154059.351/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 15:41:57.984 -0500,"Failure",0:00:09,1,0,2,"20180606_154157.984/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 15:43:11.080 -0500,"Failure",0:00:09,1,0,2,"20180606_154311.080/LogFile.txt","","File Not Found -- imageinfo Error - Could Not Open Image: ""Chrome""",0
+2018-06-06 15:44:27.586 -0500,"Failure",0:00:09,1,0,2,"20180606_154427.586/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 15:45:02.866 -0500,"Success",0:00:01,0,0,0,"20180606_154502.866/LogFile.txt","","",1
+2018-06-06 15:45:06.063 -0500,"Failure",0:00:09,1,0,2,"20180606_154506.063/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 15:48:49.366 -0500,"Failure",0:00:09,1,0,2,"20180606_154849.366/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 15:49:47.409 -0500,"Failure",0:00:10,1,0,2,"20180606_154947.409/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 15:53:24.475 -0500,"Failure",0:00:10,1,0,1,"20180606_155324.475/LogFile.txt","","Error Running Script Command -- capturescreen Error - Error Computing Rectangle: (\n    1001,\n    615,\n    1048,\n    662\n)",0
+2018-06-06 21:32:50.458 -0500,"Success",0:00:01,0,0,0,"20180606_213250.458/LogFile.txt","","",1
+2018-06-06 21:33:16.705 -0500,"Failure",0:00:11,1,1,2,"20180606_213316.705/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 21:37:46.367 -0500,"Failure",0:00:09,1,0,2,"20180606_213746.367/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 21:38:55.946 -0500,"Failure",0:00:09,1,0,2,"20180606_213855.946/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 21:41:12.292 -0500,"Failure",0:00:08,1,0,1,"20180606_214112.292/LogFile.txt","","STInvalidNumber -- Value is not a number: '""'",0
+2018-06-06 21:41:56.859 -0500,"Failure",0:00:08,1,0,2,"20180606_214156.859/LogFile.txt","","File Not Found -- imageinfo Error - Could Not Open Image: ""Chrome""",0
+2018-06-06 21:44:09.534 -0500,"Success",0:00:07,0,1,0,"20180606_214409.534/LogFile.txt","","",1
+2018-06-06 21:46:16.402 -0500,"Success",0:00:01,0,0,0,"20180606_214616.402/LogFile.txt","","",1
+2018-06-06 21:46:18.851 -0500,"Success",0:00:07,0,1,0,"20180606_214618.851/LogFile.txt","","",1
+2018-06-06 21:46:28.985 -0500,"Success",0:00:07,0,1,0,"20180606_214628.985/LogFile.txt","","",1
+2018-06-06 21:46:42.904 -0500,"Success",0:00:00,0,0,0,"20180606_214642.904/LogFile.txt","","",1
+2018-06-06 21:46:50.152 -0500,"Success",0:00:01,0,0,0,"20180606_214650.152/LogFile.txt","","",1
+2018-06-06 21:47:05.914 -0500,"Success",0:00:01,0,0,0,"20180606_214705.914/LogFile.txt","","",1
+2018-06-06 21:47:09.401 -0500,"Failure",0:00:08,1,0,1,"20180606_214709.401/LogFile.txt","","STInvalidNumber -- Value is not a number: '""'",0
+2018-06-06 21:47:33.397 -0500,"Failure",0:00:09,1,0,2,"20180606_214733.397/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 21:56:06.154 -0500,"Failure",0:00:09,1,0,2,"20180606_215606.154/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 21:56:52.514 -0500,"Success",0:00:00,0,0,0,"20180606_215652.514/LogFile.txt","","",1
+2018-06-06 21:56:55.393 -0500,"Failure",0:00:09,1,0,2,"20180606_215655.393/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 22:12:14.203 -0500,"Success",0:00:00,0,0,0,"20180606_221214.203/LogFile.txt","","",1
+2018-06-06 22:12:17.524 -0500,"Failure",0:00:09,1,0,2,"20180606_221217.524/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 22:14:12.479 -0500,"Success",0:00:00,0,0,0,"20180606_221412.479/LogFile.txt","","",1
+2018-06-06 22:15:28.021 -0500,"Failure",0:00:09,1,0,2,"20180606_221528.021/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 22:15:47.613 -0500,"Success",0:00:00,0,0,0,"20180606_221547.613/LogFile.txt","","",1
+2018-06-06 22:16:02.744 -0500,"Success",0:00:01,0,0,0,"20180606_221602.744/LogFile.txt","","",1
+2018-06-06 22:17:00.987 -0500,"Failure",0:00:11,1,1,2,"20180606_221700.987/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 22:17:39.559 -0500,"Running",0:00:00,0,0,0,"20180606_221739.559/LogFile.txt","","",0
+2018-06-06 22:18:33.966 -0500,"Failure",0:00:11,1,0,2,"20180606_221833.966/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 22:19:12.582 -0500,"Success",0:00:01,0,0,0,"20180606_221912.582/LogFile.txt","","",1
+2018-06-06 22:19:17.539 -0500,"Failure",0:00:12,1,0,2,"20180606_221917.539/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 22:20:00.663 -0500,"Success",0:00:01,0,0,0,"20180606_222000.663/LogFile.txt","","",1
+2018-06-06 22:22:47.640 -0500,"Success",0:00:01,0,0,0,"20180606_222247.640/LogFile.txt","","",1
+2018-06-06 22:24:22.790 -0500,"Failure",0:00:12,1,0,2,"20180606_222422.790/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-06 22:24:46.289 -0500,"Success",0:00:01,0,0,0,"20180606_222446.289/LogFile.txt","","",1
+2018-06-11 12:25:51.172 -0600,"Success",0:00:01,0,0,0,"20180611_122551.172/LogFile.txt","","",1
+2018-06-11 12:25:54.265 -0600,"Failure",0:00:11,1,0,2,"20180611_122554.265/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 12:33:58.674 -0600,"Failure",0:00:11,1,0,2,"20180611_123358.674/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 12:35:30.081 -0600,"Failure",0:00:16,1,0,2,"20180611_123530.081/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 12:36:47.901 -0600,"Failure",0:00:11,1,0,2,"20180611_123647.901/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""thing""",0
+2018-06-11 12:38:23.057 -0600,"Failure",0:00:10,1,0,2,"20180611_123823.057/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""thing""",0
+2018-06-11 12:39:23.163 -0600,"Failure",0:00:18,1,0,2,"20180611_123923.163/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""thing""",0
+2018-06-11 12:40:48.360 -0600,"Failure",0:00:19,1,0,2,"20180611_124048.360/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""thing""",0
+2018-06-11 12:45:54.869 -0600,"Success",0:00:01,0,0,0,"20180611_124554.869/LogFile.txt","","",1
+2018-06-11 12:45:58.992 -0600,"Failure",0:00:14,1,0,2,"20180611_124558.992/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 12:46:25.679 -0600,"Success",0:00:02,0,0,0,"20180611_124625.679/LogFile.txt","","",1
+2018-06-11 12:47:11.047 -0600,"Success",0:00:01,0,0,0,"20180611_124711.047/LogFile.txt","","",1
+2018-06-11 12:47:14.362 -0600,"Success",0:00:15,0,0,1,"20180611_124714.362/LogFile.txt","","",1
+2018-06-11 13:49:46.886 -0600,"Failure",0:00:10,1,0,2,"20180611_134946.886/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 13:50:32.500 -0600,"Failure",0:00:10,1,0,2,"20180611_135032.500/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 13:51:44.711 -0600,"Failure",0:00:13,1,0,3,"20180611_135144.711/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Chrome",0
+2018-06-11 13:57:27.974 -0600,"Success",0:00:01,0,0,0,"20180611_135727.974/LogFile.txt","","",1
+2018-06-11 13:57:30.833 -0600,"Failure",0:00:10,1,0,1,"20180611_135730.833/LogFile.txt","","STInvalidBoolean -- Value ')' is not TRUE, FALSE, YES, NO, ON, OFF or empty",0
+2018-06-11 13:58:53.775 -0600,"Failure",0:00:09,1,0,2,"20180611_135853.775/LogFile.txt","","Error Running Script Command -- attemptrecovery Error - Too Few Parameters, please use imageinfo(imageName)\n",0
+2018-06-11 13:59:17.472 -0600,"Failure",0:00:12,1,0,3,"20180611_135917.472/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Chrome",0
+2018-06-11 14:00:19.736 -0600,"Failure",0:00:09,1,0,2,"20180611_140019.736/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 14:01:43.102 -0600,"Failure",0:00:10,1,0,2,"20180611_140143.102/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 14:04:26.574 -0600,"Success",0:00:12,0,0,1,"20180611_140426.574/LogFile.txt","","",1
+2018-06-11 14:05:37.198 -0600,"Success",0:00:01,0,0,0,"20180611_140537.198/LogFile.txt","","",1
+2018-06-11 14:05:39.158 -0600,"Success",0:00:13,0,0,1,"20180611_140539.158/LogFile.txt","","",1
+2018-06-11 14:07:05.393 -0600,"Success",0:00:01,0,0,0,"20180611_140705.393/LogFile.txt","","",1
+2018-06-11 14:07:10.146 -0600,"Success",0:00:12,0,0,1,"20180611_140710.146/LogFile.txt","","",1
+2018-06-11 14:33:01.524 -0600,"Success",0:00:11,0,0,1,"20180611_143301.524/LogFile.txt","","",1
+2018-06-11 14:33:57.500 -0600,"Success",0:00:01,0,0,0,"20180611_143357.500/LogFile.txt","","",1
+2018-06-11 14:34:00.684 -0600,"Failure",0:00:10,1,0,3,"20180611_143400.684/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: HOLDING",0
+2018-06-11 14:36:29.089 -0600,"Success",0:00:01,0,0,0,"20180611_143629.089/LogFile.txt","","",1
+2018-06-11 14:36:31.790 -0600,"Success",0:00:11,0,0,1,"20180611_143631.790/LogFile.txt","","",1
+2018-06-11 14:38:47.145 -0600,"Success",0:00:01,0,0,0,"20180611_143847.145/LogFile.txt","","",1
+2018-06-11 14:38:49.659 -0600,"Success",0:00:12,0,0,1,"20180611_143849.659/LogFile.txt","","",1
+2018-06-11 14:40:18.203 -0600,"Success",0:00:01,0,0,0,"20180611_144018.203/LogFile.txt","","",1
+2018-06-11 14:40:27.664 -0600,"Failure",0:00:09,1,0,2,"20180611_144027.664/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 14:42:22.199 -0600,"Failure",0:00:08,1,0,2,"20180611_144222.199/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 14:43:20.364 -0600,"Failure",0:00:08,1,0,2,"20180611_144320.364/LogFile.txt","","Error Running Script Command -- attemptrecovery Error - Too Few Parameters, please use imageinfo(imageName)\n",0
+2018-06-11 14:44:26.678 -0600,"Failure",0:00:09,1,0,2,"20180611_144426.678/LogFile.txt","","Error Running Script Command -- attemptrecovery Error - Too Few Parameters, please use imageinfo(imageName)\n",0
+2018-06-11 14:45:14.840 -0600,"Failure",0:00:19,1,0,3,"20180611_144514.840/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 14:47:04.366 -0600,"Failure",0:00:18,1,0,3,"20180611_144704.366/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 14:51:43.210 -0600,"Failure",0:00:18,1,0,3,"20180611_145143.210/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 14:55:12.934 -0600,"Failure",0:00:25,1,0,3,"20180611_145512.934/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 14:56:58.364 -0600,"Failure",0:00:17,1,0,3,"20180611_145658.364/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 14:59:18.112 -0600,"Failure",0:00:17,1,0,3,"20180611_145918.112/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 15:00:44.056 -0600,"Running",0:00:00,0,0,0,"20180611_150044.056/LogFile.txt","","",0
+2018-06-11 15:01:27.840 -0600,"Running",0:00:00,0,0,0,"20180611_150127.840/LogFile.txt","","",0
+2018-06-11 15:02:42.195 -0600,"Failure",0:00:09,1,0,1,"20180611_150242.195/LogFile.txt","","STFileSystemException -- Failed to move /Users/randyhesse/Documents/Users/randyhesse/Documents/Simple Examples/OmegaCollection.suite/Images/Chrome into folder /Users/randyhesse/Documents/Simple Examples/OmegaCollection.suite/Images/Chrome/chromeasdasd (Error: “Chrome” couldn’t be moved to “chromeasdasd” because either the former doesn’t exist, or the folder containing the latter doesn’t exist.)",0
+2018-06-11 15:04:54.104 -0600,"Success",0:00:01,0,0,0,"20180611_150454.104/LogFile.txt","","",1
+2018-06-11 15:04:56.193 -0600,"Success",0:00:12,0,0,1,"20180611_150456.193/LogFile.txt","","",1
+2018-06-11 15:05:45.322 -0600,"Failure",0:00:19,1,0,3,"20180611_150545.322/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 15:06:28.285 -0600,"Failure",0:00:00,1,0,2,"20180611_150628.285/LogFile.txt","","File Not Found -- imageinfo Error - Could Not Open Image: Chrome",0
+2018-06-11 15:06:36.596 -0600,"Success",0:00:01,0,0,0,"20180611_150636.596/LogFile.txt","","",1
+2018-06-11 15:06:38.510 -0600,"Failure",0:00:21,1,0,3,"20180611_150638.510/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 15:09:00.200 -0600,"Success",0:00:00,0,0,0,"20180611_150900.200/LogFile.txt","","",1
+2018-06-11 15:09:01.445 -0600,"Failure",0:00:09,1,0,1,"20180611_150901.445/LogFile.txt","","STFileSystemException -- Failed to move /Users/randyhesse/Documents/Users/randyhesse/Documents/Simple Examples/OmegaCollection.suite/Images/Chrome into folder /Users/randyhesse/Documents/Simple Examples/OmegaCollection.suite/Images/Chrome/chromeasdasd (Error: “Chrome” couldn’t be moved to “chromeasdasd” because either the former doesn’t exist, or the folder containing the latter doesn’t exist.)",0
+2018-06-11 15:10:00.844 -0600,"Failure",0:00:00,1,0,2,"20180611_151000.844/LogFile.txt","","File Not Found -- imageinfo Error - Could Not Open Image: Chrome",0
+2018-06-11 15:10:07.891 -0600,"Failure",0:00:00,1,0,2,"20180611_151007.891/LogFile.txt","","File Not Found -- imageinfo Error - Could Not Open Image: Chrome",0
+2018-06-11 15:10:19.163 -0600,"Success",0:00:01,0,0,0,"20180611_151019.163/LogFile.txt","","",1
+2018-06-11 15:10:24.737 -0600,"Success",0:00:11,0,0,1,"20180611_151024.737/LogFile.txt","","",1
+2018-06-11 15:12:33.504 -0600,"Success",0:00:11,0,0,1,"20180611_151233.504/LogFile.txt","","",1
+2018-06-11 15:13:02.352 -0600,"Failure",0:00:32,1,0,1,"20180611_151302.352/LogFile.txt","","STFileSystemException -- Failed to create folder ",0
+2018-06-11 15:14:07.312 -0600,"Success",0:00:01,0,0,0,"20180611_151407.312/LogFile.txt","","",1
+2018-06-11 15:14:09.536 -0600,"Success",0:00:11,0,0,1,"20180611_151409.536/LogFile.txt","","",1
+2018-06-11 15:14:35.454 -0600,"Success",0:00:01,0,0,0,"20180611_151435.454/LogFile.txt","","",1
+2018-06-11 15:14:42.914 -0600,"Failure",0:00:31,1,0,1,"20180611_151442.914/LogFile.txt","","STFileSystemException -- Failed to create folder ",0
+2018-06-11 15:17:22.587 -0600,"Failure",0:00:00,1,0,2,"20180611_151722.587/LogFile.txt","","File Not Found -- imageinfo Error - Could Not Open Image: chromeasdasd",0
+2018-06-11 15:17:30.311 -0600,"Success",0:00:13,0,0,1,"20180611_151730.311/LogFile.txt","","",1
+2018-06-11 15:20:32.767 -0600,"Success",0:00:11,0,0,1,"20180611_152032.767/LogFile.txt","","",1
+2018-06-11 15:27:17.388 -0600,"Success",0:00:01,0,0,0,"20180611_152717.388/LogFile.txt","","",1
+2018-06-11 15:27:19.778 -0600,"Failure",0:00:09,1,0,2,"20180611_152719.778/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 15:27:47.905 -0600,"Failure",0:00:09,1,0,2,"20180611_152747.905/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 15:30:21.989 -0600,"Failure",0:00:09,1,0,2,"20180611_153021.989/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 15:31:01.942 -0600,"Failure",0:00:09,1,0,2,"20180611_153101.942/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 15:31:48.302 -0600,"Failure",0:00:09,1,0,2,"20180611_153148.302/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 15:32:21.074 -0600,"Failure",0:00:09,1,0,2,"20180611_153221.074/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 15:34:55.890 -0600,"Failure",0:00:09,1,0,2,"20180611_153455.890/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 15:36:33.966 -0600,"Failure",0:00:09,1,0,2,"20180611_153633.966/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 15:36:50.485 -0600,"Failure",0:00:09,1,0,2,"20180611_153650.485/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-11 15:38:08.618 -0600,"Success",0:00:11,0,0,1,"20180611_153808.618/LogFile.txt","","",1
+2018-06-11 15:38:37.584 -0600,"Success",0:00:01,0,0,0,"20180611_153837.584/LogFile.txt","","",1
+2018-06-11 15:38:39.687 -0600,"Success",0:00:11,0,0,1,"20180611_153839.687/LogFile.txt","","",1
+2018-06-11 15:40:13.568 -0600,"Success",0:00:01,0,0,0,"20180611_154013.568/LogFile.txt","","",1
+2018-06-11 15:40:15.620 -0600,"Success",0:00:11,0,0,1,"20180611_154015.620/LogFile.txt","","",1
+2018-06-11 15:40:45.169 -0600,"Failure",0:00:28,1,0,1,"20180611_154045.169/LogFile.txt","","STFileSystemException -- Failed to create folder ",0
+2018-06-11 15:42:52.799 -0600,"Success",0:00:01,0,0,0,"20180611_154252.799/LogFile.txt","","",1
+2018-06-11 15:43:11.722 -0600,"Running",0:00:00,0,0,0,"20180611_154311.722/LogFile.txt","","",0
+2018-06-12 08:22:33.636 -0600,"Success",0:00:10,0,0,1,"20180612_082233.636/LogFile.txt","","",1
+2018-06-12 08:23:41.254 -0600,"Success",0:00:01,0,0,0,"20180612_082341.254/LogFile.txt","","",1
+2018-06-12 08:25:33.088 -0600,"Success",0:00:01,0,0,0,"20180612_082533.088/LogFile.txt","","",1
+2018-06-12 08:25:35.374 -0600,"Failure",0:00:10,1,0,2,"20180612_082535.374/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Chrome""",0
+2018-06-12 08:26:13.799 -0600,"Success",0:00:14,0,0,1,"20180612_082613.799/LogFile.txt","","",1
+2018-06-12 08:26:38.536 -0600,"Success",0:00:01,0,0,0,"20180612_082638.536/LogFile.txt","","",1
+2018-06-12 08:26:50.291 -0600,"Failure",0:00:30,1,0,1,"20180612_082650.291/LogFile.txt","","STFileSystemException -- Failed to create folder ",0

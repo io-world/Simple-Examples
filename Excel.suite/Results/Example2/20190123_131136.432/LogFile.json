@@ -1,0 +1,731 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Example2.script",
+      "timestamp" : "2019-01-23 13:11:36.435 -0700"
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Prefix",
+      "timestamp" : "2019-01-23 13:11:36.571 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "First Name",
+      "timestamp" : "2019-01-23 13:11:36.649 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Middle Name",
+      "timestamp" : "2019-01-23 13:11:36.735 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Last Name",
+      "timestamp" : "2019-01-23 13:11:36.807 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Medical Record Number",
+      "timestamp" : "2019-01-23 13:11:36.883 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Date of Birth",
+      "timestamp" : "2019-01-23 13:11:36.975 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Social Security Number",
+      "timestamp" : "2019-01-23 13:11:37.050 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Gender",
+      "timestamp" : "2019-01-23 13:11:37.133 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Marital Status",
+      "timestamp" : "2019-01-23 13:11:37.212 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Mr",
+      "timestamp" : "2019-01-23 13:11:37.292 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Bruce",
+      "timestamp" : "2019-01-23 13:11:37.358 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "timestamp" : "2019-01-23 13:11:37.448 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Wayne",
+      "timestamp" : "2019-01-23 13:11:37.520 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "222222",
+      "timestamp" : "2019-01-23 13:11:37.590 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "2006-06-13 12:00:00 -0600",
+      "timestamp" : "2019-01-23 13:11:37.660 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "113-83-3798",
+      "timestamp" : "2019-01-23 13:11:37.729 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Male",
+      "timestamp" : "2019-01-23 13:11:37.815 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Single",
+      "timestamp" : "2019-01-23 13:11:37.878 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Mrs",
+      "timestamp" : "2019-01-23 13:11:37.962 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Carrie",
+      "timestamp" : "2019-01-23 13:11:38.030 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "timestamp" : "2019-01-23 13:11:38.126 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Underwood",
+      "timestamp" : "2019-01-23 13:11:38.201 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "333333",
+      "timestamp" : "2019-01-23 13:11:38.293 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "2014-03-16 12:00:00 -0600",
+      "timestamp" : "2019-01-23 13:11:38.365 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "583-00-6387",
+      "timestamp" : "2019-01-23 13:11:38.449 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Female",
+      "timestamp" : "2019-01-23 13:11:38.522 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Married",
+      "timestamp" : "2019-01-23 13:11:38.593 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Ms",
+      "timestamp" : "2019-01-23 13:11:38.678 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Wonder",
+      "timestamp" : "2019-01-23 13:11:38.774 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "timestamp" : "2019-01-23 13:11:38.852 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Woman",
+      "timestamp" : "2019-01-23 13:11:38.930 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "444444",
+      "timestamp" : "2019-01-23 13:11:39.011 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "2003-04-24 12:00:00 -0600",
+      "timestamp" : "2019-01-23 13:11:39.092 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "580-71-8520",
+      "timestamp" : "2019-01-23 13:11:39.176 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Female",
+      "timestamp" : "2019-01-23 13:11:39.256 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Divorced",
+      "timestamp" : "2019-01-23 13:11:39.345 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Dr",
+      "timestamp" : "2019-01-23 13:11:39.441 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Darth",
+      "timestamp" : "2019-01-23 13:11:39.528 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "timestamp" : "2019-01-23 13:11:39.605 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Vader",
+      "timestamp" : "2019-01-23 13:11:39.685 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "555555",
+      "timestamp" : "2019-01-23 13:11:39.767 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "1987-12-23 12:00:00 -0700",
+      "timestamp" : "2019-01-23 13:11:39.848 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "744-85-1232",
+      "timestamp" : "2019-01-23 13:11:39.923 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Male",
+      "timestamp" : "2019-01-23 13:11:39.997 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Widowed",
+      "timestamp" : "2019-01-23 13:11:40.066 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Dr",
+      "timestamp" : "2019-01-23 13:11:40.147 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "James",
+      "timestamp" : "2019-01-23 13:11:40.223 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "timestamp" : "2019-01-23 13:11:40.299 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Bond",
+      "timestamp" : "2019-01-23 13:11:40.397 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "666666",
+      "timestamp" : "2019-01-23 13:11:40.482 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "1981-07-30 12:00:00 -0600",
+      "timestamp" : "2019-01-23 13:11:40.573 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "973-13-0224",
+      "timestamp" : "2019-01-23 13:11:40.655 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Male",
+      "timestamp" : "2019-01-23 13:11:40.734 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Single",
+      "timestamp" : "2019-01-23 13:11:40.808 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Mr",
+      "timestamp" : "2019-01-23 13:11:40.894 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Homer",
+      "timestamp" : "2019-01-23 13:11:40.979 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "timestamp" : "2019-01-23 13:11:41.065 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Simpson",
+      "timestamp" : "2019-01-23 13:11:41.142 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "777777",
+      "timestamp" : "2019-01-23 13:11:41.242 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "1980-09-01 12:00:00 -0600",
+      "timestamp" : "2019-01-23 13:11:41.336 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "557-31-0655",
+      "timestamp" : "2019-01-23 13:11:41.413 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Male",
+      "timestamp" : "2019-01-23 13:11:41.506 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Married",
+      "timestamp" : "2019-01-23 13:11:41.598 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Dr",
+      "timestamp" : "2019-01-23 13:11:41.698 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Optimus",
+      "timestamp" : "2019-01-23 13:11:41.771 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "timestamp" : "2019-01-23 13:11:41.868 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Prime",
+      "timestamp" : "2019-01-23 13:11:41.941 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "888888",
+      "timestamp" : "2019-01-23 13:11:42.033 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "1985-09-19 12:00:00 -0600",
+      "timestamp" : "2019-01-23 13:11:42.114 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "521-26-0727",
+      "timestamp" : "2019-01-23 13:11:42.214 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Other",
+      "timestamp" : "2019-01-23 13:11:42.301 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Divorced",
+      "timestamp" : "2019-01-23 13:11:42.375 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Dr",
+      "timestamp" : "2019-01-23 13:11:42.460 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Mickey",
+      "timestamp" : "2019-01-23 13:11:42.547 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "timestamp" : "2019-01-23 13:11:42.622 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Mouse",
+      "timestamp" : "2019-01-23 13:11:42.707 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "999999",
+      "timestamp" : "2019-01-23 13:11:42.787 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "2000-06-14 12:00:00 -0600",
+      "timestamp" : "2019-01-23 13:11:42.863 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "984-56-3166",
+      "timestamp" : "2019-01-23 13:11:42.942 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Male",
+      "timestamp" : "2019-01-23 13:11:43.019 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Single",
+      "timestamp" : "2019-01-23 13:11:43.111 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Mr",
+      "timestamp" : "2019-01-23 13:11:43.190 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "SpongeBob",
+      "timestamp" : "2019-01-23 13:11:43.280 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "timestamp" : "2019-01-23 13:11:43.356 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "SquarePants",
+      "timestamp" : "2019-01-23 13:11:43.427 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "101010",
+      "timestamp" : "2019-01-23 13:11:43.501 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "2000-06-14 12:00:00 -0600",
+      "timestamp" : "2019-01-23 13:11:43.576 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "984-56-3166",
+      "timestamp" : "2019-01-23 13:11:43.642 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Male",
+      "timestamp" : "2019-01-23 13:11:43.725 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_example2",
+      "message" : "Single",
+      "timestamp" : "2019-01-23 13:11:43.805 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example2.script",
+      "handlerLine" : 18
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"7.840214\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-01-23 13:11:36 -0700\", Successes:\"1\", TestCase:\"Example2.script\", Warnings:\"0\")",
+      "timestamp" : "2019-01-23 13:11:44.320 -0700"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:07 Example2.script",
+      "timestamp" : "2019-01-23 13:11:44.408 -0700"
+    }
+  ],
+  "createdTimestamp" : "2019-01-23 13:11:36.479 -0700"
+}

@@ -1,44 +1,12 @@
 ﻿<?xml version="1.0"?>
 <statistics>
- <script name="Read2">
+ <script name="index">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfRuns>10</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2016-11-01 22:20:45 -0400</FirstRun>
-  <LastRun>2016-11-01 22:23:37 -0400</LastRun>
-  <TotalTimeOnSuccess>4.474194</TotalTimeOnSuccess>
- </script>
- <script name="Read4">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>22</NumberOfRuns>
-  <NumberOfFails>4</NumberOfFails>
-  <FirstRun>2016-11-01 22:44:00 -0400</FirstRun>
-  <LastRun>2016-12-08 11:43:45 -0500</LastRun>
-  <TotalTimeOnSuccess>87.320259</TotalTimeOnSuccess>
- </script>
- <script name="Read6">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>38</NumberOfRuns>
-  <NumberOfFails>11</NumberOfFails>
-  <FirstRun>2016-12-19 21:25:12 -0800</FirstRun>
-  <LastRun>2016-12-19 22:06:18 -0800</LastRun>
-  <TotalTimeOnSuccess>77.238966</TotalTimeOnSuccess>
- </script>
- <script name="Demo">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>12</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2016-12-06 16:23:08 -0600</FirstRun>
-  <LastRun>2016-12-09 12:32:57 -0700</LastRun>
-  <TotalTimeOnSuccess>12.192183</TotalTimeOnSuccess>
- </script>
- <script name="Read1">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>11</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2016-11-01 22:05:58 -0400</FirstRun>
-  <LastRun>2016-12-07 15:14:34 -0500</LastRun>
-  <TotalTimeOnSuccess>8.033194</TotalTimeOnSuccess>
+  <FirstRun>2016-11-01 22:00:46 -0400</FirstRun>
+  <LastRun>2016-11-02 08:15:35 -0400</LastRun>
+  <TotalTimeOnSuccess>3.757081</TotalTimeOnSuccess>
  </script>
  <script name="Read3">
   <LastStatus>Success</LastStatus>
@@ -48,14 +16,6 @@
   <LastRun>2016-12-07 15:15:30 -0500</LastRun>
   <TotalTimeOnSuccess>10.298275</TotalTimeOnSuccess>
  </script>
- <script name="Read5">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>14</NumberOfRuns>
-  <NumberOfFails>3</NumberOfFails>
-  <FirstRun>2016-11-30 15:16:02 -0700</FirstRun>
-  <LastRun>2016-12-01 09:48:39 -0700</LastRun>
-  <TotalTimeOnSuccess>54.893864</TotalTimeOnSuccess>
- </script>
  <script name="Test">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>14</NumberOfRuns>
@@ -64,12 +24,68 @@
   <LastRun>2016-12-19 22:01:55 -0800</LastRun>
   <TotalTimeOnSuccess>0.637309</TotalTimeOnSuccess>
  </script>
- <script name="index">
+ <script name="Read1">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfRuns>11</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2016-11-01 22:00:46 -0400</FirstRun>
-  <LastRun>2016-11-02 08:15:35 -0400</LastRun>
-  <TotalTimeOnSuccess>3.757081</TotalTimeOnSuccess>
+  <FirstRun>2016-11-01 22:05:58 -0400</FirstRun>
+  <LastRun>2016-12-07 15:14:34 -0500</LastRun>
+  <TotalTimeOnSuccess>8.033194</TotalTimeOnSuccess>
+ </script>
+ <script name="Read6">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>38</NumberOfRuns>
+  <NumberOfFails>11</NumberOfFails>
+  <FirstRun>2016-12-19 21:25:12 -0800</FirstRun>
+  <LastRun>2016-12-19 22:06:18 -0800</LastRun>
+  <TotalTimeOnSuccess>77.238966</TotalTimeOnSuccess>
+ </script>
+ <script name="Read4">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>22</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2016-11-01 22:44:00 -0400</FirstRun>
+  <LastRun>2016-12-08 11:43:45 -0500</LastRun>
+  <TotalTimeOnSuccess>87.320259</TotalTimeOnSuccess>
+ </script>
+ <script name="Read2">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-11-01 22:20:45 -0400</FirstRun>
+  <LastRun>2016-11-01 22:23:37 -0400</LastRun>
+  <TotalTimeOnSuccess>4.474194</TotalTimeOnSuccess>
+ </script>
+ <script name="Write2">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2017-05-17 11:47:15 -0600</FirstRun>
+  <LastRun>2017-05-17 11:47:27 -0600</LastRun>
+  <TotalTimeOnSuccess>0.272598</TotalTimeOnSuccess>
+ </script>
+ <script name="Demo">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>12</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-12-06 16:23:08 -0600</FirstRun>
+  <LastRun>2016-12-09 12:32:57 -0700</LastRun>
+  <TotalTimeOnSuccess>12.192183</TotalTimeOnSuccess>
+ </script>
+ <script name="Read5">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>14</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2016-11-30 15:16:02 -0700</FirstRun>
+  <LastRun>2016-12-01 09:48:39 -0700</LastRun>
+  <TotalTimeOnSuccess>54.893864</TotalTimeOnSuccess>
+ </script>
+ <script name="Write1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-05-17 11:42:22 -0600</FirstRun>
+  <LastRun>2017-05-17 11:46:29 -0600</LastRun>
+  <TotalTimeOnSuccess>0.771893</TotalTimeOnSuccess>
  </script>
 </statistics>

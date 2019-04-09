@@ -1,0 +1,5 @@
+﻿2018-04-06 09:54:43.998 -0600	START		Running GetSut.script
+2018-04-06 09:54:44.183 -0600	Log		(_id:"597b5477547261028e000001", created_at:"2017-07-28T09:12:55.000-06:00", description:"", is_active:"True", manufacturer:"", model:"", name:"Amazon Web Server", os:"", tags:(), updated_at:"2017-07-28T09:12:55.000-06:00", version:"")	12	on_getsut	GetSut.script
+2018-04-06 09:54:44.185 -0600	Log		(_id:"582cce9e5472610322000001", created_at:"2016-11-16T14:24:46.000-07:00", description:"", is_active:"True", manufacturer:"Windows", model:"VMware", name:"Windows 10", os:"Windows", tags:(), updated_at:"2017-07-03T20:31:31.156-06:00", version:"10")	12	on_getsut	GetSut.script
+2018-04-06 09:54:44.510 -0600	EndTestCase		(Duration:"0.511073", Errors:"0", Exceptions:"0", StartTime:"2018-04-06 09:54:43 -0600", Successes:"1", TestCase:"GetSut.script", Warnings:"0")
+2018-04-06 09:54:44.544 -0600	SUCCESS		Execution Time 0:00:00 GetSut.script

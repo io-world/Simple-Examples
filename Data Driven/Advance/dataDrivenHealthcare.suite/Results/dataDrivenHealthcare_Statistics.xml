@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Examples/Example2">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-06-30 10:30:52 -0600</FirstRun>
+  <LastRun>2017-06-30 10:30:52 -0600</LastRun>
+  <TotalTimeOnSuccess>0.709210</TotalTimeOnSuccess>
+ </script>
+ <script name="Index">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-06-30 10:31:28 -0600</FirstRun>
+  <LastRun>2017-08-16 17:18:59 -0600</LastRun>
+  <TotalTimeOnSuccess>1.821448</TotalTimeOnSuccess>
+ </script>
+ <script name="NewPatient">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>18</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-06-30 10:31:28 -0600</FirstRun>
+  <LastRun>2017-08-16 17:19:00 -0600</LastRun>
+  <TotalTimeOnSuccess>0.272550</TotalTimeOnSuccess>
+ </script>
+ <script name="Examples/Example1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-06-30 10:29:48 -0600</FirstRun>
+  <LastRun>2017-06-30 10:29:48 -0600</LastRun>
+  <TotalTimeOnSuccess>0.330392</TotalTimeOnSuccess>
+ </script>
+</statistics>

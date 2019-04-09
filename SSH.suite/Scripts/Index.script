@@ -1,0 +1,26 @@
+﻿
+
+TypeText windowsKey & "r"
+TypeText "putty.exe" , returnKey
+WaitFor 8.0, "PuTTY Window"
+
+Click (Image:"HostName", WaitFor:8.5)
+TypeText "test.rebex.net:22"
+Click "SSH"
+
+Click "Open"
+
+WaitFor 8.0, "Putty Command Window"
+wait 3
+TypeText "demo" , returnKey
+TypeText "password" , returnKey
+wait 2
+run "ChangeColors"
+wait 2
+//----------------------------------------------------------------
+
+
+TypeText "ls", returnKey
+run "ReadOutPut"
+
+

@@ -1,0 +1,8 @@
+﻿2017-06-19 22:17:19.467 -0600	START		Running index.script
+2017-06-19 22:17:19.518 -0600	Log		/Users/randyhesse/Documents/Simple Examples/Data Driven/experiment/dataDrivenHealthcare.suite/Results/Examples	17	on_index	index.script
+2017-06-19 22:17:19.526 -0600	Log		/Users/randyhesse/Documents/Simple Examples/Data Driven/experiment/dataDrivenHealthcare.suite/Results/Index	17	on_index	index.script
+2017-06-19 22:17:19.529 -0600	Log		/Users/randyhesse/Documents/Simple Examples/Data Driven/experiment/dataDrivenHealthcare.suite/Results/Libraries	17	on_index	index.script
+2017-06-19 22:17:19.546 -0600	Log		/Users/randyhesse/Documents/Simple Examples/Data Driven/experiment/dataDrivenHealthcare.suite/Results/States	17	on_index	index.script
+2017-06-19 22:17:19.551 -0600	Log		/Users/randyhesse/Documents/Simple Examples/Data Driven/experiment/dataDrivenHealthcare.suite/Results/Test	17	on_index	index.script
+2017-06-19 22:17:19.663 -0600	EndTestCase		(Duration:"0.195097", Errors:"0", Exceptions:"0", StartTime:"2017-06-19 22:17:19 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-06-19 22:17:19.670 -0600	SUCCESS		Execution Time 0:00:00 index.script

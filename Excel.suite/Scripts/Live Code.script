@@ -1,15 +1,19 @@
-﻿put Worksheet (ResourcePath("WebFormData.xlsx"), "PatientList") into WSheet
-put WSheet.cellRange () into XLData
+﻿
+
+set myScriptData to (type:"excel", file:ResourcePath("WebFormData.xlsx"), name:"PatientList")
+put the records of myScriptData into Patients
 
 
-log XLData
 
-put the number of items of  XLData into max
-
-log max
+put the number of items of patients into max
 
 
-put item 5 of  XLData into var
-
-
-log item 2 of var
+repeat max times
+	
+	
+	put item repeatindex() of Patients into patient
+	
+	log patient."first name"
+	log "--------------------------------------------------------------------------------------"
+	
+end repeat

@@ -1,0 +1,21 @@
+﻿
+
+put (type:"CSV", file:ResourcePath("WebFormData.CSV")) into myScriptData
+put the records of myScriptData into PatientsList
+put the number of items of PatientsList into PatientCount
+put (("created date","Create"),("coding date","coding"),("billing date","Billing"),("claims date","claims"),("charge capture date","ChargeCapture")) into ProcessingListDates
+put formattedTime("%m.%d.%Y", the date) into MatchDate
+
+log "Todays Date is" && MatchDate
+
+
+put the number of items of ProcessingListDates into ProcessingCount
+Repeat PatientCount times	
+	put item repeatindex() of PatientsList into Patientdata
+	repeat ProcessingCount times	
+		put item repeatindex() of ProcessingListDates into ProcessingItem
+		if (Patientdata.(item 1 of ProcessingItem) = MatchDate) then
+			Run ("Processing/"& item 2 of ProcessingItem) Patientdata
+		end if
+	end repeat
+End Repeat

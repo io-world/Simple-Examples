@@ -1,0 +1,10 @@
+State,Action
+Initial,Patient
+Registration,Forms
+Waiting Room,In Patient
+Maternity departments,Back
+Waiting Room,In Patient
+Oncology,Back
+Waiting Room,Code Blue
+Waiting Room,Out Patient
+Diagnostic Complete,Patient Leaves

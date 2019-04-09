@@ -1,0 +1,18 @@
+﻿
+
+
+put "ePM_API_Class".GetUserID  ("Administrator") into User_ID
+put "ePM_API_Class".GetSutID  ("windows 10") into SUT_ID
+
+put "2018-04-06T06:00:00+00:00"  into Start_time
+put "2018-04-07T23:14:59+00:00" into End_time
+
+put "ePM_API_Class".MakeResveration  (User_ID,SUT_ID,Start_time,End_time) into Listening_port
+
+
+log Listening_port
+
+
+wait 3
+
+Connect (serverID:"127.0.0.1",portNum:"5902",Password:"Spr1ng",type:"VNC")

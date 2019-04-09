@@ -1,0 +1,268 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Modules/Verify">
+ <run>
+  <RunDate>2017-07-11 09:11:52.106 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.249568</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170711_091152.106/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagefound Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-11 09:12:13.247 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.265399</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170711_091213.247/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagefound Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-11 09:12:32.228 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.277976</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170711_091232.228/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagefound Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-11 09:12:43.081 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.331612</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170711_091243.081/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-11 09:19:34.314 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.246714</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170711_091934.314/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagefound Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-11 09:20:39.619 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.220138</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170711_092039.619/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 10:49:07.583 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.488769</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180116_104907.583/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- remotescreensize Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 10:49:21.773 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>3.862482</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_104921.773/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 10:49:36.260 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>3.574714</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_104936.260/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 10:51:35.648 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>3.553904</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_105135.648/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 10:51:47.768 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>3.550133</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_105147.768/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 10:52:25.125 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>3.582352</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_105225.125/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 10:59:32.533 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.508606</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180116_105932.533/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in content:
+Syntax Error at line 26: Syntax Error - can&#x27;t understand &quot;then&quot; at or near character 580</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 10:59:40.387 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>3.500507</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_105940.387/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 10:59:51.601 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>3.504779</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_105951.601/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:00:21.293 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>3.619649</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_110021.293/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:00:37.719 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>3.557336</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_110037.719/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:00:45.984 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>3.825119</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_110045.984/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:01:03.458 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>3.564894</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_110103.458/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:01:16.861 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>3.803118</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_110116.861/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:01:27.668 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>4.207358</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_110127.668/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-16 11:02:01.227 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.002128</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180116_110201.227/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

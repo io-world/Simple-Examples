@@ -1,0 +1,35 @@
+﻿put file ResourcePath("PatientInformation.csv") into PIFile
+
+put (the number of lines of PIFile -1) into Max
+
+
+
+
+repeat Max times
+	put repeatindex() +1 into LN
+	
+	put item 1 of line LN of PIFile into MRN
+	put item 2 of line LN of PIFile into Prefix
+	put item 3 of line LN of PIFile into FirstName
+	put item 4 of line LN of PIFile into FirstName
+	put item 5 of line LN of PIFile into LastName
+	put item 6 of line LN of PIFile into DOB
+	put item 7 of line LN of PIFile into SSN
+	put item 8 of line LN of PIFile into Gender
+	put item 9 of line LN of PIFile into MaritalStatus
+	
+	log MRN
+	log Prefix
+	log FirstName
+	log MiddleName
+	log LastName
+	log DOB
+	log SSN
+	log Gender
+	log MaritalStatus
+	
+	wait 2
+	
+	
+end repeat
+

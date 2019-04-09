@@ -1,0 +1,4 @@
+﻿2017-07-17 21:52:52.455 -0400	START		Running RunScriptEncrypt.script
+2017-07-17 21:52:52.509 -0400	Log		`;gZC`maVCJm]6`UT$uUWj>RPch`9]bAYG :MGae=RUz:CIfnAalbj>ZY$$PTXeIY#L@_MUaD]%#DPTXeI	6	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-17 21:52:52.664 -0400	EndTestCase		(Duration:"0.207219", Errors:"0", Exceptions:"0", StartTime:"2017-07-17 21:52:52 -0400", Successes:"1", TestCase:"RunScriptEncrypt.script", Warnings:"0")
+2017-07-17 21:52:52.673 -0400	SUCCESS		Execution Time 0:00:00 RunScriptEncrypt.script

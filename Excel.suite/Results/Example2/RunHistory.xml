@@ -1,146 +1,14 @@
 ﻿<?xml version="1.0"?>
 <runHistory script="Example2">
  <run>
-  <RunDate>2017-04-12 09:33:51.941 -0600</RunDate>
+  <RunDate>2019-01-23 13:11:36.432 -0700</RunDate>
   <Status>Success</Status>
-  <Duration>1.124172</Duration>
+  <Duration>7.886729</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20170412_093351.941/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-04-12 10:04:46.919 -0600</RunDate>
-  <Status>Failure</Status>
-  <Duration>0.847223</Duration>
-  <Errors>1</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>0</Successes>
-  <LogFile>20170412_100446.919/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage>Worksheet Error -- CellRange() requires a worksheet to read from (got: (null))</ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-04-12 10:04:59.490 -0600</RunDate>
-  <Status>Failure</Status>
-  <Duration>0.962250</Duration>
-  <Errors>1</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>0</Successes>
-  <LogFile>20170412_100459.490/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage>STInvalidNumber -- Value is not a number: &#x27;(Prefix,First Name,Middle N...&#x27;</ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-04-12 10:05:32.973 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>0.930945</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20170412_100532.973/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-04-12 10:06:06.749 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>1.220898</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20170412_100606.749/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-04-12 10:06:29.481 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>0.977589</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20170412_100629.481/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-04-12 10:06:36.984 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>1.207173</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20170412_100636.984/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-04-12 10:06:47.221 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>1.205335</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20170412_100647.221/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-04-12 10:07:39.110 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>1.174296</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20170412_100739.110/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-04-12 10:30:23.339 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>1.188214</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20170412_103023.339/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-04-12 10:37:44.653 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>0.493829</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20170412_103744.653/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2017-04-12 10:47:31.445 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>0.386924</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20170412_104731.445/LogFile.txt</LogFile>
+  <LogFile>20190123_131136.432/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>

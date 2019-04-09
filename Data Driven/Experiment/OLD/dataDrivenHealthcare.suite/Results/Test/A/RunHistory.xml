@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Test/A">
+ <run>
+  <RunDate>2017-07-03 14:00:07.432 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.469634</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170703_140007.432/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;&#x27;.</ErrorMessage>
+ </run>
+</runHistory>

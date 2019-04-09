@@ -1,0 +1,23 @@
+﻿----------------DO Not Touch--------------------------------------
+set GD to a new "GlobalDefine"
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+-------------------------------------------------------------------------
+-----------Code Below can be altered--------------------------
+---Patient Information Setup-------------------------------------
+(GD).SetupFiles "/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/PatientInformation.csv"
+-------------------------------------------------------------------------
+
+
+repeat (GD).PatientCount times
+	
+	Run (GD).BuildPatient repeatindex()+1
+	RunWithNewResults "NewPatient"
+	
+end repeat
+
+
+
+
+
+

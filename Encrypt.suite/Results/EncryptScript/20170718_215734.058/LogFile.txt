@@ -1,0 +1,15 @@
+﻿2017-07-18 21:57:34.059 -0400	START		Running RunScriptEncrypt.script
+2017-07-18 21:57:34.139 -0400	Log			14	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-18 21:57:34.140 -0400	Log			14	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-18 21:57:34.141 -0400	Log			14	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-18 21:57:34.142 -0400	Log		Log " this will do something"	14	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-18 21:57:34.143 -0400	Log			14	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-18 21:57:34.144 -0400	Log			14	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-18 21:57:34.145 -0400	Log		repeat 10 times	14	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-18 21:57:34.147 -0400	Log		\t	14	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-18 21:57:34.148 -0400	Log		\t	14	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-18 21:57:34.149 -0400	Log		\tlog "yup"	14	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-18 21:57:34.151 -0400	Log		\t	14	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-18 21:57:34.152 -0400	Log		end repeat	14	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-18 21:57:38.330 -0400	EndTestCase		(Duration:"4.269544", Errors:"0", Exceptions:"0", StartTime:"2017-07-18 21:57:34 -0400", Successes:"1", TestCase:"RunScriptEncrypt.script", Warnings:"0")
+2017-07-18 21:57:38.338 -0400	SUCCESS		Execution Time 0:00:04 RunScriptEncrypt.script

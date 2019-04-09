@@ -1,0 +1,4 @@
+﻿2018-04-06 10:12:07.321 -0600	START		Running Master.script
+2018-04-06 10:12:07.371 -0600	Log		ePM_API_Classwindows 10	8	on_master	Master.script
+2018-04-06 10:12:07.889 -0600	EndTestCase		(Duration:"0.566008", Errors:"0", Exceptions:"0", StartTime:"2018-04-06 10:12:07 -0600", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-04-06 10:12:07.904 -0600	SUCCESS		Execution Time 0:00:00 Master.script

@@ -1,0 +1,9 @@
+﻿put (firstname:"john",lastname:"doe",DOB:"1/7/1900") into glist
+
+put keys(glist) into gkeys
+put the number of items of gkeys into max
+
+repeat max times
+	put item repeatindex()  of gkeys into pcall
+	log glist.(pcall)
+end repeat

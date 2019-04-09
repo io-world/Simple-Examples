@@ -1,0 +1,15 @@
+﻿
+
+
+log "Starting Script 3"
+
+
+
+
+TypeText "Hello world!"
+click "Contacts"
+
+click "History"
+click "Downloads"
+click "Favorite"
+

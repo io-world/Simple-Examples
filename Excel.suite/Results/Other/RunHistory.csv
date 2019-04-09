@@ -1,5 +1,0 @@
-﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
-2017-04-12 14:35:19.029 -0600,"Failure",0:00:00,1,0,0,"20170412_143519.029/LogFile.txt","","Workbook Error -- Error loading workbook /Users/randyhesse/Documents/Simple Examples/Excel.suite/Resources/Users/randyhesse/Desktop/dep_export.xlsx: No such file or directory.",0
-2017-04-12 14:35:51.355 -0600,"Success",0:00:00,0,0,0,"20170412_143551.355/LogFile.txt","","",1
-2017-04-12 14:36:09.778 -0600,"Success",0:00:00,0,0,0,"20170412_143609.778/LogFile.txt","","",1
-2017-04-12 14:49:25.860 -0600,"Success",0:00:00,0,0,0,"20170412_144925.860/LogFile.txt","","",1

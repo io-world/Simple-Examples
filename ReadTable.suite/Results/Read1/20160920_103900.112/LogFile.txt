@@ -1,8 +1,0 @@
-﻿2016-09-20 10:39:00.113 -0600	START		Running Read1.script
-2016-09-20 10:39:00.657 -0600	imagelocation	List	at (220, 80)	2	on_read1	Read1.script
-2016-09-20 10:39:00.695 -0600	Log		(320,160,420,780)	5	on_read1	Read1.script
-2016-09-20 10:39:01.017 -0600	readtext		(320,160,420,780)
-2016-09-20 10:39:01.018 -0600	Log		Bulbasaur\nIvysaur\nVenusaur\nCharmander\nCharmeleon\nCharizard\nSquirtle\nWartortle\nBlastoise\nCaterpie\nMetapod\nButterfree\nWeedle\nKakuna\nBeedrill\nPidaev\nPidg\nPidgey\nPidgeot\nRattata\nRaticate\nSpearow\nFearow\nEkans	6	on_read1	Read1.script
-2016-09-20 10:39:02.434 -0600	moveto	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(396,616), ImageRectangle:(379,610,414,622), Language:"English", searchRectangle:(320,160,420,780), text:"pidgey", TextPlatform:"Generic OCR")	at (396, 616)	9	on_read1	Read1.script
-2016-09-20 10:39:02.828 -0600	EndTestCase		(Duration:"2.713943", Errors:"0", Exceptions:"0", StartTime:"2016-09-20 10:39:00 -0600", Successes:"1", TestCase:"Read1.script", Warnings:"0")
-2016-09-20 10:39:02.833 -0600	SUCCESS		Execution Time 0:00:02 Read1.script

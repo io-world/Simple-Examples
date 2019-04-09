@@ -1,0 +1,6 @@
+﻿
+
+put  new human.Person ("john", "doe", 50, "male") into Person
+
+
+log Person

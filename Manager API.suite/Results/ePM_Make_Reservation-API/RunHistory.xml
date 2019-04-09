@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="ePM_Make_Reservation-API">
+ <run>
+  <RunDate>2018-04-06 10:03:39.815 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.588504</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180406_100339.815/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

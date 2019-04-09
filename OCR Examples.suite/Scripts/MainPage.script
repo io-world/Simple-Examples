@@ -1,0 +1,23 @@
+﻿
+
+//--------------------------------------------------------------------------------------------------------// working example
+
+put ReadText((1158,417,1260,652),ValidPattern:"[0-9][0-9]/[A-Z][A-Z][A-Z]/[0-9][0-9][0-9][0-9]") into Dates
+
+put the number of lines of dates into max
+
+repeat max times
+	log line repeatindex() of dates
+end repeat
+
+
+//--------------------------------------------------------------------------------------------------------// working example
+
+put "11/MAY/2013" into CI
+click (text:CI,SearchRectangle:(1158,417,1260,652),ValidPattern:"[0-9][0-9]/[A-Z][A-Z][A-Z]/[0-9][0-9][0-9][0-9]") 
+
+
+//--------------------------------------------------------------------------------------------------------// NOT working example
+
+put "11/MAY/2013" into CI
+click (text:CI,SearchRectangle:(1158,417,1260,652)) 

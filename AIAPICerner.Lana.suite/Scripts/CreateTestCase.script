@@ -1,0 +1,27 @@
+﻿params name,data
+
+
+(*put ((action:"Launch Epic 2017", state:"Initial"),(action:"OK", state:"HyperSpace"),(action:"Create a new Request", state:"EVS Command Center"),(action:"Room", state:"Cleaning Request"),(action:"Cancel", state:"Cleaning Request"),(action:"Create a new Request", state:"EVS Command Center"),(action:"Bed", state:"Cleaning Request"),(action:"Dirty", state:"Bed Select"),(action:"Edit Request", state:"Dirty Cleaning Request"),(action:"Accept", state:"Bed Select"),(action:"Bed", state:"Cleaning Request"),(action:"Back", state:"Bed Select"),(action:"Priority", state:"Cleaning Request"),(action:"Cancel", state:"Cleaning Request"),(action:"Create a new Request", state:"EVS Command Center"),(action:"Cleaning Protocols", state:"Cleaning Request"),(action:"Contact Enteric", state:"Cleaning Protocol Test"),(action:"Airbourne Respirator", state:"Cleaning Protocol Test"),(action:"Aire Borne Contact", state:"Cleaning Protocol Test"),(action:"Accept", state:"Cleaning Protocol Test"),(action:"Bed", state:"Cleaning Request"),(action:"Accept", state:"Bed Select"),(action:"Room", state:"Cleaning Request"),(action:"Accept", state:"Cleaning Request")) into Data
+
+
+
+put "test1" into name*)
+
+put ResourcePath() & "/TestCases/"&Name&".csv" into New_file
+
+
+create file  New_file
+open file New_file
+write "State,Action" to file New_file
+write return to file New_file
+
+put the number of items of data into max
+repeat max times
+	put item repeatindex() of data into dataline
+	write dataline.state &","& dataline.action to file New_file
+	write return to file New_file
+end repeat
+
+close file New_file
+
+

@@ -1,0 +1,5 @@
+﻿2018-10-18 23:06:08.358 -0600	START		Running Example Write 3.script
+2018-10-18 23:06:08.462 -0600	Log		(file:"/Users/randyhesse/Documents/Simple Examples/Excel.suite/Resources/WebFormData.xlsx", name:"Results", type:"excel")	8	on_example_write_3	Example Write 3.script
+2018-10-18 23:06:08.468 -0600	Log		((Column_4:"", Column_5:"", foo:"", @"hello cc":"", membernumber:"FOO"),(Column_4:"", Column_5:"", foo:"", @"hello cc":"", membernumber:""),(Column_4:"", Column_5:"", foo:"", @"hello cc":"2017-09-14 12:00:00 -0600", membernumber:"Error1"),(Column_4:"", Column_5:"", foo:"", @"hello cc":"2017-09-14 12:00:00 -0600", membernumber:"Error2"),(Column_4:"", Column_5:"", foo:"", @"hello cc":"2017-09-14 12:00:00 -0600", membernumber:"Error3"))	13	on_example_write_3	Example Write 3.script
+2018-10-18 23:06:08.779 -0600	EndTestCase		(Duration:"0.419049", Errors:"1", Exceptions:"0", StartTime:"2018-10-18 23:06:08 -0600", Successes:"0", TestCase:"Example Write 3.script", Warnings:"0")
+2018-10-18 23:06:08.817 -0600	FAILURE		STDatabaseException Can't Add records a non-Writable database connection -- Execution Time 0:00:00 Example Write 3.script

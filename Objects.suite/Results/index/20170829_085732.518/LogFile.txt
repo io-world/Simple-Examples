@@ -1,0 +1,7 @@
+﻿2017-08-29 08:57:32.519 -0600	START		Running index.script
+2017-08-29 08:57:32.570 -0600	Log		Start all of it	2	on_initialize	
+2017-08-29 08:57:32.600 -0600	Log		Rabbit	8	on_index	index.script
+2017-08-29 08:57:32.605 -0600	Log		Donkey	15	on_index	index.script
+2017-08-29 08:57:32.608 -0600	Log			16	on_index	index.script
+2017-08-29 08:57:33.218 -0600	EndTestCase		(Duration:"0.697775", Errors:"0", Exceptions:"0", StartTime:"2017-08-29 08:57:32 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-08-29 08:57:33.245 -0600	SUCCESS		Execution Time 0:00:00 index.script

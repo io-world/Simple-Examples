@@ -1,7 +1,0 @@
-﻿2016-12-19 22:01:55.134 -0800	START		Running Test.script	27	on_read6	Read6.script
-2016-12-19 22:01:55.150 -0800	Log		6/13/06	4	on_test	Test.script
-2016-12-19 22:01:55.154 -0800	Log		Bruce	8	on_test	Test.script
-2016-12-19 22:01:55.160 -0800	Log		113-83-3798	17	on_test	Test.script
-2016-12-19 22:01:55.178 -0800	Log		113-83-3798	25	on_test	Test.script
-2016-12-19 22:01:55.189 -0800	EndTestCase		(Duration:"0.053426", Errors:"0", Exceptions:"0", StartTime:"2016-12-19 22:01:55 -0800", Successes:"1", TestCase:"Test.script", Warnings:"0")	27	on_read6	Read6.script
-2016-12-19 22:01:55.222 -0800	SUCCESS		Execution Time 0:00:00 Test.script	27	on_read6	Read6.script

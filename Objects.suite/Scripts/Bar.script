@@ -1,0 +1,36 @@
+﻿on initialize	
+	Log "Start all of it"
+end initialize
+
+on SetName ConnectionName
+	put ConnectionName into my ConnectionName
+end SetName
+
+
+function DisplayName
+	return my ConnectionName
+	
+end DisplayName
+
+
+on DisplayOut DisplayOut
+	log "something and :" &DisplayOut
+	
+end DisplayOut
+
+
+
+to Status 
+	Log "The Status is Alive"
+	return "THe Function was executed correctly"
+	
+end Status
+
+
+
+
+to anotherstatus
+
+ return me."status"
+
+end anotherstatus

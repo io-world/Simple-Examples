@@ -1,0 +1,47 @@
+﻿2018-03-21 12:53:36.939 +0530	START		Running Master.script
+2018-03-21 12:53:37.639 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:53:37.773 +0530	readtext		(205,126,539,389)
+2018-03-21 12:53:37.773 +0530	Log		Tiger Nixon\nJohn Winters\nAustin Cox\nCharles Kelly\nAmanda Satou\nBrielle Williamson\nHerrod Chandler\nRhona Davidson\nColleen Hurst\nSonya Frost	8	on_master	Master.script
+2018-03-21 12:53:39.125 +0530	click	Next	at (1878, 441)	9	on_master	Master.script
+2018-03-21 12:53:40.417 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:53:40.536 +0530	readtext		(205,126,539,389)
+2018-03-21 12:53:40.537 +0530	Log		Jena Gaines\nQuinn Flynn\nCharde Marshall\nHaley Kennedy\nTatyana Fitzpatrick\nMichael Silva\nPaul Byrd\nGloria Little\nBradley Greer\nDai Rios	8	on_master	Master.script
+2018-03-21 12:53:41.249 +0530	click	Next	at (1878, 441)	9	on_master	Master.script
+2018-03-21 12:53:42.538 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:53:42.661 +0530	readtext		(205,126,539,389)
+2018-03-21 12:53:42.661 +0530	Log		Jenette Caldwell\nYuri Berry\nCaesar Vance\nDoris Wilder\nAngelica Ramos\nGavin Joyce\nJennifer Chang\nBrenden Wagner\nFiona Green\nShou Itou	8	on_master	Master.script
+2018-03-21 12:53:43.368 +0530	click	Next	at (1878, 441)	9	on_master	Master.script
+2018-03-21 12:53:44.698 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:53:44.829 +0530	readtext		(205,126,539,389)
+2018-03-21 12:53:44.830 +0530	Log		Michelle House\nSuki Burks\nPrescott Bartlett\nGavin Cortez\nMartena Mccray\nUnity Butler\nHoward Hatfield\nHope Fuentes\nVivian Harrell\nTimothy Mooney	8	on_master	Master.script
+2018-03-21 12:53:45.526 +0530	click	Next	at (1878, 441)	9	on_master	Master.script
+2018-03-21 12:53:46.826 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:53:46.945 +0530	readtext		(205,126,539,389)
+2018-03-21 12:53:46.945 +0530	Log		Jackson Bradshaw\nOlivia Liang\nBruno Nash\nSakura Yamamoto\nThor Walton\nFinn Camacho\nSerge Baldwin\nZenaida Frank\nZorita Serrano\nJennifer Acosta	8	on_master	Master.script
+2018-03-21 12:53:47.663 +0530	click	Next	at (1878, 441)	9	on_master	Master.script
+2018-03-21 12:53:49.003 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:53:49.121 +0530	readtext		(205,126,539,389)
+2018-03-21 12:53:49.122 +0530	Log		Cara Stevens\nHermione Butler\nLael Greer\nJonas Alexander\nShad Decker\nMichael Bruce\nDonna Snider\nName	8	on_master	Master.script
+2018-03-21 12:53:50.485 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 12:53:51.790 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:53:51.901 +0530	readtext		(205,126,539,389)
+2018-03-21 12:53:51.902 +0530	Log		Cara Stevens\nHermione Butler\nLael Greer\nJonas Alexander\nShad Decker\nMichael Bruce\nDonna Snider\nName	8	on_master	Master.script
+2018-03-21 12:53:53.283 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 12:53:54.578 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:53:54.688 +0530	readtext		(205,126,539,389)
+2018-03-21 12:53:54.689 +0530	Log		Cara Stevens\nHermione Butler\nLael Greer\nJonas Alexander\nShad Decker\nMichael Bruce\nDonna Snider\nName	8	on_master	Master.script
+2018-03-21 12:53:56.068 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 12:53:57.356 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:53:57.466 +0530	readtext		(205,126,539,389)
+2018-03-21 12:53:57.467 +0530	Log		Cara Stevens\nHermione Butler\nLael Greer\nJonas Alexander\nShad Decker\nMichael Bruce\nDonna Snider\nName	8	on_master	Master.script
+2018-03-21 12:53:58.839 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 12:54:00.147 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:54:00.250 +0530	readtext		(205,126,539,389)
+2018-03-21 12:54:00.251 +0530	Log		Cara Stevens\nHermione Butler\nLael Greer\nJonas Alexander\nShad Decker\nMichael Bruce\nDonna Snider\nName	8	on_master	Master.script
+2018-03-21 12:54:01.625 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 12:54:02.917 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:54:03.029 +0530	readtext		(205,126,539,389)
+2018-03-21 12:54:03.030 +0530	Log		Cara Stevens\nHermione Butler\nLael Greer\nJonas Alexander\nShad Decker\nMichael Bruce\nDonna Snider\nName	8	on_master	Master.script
+2018-03-21 12:54:04.411 +0530	click	Next	at (1878, 360)	9	on_master	Master.script
+2018-03-21 12:54:05.400 +0530	EndTestCase		(Duration:"28.458933", Errors:"1", Exceptions:"0", StartTime:"2018-03-21 12:53:36 +0530", Successes:"0", TestCase:"Master.script", Warnings:"0")
+2018-03-21 12:54:05.400 +0530	ABORTED		Execution Time 0:00:28 Master.script

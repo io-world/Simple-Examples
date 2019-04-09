@@ -1,0 +1,5 @@
+﻿2018-01-16 10:49:36.261 +0530	START		Running Modules/Verify.script
+2018-01-16 10:49:39.456 +0530	imagefound	Test/A/Favorites/Favorites 02.PNG	Unable to Find Image Test/A/Favorites/Favorites 02.PNG	31	on_content	Modules/Verify.script
+2018-01-16 10:49:39.457 +0530	LogWarning		Image was NOT found: Test/A/Favorites/Favorites 02.PNG	34	on_content	Modules/Verify.script
+2018-01-16 10:49:39.836 +0530	EndTestCase		(Duration:"3.572862", Errors:"0", Exceptions:"0", StartTime:"2018-01-16 10:49:36 +0530", Successes:"1", TestCase:"Modules/Verify.script", Warnings:"1")
+2018-01-16 10:49:39.851 +0530	SUCCESS		Execution Time 0:00:03 Modules/Verify.script

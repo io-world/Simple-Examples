@@ -1,0 +1,19 @@
+﻿
+
+
+put "qTest/A/Favorites/Favorites 01" into ContentName
+
+
+
+Try
+	put "image" into ContentType
+	put ContentName.imageinfo() into Blank 
+	throw "GGG"
+Catch exception
+	log exception
+	put "text" into ContentType
+End try
+
+
+
+log ContentType

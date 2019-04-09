@@ -1,0 +1,43 @@
+﻿2019-03-11 10:02:13.430 -0600	START		Running index2.script
+2019-03-11 10:02:13.513 -0600	Log		2	7	on_mod	MOD.script
+2019-03-11 10:02:13.515 -0600	Log		3	7	on_mod	MOD.script
+2019-03-11 10:02:13.517 -0600	Log		4	7	on_mod	MOD.script
+2019-03-11 10:02:13.518 -0600	Log		5	7	on_mod	MOD.script
+2019-03-11 10:02:13.520 -0600	Log		6	7	on_mod	MOD.script
+2019-03-11 10:02:13.526 -0600	Log		7	7	on_mod	MOD.script
+2019-03-11 10:02:13.528 -0600	Log		8	7	on_mod	MOD.script
+2019-03-11 10:02:13.541 -0600	Log		9	7	on_mod	MOD.script
+2019-03-11 10:02:13.544 -0600	Log		10	7	on_mod	MOD.script
+2019-03-11 10:02:13.546 -0600	Log		11	7	on_mod	MOD.script
+2019-03-11 10:02:13.548 -0600	Log		12	7	on_mod	MOD.script
+2019-03-11 10:02:13.550 -0600	Log		13	7	on_mod	MOD.script
+2019-03-11 10:02:13.552 -0600	Log		14	7	on_mod	MOD.script
+2019-03-11 10:02:13.557 -0600	Log		15	7	on_mod	MOD.script
+2019-03-11 10:02:13.561 -0600	Log		16	7	on_mod	MOD.script
+2019-03-11 10:02:13.563 -0600	Log		17	7	on_mod	MOD.script
+2019-03-11 10:02:13.565 -0600	Log		18	7	on_mod	MOD.script
+2019-03-11 10:02:13.567 -0600	Log		19	7	on_mod	MOD.script
+2019-03-11 10:02:13.569 -0600	Log		20	7	on_mod	MOD.script
+2019-03-11 10:02:13.577 -0600	Log		21	7	on_mod	MOD.script
+2019-03-11 10:02:13.579 -0600	Log		22	7	on_mod	MOD.script
+2019-03-11 10:02:13.581 -0600	Log		23	7	on_mod	MOD.script
+2019-03-11 10:02:13.583 -0600	Log		24	7	on_mod	MOD.script
+2019-03-11 10:02:13.585 -0600	Log		25	7	on_mod	MOD.script
+2019-03-11 10:02:13.592 -0600	Log		26	7	on_mod	MOD.script
+2019-03-11 10:02:13.597 -0600	Log		27	7	on_mod	MOD.script
+2019-03-11 10:02:13.599 -0600	Log		28	7	on_mod	MOD.script
+2019-03-11 10:02:13.601 -0600	Log		29	7	on_mod	MOD.script
+2019-03-11 10:02:13.604 -0600	Log		30	7	on_mod	MOD.script
+2019-03-11 10:02:13.610 -0600	Log		31	7	on_mod	MOD.script
+2019-03-11 10:02:13.612 -0600	Log		32	7	on_mod	MOD.script
+2019-03-11 10:02:13.615 -0600	Log		33	7	on_mod	MOD.script
+2019-03-11 10:02:13.617 -0600	Log		34	7	on_mod	MOD.script
+2019-03-11 10:02:13.619 -0600	Log		35	7	on_mod	MOD.script
+2019-03-11 10:02:13.626 -0600	Log		36	7	on_mod	MOD.script
+2019-03-11 10:02:13.628 -0600	Log		37	7	on_mod	MOD.script
+2019-03-11 10:02:13.631 -0600	Log		38	7	on_mod	MOD.script
+2019-03-11 10:02:13.633 -0600	Log		39	7	on_mod	MOD.script
+2019-03-11 10:02:13.635 -0600	Log		40	7	on_mod	MOD.script
+2019-03-11 10:02:13.642 -0600	Log		41	7	on_mod	MOD.script
+2019-03-11 10:02:14.050 -0600	EndTestCase		(Duration:"0.618081", Errors:"1", Exceptions:"0", StartTime:"2019-03-11 10:02:13 -0600", Successes:"0", TestCase:"index2.script", Warnings:"0")
+2019-03-11 10:02:14.064 -0600	FAILURE		STMaxCallDepthExceeded Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself. -- Execution Time 0:00:00 index2.script

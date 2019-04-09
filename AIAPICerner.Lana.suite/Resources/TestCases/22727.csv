@@ -1,0 +1,9 @@
+State,Action
+Initial,Start
+Entrance,Walk-in
+Department Transfer,Transfer to
+Cupid,echo cardiogrham
+Cupid,nukemed
+Cupid,Back
+Department Transfer,Transfer to
+Ambulatory,back

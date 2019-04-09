@@ -1,0 +1,25 @@
+﻿
+put last item of ScriptResults() into SR
+put  SR.logfile into OldLogLocation
+split OldLogLocation by "/"
+
+
+put  item  -2 of  OldLogLocation into NP
+
+put Suiteinfo().scriptsFolder&"/"& Suiteinfo().name  into  SP
+
+delete ".script" in SP
+put SP & "/" & NP & "/LogFile.txt" into SR
+
+
+log SR
+
+
+
+
+
+sendmail(to:"randy.hesse@eggplant.io", subject: "Test failed", body: "Hi From Randy, The very important test script generated an error. The log file is attached.", attachment:SR)
+
+
+
+

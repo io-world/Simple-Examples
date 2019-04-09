@@ -1,0 +1,5 @@
+﻿2018-10-18 10:09:02.677 -0600	START		Running Script2.script
+2018-10-18 10:09:02.735 -0600	Log		\n\n\nSelfValidate my name\n\n\n\n\n\nput 20 into x\n\nif (x < 9) then \n\tlog "YES"\nelse\n\tlog "NO"\nend if\n\n\n//any old comment\n\n\n//SCA:(name:"Mary")\n	11	on_selfvalidate	SelfValidate.script
+2018-10-18 10:09:02.747 -0600	Log		NO	15	on_script2	Script2.script
+2018-10-18 10:09:02.938 -0600	EndTestCase		(Duration:"0.260026", Errors:"0", Exceptions:"0", StartTime:"2018-10-18 10:09:02 -0600", Successes:"1", TestCase:"Script2.script", Warnings:"0")
+2018-10-18 10:09:02.954 -0600	SUCCESS		Execution Time 0:00:00 Script2.script

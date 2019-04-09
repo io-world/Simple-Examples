@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="MoveFile.script" package="File Move from SUT.suite" timestamp="2018-01-12 11:56:07.265 +0530"
+ tests="1" successes="(null)" errors="(null)" time="0.000000">
+  <properties>
+   <property name="RunDate" value="2018-01-12 11:56:07.265 +0530"/>
+   <property name="Status" value="Running"/>
+  </properties>
+  <testcase name="MoveFile.script" assertions="1" successes="0" errors="1" time="8.650585">
+  </testcase>
+ </testsuite>
+</testsuites>

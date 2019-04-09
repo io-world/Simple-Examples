@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="EncryptWorkFlow">
+ <run>
+  <RunDate>2017-07-17 22:04:58.372 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.306306</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170717_220458.372/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-17 22:05:15.962 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.314762</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170717_220515.962/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-17 22:05:32.623 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.346508</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170717_220532.623/LogFile.txt</LogFile>
+  <ReturnValue>\n\n\nA@T &quot; IN]h dK[a Jc D\OTi=Ob\&quot;\n\n\ng:VYVE o{ IOaZD\n\t\n\t\n\t`d8 &quot;hjE\n\t\n6[F g:VYVE</ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

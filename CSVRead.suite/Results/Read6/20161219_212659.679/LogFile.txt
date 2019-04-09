@@ -1,6 +1,0 @@
-﻿2016-12-19 21:26:59.679 -0800	START		Running Read6.script
-2016-12-19 21:27:06.595 -0800	Log		PropList	26	on_read6	Read6.script
-2016-12-19 21:27:06.601 -0800	Log			27	on_read6	Read6.script
-2016-12-19 21:27:06.612 -0800	Log			31	on_read6	Read6.script
-2016-12-19 21:27:06.828 -0800	EndTestCase		(Duration:"7.147731", Errors:"0", Exceptions:"0", StartTime:"2016-12-19 21:26:59 -0800", Successes:"1", TestCase:"Read6.script", Warnings:"0")
-2016-12-19 21:27:06.849 -0800	SUCCESS		Execution Time 0:00:07 Read6.script

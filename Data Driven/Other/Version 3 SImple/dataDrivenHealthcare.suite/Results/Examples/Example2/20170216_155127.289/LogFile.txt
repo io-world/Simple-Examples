@@ -1,0 +1,21 @@
+﻿2017-02-16 15:51:27.290 -0700	START		Running Examples/Example2.script
+2017-02-16 15:51:27.370 -0700	Log		(DateofBirth:"Date of Birth", FirstName:"First Name", Gender:"Gender", LastName:"Last Name", MaritalStatus:"Marital Status", MedicalRecordNumber:"Medical Record Number", MiddleName:"Middle Name", Prefix:"Prefix", SocialSecurityNumber:"Social Security Number")	12	on_examples_example2	Examples/Example2.script
+2017-02-16 15:51:27.372 -0700	Log		Medical Record Number	13	on_examples_example2	Examples/Example2.script
+2017-02-16 15:51:27.386 -0700	Log		(DateofBirth:"6/13/06", FirstName:"Bruce", Gender:"Male", LastName:"Wayne", MaritalStatus:"Single", MedicalRecordNumber:"222222", MiddleName:"A", Prefix:"Mr", SocialSecurityNumber:"113-83-3798")	12	on_examples_example2	Examples/Example2.script
+2017-02-16 15:51:27.388 -0700	Log		222222	13	on_examples_example2	Examples/Example2.script
+2017-02-16 15:51:27.399 -0700	Log		(DateofBirth:"3/16/14", FirstName:"Carrie", Gender:"Female", LastName:"Underwood", MaritalStatus:"Married", MedicalRecordNumber:"333333", MiddleName:"B", Prefix:"Mrs", SocialSecurityNumber:"583-00-6387")	12	on_examples_example2	Examples/Example2.script
+2017-02-16 15:51:27.401 -0700	Log		333333	13	on_examples_example2	Examples/Example2.script
+2017-02-16 15:51:27.416 -0700	Log		(DateofBirth:"4/24/03", FirstName:"Wonder", Gender:"Female", LastName:"Woman", MaritalStatus:"Divorced", MedicalRecordNumber:"444444", MiddleName:"C", Prefix:"Ms", SocialSecurityNumber:"580-71-8520")	12	on_examples_example2	Examples/Example2.script
+2017-02-16 15:51:27.419 -0700	Log		444444	13	on_examples_example2	Examples/Example2.script
+2017-02-16 15:51:27.441 -0700	Log		(DateofBirth:"12/23/87", FirstName:"Darth", Gender:"Male", LastName:"Vader", MaritalStatus:"Widowed", MedicalRecordNumber:"555555", MiddleName:"D", Prefix:"Dr", SocialSecurityNumber:"744-85-1232")	12	on_examples_example2	Examples/Example2.script
+2017-02-16 15:51:27.442 -0700	Log		555555	13	on_examples_example2	Examples/Example2.script
+2017-02-16 15:51:27.455 -0700	Log		(DateofBirth:"7/30/81", FirstName:"James", Gender:"Male", LastName:"Bond", MaritalStatus:"Single", MedicalRecordNumber:"666666", MiddleName:"E", Prefix:"Dr", SocialSecurityNumber:"973-13-0224")	12	on_examples_example2	Examples/Example2.script
+2017-02-16 15:51:27.457 -0700	Log		666666	13	on_examples_example2	Examples/Example2.script
+2017-02-16 15:51:27.469 -0700	Log		(DateofBirth:"9/1/80", FirstName:"Homer", Gender:"Male", LastName:"Simpson", MaritalStatus:"Married", MedicalRecordNumber:"777777", MiddleName:"F", Prefix:"Mr", SocialSecurityNumber:"557-31-0655")	12	on_examples_example2	Examples/Example2.script
+2017-02-16 15:51:27.471 -0700	Log		777777	13	on_examples_example2	Examples/Example2.script
+2017-02-16 15:51:27.482 -0700	Log		(DateofBirth:"9/19/85", FirstName:"Optimus", Gender:"Other", LastName:"Prime", MaritalStatus:"Divorced", MedicalRecordNumber:"888888", MiddleName:"G", Prefix:"Dr", SocialSecurityNumber:"521-26-0727")	12	on_examples_example2	Examples/Example2.script
+2017-02-16 15:51:27.485 -0700	Log		888888	13	on_examples_example2	Examples/Example2.script
+2017-02-16 15:51:27.496 -0700	Log		(DateofBirth:"6/14/00", FirstName:"Mickey", Gender:"Male", LastName:"Mouse", MaritalStatus:"Single", MedicalRecordNumber:"999999", MiddleName:"H", Prefix:"Dr", SocialSecurityNumber:"984-56-3166")	12	on_examples_example2	Examples/Example2.script
+2017-02-16 15:51:27.498 -0700	Log		999999	13	on_examples_example2	Examples/Example2.script
+2017-02-16 15:51:27.780 -0700	EndTestCase		(Duration:"0.488679", Errors:"1", Exceptions:"0", StartTime:"2017-02-16 15:51:27 -0700", Successes:"0", TestCase:"Examples/Example2.script", Warnings:"0")
+2017-02-16 15:51:28.083 -0700	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'startbuildpatient' -- Execution Time 0:00:00 Examples/Example2.script

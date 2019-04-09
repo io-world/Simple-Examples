@@ -1,0 +1,8 @@
+﻿params param1 , param2 , param3
+
+
+log "you Have entered into SINGLE MOD2"
+log param1
+log param2
+log param3 + 90
+

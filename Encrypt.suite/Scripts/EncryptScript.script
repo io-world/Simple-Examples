@@ -1,0 +1,23 @@
+﻿
+
+
+put Suiteinfo().scriptsFolder & "/Workflow1.script" into STE
+put file STE into STU
+put the number of lines of stu into max
+
+put Suiteinfo().scriptsFolder & "/Workflow2.script" into FileE
+create file FileE
+open  file FileE
+
+repeat max times
+	put line repeatindex() of stu into WL
+	
+	if WL is empty or WL contains tab then
+		write return to file FileE at eof
+	end if
+	write encodetext(WL)  to file FileE at eof
+	
+	
+	
+end repeat
+

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Libraries/Login">
+ <run>
+  <RunDate>2017-04-17 12:59:56.277 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.487338</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170417_125956.277/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

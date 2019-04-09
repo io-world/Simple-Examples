@@ -1,0 +1,18 @@
+﻿(*************************************************************************************
+NAME:                     Documentation.Suite
+DESCRIPTION:       Master Script
+This version begins using a more modular approach that will be used to hide credentials and uses some of the more advanced features of eggPlant. Incorporates a more structured approach to the entire package.
+
+PARAMETERS:      
+Parameters and vanables are pulled from an accompanying EXCEL spreadsheet in the Resources area to a set of global properties.
+
+VALIDATED SUT: Window 10, Windows 2012
+LAST VALIDATED: 
+AUTHOR:              RANDY Hesse
+DATE:                    April 3 2018
+***************************************************************************************
+MODIFICATION:
+Janurary 18 2018: Refactoring Code
+Feburary 4 2018: Created an emailable Logging
+*********************************************************************************)
+

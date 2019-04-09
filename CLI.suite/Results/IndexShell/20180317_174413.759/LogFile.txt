@@ -1,0 +1,3 @@
+﻿2018-03-17 17:44:13.765 +0530	START		Running IndexShell.script
+2018-03-17 17:44:13.767 +0530	EndTestCase		(Duration:"0.000396", Errors:"1", Exceptions:"0", StartTime:"2018-03-17 17:44:13 +0530", Successes:"0", TestCase:"IndexShell.script", Warnings:"0")
+2018-03-17 17:44:14.418 +0530	FAILURE	Screen_Error.png	SenseTalk Compiler Exception in indexshell:\nSyntax Error at line 2: Syntax Error - can't understand "/" at or near character 2 -- Execution Time 0:00:00 IndexShell.script

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Example6">
+ <run>
+  <RunDate>2017-08-29 09:57:11.365 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.258711</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170829_095711.365/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STDatabaseException -- Can&#x27;t Add records a non-Writable database connection</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-29 09:58:13.247 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.207639</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170829_095813.247/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-29 09:58:22.252 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.196585</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170829_095822.252/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-29 10:20:26.929 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.229693</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170829_102026.929/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-29 10:21:40.904 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.205882</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170829_102140.904/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-29 10:21:53.647 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.190980</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170829_102153.647/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-29 10:23:21.080 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.215962</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170829_102321.080/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-29 10:27:55.207 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.231079</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170829_102755.207/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

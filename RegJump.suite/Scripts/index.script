@@ -1,0 +1,44 @@
+﻿//This will need to be installed on the SUT:
+
+//https://technet.microsoft.com/en-us/sysinternals/regjump.aspx
+
+
+put "HKLM\Software\Microsoft\Windows\CurrentVersion" into RegPath
+put "ProgramFilesDir" into RegKey
+
+TypeText windowsKey 
+TypeText "cmd"
+rightclick "Command Prompt Icon"
+click "administrator"
+waitfor 10, "Command Prompt Icon Small"
+TypeText "regjump"&&RegPath, returnKey
+
+------------------------------------------------
+
+DoubleClick image:"Columns/Type", hotspot:(-7,0)
+put FoundImageLocation() into ILCT
+
+
+put ImageLocation("Columns/Name") into ILCN
+insert ILCN +(-1,14) into SR
+insert (item 1 of ILCT , 800) into SR
+
+if imagefound (Text:RegKey,searchRectangle:(SR)) then
+	put FoundImageLocation()  into RL
+	put ImageLocation("Columns/data") into ILD
+	put (item 1 of ILD, item 2 of RL) into DP
+	insert DP+(-14,-7) into RR
+	insert DP+(100,10) into RR
+	put ColorAtLocation(DP+(100,10)) into CAT
+	log ReadText(RR, contrast:on, contrastColor:(CAT))
+	wait 3
+else
+	
+	LogError "Unable to Find:" &&RegKey
+	
+end if
+
+
+TypeText altRun&F4
+wait 3
+TypeText altKey &F4

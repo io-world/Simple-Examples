@@ -1,0 +1,38 @@
+﻿2018-03-21 12:55:58.023 +0530	START		Running Master.script
+2018-03-21 12:55:58.683 +0530	imagerectangle	name	at (345,94,419,119)	11	on_master	Master.script
+2018-03-21 12:55:58.806 +0530	readtext		(205,126,539,389)
+2018-03-21 12:55:58.807 +0530	Log		(Tiger Nixon,John Winters,Austin Cox,Charles Kelly,Amanda Satou,Brielle Williamson,Herrod Chandler,Rhona Davidson,Colleen Hurst,Sonya Frost)	15	on_master	Master.script
+2018-03-21 12:56:00.171 +0530	click	Next	at (1878, 441)	16	on_master	Master.script
+2018-03-21 12:56:01.041 +0530	imagerectangle	name	at (345,94,419,119)	11	on_master	Master.script
+2018-03-21 12:56:01.142 +0530	readtext		(205,126,539,389)
+2018-03-21 12:56:01.143 +0530	Log		(Jena Gaines,Quinn Flynn,Charde Marshall,Haley Kennedy,Tatyana Fitzpatrick,Michael Silva,Paul Byrd,Gloria Little,Bradley Greer,Dai Rios)	15	on_master	Master.script
+2018-03-21 12:56:01.866 +0530	click	Next	at (1878, 441)	16	on_master	Master.script
+2018-03-21 12:56:03.164 +0530	imagerectangle	name	at (345,94,419,119)	11	on_master	Master.script
+2018-03-21 12:56:03.280 +0530	readtext		(205,126,539,389)
+2018-03-21 12:56:03.281 +0530	Log		(Jenette Caldwell,Yuri Berry,Caesar Vance,Doris Wilder,Angelica Ramos,Gavin Joyce,Jennifer Chang,Brenden Wagner,Fiona Green,Shou Itou)	15	on_master	Master.script
+2018-03-21 12:56:03.997 +0530	click	Next	at (1878, 441)	16	on_master	Master.script
+2018-03-21 12:56:05.328 +0530	imagerectangle	name	at (345,94,419,119)	11	on_master	Master.script
+2018-03-21 12:56:05.456 +0530	readtext		(205,126,539,389)
+2018-03-21 12:56:05.457 +0530	Log		(Michelle House,Suki Burks,Prescott Bartlett,Gavin Cortez,Martena Mccray,Unity Butler,Howard Hatfield,Hope Fuentes,Vivian Harrell,Timothy Mooney)	15	on_master	Master.script
+2018-03-21 12:56:06.161 +0530	click	Next	at (1878, 441)	16	on_master	Master.script
+2018-03-21 12:56:07.454 +0530	imagerectangle	name	at (345,94,419,119)	11	on_master	Master.script
+2018-03-21 12:56:07.571 +0530	readtext		(205,126,539,389)
+2018-03-21 12:56:07.572 +0530	Log		(Jackson Bradshaw,Olivia Liang,Bruno Nash,Sakura Yamamoto,Thor Walton,Finn Camacho,Serge Baldwin,Zenaida Frank,Zorita Serrano,Jennifer Acosta)	15	on_master	Master.script
+2018-03-21 12:56:08.284 +0530	click	Next	at (1878, 441)	16	on_master	Master.script
+2018-03-21 12:56:09.600 +0530	imagerectangle	name	at (345,94,419,119)	11	on_master	Master.script
+2018-03-21 12:56:09.710 +0530	readtext		(205,126,539,389)
+2018-03-21 12:56:09.711 +0530	Log		(Cara Stevens,Hermione Butler,Lael Greer,Jonas Alexander,Shad Decker,Michael Bruce,Donna Snider,Name)	15	on_master	Master.script
+2018-03-21 12:56:11.083 +0530	click	Next	at (1878, 360)	16	on_master	Master.script
+2018-03-21 12:56:12.379 +0530	imagerectangle	name	at (345,94,419,119)	11	on_master	Master.script
+2018-03-21 12:56:12.488 +0530	readtext		(205,126,539,389)
+2018-03-21 12:56:12.489 +0530	Log		(Cara Stevens,Hermione Butler,Lael Greer,Jonas Alexander,Shad Decker,Michael Bruce,Donna Snider,Name)	15	on_master	Master.script
+2018-03-21 12:56:13.859 +0530	click	Next	at (1878, 360)	16	on_master	Master.script
+2018-03-21 12:56:15.155 +0530	imagerectangle	name	at (345,94,419,119)	11	on_master	Master.script
+2018-03-21 12:56:15.262 +0530	readtext		(205,126,539,389)
+2018-03-21 12:56:15.263 +0530	Log		(Cara Stevens,Hermione Butler,Lael Greer,Jonas Alexander,Shad Decker,Michael Bruce,Donna Snider,Name)	15	on_master	Master.script
+2018-03-21 12:56:16.644 +0530	click	Next	at (1878, 360)	16	on_master	Master.script
+2018-03-21 12:56:17.969 +0530	imagerectangle	name	at (345,94,419,119)	11	on_master	Master.script
+2018-03-21 12:56:18.066 +0530	readtext		(205,126,539,389)
+2018-03-21 12:56:18.068 +0530	Log		(Cara Stevens,Hermione Butler,Lael Greer,Jonas Alexander,Shad Decker,Michael Bruce,Donna Snider,Name)	15	on_master	Master.script
+2018-03-21 12:56:19.884 +0530	EndTestCase		(Duration:"21.85947", Errors:"1", Exceptions:"0", StartTime:"2018-03-21 12:55:58 +0530", Successes:"0", TestCase:"Master.script", Warnings:"0")
+2018-03-21 12:56:19.885 +0530	ABORTED		Execution Time 0:00:21 Master.script

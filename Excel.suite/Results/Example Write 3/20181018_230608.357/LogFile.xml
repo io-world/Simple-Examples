@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Example Write 3_script" package="Excel.suite" timestamp="2018-10-18 23:06:08.357 -0600"
+ tests="1"  failures="1" errors="0" time="0.420992">
+  <properties>
+   <property name="RunDate" value="2018-10-18 23:06:08.357 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Example Write 3.script" assertions="1" status="failure"  time="0.419049">
+    <failure type="FAILURE" message="STDatabaseException Can't Add records a non-Writable database connection -- Execution Time 0:00:00 Example Write 3.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

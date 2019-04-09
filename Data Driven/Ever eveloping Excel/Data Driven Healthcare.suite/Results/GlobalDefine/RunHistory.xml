@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Modules/GlobalDefine">
+ <run>
+  <RunDate>2018-01-12 14:44:30.258 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.731498</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180112_144430.258/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

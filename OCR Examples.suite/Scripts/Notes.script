@@ -1,0 +1,36 @@
+﻿log ReadText((1163,418,1262,652))
+
+
+log ReadText((1157,419,1279,436))
+
+
+log ImageFound(text:"11/APR/2017",SearchRectangle:(1163,418,1262,652))
+
+
+
+
+log ReadText((1157,419,1279,436),ValidPattern:"[0-9]+\\+[A-Z]+\\+[0-9]",contrastTolerance:25)
+
+
+
+log ReadText((1157,419,1279,436),ValidPattern:"([0-9a-zA-Z])+//+([0-9a-zA-Z])+//+([0-9a-zA-Z])")
+
+
+
+log ReadText((441,486,578,509),ValidPattern: "[A-Za-z]*")
+
+
+log ReadText((1157,419,1279,436),ValidPattern:"[0-9a-zA-Z]*+\\+[0-9a-zA-Z]*+\\+[0-9a-zA-Z]*")
+
+
+log ReadText((1157,419,1279,436),ValidPattern:"[0-9][0-9]/[A-Z][A-Z][A-Z]/[0-9][0-9][0-9][0-9]")
+
+
+log ReadText((1157,419,1279,436),ValidPattern:"[0-9][0-9]/[A-Z][A-Z][A-Z]/[0-9][0-9][0-9][0-9]")
+
+
+
+
+log ReadText((1158,417,1260,652),ValidPattern:"[0-9][0-9]/[A-Z][A-Z][A-Z]/[0-9][0-9][0-9][0-9]")
+
+

@@ -1,0 +1,1 @@
+2017-08-30 10:50:50.876 -0600,Failure,0:00:00,1,0,0,20170830_105050.876/LogFile.txt,"","STMaxCallDepthExceeded -- Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself.",0

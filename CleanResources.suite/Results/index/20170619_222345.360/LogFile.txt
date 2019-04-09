@@ -1,0 +1,8 @@
+﻿2017-06-19 22:23:45.361 -0600	START		Running index.script
+2017-06-19 22:23:45.416 -0600	Log		(.git,CleanResources.suite,CLI.suite,CompareImages.suite,CSVFind.suite,CSVRead.suite,Data Driven,Dates.suite,eggPlantTables.suite,Excel.suite,Files.suite,Folders.suite,Framework.suite,Frameworkv2.suite,global.suite,Handlers.suite,Helper.suite,Helper2.suite,Logon.suite,ObjectsandList.suite,Old Examples,Omega13.suite,Parameter.suite,piping.suite,Reboot.suite,Results.suite,SampleCode.suite,SearchRectangle.suite,SimpleListRead.suite,Strings.suite,TableRead.suite,Word Compare.suite)	8	on_index	index.script
+2017-06-19 22:23:45.417 -0600	Log		.git	29	on_index	index.script
+2017-06-19 22:23:45.419 -0600	Log		/Users/randyhesse/Documents/Simple Examples/CleanResources.suite/Results/index	23	on_index	index.script
+2017-06-19 22:23:45.423 -0600	Log		Data Driven	29	on_index	index.script
+2017-06-19 22:23:45.432 -0600	Log		Old Examples	29	on_index	index.script
+2017-06-19 22:23:45.551 -0600	EndTestCase		(Duration:"0.188447", Errors:"0", Exceptions:"0", StartTime:"2017-06-19 22:23:45 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-06-19 22:23:45.558 -0600	SUCCESS		Execution Time 0:00:00 index.script

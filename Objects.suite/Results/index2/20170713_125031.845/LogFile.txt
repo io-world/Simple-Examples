@@ -1,0 +1,6 @@
+﻿2017-07-13 12:50:31.846 -0600	START		Running index2.script
+2017-07-13 12:50:31.905 -0600	Log		var1	2	on_initialize	
+2017-07-13 12:50:31.907 -0600	Log		Start all of it	4	on_initialize	
+2017-07-13 12:50:31.910 -0600	Log		TOM	16	on_index2	index2.script
+2017-07-13 12:50:32.143 -0600	EndTestCase		(Duration:"0.296306", Errors:"0", Exceptions:"0", StartTime:"2017-07-13 12:50:31 -0600", Successes:"1", TestCase:"index2.script", Warnings:"0")
+2017-07-13 12:50:32.149 -0600	SUCCESS		Execution Time 0:00:00 index2.script

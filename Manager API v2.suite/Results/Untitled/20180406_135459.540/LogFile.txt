@@ -1,0 +1,4 @@
+﻿2018-04-06 13:54:59.541 -0600	START		Running Untitled.script
+2018-04-06 13:54:59.600 -0600	LogWarning		Validation Warning: Missing HTTP.	5	on_untitled	Untitled.script
+2018-04-06 13:55:00.189 -0600	EndTestCase		(Duration:"0.646316", Errors:"0", Exceptions:"0", StartTime:"2018-04-06 13:54:59 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"1")
+2018-04-06 13:55:00.205 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

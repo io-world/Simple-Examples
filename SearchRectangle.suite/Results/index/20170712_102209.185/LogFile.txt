@@ -1,0 +1,16 @@
+﻿2017-07-12 10:22:09.187 -0600	START		Running index.script
+2017-07-12 10:22:09.336 -0600	Log		Current SR: (628,363,691,432)	5	on_ft2	mod.script
+2017-07-12 10:22:20.155 -0600	imagefound	(TEXT:"google")	Unable to Find Image (TEXT:"google")	6	on_ft2	mod.script
+2017-07-12 10:22:20.158 -0600	Log		Current SR: (528,263,791,532)	5	on_ft2	mod.script
+2017-07-12 10:22:26.786 -0600	imagefound	(TEXT:"google")	Unable to Find Image (TEXT:"google")	6	on_ft2	mod.script
+2017-07-12 10:22:26.789 -0600	Log		Current SR: (428,163,891,632)	5	on_ft2	mod.script
+2017-07-12 10:22:32.609 -0600	imagefound	(TEXT:"google")	Unable to Find Image (TEXT:"google")	6	on_ft2	mod.script
+2017-07-12 10:22:32.611 -0600	Log		Current SR: (328,63,991,732)	5	on_ft2	mod.script
+2017-07-12 10:22:38.170 -0600	imagefound	(TEXT:"google")	Unable to Find Image (TEXT:"google")	6	on_ft2	mod.script
+2017-07-12 10:22:38.172 -0600	Log		Current SR: (228,0,1091,832)	5	on_ft2	mod.script
+2017-07-12 10:22:39.112 -0600	imagefound	(TEXT:"google")	found at (260, 280)	6	on_ft2	mod.script
+2017-07-12 10:22:39.113 -0600	Log		Image was Found	37	on_ft2	mod.script
+2017-07-12 10:22:39.747 -0600	waitfor	(TEXT:"google")	found at (260, 280)	38	on_ft2	mod.script
+2017-07-12 10:22:39.749 -0600	LogWarning		Unable to Click off Screen: (260,180)	46	on_ft2	mod.script
+2017-07-12 10:22:39.989 -0600	EndTestCase		(Duration:"30.799177", Errors:"0", Exceptions:"0", StartTime:"2017-07-12 10:22:09 -0600", Successes:"1", TestCase:"index.script", Warnings:"1")
+2017-07-12 10:22:40.005 -0600	SUCCESS		Execution Time 0:00:30 index.script

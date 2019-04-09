@@ -1,0 +1,24 @@
+﻿2018-01-12 12:05:33.675 +0530	START		Running Master.script
+2018-01-12 12:05:33.786 +0530	typetext		[windowsKey]r	1	on_createfile	CreateFile.script
+2018-01-12 12:05:34.635 +0530	typetext		notepad.exe[returnKey]	2	on_createfile	CreateFile.script
+2018-01-12 12:05:35.408 +0530	waitfor	NotePad Icon	found at (18, 17)	3	on_createfile	CreateFile.script
+2018-01-12 12:05:36.928 +0530	typetext		This File is From the System Under Test[returnKey]	5	on_createfile	CreateFile.script
+2018-01-12 12:05:37.832 +0530	typetext		01/12/1812:05 PM	6	on_createfile	CreateFile.script
+2018-01-12 12:05:38.857 +0530	typetext		[controlKey]s	8	on_createfile	CreateFile.script
+2018-01-12 12:05:39.834 +0530	waitfor	Filename	found at (204, 433)	9	on_createfile	CreateFile.script
+2018-01-12 12:05:39.961 +0530	typetext		Config.txt	10	on_createfile	CreateFile.script
+2018-01-12 12:05:40.679 +0530	typetext		[returnKey]	11	on_createfile	CreateFile.script
+2018-01-12 12:05:42.004 +0530	click	NotePad Icon	at (18, 17)	13	on_createfile	CreateFile.script
+2018-01-12 12:05:43.276 +0530	click	Close	at (52, 163)	14	on_createfile	CreateFile.script
+2018-01-12 12:05:44.550 +0530	doubleclick	Network Icon	at (39, 130)	3	on_movefile	MoveFile.script
+2018-01-12 12:05:45.624 +0530	doubleclick	Network Icon/MacBook Pro Icon	at (690, 290)	4	on_movefile	MoveFile.script
+2018-01-12 12:05:46.506 +0530	waitfor	Download	found at (641, 268)	5	on_movefile	MoveFile.script
+2018-01-12 12:05:48.675 +0530	doubleclick		at (641, 268)	7	on_movefile	MoveFile.script
+2018-01-12 12:05:49.976 +0530	rightclick	File Icon	at (36, 454)	9	on_movefile	MoveFile.script
+2018-01-12 12:05:51.266 +0530	click	Cut	at (83, 689)	10	on_movefile	MoveFile.script
+2018-01-12 12:05:52.554 +0530	rightclick	Header Mac	at (606, 636)	11	on_movefile	MoveFile.script
+2018-01-12 12:05:53.820 +0530	click	Paste	at (654, 518)	12	on_movefile	MoveFile.script
+2018-01-12 12:05:58.839 +0530	Log		This File is From the System Under Test	10	on_readfile	ReadFile.script
+2018-01-12 12:05:58.841 +0530	Log		01/12/1812:05 PM	10	on_readfile	ReadFile.script
+2018-01-12 12:05:59.305 +0530	EndTestCase		(Duration:"25.628773", Errors:"0", Exceptions:"0", StartTime:"2018-01-12 12:05:33 +0530", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-01-12 12:05:59.325 +0530	SUCCESS		Execution Time 0:00:25 Master.script

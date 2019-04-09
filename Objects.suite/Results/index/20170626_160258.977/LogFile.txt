@@ -1,0 +1,4 @@
+﻿2017-06-26 16:02:58.978 -0600	START		Running index.script
+2017-06-26 16:02:59.069 -0600	Log		Windows 10	4	on_name	SUTConnection.script
+2017-06-26 16:02:59.338 -0600	EndTestCase		(Duration:"0.35843", Errors:"0", Exceptions:"0", StartTime:"2017-06-26 16:02:58 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-06-26 16:02:59.345 -0600	SUCCESS		Execution Time 0:00:00 index.script

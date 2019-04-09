@@ -1,0 +1,7 @@
+﻿2018-06-06 21:46:18.853 -0500	START		Running Master 1.script
+2018-06-06 21:46:24.381 -0500	LogWarning		Unable to Find Image(s): Chrome.png -- AutoUpdate engaged	1	on_overridecommand	/Users/randyhesse/Desktop/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-06 21:46:25.089 -0500	AutoUpdateCaptureScreen	AutoUpdate_0001.png		1	on_overridecommand	/Users/randyhesse/Desktop/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-06 21:46:25.090 -0500	AutoUpdateWarning	Chrome.png	Found Alternate Image -- Using Dynamic Tolerance 50	1	on_overridecommand	/Users/randyhesse/Desktop/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script	"Name" = "Dynamic Tolerance"; "Info" = "50"; 
+2018-06-06 21:46:25.821 -0500	click	Chrome.png	at (1024, 638)	1	on_overridecommand	/Users/randyhesse/Desktop/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-06 21:46:26.037 -0500	EndTestCase		(Duration:"7.183225", Errors:"0", Exceptions:"0", StartTime:"2018-06-06 21:46:18 -0500", Successes:"1", TestCase:"Master 1.script", Warnings:"1")
+2018-06-06 21:46:26.054 -0500	SUCCESS		Execution Time 0:00:07 Master 1.script

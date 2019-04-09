@@ -2,4 +2,6 @@
 module1.foo2
 
 
-module2
+module2 
+
+click "GoogleChrome"

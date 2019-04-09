@@ -1,0 +1,25 @@
+﻿
+
+
+
+
+
+
+
+Connect "Windows 10"
+---------------------
+
+
+put ConnectionInfo().name into SUTNAME
+
+-----------
+
+connect SUTNAME
+
+
+
+
+put "windows 10" into SUTConnection
+
+
+connect SUTConnection

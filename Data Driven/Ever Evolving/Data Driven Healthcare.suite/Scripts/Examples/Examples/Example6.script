@@ -1,0 +1,39 @@
+﻿----------------DO Not Touch--------------------------------------
+set GD to a new "Modules/GlobalDefine"
+-------------------------------------------------------------------------
+Run (GD).SetupFiles
+Run (GD).SetupEnvironment
+-------------------------------------------------------------------------
+
+
+
+
+put (GD).GetUser (4) into global UserInformation
+
+Log global Userinformation.Username
+Log global Userinformation.Password
+
+
+
+
+repeat (GD).PatientCount times
+	put (GD).BuildPatient (repeatindex()) into global Patient
+	log global Patient
+	log global patient.MedicalRecordNumber
+end repeat
+
+
+
+Run (GD).BuildPatient 2
+
+
+
+repeat 4 times
+	
+	put (GD).BuildPatient (2) into global Patient
+	log global Patient
+	log global patient.MedicalRecordNumber
+	
+	
+end repeat
+

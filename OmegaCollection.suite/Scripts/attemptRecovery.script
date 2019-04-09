@@ -1,0 +1,42 @@
+﻿params ErrorName, ActionName , ImageName
+
+put ImageInfo(ImageName).ImagePath into ImagePathway
+put ImageInfo(ImageName).ImageRectangle into CaptureArea
+
+put ImagePathway into New_image_pathway
+put ImagePathway into Old_image_pathway
+put ImagePathway into Rename_image_pathway
+
+delete character 1 of Old_image_pathway
+split Old_image_pathway by "/"
+pop Old_image_pathway into Full_Image_Name
+
+
+replace ".png" with "/" in New_image_pathway
+replace ".png" with  "-original.png" in Rename_image_pathway
+
+
+log "Error Name:" && ErrorName
+log "Action Name:" && ActionName
+log "Image Name:" &&Full_Image_Name
+log "New Collection:" && New_image_pathway
+log "Rename image pathway:" &&Rename_image_pathway
+
+
+
+//----------------------------------------------------------------------------------
+create folder New_image_pathway
+rename file ImagePathway to Rename_image_pathway
+move file Rename_image_pathway to New_image_pathway
+//------------------------------------------------------------------------------------
+
+
+put formattedTime("-%Y-%m-%d--%H-%M-%S")  into DT
+delete ".png" in Full_Image_Name
+CaptureScreen (Name: New_image_pathway & Full_Image_Name & DT , Rectangle: (CaptureArea))
+return True
+
+
+
+
+

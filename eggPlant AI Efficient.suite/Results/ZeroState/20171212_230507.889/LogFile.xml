@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="ZeroState.script" package="eggPlant AI Efficient.suite" timestamp="2017-12-12 23:05:07.889 -0600"
+ tests="1" successes="1" errors="0" time="0.006744">
+  <properties>
+   <property name="RunDate" value="2017-12-12 23:05:07.889 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="ZeroState.script" assertions="1" successes="1" errors="0" time="0.004616">
+  </testcase>
+ </testsuite>
+</testsuites>

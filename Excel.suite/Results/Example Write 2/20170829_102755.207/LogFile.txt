@@ -1,0 +1,4 @@
+﻿2017-08-29 10:27:55.208 -0600	START		Running Example6.script
+2017-08-29 10:27:55.279 -0600	Log		((firstName:"Fritz", lastName:"Geisler", memberNumber:"4307"),(firstName:"John", lastName:"DOE", memberNumber:"9999"),(firstName:"Jane", lastName:"Geisler", memberNumber:"1111"))	7	on_example6	Example6.script
+2017-08-29 10:27:55.439 -0600	EndTestCase		(Duration:"0.229459", Errors:"0", Exceptions:"0", StartTime:"2017-08-29 10:27:55 -0600", Successes:"1", TestCase:"Example6.script", Warnings:"0")
+2017-08-29 10:27:55.459 -0600	SUCCESS		Execution Time 0:00:00 Example6.script

@@ -1,0 +1,7 @@
+﻿2017-06-19 22:23:52.390 -0600	START		Running index.script
+2017-06-19 22:23:52.450 -0600	Log		.git	28	on_index	index.script
+2017-06-19 22:23:52.452 -0600	Log		/Users/randyhesse/Documents/Simple Examples/CleanResources.suite/Results/index	22	on_index	index.script
+2017-06-19 22:23:52.455 -0600	Log		Data Driven	28	on_index	index.script
+2017-06-19 22:23:52.465 -0600	Log		Old Examples	28	on_index	index.script
+2017-06-19 22:23:52.585 -0600	EndTestCase		(Duration:"0.19463", Errors:"0", Exceptions:"0", StartTime:"2017-06-19 22:23:52 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-06-19 22:23:52.594 -0600	SUCCESS		Execution Time 0:00:00 index.script

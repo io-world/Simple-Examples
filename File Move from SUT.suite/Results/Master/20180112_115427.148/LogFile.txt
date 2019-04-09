@@ -1,0 +1,19 @@
+﻿2018-01-12 11:54:27.149 +0530	START		Running Untitled1.script
+2018-01-12 11:54:27.304 +0530	typetext		[windowsKey]r	1	on_createfile	CreateFile.script
+2018-01-12 11:54:28.161 +0530	typetext		notepad.exe[returnKey]	2	on_createfile	CreateFile.script
+2018-01-12 11:54:28.977 +0530	waitfor	NotePad Icon	found at (18, 17)	3	on_createfile	CreateFile.script
+2018-01-12 11:54:30.493 +0530	typetext		This File is From the System Under Test[returnKey]	5	on_createfile	CreateFile.script
+2018-01-12 11:54:31.403 +0530	typetext		01/12/1811:54 AM	6	on_createfile	CreateFile.script
+2018-01-12 11:54:32.431 +0530	typetext		[controlKey]s	8	on_createfile	CreateFile.script
+2018-01-12 11:54:33.341 +0530	waitfor	Filename	found at (204, 433)	9	on_createfile	CreateFile.script
+2018-01-12 11:54:33.474 +0530	typetext		Config.txt	10	on_createfile	CreateFile.script
+2018-01-12 11:54:34.193 +0530	typetext		[returnKey]	11	on_createfile	CreateFile.script
+2018-01-12 11:54:35.494 +0530	click	NotePad Icon	at (18, 17)	13	on_createfile	CreateFile.script
+2018-01-12 11:54:36.763 +0530	click	Close	at (52, 163)	14	on_createfile	CreateFile.script
+2018-01-12 11:54:38.118 +0530	doubleclick	Network Icon	at (39, 130)	3	on_movefile	MoveFile.script
+2018-01-12 11:54:39.244 +0530	doubleclick	Network Icon/MacBook Pro Icon	at (690, 290)	4	on_movefile	MoveFile.script
+2018-01-12 11:54:40.076 +0530	waitfor	Download	found at (641, 268)	5	on_movefile	MoveFile.script
+2018-01-12 11:54:40.185 +0530	click		at (641, 268)	6	on_movefile	MoveFile.script
+2018-01-12 11:54:41.465 +0530	rightclick	File Icon	at (36, 454)	8	on_movefile	MoveFile.script
+2018-01-12 11:54:41.894 +0530	EndTestCase		(Duration:"14.743688", Errors:"0", Exceptions:"0", StartTime:"2018-01-12 11:54:27 +0530", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2018-01-12 11:54:41.911 +0530	SUCCESS		Execution Time 0:00:14 Untitled1.script

@@ -5,6 +5,9 @@ log var1
 
 put the files of "/Users/randyhesse/Documents/Simple Examples/Files.suite/scripts/" into var2
 
+log var2
+
+
 
 put the number of items of var2 into max
 

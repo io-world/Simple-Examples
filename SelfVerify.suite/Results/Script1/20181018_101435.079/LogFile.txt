@@ -1,0 +1,5 @@
+﻿2018-10-18 10:14:35.080 -0600	START		Running Script1.script
+2018-10-18 10:14:35.151 -0600	LogSuccess		SCA is wirtten correctly	15	on_selfvalidate	SelfValidate.script
+2018-10-18 10:14:35.153 -0600	Log		YES	8	on_script1	Script1.script
+2018-10-18 10:14:35.337 -0600	EndTestCase		(Duration:"0.255227", Errors:"0", Exceptions:"0", StartTime:"2018-10-18 10:14:35 -0600", Successes:"1", TestCase:"Script1.script", Warnings:"0")
+2018-10-18 10:14:35.352 -0600	SUCCESS		Execution Time 0:00:00 Script1.script

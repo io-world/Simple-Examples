@@ -1,0 +1,14 @@
+﻿
+
+put file ResourcePath("WebFormData.csv") into var
+
+log var
+
+
+json
+
+
+
+
+
+log the  files in  (suiteinfo().resultsFolder)

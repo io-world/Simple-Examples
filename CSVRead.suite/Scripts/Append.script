@@ -1,0 +1,5 @@
+﻿put "/Users/randyhesse/Desktop/WebFormData 2.csv" into MyFileVar
+
+delete line 1 of file MyFileVar
+
+

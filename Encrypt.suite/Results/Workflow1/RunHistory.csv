@@ -1,0 +1,3 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-07-17 21:43:54.892 -0400,"Failure",0:00:00,1,0,0,"20170717_214354.892/LogFile.txt","","SenseTalk Compiler Exception -- in workflow1:\nSyntax Error at line 10: Syntax Error - can't understand [matching quote not found] at or near character 60",0
+2017-07-17 21:44:00.528 -0400,"Success",0:00:00,0,0,0,"20170717_214400.528/LogFile.txt","","",1

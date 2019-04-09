@@ -1,0 +1,17 @@
+﻿2017-06-29 10:00:23.654 -0600	START		Running index.script
+2017-06-29 10:00:23.726 -0600	typetext		[windowsKey]r	6	on_index	index.script
+2017-06-29 10:00:24.592 -0600	typetext		services.msc[returnKey]	7	on_index	index.script
+2017-06-29 10:00:25.307 -0600	moveto		at (1440, 900)	8	on_index	index.script
+2017-06-29 10:00:25.869 -0600	waitfor	Gears Icon	found at (350, 136)	9	on_index	index.script
+2017-06-29 10:00:30.197 -0600	imagefound	Windows Float	Unable to Find Image Windows Float within 3.00 seconds	12	on_index	index.script
+2017-06-29 10:00:30.789 -0600	doubleclick	Columns/Description	at (672, 108)	18	on_index	index.script
+2017-06-29 10:00:31.898 -0600	imagelocation	Columns/Name	at (365, 114)	22	on_index	index.script
+2017-06-29 10:00:31.912 -0600	typetext		S	29	on_index	index.script
+2017-06-29 10:00:34.248 -0600	readtext		(358,127,672,820)
+2017-06-29 10:00:34.249 -0600	Log		Secondary Logon\nSecure Socket Tunneling Protocol Service\nSecurity Accounts Manager\nSecurity Center\nSensor Data Service\nSensor Monitoring Service\nSensor Service\nServer\nShared PC Account Manager\nShell Hardware Detection\nSmart Card\nSmart Card Device Enumeration Service\nSmart Card Removal Policy\nSNMP Trap\nSoftware Protection\nSpot Verifier\nSSDP Discovery\nState Repository Service\nStill Image Acquisition Events\nStorage Service\nStorage Tiers Management\nSuperfetch\nSync Host_3795e\nSystem Event Notification Service\nSystem Events Broker\nTask Scheduler\nTCP/IP NetBIOS Helper\nTelephony\nThemes\nTightVNC Server\nTile Data model server\nTime Broker\nTouch Keyboard and Handwriting Panel Service\nTP AutoConnect Service\nTP VC Gateway Service\nUpdate Orchestrator Service for Windows Update	35	on_index	index.script
+2017-06-29 10:00:34.264 -0600	typetext		[pageDown]	36	on_index	index.script
+2017-06-29 10:00:36.596 -0600	readtext		(358,127,672,820)
+2017-06-29 10:00:36.597 -0600	Log		Secondary Logon\nSecure Socket Tunneling Protocol Service\nSecurity Accounts Manager\nSecurity Center\nSensor Data Service\nSensor Monitoring Service\nSensor Service\nServer\nShared PC Account Manager\nShell Hardware Detection\nSmart Card\nSmart Card Device Enumeration Service\nSmart Card Removal Policy\nSNMP Trap\nSoftware Protection\nSpot Verifier\nSSDP Discovery\nState Repository Service\nStill Image Acquisition Events\nStorage Service\nStorage Tiers Management\nSuperfetch\nSync Host_3795e\nSystem Event Notification Service\nSystem Events Broker\nTask Scheduler\nTCP/IP NetBIOS Helper\nTelephony\nThemes\nTightVNC Server\nTile Data model server\nTime Broker\nTouch Keyboard and Handwriting Panel Service\nTP AutoConnect Service\nTP VC Gateway Service\nUpdate Orchestrator Service for Windows Update	35	on_index	index.script
+2017-06-29 10:00:36.611 -0600	typetext		[pageDown]	36	on_index	index.script
+2017-06-29 10:00:36.788 -0600	EndTestCase		(Duration:"13.132354", Errors:"0", Exceptions:"0", StartTime:"2017-06-29 10:00:23 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-06-29 10:00:36.795 -0600	SUCCESS		Execution Time 0:00:13 index.script

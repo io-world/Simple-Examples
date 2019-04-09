@@ -1,3 +1,8 @@
-﻿log shell (<<
-/Applications/TestPlant/eggPlant.app/runscript ~ "/Users/randyhesse/Documents/Simple Examples/CLI.suite/Scripts/index.script" -params "Hello From Test Plant" "second Line" -CommandLineOutput YES>>)
+﻿
+/Applications/eggplant/Eggplant.app/Contents/MacOS/runscript ~ "/Users/randyhesse/Documents/Simple Examples/CLI.suite/Scripts/index.script" -params "Hello From Test Plant" "second Line" -CommandLineOutput YES >> "/Users/randyhesse/Documents/Simple Examples/CLI.suite/Scripts/Output.script"
+
+
+
+
+/Applications/eggPlant/Eggplant.app/Contents/MacOS/runscript ~ "/Users/randyhesse/Documents/Simple Examples/CLI.suite/Scripts/index2.script" -params "Hello From Test Plant" "second Line" -CommandLineOutput YES >> "/Users/randyhesse/Documents/Simple Examples/CLI.suite/Scripts/Output.script"
 

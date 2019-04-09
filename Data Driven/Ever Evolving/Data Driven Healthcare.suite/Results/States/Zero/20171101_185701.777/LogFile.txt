@@ -1,0 +1,5 @@
+﻿2017-11-01 18:57:01.787 -0600	START		Running States/Zero.script	6	on_index	Index.script<SELECTION>
+2017-11-01 18:57:01.789 -0600	Log		Initiate Zero State	4	on_states_zero	States/Zero.script
+2017-11-01 18:57:01.791 -0600	Exception	Test/A/Contacts	Could Not Open Image: Test/A/Contacts	7	on_states_zero	States/Zero.script
+2017-11-01 18:57:01.794 -0600	EndTestCase		(Duration:"0.005299", Errors:"1", Exceptions:"1", StartTime:"2017-11-01 18:57:01 -0600", Successes:"0", TestCase:"States/Zero.script", Warnings:"0")	6	on_index	Index.script<SELECTION>
+2017-11-01 18:57:01.824 -0600	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: Test/A/Contacts -- Execution Time 0:00:00 States/Zero.script	6	on_index	Index.script<SELECTION>

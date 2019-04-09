@@ -1,0 +1,8 @@
+﻿2017-02-16 15:51:14.646 -0700	START		Running Examples/Example1.script
+2017-02-16 15:51:14.724 -0700	Log		(DateofBirth:"6/14/00", FirstName:"SpongeBob", Gender:"Male", LastName:"SquarePants", MaritalStatus:"Single", MedicalRecordNumber:"101010", MiddleName:"I", Prefix:"Mr", SocialSecurityNumber:"984-56-3166")	8	on_examples_example1	Examples/Example1.script
+2017-02-16 15:51:14.726 -0700	Log		101010	9	on_examples_example1	Examples/Example1.script
+2017-02-16 15:51:14.738 -0700	Log		9	16	on_examples_example1	Examples/Example1.script
+2017-02-16 15:51:14.747 -0700	Log		Medical Record Number,Prefix,First Name,Middle Name,Last Name,Date of Birth,Social Security Number,Gender,Marital Status	17	on_examples_example1	Examples/Example1.script
+2017-02-16 15:51:14.762 -0700	Log		(222222,333333,444444,555555,666666,777777,888888,999999,101010)	20	on_examples_example1	Examples/Example1.script
+2017-02-16 15:51:15.046 -0700	EndTestCase		(Duration:"0.398759", Errors:"0", Exceptions:"0", StartTime:"2017-02-16 15:51:14 -0700", Successes:"1", TestCase:"Examples/Example1.script", Warnings:"0")
+2017-02-16 15:51:15.080 -0700	SUCCESS		Execution Time 0:00:00 Examples/Example1.script

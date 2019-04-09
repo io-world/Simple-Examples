@@ -1,0 +1,10 @@
+﻿2017-08-16 16:32:50.019 -0600	START		Running Test/B.script	20	on_index	Index.script
+2017-08-16 16:32:50.028 -0600	Log		code for Navigation for TestB 	7	on_test_b	Test/B.script
+2017-08-16 16:32:50.148 -0600	click	Test/b/history	at (266, 600)	11	on_test_b	Test/B.script
+2017-08-16 16:32:55.306 -0600	imagefound	(TEXT:"Tap the buttons")	Unable to Find Image (TEXT:"Tap the buttons")	25	on_content	
+2017-08-16 16:32:55.307 -0600	LogWarning		Text was NOT found: Tap the buttons	28	on_content	
+2017-08-16 16:32:55.477 -0600	click	Test/b/downloads	at (376, 602)	22	on_test_b	Test/B.script
+2017-08-16 16:32:55.616 -0600	imagefound	(TEXT:"is a Lie")	found at (171, 211)	25	on_content	
+2017-08-16 16:32:55.617 -0600	Log		Text was found: is a Lie	26	on_content	
+2017-08-16 16:32:55.633 -0600	EndTestCase		(Duration:"5.612307", Errors:"0", Exceptions:"0", StartTime:"2017-08-16 16:32:50 -0600", Successes:"1", TestCase:"Test/B.script", Warnings:"1")	20	on_index	Index.script
+2017-08-16 16:32:55.661 -0600	SUCCESS		Execution Time 0:00:05 Test/B.script	20	on_index	Index.script

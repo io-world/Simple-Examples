@@ -1,0 +1,13 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-10-18 08:40:53.252 -0600,"Success",0:00:00,0,0,1,"20181018_084053.252/LogFile.txt","","",1
+2018-10-18 08:41:30.748 -0600,"Success",0:00:02,0,0,1,"20181018_084130.748/LogFile.txt","","",1
+2018-10-18 08:43:06.461 -0600,"Success",0:00:00,0,0,0,"20181018_084306.461/LogFile.txt","","",1
+2018-10-18 08:43:16.420 -0600,"Success",0:00:14,0,0,1,"20181018_084316.420/LogFile.txt","","",1
+2018-10-18 08:43:47.151 -0600,"Success",0:00:07,0,0,1,"20181018_084347.151/LogFile.txt","","",1
+2018-10-18 08:44:29.938 -0600,"Success",0:00:10,0,0,1,"20181018_084429.938/LogFile.txt","","",1
+2018-10-18 08:45:42.222 -0600,"Failure",0:00:00,1,0,0,"20181018_084542.222/LogFile.txt","","SenseTalk Compiler Exception -- in master:\nSyntax Error at line 11: Syntax Error - can't understand ""trys"" at or near character 88",0
+2018-10-18 08:48:24.033 -0600,"Failure",0:00:00,1,0,0,"20181018_084824.033/LogFile.txt","","SenseTalk Compiler Exception -- in master:\nSyntax Error at line 14: Syntax Error - can't understand ""trys"" at or near character 110",0
+2018-10-18 08:48:30.249 -0600,"Failure",0:00:10,1,0,2,"20181018_084830.249/LogFile.txt","","somename -- problems",0
+2018-10-18 08:49:55.072 -0600,"Failure",0:00:11,1,0,2,"20181018_084955.072/LogFile.txt","","somename -- problems",0
+2018-10-18 08:50:17.067 -0600,"Failure",0:00:10,1,0,2,"20181018_085017.067/LogFile.txt","","Runtime Error at line 5: Image Not Found - click Error - No Image Found On Screen: ""Refresh Icon"" -- problems",0
+2018-10-18 08:51:01.781 -0600,"Failure",0:00:09,1,0,2,"20181018_085101.781/LogFile.txt","","Your Script is terrible -- problems: Runtime Error at line 5: Image Not Found - click Error - No Image Found On Screen: ""Refresh Icon""",0

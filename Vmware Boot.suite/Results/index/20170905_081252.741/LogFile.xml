@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="index.script" package="Vmware Boot.suite" timestamp="2017-09-05 08:12:52.741 -0600"
+ tests="1" successes="1" errors="0" time="0.219247">
+  <properties>
+   <property name="RunDate" value="2017-09-05 08:12:52.741 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="index.script" assertions="1" successes="1" errors="0" time="0.2179">
+  </testcase>
+ </testsuite>
+</testsuites>

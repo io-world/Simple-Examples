@@ -1,9 +1,0 @@
-﻿2016-09-23 13:26:53.804 -0600	START		Running Index.script
-2016-09-23 13:26:53.890 -0600	typetext		[windowsKey]r	1	on_index	Index.script
-2016-09-23 13:26:54.841 -0600	typetext		cmd /administrator[enter]	2	on_index	Index.script
-2016-09-23 13:26:55.791 -0600	waitfor	CMD Icon	found at (227, 223)	3	on_index	Index.script
-2016-09-23 13:26:56.071 -0600	typetext		"del C:\output.txt"[enter]	4	on_index	Index.script
-2016-09-23 13:26:57.044 -0600	typetext		dir > C:/output.txt[enter]	5	on_index	Index.script
-2016-09-23 13:26:57.047 -0600	Exception		Too Few Parameters, please use waitfor time, image1[, imageX]	6	on_index	Index.script
-2016-09-23 13:26:57.417 -0600	EndTestCase		(Duration:"3.610949", Errors:"1", Exceptions:"1", StartTime:"2016-09-23 13:26:53 -0600", Successes:"0", TestCase:"Index.script", Warnings:"0")
-2016-09-23 13:26:58.058 -0600	FAILURE	Screen_Error.png	Error Running Script Command waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX] -- Execution Time 0:00:03 Index.script

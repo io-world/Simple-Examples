@@ -1,0 +1,6 @@
+﻿2017-06-29 09:21:37.641 -0600	START		Running index.script
+2017-06-29 09:21:37.702 -0600	typetext		[windowsKey]r	1	on_index	index.script
+2017-06-29 09:21:38.574 -0600	typetext		services.msc[returnKey]	2	on_index	index.script
+2017-06-29 09:22:08.028 -0600	Exception	Gears Icon	Unable To Find Any Image On Screen "Gears Icon" within 20.00 seconds	3	on_index	index.script
+2017-06-29 09:22:08.228 -0600	EndTestCase		(Duration:"30.585677", Errors:"1", Exceptions:"1", StartTime:"2017-06-29 09:21:37 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-06-29 09:22:08.229 -0600	ABORTED		Execution Time 0:00:30 index.script

@@ -1,0 +1,12 @@
+State,Action
+Initial,Patient
+Registration,Forms
+Waiting Room,In Patient
+Oncology,Back
+Waiting Room,In Patient
+General surgery,Kidney
+General surgery,Thyroid
+General surgery,Day
+General surgery,Back
+Waiting Room,Out Patient
+Diagnostic Complete,Patient Leaves

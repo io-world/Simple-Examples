@@ -1,2 +1,30 @@
-﻿put readtable((204,273,1197,710)) into TValues
-log TValues
+﻿moveto imagelocation(image:"Show")+(100,0)
+
+
+put EveryImageLocation("Number") into AreaRange
+log item 1 of AreaRange
+
+put (item 2 of item 2 of AreaRange) -  (item 2 of item 1 of AreaRange) +10 into ChangeY
+insert imagelocation(image: "Show")+(-20,40) into Spoint1
+insert imagelocation(image: "Show")+(50,ChangeY) into Spoint2
+put (Spoint1,Spoint2) into SR
+put ReadText(SR) into NumList
+log NumList
+wait 2
+
+put the number of lines of NumList into Max
+
+repeat MAX times
+	put ImageLocation(Text:line repeatindex() of NumList, searchRectangle:SR) into PointXY
+	insert PointXY+(140,-10) into ReadSquare
+	insert PointXY+(300,10) into ReadSquare
+	put readtext(ReadSquare) into NameP
+	log NameP
+	if NameP = "Herrod Chandler" then
+		moveto PointXY+(165,-5)
+		Exit repeat
+	else
+		--
+	end if
+	put () into ReadSquare
+end repeat

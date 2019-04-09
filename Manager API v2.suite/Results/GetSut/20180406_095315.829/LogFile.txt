@@ -1,0 +1,4 @@
+﻿2018-04-06 09:53:15.830 -0600	START		Running GetSut.script
+2018-04-06 09:53:15.999 -0600	Log		(_id:"582cce9e5472610322000001", created_at:"2016-11-16T14:24:46.000-07:00", description:"", is_active:"True", manufacturer:"Windows", model:"VMware", name:"Windows 10", os:"Windows", tags:(), updated_at:"2017-07-03T20:31:31.156-06:00", version:"10")	5	on_getsut	GetSut.script
+2018-04-06 09:53:16.315 -0600	EndTestCase		(Duration:"0.483961", Errors:"0", Exceptions:"0", StartTime:"2018-04-06 09:53:15 -0600", Successes:"1", TestCase:"GetSut.script", Warnings:"0")
+2018-04-06 09:53:16.331 -0600	SUCCESS		Execution Time 0:00:00 GetSut.script

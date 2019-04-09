@@ -1,0 +1,30 @@
+﻿----------------DO Not Touch--------------------------------------
+set GD to a new "Modules/GlobalDefine"
+-------------------------------------------------------------------------
+(GD).SetupFiles "/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/PatientInformation.csv"
+(GD).SetupEnvironment "/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3/EnvironmentConfig.csv"
+-------------------------------------------------------------------------
+
+
+
+
+
+run (GD).GetUser ("4") 
+log global UserInformation
+log  global UserInformation.password
+-------------------------------------------------------------------------
+Run (GD).BuildPatient 10
+
+log  global patient
+log  global patient.MedicalRecordNumber
+
+
+
+
+-------------------------------------------------------------------------
+
+log (GD).PatientCount
+log (GD).ColumnNames
+------------------------------
+put (GD).GETALL ("Medical Record Number") into  VARS
+log VARS

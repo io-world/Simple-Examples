@@ -1,3 +1,0 @@
-﻿2017-04-12 09:16:25.604 -0600	START		Running index.script
-2017-04-12 09:16:26.384 -0600	EndTestCase		(Duration:"0.779359", Errors:"1", Exceptions:"0", StartTime:"2017-04-12 09:16:25 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2017-04-12 09:16:26.932 -0600	FAILURE	Screen_Error.png	Workbook Error Wrong file type (must be 'xls' or 'xlsx' file): /Users/randyhesse/Documents/Demos/caseBook -- Execution Time 0:00:00 index.script

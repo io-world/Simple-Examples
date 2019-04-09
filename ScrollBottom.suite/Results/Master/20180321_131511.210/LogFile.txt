@@ -1,0 +1,31 @@
+﻿2018-03-21 13:15:11.211 +0530	START		Running Master.script
+2018-03-21 13:15:11.978 +0530	imagerectangle	name	at (345,94,419,119)	4	on_master	Master.script
+2018-03-21 13:15:12.104 +0530	readtext		(205,126,539,389)
+2018-03-21 13:15:13.566 +0530	click	Next	at (1878, 441)	8	on_master	Master.script
+2018-03-21 13:15:13.567 +0530	Log		(Tiger Nixon,John Winters,Austin Cox,Charles Kelly,Amanda Satou,Brielle Williamson,Herrod Chandler,Rhona Davidson,Colleen Hurst,Sonya Frost)	12	on_master	Master.script
+2018-03-21 13:15:15.236 +0530	imagerectangle	name	at (345,94,419,119)	4	on_master	Master.script
+2018-03-21 13:15:15.341 +0530	readtext		(205,126,539,389)
+2018-03-21 13:15:16.078 +0530	click	Next	at (1878, 441)	8	on_master	Master.script
+2018-03-21 13:15:16.079 +0530	Log		(Jena Gaines,Quinn Flynn,Charde Marshall,Haley Kennedy,Tatyana Fitzpatrick,Michael Silva,Paul Byrd,Gloria Little,Bradley Greer,Dai Rios)	12	on_master	Master.script
+2018-03-21 13:15:17.740 +0530	imagerectangle	name	at (345,94,419,119)	4	on_master	Master.script
+2018-03-21 13:15:17.850 +0530	readtext		(205,126,539,389)
+2018-03-21 13:15:18.681 +0530	click	Next	at (1878, 441)	8	on_master	Master.script
+2018-03-21 13:15:18.682 +0530	Log		(Jenette Caldwell,Yuri Berry,Caesar Vance,Doris Wilder,Angelica Ramos,Gavin Joyce,Jennifer Chang,Brenden Wagner,Fiona Green,Shou Itou)	12	on_master	Master.script
+2018-03-21 13:15:20.389 +0530	imagerectangle	name	at (345,94,419,119)	4	on_master	Master.script
+2018-03-21 13:15:20.518 +0530	readtext		(205,126,539,389)
+2018-03-21 13:15:21.277 +0530	click	Next	at (1878, 441)	8	on_master	Master.script
+2018-03-21 13:15:21.278 +0530	Log		(Michelle House,Suki Burks,Prescott Bartlett,Gavin Cortez,Martena Mccray,Unity Butler,Howard Hatfield,Hope Fuentes,Vivian Harrell,Timothy Mooney)	12	on_master	Master.script
+2018-03-21 13:15:22.939 +0530	imagerectangle	name	at (345,94,419,119)	4	on_master	Master.script
+2018-03-21 13:15:23.054 +0530	readtext		(205,126,539,389)
+2018-03-21 13:15:23.829 +0530	click	Next	at (1878, 441)	8	on_master	Master.script
+2018-03-21 13:15:23.831 +0530	Log		(Jackson Bradshaw,Olivia Liang,Bruno Nash,Sakura Yamamoto,Thor Walton,Finn Camacho,Serge Baldwin,Zenaida Frank,Zorita Serrano,Jennifer Acosta)	12	on_master	Master.script
+2018-03-21 13:15:25.532 +0530	imagerectangle	name	at (345,94,419,119)	4	on_master	Master.script
+2018-03-21 13:15:25.645 +0530	readtext		(205,126,539,389)
+2018-03-21 13:15:27.138 +0530	click	Next	at (1878, 360)	8	on_master	Master.script
+2018-03-21 13:15:27.139 +0530	Log		(Cara Stevens,Hermione Butler,Lael Greer,Jonas Alexander,Shad Decker,Michael Bruce,Donna Snider,Name)	12	on_master	Master.script
+2018-03-21 13:15:28.802 +0530	imagerectangle	name	at (345,94,419,119)	4	on_master	Master.script
+2018-03-21 13:15:28.907 +0530	readtext		(205,126,539,389)
+2018-03-21 13:15:30.354 +0530	click	Next	at (1878, 360)	8	on_master	Master.script
+2018-03-21 13:15:30.355 +0530	LogWarning		We can not scroll anymore	14	on_master	Master.script
+2018-03-21 13:15:34.647 +0530	EndTestCase		(Duration:"23.434599", Errors:"0", Exceptions:"0", StartTime:"2018-03-21 13:15:11 +0530", Successes:"1", TestCase:"Master.script", Warnings:"1")
+2018-03-21 13:15:34.672 +0530	SUCCESS		Execution Time 0:00:23 Master.script

@@ -1,1 +1,0 @@
-2016-08-31 09:05:58.243 -0600,Failure,0:00:01,1,0,0,20160831_090558.243/LogFile.txt,"","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'numeTwo' and '2'",0

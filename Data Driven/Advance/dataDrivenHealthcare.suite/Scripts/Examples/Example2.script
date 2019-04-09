@@ -1,0 +1,31 @@
+﻿----------------DO Not Touch--------------------------------------
+set GD to a new "GlobalDefine"
+(GD).SetupFiles
+-------------------------------------------------------------------------
+
+
+
+
+repeat (GD).PatientCount times
+	
+	Run (GD).BuildPatient repeatindex()
+	log global Patient
+	log global patient.MedicalRecordNumber
+	
+	
+end repeat
+
+
+
+
+
+
+repeat 4 times
+	
+	Run (GD).BuildPatient 2
+	log global Patient
+	log global patient.MedicalRecordNumber
+	
+	
+end repeat
+

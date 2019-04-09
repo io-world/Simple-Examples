@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="OpenWebPage">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2016-09-07 16:35:33 -0600</FirstRun>
+  <LastRun>2016-09-07 16:36:42 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="index">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>79</NumberOfRuns>
+  <NumberOfFails>13</NumberOfFails>
+  <FirstRun>2016-08-29 13:13:54 -0600</FirstRun>
+  <LastRun>2016-09-07 16:37:46 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+</statistics>

@@ -1,0 +1,4 @@
+﻿2017-08-16 10:39:16.249 -0600	START		Running Examples/Help.script
+2017-08-16 10:39:16.312 -0600	Log		"BuildPatient" take in a number and spits out a Proertylist of Patient Information	3	on_help	Modules/GlobalDefine.script
+2017-08-16 10:39:16.681 -0600	EndTestCase		(Duration:"0.43028", Errors:"0", Exceptions:"0", StartTime:"2017-08-16 10:39:16 -0600", Successes:"1", TestCase:"Examples/Help.script", Warnings:"0")
+2017-08-16 10:39:16.703 -0600	SUCCESS		Execution Time 0:00:00 Examples/Help.script

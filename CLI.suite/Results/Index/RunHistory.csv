@@ -1,2 +1,6 @@
 ﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
-2016-09-29 14:53:55.770 -0600,"Success",0:00:04,0,0,0,"20160929_145355.770/LogFile.txt","","",1
+2017-07-11 08:51:06.870 -0600,"Failure",0:00:00,1,0,0,"20170711_085106.870/LogFile.txt","","Connection Failed -- Unable to connect to Server:Windows 2012 on port:0\nError resolving host Windows 2012\n",0
+2017-07-11 08:51:35.665 -0600,"Success",0:00:05,0,0,0,"20170711_085135.665/LogFile.txt","","",1
+2018-03-17 17:44:32.367 +0530,"Success",0:00:05,0,0,0,"20180317_174432.367/LogFile.txt","","",1
+2018-03-17 17:46:05.606 +0530,"Success",0:00:05,0,0,0,"20180317_174605.606/LogFile.txt","","",1
+2018-11-30 14:46:51.368 -0700,"Success",0:00:05,0,0,0,"20181130_144651.368/LogFile.txt","","",1

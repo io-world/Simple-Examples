@@ -1,0 +1,12 @@
+﻿2017-11-01 18:53:25.010 -0600	START		Running Test/A.script
+2017-11-01 18:53:25.073 -0600	Log		code for Navigation for TestA 	6	on_test_a	Test/A.script
+2017-11-01 18:53:25.240 -0600	click	Contacts/Buttons/Contacts	at (53, 607)	9	on_test_a	Test/A.script
+2017-11-01 18:53:26.521 -0600	imagefound	(TEXT:"Contacts/Buttons/Contacts/Blue")	Unable to Find Image (TEXT:"Contacts/Buttons/Contacts/Blue")	25	on_content	Modules/Verify.script
+2017-11-01 18:53:26.522 -0600	LogWarning		Text was NOT found: Contacts/Buttons/Contacts/Blue	28	on_content	Modules/Verify.script
+2017-11-01 18:53:28.794 -0600	imagefound	(TEXT:"Contacts/Buttons/Contacts/gray")	Unable to Find Image (TEXT:"Contacts/Buttons/Contacts/gray")	25	on_content	Modules/Verify.script
+2017-11-01 18:53:28.795 -0600	LogWarning		Text was NOT found: Contacts/Buttons/Contacts/gray	28	on_content	Modules/Verify.script
+2017-11-01 18:53:28.915 -0600	imagefound	(TEXT:"Tap the buttons")	found at (95, 242)	25	on_content	Modules/Verify.script
+2017-11-01 18:53:28.915 -0600	Log		Text was found: Tap the buttons	26	on_content	Modules/Verify.script
+2017-11-01 18:53:28.930 -0600	Exception	Test/A/Favorites/Favorites 01	Could Not Open Image: Test/A/Favorites/Favorites 01	24	on_test_a	Test/A.script
+2017-11-01 18:53:29.108 -0600	EndTestCase		(Duration:"4.097612", Errors:"1", Exceptions:"1", StartTime:"2017-11-01 18:53:25 -0600", Successes:"0", TestCase:"Test/A.script", Warnings:"2")
+2017-11-01 18:53:29.132 -0600	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: Test/A/Favorites/Favorites 01 -- Execution Time 0:00:04 Test/A.script

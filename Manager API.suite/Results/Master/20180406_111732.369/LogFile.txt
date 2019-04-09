@@ -1,0 +1,7 @@
+﻿2018-04-06 11:17:32.371 -0600	START		Running Master.script
+2018-04-06 11:17:32.769 -0600	Log		570c0a66547261080b00000b	8	on_master	Master.script
+2018-04-06 11:17:32.771 -0600	Log		582cce9e5472610322000001	9	on_master	Master.script
+2018-04-06 11:17:32.776 -0600	Log		The User id os570c0a66547261080b00000b	2	function_makeresveration	ePM_API_Class.script
+2018-04-06 11:17:33.202 -0600	Log		5902	16	on_master	Master.script
+2018-04-06 11:17:33.426 -0600	EndTestCase		(Duration:"1.053729", Errors:"0", Exceptions:"0", StartTime:"2018-04-06 11:17:32 -0600", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-04-06 11:17:33.444 -0600	SUCCESS		Execution Time 0:00:01 Master.script

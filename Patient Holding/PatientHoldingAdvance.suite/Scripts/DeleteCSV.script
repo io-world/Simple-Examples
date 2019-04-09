@@ -1,0 +1,13 @@
+﻿params CSVName
+
+
+
+
+
+Try
+	
+	Delete file ResourcePath(CSVName &".csv")
+Catch 
+Log "File does not exist"
+
+End try

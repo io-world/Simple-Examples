@@ -1,5 +1,0 @@
-﻿2016-12-15 10:43:38.723 -0700	START		Running index.script
-2016-12-15 10:43:39.011 -0700	imagefound	Google	found at (698, 306)	1	on_index	index.script
-2016-12-15 10:43:39.031 -0700	Log		Image is on the Screen	2	on_index	index.script
-2016-12-15 10:43:39.290 -0700	EndTestCase		(Duration:"0.565138", Errors:"1", Exceptions:"0", StartTime:"2016-12-15 10:43:38 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-12-15 10:43:39.559 -0700	FAILURE	Screen_Error.png	STFileException Failed to write to file /Users/randyhesse/Desktop -- Execution Time 0:00:00 index.script

@@ -1,0 +1,30 @@
+﻿--Experiment
+
+set GD to a new "Modules/GlobalDefine"
+set MV to a new "Modules/Verify"
+Run (GD).SetupFiles
+Run (GD).SetupEnvironment
+
+Run "Libraries/SUTConnect"
+
+
+RunWithNewResults "States/Zero" 
+------------------------------------------------------------------------------------
+
+repeat (GD).GetUserCount
+	RunWithNewResults "Libraries/Login" , (GD).GetUser (repeatindex()+1)
+	------------------------------------------------------------------------------------
+	repeat (GD).PatientCount times
+		Run  "Test/A" MV
+		Run "Test/B" MV
+		RunWithNewResults "Test/NewPatient", (GD)."BuildPatient"  (repeatindex()+1)
+	end repeat
+	------------------------------------------------------------------------------------
+	RunWithNewResults "Libraries/Logout"
+end repeat
+------------------------------------------------------------------------------------
+RunWithNewResults "States/Zero"
+
+
+Run "States/Report"
+

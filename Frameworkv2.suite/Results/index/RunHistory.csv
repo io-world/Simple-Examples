@@ -1,6 +1,0 @@
-﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
-2016-09-28 18:12:25.225 -0600,"Success",0:00:00,0,0,0,"20160928_181225.225/LogFile.txt","","",1
-2016-09-28 18:28:41.298 -0600,"Success",0:00:00,0,0,0,"20160928_182841.298/LogFile.txt","","",1
-2016-09-28 18:32:07.068 -0600,"Success",0:00:01,0,0,0,"20160928_183207.068/LogFile.txt","","",1
-2016-09-28 18:40:17.620 -0600,"Failure",0:00:01,1,0,0,"20160928_184017.620/LogFile.txt","","Image Not Found -- imagefound Error - Error Computing Rectangle: (\n    0,\n    0,\n    ""(1440,900)""\n)",0
-2016-12-07 14:34:57.757 -0500,"Success",0:00:11,0,0,0,"20161207_143457.757/LogFile.txt","","",1

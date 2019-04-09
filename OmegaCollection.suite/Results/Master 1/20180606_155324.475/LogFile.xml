@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Master_script" package="OmegaCollection.suite" timestamp="2018-06-06 15:53:24.475 -0500"
+ tests="1"  failures="1" errors="1" time="10.201126">
+  <properties>
+   <property name="RunDate" value="2018-06-06 15:53:24.475 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Master.script" assertions="1" status="error"  time="10.199418">
+    <failure type="FAILURE" message="Error Running Script Command capturescreen Error - Error Computing Rectangle: (\n    1001,\n    615,\n    1048,\n    662\n) -- Execution Time 0:00:10 Master.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;Chrome&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

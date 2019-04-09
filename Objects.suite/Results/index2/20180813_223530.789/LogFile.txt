@@ -1,0 +1,4 @@
+﻿2018-08-13 22:35:30.790 -0400	START		Running index2.script
+2018-08-13 22:35:30.865 -0400	Log		(age:"21", eyecolor:"brown", firstname:"John", height:"20 centimeters", lastename:"doe", sex:"male")	13	on_index2	index2.script
+2018-08-13 22:35:31.165 -0400	EndTestCase		(Duration:"0.372934", Errors:"1", Exceptions:"0", StartTime:"2018-08-13 22:35:30 -0400", Successes:"0", TestCase:"index2.script", Warnings:"0")
+2018-08-13 22:35:31.184 -0400	FAILURE		STUnknownMessage ERROR: No Such Function: 'age' -- Execution Time 0:00:00 index2.script

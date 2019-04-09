@@ -1,0 +1,10 @@
+﻿put new "Utilities/Script2" into HLO
+
+repeat with each item of the files in (suiteinfo().scriptsFolder &"/Utilities/")
+	put it
+	insert "Utilities/" & it into HLO's helpers
+end repeat
+
+
+
+(HLO).five

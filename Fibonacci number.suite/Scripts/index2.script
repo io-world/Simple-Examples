@@ -1,0 +1,15 @@
+﻿
+
+me.foo (0,1)
+
+
+
+on foo varList
+	
+	log last item of Varlist
+	push sum of Varlist  into Varlist
+	pop  item 1 of Varlist
+	
+	
+	me.foo (varList)	
+end foo

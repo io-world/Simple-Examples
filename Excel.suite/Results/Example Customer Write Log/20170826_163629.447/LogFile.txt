@@ -1,0 +1,4 @@
+﻿2017-08-26 16:36:29.449 -0600	START		Running Example Customer Write Log.script
+2017-08-26 16:36:37.548 -0600	Log		(08/26/17,04:36 PM,Error1,08/26/17,04:36 PM,Error2,08/26/17,04:36 PM,Error2)	24	on_example_customer_write_log	Example Customer Write Log.script
+2017-08-26 16:36:37.728 -0600	EndTestCase		(Duration:"8.278095", Errors:"0", Exceptions:"0", StartTime:"2017-08-26 16:36:29 -0600", Successes:"1", TestCase:"Example Customer Write Log.script", Warnings:"0")
+2017-08-26 16:36:37.737 -0600	SUCCESS		Execution Time 0:00:08 Example Customer Write Log.script

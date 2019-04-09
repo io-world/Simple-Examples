@@ -1,0 +1,24 @@
+﻿on YourOrders
+	//Click "Amazon/Help/YourOrders"
+	chrome.loading "YourOrders"
+end YourOrders
+
+on ReturnandRefunds
+	Click "Amazon/Help/ReturnsRefunds"
+end ReturnandRefunds
+
+on DeviceSupport
+	Click "Amazon/Help/DeviceSupport"
+end DeviceSupport
+
+on ManagePrime
+	Click "Amazon/Help/ManagePrime"
+end ManagePrime
+
+on PaymentandGiftCard
+	Click "Amazon/Help/PaymentsGiftCards"
+end PaymentandGiftCard
+
+on AccountSettings
+	Click "Amazon/Help/AccountSettings"
+end AccountSettings

@@ -1,4 +1,0 @@
-﻿2017-05-04 10:14:31.886 -0500	START		Running Untitled.script
-2017-05-04 10:14:34.296 -0500	click	(TEXT:"javascript")	at (508, 216)	1	on_untitled	Untitled.script
-2017-05-04 10:14:34.622 -0500	EndTestCase		(Duration:"2.734405", Errors:"0", Exceptions:"0", StartTime:"2017-05-04 10:14:31 -0500", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
-2017-05-04 10:14:34.631 -0500	SUCCESS		Execution Time 0:00:02 Untitled.script

@@ -1,0 +1,11 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-11-30 14:51:00.992 -0700,"Success",0:00:00,0,0,0,"20181130_145100.992/LogFile.txt","","",1
+2018-11-30 14:51:51.120 -0700,"Failure",0:00:00,1,0,0,"20181130_145151.120/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'username'",0
+2018-11-30 14:52:44.261 -0700,"Failure",0:00:00,1,0,0,"20181130_145244.261/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'username'",0
+2018-11-30 14:55:11.469 -0700,"Failure",0:00:00,1,0,0,"20181130_145511.469/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'username'",0
+2018-11-30 14:55:50.922 -0700,"Failure",0:00:00,1,0,0,"20181130_145550.922/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'username'",0
+2018-11-30 14:56:30.122 -0700,"Failure",0:00:00,1,0,0,"20181130_145630.122/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'username'",0
+2018-11-30 14:57:11.057 -0700,"Failure",0:00:00,1,0,0,"20181130_145711.057/LogFile.txt","","STUnknownMessage -- ERROR: 'params' was called as a Command, but is only available as a Function",0
+2018-12-03 09:52:04.996 -0700,"Failure",0:00:00,1,0,0,"20181203_095204.996/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'username'",0
+2018-12-03 09:54:19.630 -0700,"Failure",0:00:00,1,0,0,"20181203_095419.630/LogFile.txt","","SRUN_InvalidValueExpr -- Unable to take value of expression 'username:""John"",password:""go data""' (reason: (null))",0
+2018-12-03 09:58:38.291 -0700,"Failure",0:00:00,1,0,0,"20181203_095838.291/LogFile.txt","","SRUN_InvalidValueExpr -- Unable to take value of expression 'username:""John"",password:""go data""' (reason: (null))",0

@@ -1,0 +1,30 @@
+﻿
+
+
+
+
+put new "BAR" with (new "FOO") into SC
+(SC).setname "Rabbit"
+log (SC).DisplayName 
+log (SC).Reed
+
+------------------------------------------------------------------------------
+
+
+put new "Foo" with (accountName:"Donkey") into SC
+log (SC).accountName
+log (SC).logins
+
+
+
+------------------------------------------------------------------------------
+
+put new "bar" into BA
+log (BA).anotherstatus
+
+
+------------------------------------------------------------------------------
+
+put new "Baz" into BA
+(BA).sayHello
+log (BA).var1

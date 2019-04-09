@@ -1,0 +1,10 @@
+﻿
+
+
+on EPAIAction image
+	log "Clicking on:"&& image
+	click "Amazon/Home/" & image
+	wait 1
+	waitfor 10, "Chrome/Refresh Icon"
+	click "Chrome/Back"
+end EPAIAction

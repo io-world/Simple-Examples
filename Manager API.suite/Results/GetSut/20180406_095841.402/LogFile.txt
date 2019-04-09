@@ -1,0 +1,4 @@
+﻿2018-04-06 09:58:41.403 -0600	START		Running GetSut.script
+2018-04-06 09:58:41.682 -0600	Log		Windows 10:582cce9e5472610322000001	11	on_getsut	GetSut.script
+2018-04-06 09:58:42.027 -0600	EndTestCase		(Duration:"0.623012", Errors:"0", Exceptions:"0", StartTime:"2018-04-06 09:58:41 -0600", Successes:"1", TestCase:"GetSut.script", Warnings:"0")
+2018-04-06 09:58:42.043 -0600	SUCCESS		Execution Time 0:00:00 GetSut.script

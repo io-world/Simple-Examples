@@ -1,0 +1,34 @@
+﻿put (last item of ScriptResults("index")).logfile into LastRunPath
+log LastRunPath
+
+
+
+put file LastRunPath into TextDump
+
+
+
+
+log TextDump
+
+
+
+put the number of lines of MyFileVar into Max
+
+repeat max times
+	
+	log line repeatindex() of MyFileVar
+	
+end repeat
+
+
+log suiteinfo()
+
+
+log line 2 of MyFileVar
+
+
+--log ScriptResults("index")
+
+
+
+--log ScriptResults()

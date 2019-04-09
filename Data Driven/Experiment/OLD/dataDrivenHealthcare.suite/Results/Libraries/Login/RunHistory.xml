@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Libraries/Login">
+ <run>
+  <RunDate>2017-07-03 13:59:41.341 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.897779</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_135941.341/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-03 14:00:16.784 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.556964</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_140016.784/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

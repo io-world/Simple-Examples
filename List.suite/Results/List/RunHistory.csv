@@ -1,0 +1,5 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-06-27 08:46:32.533 -0600,"Success",0:00:00,0,0,0,"20170627_084632.533/LogFile.txt","","",1
+2017-07-18 22:35:50.044 -0400,"Success",0:00:00,0,0,0,"20170718_223550.044/LogFile.txt","","",1
+2019-04-01 14:07:16.045 -0600,"Failure",0:00:00,1,0,0,"20190401_140716.045/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'chips'.",0
+2019-04-01 14:07:44.180 -0600,"Failure",0:00:00,1,0,0,"20190401_140744.180/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'index'",0

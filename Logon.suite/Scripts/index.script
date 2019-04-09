@@ -1,0 +1,11 @@
+﻿
+put encodeText("Super Secret Password", "KeytoUse") into var
+log var
+
+
+log DecodeText(var,"KeytoUse")
+
+
+TypeText DecodeText(var,"KeytoUse")
+
+

@@ -1,5 +1,0 @@
-﻿2016-08-31 08:59:49.188 -0600	START		Running index.script
-2016-08-31 08:59:49.358 -0600	Log		(4,5)	4	on_subtractnum	Library.script
-2016-08-31 08:59:49.421 -0600	Log		11	4	on_index	index.script
-2016-08-31 08:59:50.172 -0600	EndTestCase		(Duration:"0.982682", Errors:"0", Exceptions:"0", StartTime:"2016-08-31 08:59:49 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
-2016-08-31 08:59:50.181 -0600	SUCCESS		Execution Time 0:00:00 index.script

@@ -1,0 +1,3 @@
+﻿2018-03-14 16:13:12.738 +0530	START		Running Advance.script
+2018-03-14 16:13:13.554 +0530	EndTestCase		(Duration:"0.814413", Errors:"0", Exceptions:"0", StartTime:"2018-03-14 16:13:12 +0530", Successes:"1", TestCase:"Advance.script", Warnings:"0")
+2018-03-14 16:13:13.571 +0530	SUCCESS		Execution Time 0:00:00 Advance.script

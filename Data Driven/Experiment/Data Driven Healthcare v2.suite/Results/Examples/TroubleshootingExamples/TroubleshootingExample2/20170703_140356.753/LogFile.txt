@@ -1,0 +1,12 @@
+﻿2017-07-03 14:03:56.754 -0600	START		Running Examples/TroubleshootingExamples/TroubleshootingExample2.script
+2017-07-03 14:03:56.858 -0600	Log			9	on_examples_troubleshootingexamples_troubleshootingexample2	Examples/TroubleshootingExamples/TroubleshootingExample2.script
+2017-07-03 14:03:56.860 -0600	Log			10	on_examples_troubleshootingexamples_troubleshootingexample2	Examples/TroubleshootingExamples/TroubleshootingExample2.script
+2017-07-03 14:03:56.862 -0600	Log			11	on_examples_troubleshootingexamples_troubleshootingexample2	Examples/TroubleshootingExamples/TroubleshootingExample2.script
+2017-07-03 14:03:56.863 -0600	Log			12	on_examples_troubleshootingexamples_troubleshootingexample2	Examples/TroubleshootingExamples/TroubleshootingExample2.script
+2017-07-03 14:03:56.865 -0600	Log			13	on_examples_troubleshootingexamples_troubleshootingexample2	Examples/TroubleshootingExamples/TroubleshootingExample2.script
+2017-07-03 14:03:56.867 -0600	Log			14	on_examples_troubleshootingexamples_troubleshootingexample2	Examples/TroubleshootingExamples/TroubleshootingExample2.script
+2017-07-03 14:03:56.869 -0600	Log			15	on_examples_troubleshootingexamples_troubleshootingexample2	Examples/TroubleshootingExamples/TroubleshootingExample2.script
+2017-07-03 14:03:56.871 -0600	Log			16	on_examples_troubleshootingexamples_troubleshootingexample2	Examples/TroubleshootingExamples/TroubleshootingExample2.script
+2017-07-03 14:03:56.873 -0600	typetext			19	on_examples_troubleshootingexamples_troubleshootingexample2	Examples/TroubleshootingExamples/TroubleshootingExample2.script
+2017-07-03 14:03:57.181 -0600	EndTestCase		(Duration:"0.426576", Errors:"0", Exceptions:"0", StartTime:"2017-07-03 14:03:56 -0600", Successes:"1", TestCase:"Examples/TroubleshootingExamples/TroubleshootingExample2.script", Warnings:"0")
+2017-07-03 14:03:57.209 -0600	SUCCESS		Execution Time 0:00:00 Examples/TroubleshootingExamples/TroubleshootingExample2.script

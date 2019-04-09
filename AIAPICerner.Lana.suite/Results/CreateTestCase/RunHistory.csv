@@ -1,0 +1,10 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-08-22 14:38:50.583 -0600,"Success",0:00:00,0,0,0,"20180822_143850.583/LogFile.txt","","",1
+2018-08-22 14:46:18.195 -0600,"Failure",0:00:00,1,0,0,"20180822_144618.195/LogFile.txt","","Workbook Error -- Worksheet Results doesn't exist",0
+2018-08-22 14:47:03.234 -0600,"Failure",0:00:00,1,0,0,"20180822_144703.234/LogFile.txt","","Workbook Error -- Worksheet Results doesn't exist",0
+2018-08-22 14:47:23.481 -0600,"Success",0:00:01,0,0,0,"20180822_144723.481/LogFile.txt","","",1
+2018-08-22 14:47:53.707 -0600,"Success",0:00:00,0,0,0,"20180822_144753.707/LogFile.txt","","",1
+2018-08-22 14:59:45.461 -0600,"Success",0:00:01,0,0,0,"20180822_145945.461/LogFile.txt","","",1
+2018-08-22 15:00:36.766 -0600,"Success",0:00:01,0,0,0,"20180822_150036.766/LogFile.txt","","",1
+2018-08-22 15:02:37.823 -0600,"Success",0:00:01,0,0,0,"20180822_150237.823/LogFile.txt","","",1
+2018-08-22 15:02:54.090 -0600,"Success",0:00:01,0,0,0,"20180822_150254.090/LogFile.txt","","",1

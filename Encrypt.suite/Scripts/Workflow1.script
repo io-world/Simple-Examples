@@ -1,0 +1,12 @@
+﻿
+
+
+Log " this will do something"
+
+
+repeat 10 times
+	
+	
+	log "yup"
+	
+end repeat

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Libraries/Logout">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-05-04 15:06:38 -0500</FirstRun>
+  <LastRun>2017-05-04 15:06:38 -0500</LastRun>
+  <TotalTimeOnSuccess>0.011415</TotalTimeOnSuccess>
+ </script>
+ <script name="Index">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-05-04 15:04:45 -0500</FirstRun>
+  <LastRun>2017-05-04 15:04:45 -0500</LastRun>
+  <TotalTimeOnSuccess>113.841353</TotalTimeOnSuccess>
+ </script>
+ <script name="Test/NewPatient">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>9</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-05-04 15:05:00 -0500</FirstRun>
+  <LastRun>2017-05-04 15:06:38 -0500</LastRun>
+  <TotalTimeOnSuccess>0.176481</TotalTimeOnSuccess>
+ </script>
+ <script name="Libraries/Login">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-05-04 10:29:57 -0500</FirstRun>
+  <LastRun>2017-05-04 15:04:46 -0500</LastRun>
+  <TotalTimeOnSuccess>3.104925</TotalTimeOnSuccess>
+ </script>
+ <script name="States/Zero">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-05-04 10:29:57 -0500</FirstRun>
+  <LastRun>2017-05-04 15:06:38 -0500</LastRun>
+  <TotalTimeOnSuccess>1.111930</TotalTimeOnSuccess>
+ </script>
+</statistics>

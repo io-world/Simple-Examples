@@ -1,8 +1,0 @@
-﻿2016-08-31 09:12:25.967 -0600	START		Running Library.script
-2016-08-31 09:12:26.153 -0600	Log		-1	3	on_subtractnum	Library.script
-2016-08-31 09:12:26.211 -0600	Log		11	5	on_library	Library.script
-2016-08-31 09:12:26.280 -0600	Log		Answer from GenericNumb 9	5	on_genericnumb	Library.script
-2016-08-31 09:12:26.370 -0600	Log		Answer from GenericNumb 9	5	function_genericnumb	Library.script
-2016-08-31 09:12:26.385 -0600	Log		Return from GenericNumber -5	9	on_library	Library.script
-2016-08-31 09:12:27.199 -0600	EndTestCase		(Duration:"1.230751", Errors:"0", Exceptions:"0", StartTime:"2016-08-31 09:12:25 -0600", Successes:"1", TestCase:"Library.script", Warnings:"0")
-2016-08-31 09:12:27.207 -0600	SUCCESS		Execution Time 0:00:01 Library.script

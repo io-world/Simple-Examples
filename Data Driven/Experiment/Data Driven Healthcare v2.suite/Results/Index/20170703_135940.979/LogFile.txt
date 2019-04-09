@@ -1,0 +1,10 @@
+﻿2017-07-03 13:59:40.980 -0600	START		Running Index.script
+2017-07-03 13:59:41.106 -0600	connect		Tutorial Connection:(null)	4	on_libraries_sutconnect	Libraries/SUTConnect.script
+2017-07-03 13:59:41.210 -0600	Log		You are Connect	13	on_libraries_sutconnect	Libraries/SUTConnect.script
+2017-07-03 13:59:41.213 -0600	Log		Connection Information(Availability:"Active", Bonjour:"False", ColorDepth:"32", Connected:"True", Name:"Tutorial Connection", PortNum:"5900", Reverse:"False", ScreenSize:(427,640), ServerID:"TutorialSUT", Status:"Connected", Type:"vnc", Visible:"True")	14	on_libraries_sutconnect	Libraries/SUTConnect.script
+2017-07-03 13:59:41.249 -0600	runwithnewresults		Zero.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Experiment/dataDrivenHealthcare.suite/Results/States/Zero/20170703_135941.248/LogFile.txt)	11	on_index	Index.script
+2017-07-03 13:59:41.342 -0600	runwithnewresults		Login.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Experiment/dataDrivenHealthcare.suite/Results/Libraries/Login/20170703_135941.341/LogFile.txt)	15	on_index	Index.script
+2017-07-03 13:59:42.285 -0600	Log		code for Navigation for TestA 	6	on_test_a	Test/A.script
+2017-07-03 13:59:42.287 -0600	Exception	Test/A/Contacts	Could Not Open Image: Test/A/Contacts	9	on_test_a	Test/A.script
+2017-07-03 13:59:42.542 -0600	EndTestCase		(Duration:"1.560883", Errors:"2", Exceptions:"2", StartTime:"2017-07-03 13:59:40 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2017-07-03 13:59:42.598 -0600	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: Test/A/Contacts -- Execution Time 0:00:01 Index.script

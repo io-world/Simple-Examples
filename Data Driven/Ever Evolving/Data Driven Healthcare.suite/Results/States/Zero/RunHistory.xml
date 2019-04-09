@@ -1,0 +1,147 @@
+﻿<?xml version="1.0"?>
+<runHistory script="States/Zero">
+ <run>
+  <RunDate>2017-07-03 13:59:41.248 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.009254</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170703_135941.248/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: Test/A/Contacts</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-03 14:00:16.582 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.167066</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_140016.582/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-11 09:14:49.802 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.187405</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170711_091449.802/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-14 09:19:16.041 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.164471</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170714_091916.041/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-14 10:51:05.328 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.227333</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170714_105105.328/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-16 16:27:30.531 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.177335</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170816_162730.531/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-16 16:34:59.974 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.548655</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170816_163459.974/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-18 10:48:33.925 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.122464</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170818_104833.925/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-11-01 18:56:43.424 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.012159</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20171101_185643.424/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: Test/A/Contacts</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-11-01 18:57:01.777 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.016038</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20171101_185701.777/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: Test/A/Contacts</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-11-01 18:58:11.242 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.142923</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20171101_185811.242/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-11-01 19:06:30.005 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.416754</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20171101_190630.005/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

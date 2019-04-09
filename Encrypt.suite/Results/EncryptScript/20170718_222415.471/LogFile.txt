@@ -1,0 +1,3 @@
+﻿2017-07-18 22:24:15.472 -0400	START		Running EncryptScript.script
+2017-07-18 22:24:15.711 -0400	EndTestCase		(Duration:"0.23762", Errors:"0", Exceptions:"0", StartTime:"2017-07-18 22:24:15 -0400", Successes:"1", TestCase:"EncryptScript.script", Warnings:"0")
+2017-07-18 22:24:15.719 -0400	SUCCESS		Execution Time 0:00:00 EncryptScript.script

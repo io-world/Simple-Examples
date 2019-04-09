@@ -1,38 +1,170 @@
 ﻿<?xml version="1.0"?>
 <runHistory script="Example5">
  <run>
-  <RunDate>2017-05-23 15:50:24.748 -0600</RunDate>
+  <RunDate>2017-07-03 11:37:34.998 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>0.341398</Duration>
+  <Duration>0.335508</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20170523_155024.748/LogFile.txt</LogFile>
+  <LogFile>20170703_113734.998/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
  <run>
-  <RunDate>2017-05-23 15:50:45.420 -0600</RunDate>
+  <RunDate>2017-08-29 09:57:42.146 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>0.259494</Duration>
+  <Duration>0.187053</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20170523_155045.420/LogFile.txt</LogFile>
+  <LogFile>20170829_095742.146/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
  <run>
-  <RunDate>2017-05-23 15:52:09.647 -0600</RunDate>
+  <RunDate>2017-08-29 10:30:39.614 -0600</RunDate>
   <Status>Success</Status>
-  <Duration>0.172851</Duration>
+  <Duration>0.208664</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
-  <LogFile>20170523_155209.647/LogFile.txt</LogFile>
+  <LogFile>20170829_103039.614/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-29 10:32:38.764 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.211128</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170829_103238.764/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STTableError -- Value can&#x27;t become a database table: results</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-29 10:33:06.571 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.194954</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170829_103306.571/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STTableError -- Value can&#x27;t become a database table: results</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-29 10:33:18.076 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.204735</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170829_103318.076/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-29 10:33:35.367 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.229134</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170829_103335.367/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-29 10:33:42.374 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.216851</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170829_103342.374/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-29 10:33:58.829 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.215406</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170829_103358.829/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-09-12 09:49:14.813 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.351651</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170912_094914.813/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-09-12 09:49:42.623 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.314943</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170912_094942.623/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-09-12 09:49:46.636 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.308033</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170912_094946.636/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-09-12 09:49:58.015 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.316758</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170912_094958.015/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-09-12 09:50:08.409 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.328629</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170912_095008.409/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>

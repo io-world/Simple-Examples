@@ -1,0 +1,5 @@
+﻿2019-04-01 14:07:16.046 -0600	START		Running List.script
+2019-04-01 14:07:16.170 -0600	Log		bananas	4	on_list	List.script
+2019-04-01 14:07:16.173 -0600	Log		chips	9	on_list	List.script
+2019-04-01 14:07:16.587 -0600	EndTestCase		(Duration:"0.539932", Errors:"1", Exceptions:"0", StartTime:"2019-04-01 14:07:16 -0600", Successes:"0", TestCase:"List.script", Warnings:"0")
+2019-04-01 14:07:17.661 -0600	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got 'chips'. -- Execution Time 0:00:00 List.script

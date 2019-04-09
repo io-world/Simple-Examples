@@ -1,4 +1,0 @@
-﻿2016-12-19 21:50:35.308 -0800	START		Running Test.script	20	on_read6	Read6.script
-2016-12-19 21:50:35.341 -0800	Log		(Date_of_Birth:"3/16/14", First_Name:"Carrie", Gender:"Female", Last_Name:"Underwood", Marital_Status:"Married", Medical_Record_Number:"333333", Middle_Name:"", Prefix:"Mrs", Social_Security_Number:"583-00-6387")	4	on_test	Test.script
-2016-12-19 21:50:35.343 -0800	EndTestCase		(Duration:"0.033843", Errors:"0", Exceptions:"0", StartTime:"2016-12-19 21:50:35 -0800", Successes:"1", TestCase:"Test.script", Warnings:"0")	20	on_read6	Read6.script
-2016-12-19 21:50:35.361 -0800	SUCCESS		Execution Time 0:00:00 Test.script	20	on_read6	Read6.script

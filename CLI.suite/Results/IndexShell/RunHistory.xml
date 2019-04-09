@@ -1,63 +1,64 @@
 ﻿<?xml version="1.0"?>
-<runHistory script="Shell">
+<runHistory script="IndexShell">
  <run>
-  <RunDate>2016-09-29 14:49:41.968 -0600</RunDate>
+  <RunDate>2017-07-11 08:51:05.852 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>2.280640</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170711_085105.852/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-11 08:51:34.662 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>7.289136</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170711_085134.662/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-03-17 17:40:36.680 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.300458</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180317_174036.680/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-03-17 17:42:42.596 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>8.220366</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180317_174242.596/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-03-17 17:44:13.759 +0530</RunDate>
   <Status>Failure</Status>
-  <Duration>1.811176</Duration>
+  <Duration>0.007758</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>0</Successes>
-  <LogFile>20160929_144941.968/LogFile.txt</LogFile>
+  <LogFile>20180317_174413.759/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
-  <ErrorMessage>STMaxCallDepthExceeded -- Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself.</ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-09-29 14:50:08.685 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>0.474154</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20160929_145008.685/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-09-29 14:50:55.703 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>16.657803</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20160929_145055.703/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-09-29 14:52:20.968 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>1.406922</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20160929_145220.968/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
- </run>
- <run>
-  <RunDate>2016-09-29 14:53:54.826 -0600</RunDate>
-  <Status>Success</Status>
-  <Duration>15.483666</Duration>
-  <Errors>0</Errors>
-  <Warnings>0</Warnings>
-  <Exceptions>0</Exceptions>
-  <Successes>1</Successes>
-  <LogFile>20160929_145354.826/LogFile.txt</LogFile>
-  <ReturnValue></ReturnValue>
-  <ErrorMessage></ErrorMessage>
+  <ErrorMessage>SenseTalk Compiler Exception -- in indexshell:
+Syntax Error at line 2: Syntax Error - can&#x27;t understand &quot;/&quot; at or near character 2</ErrorMessage>
  </run>
 </runHistory>

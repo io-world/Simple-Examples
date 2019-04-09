@@ -1,0 +1,4 @@
+﻿2018-07-25 10:56:28.132 -0600	START		Running eAI_Class.script
+2018-07-25 10:56:28.946 -0600	Log		(description:"Please provide the required credentials.", message:"Bad Request")	19	on_eai_class	eAI_Class.script
+2018-07-25 10:56:29.296 -0600	EndTestCase		(Duration:"1.1627", Errors:"0", Exceptions:"0", StartTime:"2018-07-25 10:56:28 -0600", Successes:"1", TestCase:"eAI_Class.script", Warnings:"0")
+2018-07-25 10:56:29.312 -0600	SUCCESS		Execution Time 0:00:01 eAI_Class.script

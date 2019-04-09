@@ -1,0 +1,5 @@
+﻿2018-10-18 10:10:01.764 -0600	START		Running Script2.script
+2018-10-18 10:10:01.846 -0600	Log			17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:10:01.853 -0600	Log		NO	15	on_script2	Script2.script
+2018-10-18 10:10:02.050 -0600	EndTestCase		(Duration:"0.285115", Errors:"0", Exceptions:"0", StartTime:"2018-10-18 10:10:01 -0600", Successes:"1", TestCase:"Script2.script", Warnings:"0")
+2018-10-18 10:10:02.066 -0600	SUCCESS		Execution Time 0:00:00 Script2.script

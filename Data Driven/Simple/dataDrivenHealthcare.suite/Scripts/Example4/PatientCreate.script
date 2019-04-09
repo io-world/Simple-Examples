@@ -1,0 +1,11 @@
+﻿params patient
+
+log patient.MedicalRecordNumber
+log patient.Prefix
+log patient.FirstName
+log patient.MiddleName
+log patient.LastName
+log patient.DateofBirth
+log patient.SocialSecurityNumber
+log patient.Gender
+log patient.MaritalStatus

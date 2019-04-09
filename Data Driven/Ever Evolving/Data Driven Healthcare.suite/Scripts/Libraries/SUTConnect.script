@@ -1,0 +1,16 @@
+﻿
+
+
+Connect "Tutorial Connection"
+
+
+
+if  ConnectionInfo().status is empty
+	LogError "Not connected to a SUT, quitting the script"
+	exit script
+else
+	
+	Log "You are Connect"
+	Log "Connection Information" & ConnectionInfo()
+end if
+

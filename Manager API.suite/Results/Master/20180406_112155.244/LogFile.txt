@@ -1,0 +1,5 @@
+﻿2018-04-06 11:21:55.245 -0600	START		Running Master.script
+2018-04-06 11:21:55.748 -0600	Log		The User id os570c0a66547261080b00000b	2	function_makeresveration	ePM_API_Class.script
+2018-04-06 11:21:56.096 -0600	Log		5902	13	on_master	Master.script
+2018-04-06 11:21:56.323 -0600	EndTestCase		(Duration:"1.076178", Errors:"1", Exceptions:"0", StartTime:"2018-04-06 11:21:55 -0600", Successes:"0", TestCase:"Master.script", Warnings:"0")
+2018-04-06 11:21:56.343 -0600	FAILURE		STUnknownMessage ERROR: No Such Command: 'username' -- Execution Time 0:00:01 Master.script

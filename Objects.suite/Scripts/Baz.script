@@ -1,0 +1,17 @@
+﻿
+
+
+
+properties
+
+	var1: ("somethig"),
+	birthdate: "May 14, 1942",
+	
+	
+end properties
+
+on sayHello
+
+	log "Greetings! My age is " & "baz".birthdate
+	
+end sayHello

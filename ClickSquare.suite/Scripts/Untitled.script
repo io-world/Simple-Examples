@@ -1,0 +1,15 @@
+﻿
+
+
+
+repeat 100 times
+	
+	
+	if repeatindex() mod 2 equals 0 then
+		log "odd"
+	else
+		log "even"
+	end if
+	
+	
+end repeat

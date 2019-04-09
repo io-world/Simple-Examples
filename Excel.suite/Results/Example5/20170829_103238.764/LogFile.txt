@@ -1,0 +1,3 @@
+﻿2017-08-29 10:32:38.765 -0600	START		Running Example5.script
+2017-08-29 10:32:38.976 -0600	EndTestCase		(Duration:"0.209521", Errors:"1", Exceptions:"0", StartTime:"2017-08-29 10:32:38 -0600", Successes:"0", TestCase:"Example5.script", Warnings:"0")
+2017-08-29 10:32:38.985 -0600	FAILURE		STTableError Value can't become a database table: results -- Execution Time 0:00:00 Example5.script

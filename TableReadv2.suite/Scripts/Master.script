@@ -1,0 +1,13 @@
+﻿
+
+
+put ImageRectangle("show") into SR
+put SR+(0,20,800,30) into FR
+put ImageRectangle(text:"Name",searchRectangle:(FR)) into NL
+put NL+(-150,18,20,280) into NLL
+
+
+log ReadText(NLL)
+wait 5
+
+

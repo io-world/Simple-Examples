@@ -1,0 +1,4 @@
+﻿2017-11-16 11:25:18.369 -0700	START		Running ZeroState.script	1	execute string	(null)
+2017-11-16 11:25:18.378 -0700	connect		Windows 10:(null)	1	on_zerostate	ZeroState.script
+2017-11-16 11:25:18.379 -0700	EndTestCase		(Duration:"0.006312", Errors:"0", Exceptions:"0", StartTime:"2017-11-16 11:25:18 -0700", Successes:"1", TestCase:"ZeroState.script", Warnings:"0")	1	execute string	(null)
+2017-11-16 11:25:18.400 -0700	SUCCESS		Execution Time 0:00:00 ZeroState.script	1	execute string	(null)

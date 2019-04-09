@@ -1,0 +1,6 @@
+UserAction,LocatorStrategy,ElementIdentifier
+Assert,webXPath,//*[@id="QuoteStartForm_ueno"]
+Moveto,webLinkText,Insurance
+Click,webXPath,//*[@id="insurance-flyout"]/li/ul/li[2]/div[1]/ul/li[3]/a
+Click,WebCSSSelector,#megalistDisplay > div.arrow-background
+Click,webxpath,//*[@id="logo"]

@@ -1,0 +1,23 @@
+﻿put the files in  "/Users/randyhesse/Downloads/" into FileList
+
+
+repeat forever
+	
+	if Filelist contains "Config.txt" then
+		put file "/Users/randyhesse/Downloads/Config.txt" into FileData
+		put the number of lines of FileData into Max
+		repeat max times
+			log line repeatindex() of FileData
+		end repeat
+		Exit repeat
+	else if (repeatIndex() >= 4) then
+		log "we waited way to long"
+		exit repeat
+	else
+		log "looking"
+		wait 4
+	end if
+end repeat
+
+
+

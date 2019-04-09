@@ -1,0 +1,5 @@
+﻿2018-10-18 08:43:06.462 -0600	START		Running Master.script
+2018-10-18 08:43:06.524 -0600	connect		Windows 10:(null)	2	on_master	Master.script
+2018-10-18 08:43:06.934 -0600	click	Refresh Icon	at (88, 53)	5	on_master	Master.script
+2018-10-18 08:43:07.234 -0600	EndTestCase		(Duration:"0.770172", Errors:"0", Exceptions:"0", StartTime:"2018-10-18 08:43:06 -0600", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-10-18 08:43:07.250 -0600	SUCCESS		Execution Time 0:00:00 Master.script

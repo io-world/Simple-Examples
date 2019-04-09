@@ -1,5 +1,0 @@
-﻿2016-09-20 13:26:32.719 -0600	START		Running Read3.script
-2016-09-20 13:26:33.260 -0600	everyimagelocation	LineRow	found 24 images	1	on_read3	Read3.script
-2016-09-20 13:26:33.295 -0600	Exception	ReadEnglishName	Could Not Open Image: ReadEnglishName	10	on_read3	Read3.script
-2016-09-20 13:26:33.735 -0600	EndTestCase		(Duration:"1.014531", Errors:"1", Exceptions:"1", StartTime:"2016-09-20 13:26:32 -0600", Successes:"0", TestCase:"Read3.script", Warnings:"0")
-2016-09-20 13:26:34.288 -0600	FAILURE	Screen_Error.png	File Not Found readtext Error - Could Not Open Image: ReadEnglishName -- Execution Time 0:00:01 Read3.script

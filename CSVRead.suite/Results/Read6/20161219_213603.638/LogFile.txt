@@ -1,6 +1,0 @@
-﻿2016-12-19 21:36:03.639 -0800	START		Running Read6.script
-2016-12-19 21:36:03.774 -0800	Log		10	7	on_read6	Read6.script
-2016-12-19 21:36:03.785 -0800	Log		9	8	on_read6	Read6.script
-2016-12-19 21:36:03.828 -0800	Log		PatientLine:Mr,Bruce,,Wayne,222222,6/13/06,113-83-3798,Male,Single	14	on_read6	Read6.script
-2016-12-19 21:36:04.029 -0800	EndTestCase		(Duration:"0.388967", Errors:"1", Exceptions:"0", StartTime:"2016-12-19 21:36:03 -0800", Successes:"0", TestCase:"Read6.script", Warnings:"0")
-2016-12-19 21:36:04.040 -0800	FAILURE		STInvalidNumber Value is not a number: 'max' -- Execution Time 0:00:00 Read6.script

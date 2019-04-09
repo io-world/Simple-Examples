@@ -1,0 +1,7 @@
+﻿2017-07-17 22:08:45.211 -0400	START		Running RunScriptEncrypt.script
+2017-07-17 22:08:45.250 -0400	Log		\n\n\nA@T " IN]h dK[a Jc D\OTi=Ob\"\n\n\ng:VYVE o{ IOaZD\n\t\n\t\n\t`d8 "hjE\n\t\n6[F g:VYVE	8	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-17 22:08:45.251 -0400	Log		\n\n\nLog " this will do something"\n\n\nrepeat 10 times\n\t\n\t\n\tlog "yup\n\t\nend repeat	9	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-17 22:08:45.276 -0400	Log		\n\n\nA@T " IN]h dK[a Jc D\OTi=Ob\"\n\n\ng:VYVE o{ IOaZD\n\t\n\t\n\t`d8 "hjE\n\t\n6[F g:VYVE	30	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-17 22:08:45.277 -0400	Log		+,hy/%_Q_ " T}p* ovum yv UgznuH~uz"g=vzgAzXgd%_ zN g`l)^hy/+z#gCvzgGs&I "&vP/%z)g=PgQ zXgd%_	32	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-17 22:08:45.396 -0400	EndTestCase		(Duration:"0.183936", Errors:"0", Exceptions:"0", StartTime:"2017-07-17 22:08:45 -0400", Successes:"1", TestCase:"RunScriptEncrypt.script", Warnings:"0")
+2017-07-17 22:08:45.406 -0400	SUCCESS		Execution Time 0:00:00 RunScriptEncrypt.script

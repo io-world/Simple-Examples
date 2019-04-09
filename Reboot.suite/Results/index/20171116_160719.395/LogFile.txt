@@ -1,0 +1,4 @@
+﻿2017-11-16 16:07:19.396 -0700	START		Running index.script
+2017-11-16 16:07:19.456 -0700	Log			4	on_index	index.script
+2017-11-16 16:07:19.900 -0700	EndTestCase		(Duration:"0.502193", Errors:"1", Exceptions:"0", StartTime:"2017-11-16 16:07:19 -0700", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-11-16 16:07:19.930 -0700	FAILURE		Connection Failed Unable to connect to Server: on port:0\nNo Host Specified -- Execution Time 0:00:00 index.script

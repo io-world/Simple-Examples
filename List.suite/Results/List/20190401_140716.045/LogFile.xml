@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="List_script" package="List.suite" timestamp="2019-04-01 14:07:16.045 -0600"
+ tests="1"  failures="1" errors="0" time="0.541993">
+  <properties>
+   <property name="RunDate" value="2019-04-01 14:07:16.045 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="List.script" assertions="1" status="failure"  time="0.539932">
+    <failure type="FAILURE" message="SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got 'chips'. -- Execution Time 0:00:00 List.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

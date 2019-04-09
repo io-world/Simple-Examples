@@ -1,5 +1,0 @@
-﻿2017-04-12 09:48:59.166 -0600	START		Running Example.script
-2017-04-12 09:48:59.230 -0600	Log		Bruce	8	on_example	Example.script
-2017-04-12 09:48:59.233 -0600	Log		Bruce	9	on_example	Example.script
-2017-04-12 09:48:59.978 -0600	EndTestCase		(Duration:"0.810248", Errors:"0", Exceptions:"0", StartTime:"2017-04-12 09:48:59 -0600", Successes:"1", TestCase:"Example.script", Warnings:"0")
-2017-04-12 09:48:59.997 -0600	SUCCESS		Execution Time 0:00:00 Example.script

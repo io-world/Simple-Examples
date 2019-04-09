@@ -1,0 +1,13 @@
+﻿--http://docs.testplant.com/ePF/SenseTalk/stk-working-with-dates-and-times.htm?Highlight=formattedTime
+
+put formattedTime("%1H" &"X"& "%M" &"X"& "%S") into var
+
+log var
+
+
+
+put the date into Date
+
+put the date + 7 days into Ndate
+log Ndate
+log formattedTime("%B",Ndate)

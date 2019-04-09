@@ -1,0 +1,4 @@
+﻿2018-06-06 21:41:12.293 -0500	START		Running Master 1.script
+2018-06-06 21:41:20.883 -0500	Exception	Chrome	No Image Found On Screen: "Chrome"	1	on_overridecommand	/Users/randyhesse/Desktop/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-06 21:41:21.268 -0500	EndTestCase		(Duration:"8.973136", Errors:"1", Exceptions:"1", StartTime:"2018-06-06 21:41:12 -0500", Successes:"0", TestCase:"Master 1.script", Warnings:"0")
+2018-06-06 21:41:21.346 -0500	FAILURE	Screen_Error.png	STInvalidNumber Value is not a number: '"' -- Execution Time 0:00:08 Master 1.script

@@ -1,0 +1,9 @@
+﻿2018-06-11 15:13:02.353 -0600	START		Running Master 1.script
+2018-06-11 15:13:16.300 -0600	Exception	chromeasdasd	No Image Found On Screen: "chromeasdasd"	1	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 15:13:34.232 -0600	imagerectangle	chromeasdasd	at (165,110,212,157)	4	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 15:13:34.254 -0600	Log		Error Name: Runtime Error at line 1: Image Not Found - click Error - No Image Found On Screen: "chromeasdasd"	19	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:13:34.256 -0600	Log		Action Name: click	20	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:13:34.258 -0600	Log		Image Name: 	21	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:13:34.259 -0600	Log		New Collection: 	22	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:13:34.616 -0600	EndTestCase		(Duration:"32.261544", Errors:"1", Exceptions:"1", StartTime:"2018-06-11 15:13:02 -0600", Successes:"0", TestCase:"Master 1.script", Warnings:"0")
+2018-06-11 15:13:35.346 -0600	FAILURE	Screen_Error.png	STFileSystemException Failed to create folder  -- Execution Time 0:00:32 Master 1.script

@@ -1,4 +1,0 @@
-﻿2016-09-14 21:21:26.279 -0400	START		Running index.script
-2016-09-14 21:21:26.402 -0400	Log		Excuted Foo from Mains	2	on_foo	Module1.script
-2016-09-14 21:21:26.662 -0400	EndTestCase		(Duration:"0.381597", Errors:"0", Exceptions:"0", StartTime:"2016-09-14 21:21:26 -0400", Successes:"1", TestCase:"index.script", Warnings:"0")
-2016-09-14 21:21:26.667 -0400	SUCCESS		Execution Time 0:00:00 index.script

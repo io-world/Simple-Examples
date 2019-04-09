@@ -1,0 +1,8 @@
+﻿
+
+put JSONValue(file ResourcePath("Test.json")) into data
+
+
+put (data.rows.id) into  blah
+
+log blah.id

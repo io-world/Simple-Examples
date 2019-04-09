@@ -1,0 +1,4 @@
+﻿2018-10-25 08:22:43.847 -0500	START		Running Master.script
+2018-10-25 08:22:44.077 -0500	LogError		No spaces in EXE Path	18	on_screen_compare	screen_compare.script
+2018-10-25 08:22:44.228 -0500	EndTestCase		(Duration:"0.373509", Errors:"1", Exceptions:"0", StartTime:"2018-10-25 08:22:43 -0500", Successes:"0", TestCase:"Master.script", Warnings:"0")
+2018-10-25 08:22:44.245 -0500	FAILURE		Script Error Number of Errors logged: 1 -- Execution Time 0:00:00 Master.script

@@ -1,5 +1,21 @@
 ﻿<?xml version="1.0"?>
 <statistics>
+ <script name="Advance">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-04-11 14:53:14 -0600</FirstRun>
+  <LastRun>2018-03-14 16:13:12 +0530</LastRun>
+  <TotalTimeOnSuccess>2.344250</TotalTimeOnSuccess>
+ </script>
+ <script name="Modules/SingleMod2">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-03-03 09:16:05 -0700</FirstRun>
+  <LastRun>2017-03-21 22:40:35 -0700</LastRun>
+  <TotalTimeOnSuccess>0.107279</TotalTimeOnSuccess>
+ </script>
  <script name="Library">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>5</NumberOfRuns>
@@ -8,12 +24,20 @@
   <LastRun>2016-09-27 12:24:50 -0600</LastRun>
   <TotalTimeOnSuccess>4.300458</TotalTimeOnSuccess>
  </script>
+ <script name="SingleMod">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>12</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-03-03 09:06:48 -0700</FirstRun>
+  <LastRun>2017-03-21 22:40:35 -0700</LastRun>
+  <TotalTimeOnSuccess>0.140254</TotalTimeOnSuccess>
+ </script>
  <script name="index">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>22</NumberOfRuns>
-  <NumberOfFails>11</NumberOfFails>
+  <NumberOfRuns>33</NumberOfRuns>
+  <NumberOfFails>12</NumberOfFails>
   <FirstRun>2016-08-31 08:53:28 -0600</FirstRun>
-  <LastRun>2016-08-31 09:09:08 -0600</LastRun>
-  <TotalTimeOnSuccess>11.901840</TotalTimeOnSuccess>
+  <LastRun>2017-03-21 22:40:35 -0700</LastRun>
+  <TotalTimeOnSuccess>16.771685</TotalTimeOnSuccess>
  </script>
 </statistics>

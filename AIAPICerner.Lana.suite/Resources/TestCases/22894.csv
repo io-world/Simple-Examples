@@ -1,0 +1,12 @@
+State,Action
+Initial,Patient
+Registration,Forms
+Waiting Room,In Patient
+Pharmacy,Oxycodone
+Pharmacy,Hydrocodone
+Pharmacy,Back
+Waiting Room,In Patient
+General surgery,Kidney
+General surgery,Back
+Waiting Room,Out Patient
+Diagnostic Complete,Patient Leaves

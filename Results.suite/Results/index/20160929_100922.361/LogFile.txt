@@ -1,3 +1,0 @@
-﻿2016-09-29 10:09:22.362 -0600	START		Running index.script
-2016-09-29 10:09:22.701 -0600	EndTestCase		(Duration:"0.33756", Errors:"0", Exceptions:"0", StartTime:"2016-09-29 10:09:22 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
-2016-09-29 10:09:22.705 -0600	SUCCESS		Execution Time 0:00:00 index.script

@@ -1,7 +1,0 @@
-﻿2017-04-12 10:09:55.294 -0600	START		Running Example.script
-2017-04-12 10:09:55.347 -0600	Log		Bruce	8	on_example	Example.script
-2017-04-12 10:09:55.350 -0600	Log		Bruce	9	on_example	Example.script
-2017-04-12 10:09:55.352 -0600	Log		((Bond,666666),(Simpson,777777),(Prime,888888),(Mouse,999999))	12	on_example	Example.script
-2017-04-12 10:09:55.356 -0600	Log		((Prefix,First Name,Middle Name,Last Name,Medical Record Number,Date of Birth,Social Security Number,Gender,Marital Status))	13	on_example	Example.script
-2017-04-12 10:09:56.176 -0600	EndTestCase		(Duration:"0.880231", Errors:"1", Exceptions:"0", StartTime:"2017-04-12 10:09:55 -0600", Successes:"0", TestCase:"Example.script", Warnings:"0")
-2017-04-12 10:09:56.529 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Function: 'property' -- Execution Time 0:00:00 Example.script

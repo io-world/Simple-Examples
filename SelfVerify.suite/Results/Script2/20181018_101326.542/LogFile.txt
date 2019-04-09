@@ -1,0 +1,5 @@
+﻿2018-10-18 10:13:26.543 -0600	START		Running Script2.script
+2018-10-18 10:13:26.621 -0600	LogError		SCA is wirtten incorrectly	17	on_selfvalidate	SelfValidate.script
+2018-10-18 10:13:26.626 -0600	Log		NO	15	on_script2	Script2.script
+2018-10-18 10:13:26.830 -0600	EndTestCase		(Duration:"0.285111", Errors:"1", Exceptions:"0", StartTime:"2018-10-18 10:13:26 -0600", Successes:"0", TestCase:"Script2.script", Warnings:"0")
+2018-10-18 10:13:26.846 -0600	FAILURE		Script Error Number of Errors logged: 1 -- Execution Time 0:00:00 Script2.script

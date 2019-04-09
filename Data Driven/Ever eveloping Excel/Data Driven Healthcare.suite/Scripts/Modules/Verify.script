@@ -1,0 +1,39 @@
+﻿on Content  ContentName ,WFV, SR
+	if ContentName is empty then
+		logerror "The Content Name does not exist"
+		exit handler
+	else
+		Try
+			put ContentName.imageinfo() into Blank
+			put "image" into ContentType
+		Catch
+			put "text" into ContentType
+		End try
+	end if
+	--------------------------------------------------------------------------
+	
+	if WFV is empty then
+		put 3 into WFV
+	end if
+	
+	if SR is empty then
+		put ((0,0),RemoteScreenSize()) into SR
+	end if
+	--------------------------------------------------------------------------
+	
+	
+	if (ContentType = "text") then
+		if imagefound(text: ContentName, Waitfor: WFV, searchRectangle: SR) then 
+			log "Text was found:" && ContentName
+		else
+			logwarning "Text was NOT found:"&& ContentName
+		end if
+	else
+		if imagefound (image: ContentName, Waitfor: WFV, searchRectangle: SR) then
+			log "Image was found:" && ContentName
+		else
+			logwarning "Image was NOT found:"&& ContentName
+		end if
+		
+	end if
+end Content

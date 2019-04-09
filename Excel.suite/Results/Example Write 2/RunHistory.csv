@@ -1,0 +1,9 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-08-29 09:57:11.365 -0600,"Failure",0:00:00,1,0,0,"20170829_095711.365/LogFile.txt","","STDatabaseException -- Can't Add records a non-Writable database connection",0
+2017-08-29 09:58:13.247 -0600,"Success",0:00:00,0,0,0,"20170829_095813.247/LogFile.txt","","",1
+2017-08-29 09:58:22.252 -0600,"Success",0:00:00,0,0,0,"20170829_095822.252/LogFile.txt","","",1
+2017-08-29 10:20:26.929 -0600,"Success",0:00:00,0,0,0,"20170829_102026.929/LogFile.txt","","",1
+2017-08-29 10:21:40.904 -0600,"Success",0:00:00,0,0,0,"20170829_102140.904/LogFile.txt","","",1
+2017-08-29 10:21:53.647 -0600,"Success",0:00:00,0,0,0,"20170829_102153.647/LogFile.txt","","",1
+2017-08-29 10:23:21.080 -0600,"Success",0:00:00,0,0,0,"20170829_102321.080/LogFile.txt","","",1
+2017-08-29 10:27:55.207 -0600,"Success",0:00:00,0,0,0,"20170829_102755.207/LogFile.txt","","",1

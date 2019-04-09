@@ -1,0 +1,13 @@
+﻿
+
+params CSVName, PatientList
+
+
+put <<"Medical Record Number","Suffix","First Name","Middle Name","Last Name","Date of Birth","Social Security Number","Gender","Marital Status","Created Date","Coding Date","Billing Date","Claims Date","Charge Capture Date">> into Header
+put  ResourcePath(CSVName &".csv") into MyFileVar
+open  file MyFileVar
+write Header to file MyFileVar
+close   file MyFileVar
+put (type:"CSV", file:ResourcePath(CSVName &".csv"),writable: "Yes") into MyFileVar
+add records PatientList to MyFileVar
+

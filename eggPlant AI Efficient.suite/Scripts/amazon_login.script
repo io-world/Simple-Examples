@@ -1,0 +1,23 @@
+﻿
+
+on Username
+	Click "Amazon/Login/username"
+	TypeText controlKey & "a"
+	TypeText deleteKey
+	TypeText "UserName"
+	TypeText tabKey
+	
+end Username
+
+on Password
+	Click "Amazon/Login/password"
+	TypeText controlKey & "a"
+	TypeText deleteKey
+	TypeText "Password"
+	TypeText tabKey
+end Password
+
+
+on Signin
+	Click "Amazon/Login/sign in"
+end Signin

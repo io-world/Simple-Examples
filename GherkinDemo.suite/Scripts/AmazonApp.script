@@ -1,0 +1,32 @@
+﻿
+to handle Iamonthehomescreen
+	log "From : I_am_on_the_home_screen"	
+	
+	
+end Iamonthehomescreen
+
+to handle I_click_the_amazon_I_app_icon
+
+	log "From :  I_click_the_amazon_I_app_icon"
+end I_click_the_amazon_I_app_icon
+
+to handle I_should_be_on_the_amazon_home_screen
+	log "From :  I_should_be_on_the_amazon_home_screen"
+	
+end I_should_be_on_the_amazon_home_screen
+
+to handle I_enter_the_search_STR
+	log "From :  I_enter_the_search_STR"
+end I_enter_the_search_STR
+
+to handle I_should_see_the_filter_button
+	
+end I_should_see_the_filter_button
+
+to handle I_click_the_back_button
+	
+end I_click_the_back_button
+
+to handle I_click_the_home_button
+	
+end I_click_the_home_button

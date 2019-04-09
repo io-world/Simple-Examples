@@ -1,0 +1,51 @@
+﻿
+//NEVER CREATE DYNAMIC VARIBLES!!!!!!!!!!!
+
+
+put "John" into var1
+put "Randy" into var2
+put "something" into var3
+put "nothing" into var4
+put "Pants" into var5
+put 6001 into var6
+put "Cart" into var7
+
+log var3
+//Tell me how many dynamic varibles you created ??? you can't
+
+
+
+
+//DO WHAT IS BELOW INSTEAD !!!!!
+
+put ("John","Randy", "something","nothing", "Pants" , 6001, "Cart") into var_list
+put the number of items of var_list into max
+repeat max times
+	put "var" & repeatIndex() into VV	
+	put item repeatindex() of var_list into final_var_list.(VV)
+end repeat
+
+
+
+log final_var_list
+log final_var_list.var3
+
+//Tell me how many dynamic varibles you created
+log the number of keys of final_var_list
+//show me the keys
+put the keys of final_var_list into list_of_keys
+log list_of_keys
+
+put the values of final_var_list into list_of_values
+
+log list_of_values
+
+///Better access
+put "var3" into MM
+log final_var_list.(MM)
+
+
+
+
+
+

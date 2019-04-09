@@ -1,7 +1,0 @@
-﻿2016-12-19 21:52:42.391 -0800	START		Running Test.script	20	on_read6	Read6.script
-2016-12-19 21:52:42.409 -0800	Log		3/16/14	4	on_test	Test.script
-2016-12-19 21:52:42.423 -0800	Log		Carrie	8	on_test	Test.script
-2016-12-19 21:52:42.435 -0800	Log		583-00-6387	17	on_test	Test.script
-2016-12-19 21:52:42.440 -0800	Log		583-00-6387	25	on_test	Test.script
-2016-12-19 21:52:42.454 -0800	EndTestCase		(Duration:"0.061711", Errors:"0", Exceptions:"0", StartTime:"2016-12-19 21:52:42 -0800", Successes:"1", TestCase:"Test.script", Warnings:"0")	20	on_read6	Read6.script
-2016-12-19 21:52:42.485 -0800	SUCCESS		Execution Time 0:00:00 Test.script	20	on_read6	Read6.script

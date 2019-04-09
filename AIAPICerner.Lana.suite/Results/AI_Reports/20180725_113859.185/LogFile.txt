@@ -1,0 +1,5 @@
+﻿2018-07-25 11:38:59.187 -0600	START		Running eAI_Class.script
+2018-07-25 11:38:59.252 -0600	LogWarning		Validation Warning: Empty request body.	16	on_eai_class	eAI_Class.script
+2018-07-25 11:38:59.675 -0600	Log		(access_token:"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1MzI1NDM5MzIsImlhdCI6MTUzMjU0MDMzMiwiaXNzIjoiZWdncGxhbnRhaS5jb20iLCJ1c2VyIjp7InVzZXJuYW1lIjoicmFuZHkuaGVzc2VAdGVzdHBsYW50LmNvbSJ9fQ.P_ZbIbxTi8C-Fr4Hw01wXp_yGjyTUKUcYNGGVNbfJ5I", expires_in:"3600", token_type:"bearer")	18	on_eai_class	eAI_Class.script
+2018-07-25 11:39:00.053 -0600	EndTestCase		(Duration:"0.864704", Errors:"0", Exceptions:"0", StartTime:"2018-07-25 11:38:59 -0600", Successes:"1", TestCase:"eAI_Class.script", Warnings:"1")
+2018-07-25 11:39:00.068 -0600	SUCCESS		Execution Time 0:00:00 eAI_Class.script

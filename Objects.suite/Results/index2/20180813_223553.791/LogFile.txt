@@ -1,0 +1,5 @@
+﻿2018-08-13 22:35:53.792 -0400	START		Running index2.script
+2018-08-13 22:35:53.859 -0400	Log		(age:"21", eyecolor:"brown", firstname:"John", height:"20 centimeters", lastename:"doe", sex:"male")	13	on_index2	index2.script
+2018-08-13 22:35:53.860 -0400	Log		patient	19	on_index2	index2.script
+2018-08-13 22:35:54.116 -0400	EndTestCase		(Duration:"0.323196", Errors:"0", Exceptions:"0", StartTime:"2018-08-13 22:35:53 -0400", Successes:"1", TestCase:"index2.script", Warnings:"0")
+2018-08-13 22:35:54.136 -0400	SUCCESS		Execution Time 0:00:00 index2.script

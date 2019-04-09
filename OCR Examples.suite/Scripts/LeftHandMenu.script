@@ -1,0 +1,40 @@
+﻿
+
+//--------------------------------------------------------------------------------------------------------
+//Read all the Menu Items
+//--------------------------------------------------------------------------------------------------------
+put ImageRectangle("Profile") into IR
+log ReadText(IR+(0,35,120,800))
+wait 2
+
+
+//--------------------------------------------------------------------------------------------------------
+//Click on Acquired Dat in the menu
+//--------------------------------------------------------------------------------------------------------
+put "Acquired Data" into CM
+put ImageRectangle("Profile") into IR
+click text:CM,SearchRectangle:(IR+(0,35,120,800))
+
+
+//--------------------------------------------------------------------------------------------------------
+//Read all Menu items line by line perfromace contrast on each item and save the image to a folder menuitem 
+//--------------------------------------------------------------------------------------------------------
+put ColorAtLocation(110,310) into BC
+put suiteinfo().imagesFolder & "/MenuItems/" into outImagePath
+put ImageRectangle("Profile") into IR
+put IR+(0,60,120,51) into RR
+
+
+repeat until (item 4 of RR) > item 2 of RemoteScreenSize() 
+	log outImagePath & repeatindex() & ".png"
+	log ReadText((RR),Contrast:on,ContrastColor: BC,ContrastTolerance: 100,saveimagefile:(outImagePath & repeatindex() & ".png"))
+	put 25 into MD
+	put RR+(0,MD,0,MD)into RR
+	wait 1
+	
+end repeat
+
+
+
+
+

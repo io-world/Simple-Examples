@@ -1,6 +1,6 @@
 ﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
-2016-09-29 14:49:41.968 -0600,"Failure",0:00:01,1,0,0,"20160929_144941.968/LogFile.txt","","STMaxCallDepthExceeded -- Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself.",0
-2016-09-29 14:50:08.685 -0600,"Success",0:00:00,0,0,0,"20160929_145008.685/LogFile.txt","","",1
-2016-09-29 14:50:55.703 -0600,"Success",0:00:16,0,0,0,"20160929_145055.703/LogFile.txt","","",1
-2016-09-29 14:52:20.968 -0600,"Success",0:00:01,0,0,0,"20160929_145220.968/LogFile.txt","","",1
-2016-09-29 14:53:54.826 -0600,"Success",0:00:15,0,0,0,"20160929_145354.826/LogFile.txt","","",1
+2017-07-11 08:51:05.852 -0600,"Success",0:00:02,0,0,0,"20170711_085105.852/LogFile.txt","","",1
+2017-07-11 08:51:34.662 -0600,"Success",0:00:07,0,0,0,"20170711_085134.662/LogFile.txt","","",1
+2018-03-17 17:40:36.680 +0530,"Success",0:00:00,0,0,0,"20180317_174036.680/LogFile.txt","","",1
+2018-03-17 17:42:42.596 +0530,"Success",0:00:08,0,0,0,"20180317_174242.596/LogFile.txt","","",1
+2018-03-17 17:44:13.759 +0530,"Failure",0:00:00,1,0,0,"20180317_174413.759/LogFile.txt","","SenseTalk Compiler Exception -- in indexshell:\nSyntax Error at line 2: Syntax Error - can't understand ""/"" at or near character 2",0

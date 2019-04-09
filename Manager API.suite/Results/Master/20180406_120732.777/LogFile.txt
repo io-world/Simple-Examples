@@ -1,0 +1,5 @@
+﻿2018-04-06 12:07:32.778 -0600	START		Running Master.script
+2018-04-06 12:07:33.282 -0600	Log		The User id os570c0a66547261080b00000b	2	function_makeresveration	ePM_API_Class.script
+2018-04-06 12:07:33.623 -0600	Log		5902	13	on_master	Master.script
+2018-04-06 12:07:33.988 -0600	EndTestCase		(Duration:"1.208542", Errors:"1", Exceptions:"0", StartTime:"2018-04-06 12:07:32 -0600", Successes:"0", TestCase:"Master.script", Warnings:"0")
+2018-04-06 12:07:34.005 -0600	FAILURE		Connection Failed Unable to connect to Server:127.0.0.1 on port:5902\nConnection Error: 61:Connection refused -- Execution Time 0:00:01 Master.script

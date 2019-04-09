@@ -1,0 +1,28 @@
+﻿params RWI, MMS, NKD
+
+Connect "TutorialSUT"
+
+if RWI is empty then 
+	SetOption RemoteWorkInterval, 1
+	SetOption MouseMoveSpeed, 10
+	SetOption NextKeyDelay, .08
+else
+	
+	SetOption RemoteWorkInterval, RWI
+	SetOption MouseMoveSpeed, MMS
+	SetOption NextKeyDelay, NKD
+	
+	
+end if
+
+log the RemoteWorkInterval
+log the MouseMoveSpeed
+log the NextKeyDelay
+
+
+
+
+
+run "Script1"
+run "Script2"
+run "Script3"

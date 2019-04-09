@@ -1,9 +1,0 @@
-﻿2016-10-27 13:48:14.135 -0600	START		Running Read1.script
-2016-10-27 13:48:14.715 -0600	moveto	List	at (220, 142)	1	on_read1	Read1.script
-2016-10-27 13:48:15.887 -0600	imagelocation	List	at (220, 142)	2	on_read1	Read1.script
-2016-10-27 13:48:15.916 -0600	Log		(320,222,420,842)	5	on_read1	Read1.script
-2016-10-27 13:48:16.394 -0600	readtext		(320,222,420,758)
-2016-10-27 13:48:16.394 -0600	Log		ulbasaur\n\nIvysaur\n\nenusaur\n\narmander\n\narmeleon\n\nharizard\n\nSquirtle\n\nVartortle\n\nllastoise\n\n^aterpie\n\n/letapod\n\nutterfree\n\nWeedle\n\n\n\nKakuna	6	on_read1	Read1.script
-2016-10-27 13:48:29.001 -0600	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchRectangle:(320,222,420,758), text:"pidgey", TextPlatform:"Generic OCR")	No Image Found On Screen: "(TEXT:"pidgey")"	9	on_read1	Read1.script
-2016-10-27 13:48:29.722 -0600	EndTestCase		(Duration:"15.586044", Errors:"1", Exceptions:"1", StartTime:"2016-10-27 13:48:14 -0600", Successes:"0", TestCase:"Read1.script", Warnings:"0")
-2016-10-27 13:48:29.723 -0600	ABORTED		Execution Time 0:00:15 Read1.script

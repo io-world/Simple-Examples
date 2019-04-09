@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Untitled1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>19</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-06-13 10:00:33 -0600</FirstRun>
+  <LastRun>2018-06-13 10:10:56 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Untitled">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>19</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-06-13 08:19:51 -0600</FirstRun>
+  <LastRun>2019-02-27 13:16:57 -0700</LastRun>
+  <TotalTimeOnSuccess>0.404199</TotalTimeOnSuccess>
+ </script>
+ <script name="Untitled3">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-08-02 13:23:39 -0600</FirstRun>
+  <LastRun>2018-08-02 13:23:52 -0600</LastRun>
+  <TotalTimeOnSuccess>1.374555</TotalTimeOnSuccess>
+ </script>
+</statistics>

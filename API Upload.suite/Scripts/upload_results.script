@@ -33,8 +33,8 @@ repeat FileCount times
 	put item repeatindex() of ResultFiles  into FileName
 	put ResultPath & FileName into FullPath
 	
-	put file FullPath as data into var
-	post multipart (body:var, FileName:FileName,  FieldName:"file") to URL serverURL
+	put file FullPath as data into FullPathData
+	post multipart (body:FullPathData, FileName:FileName,  FieldName:"file") to URL serverURL
 	log it	
 	
 end repeat

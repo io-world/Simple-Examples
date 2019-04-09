@@ -1,0 +1,17 @@
+﻿
+
+DoubleClick "Network Icon"
+
+TypeText windowsKey & "e"
+
+
+doubleClick (Image:"Network Icon/MacBook Pro Icon", WaitFor:2.7)
+waitfor 9,"Download"
+wait 2
+doubleclick FoundImageLocation()
+
+RightClick "File Icon"
+Click "Cut"
+RightClick "Header Mac"
+Click "Paste"
+wait 5

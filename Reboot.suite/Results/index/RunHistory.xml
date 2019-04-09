@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<runHistory script="index">
+ <run>
+  <RunDate>2017-11-16 16:07:19.395 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.504882</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20171116_160719.395/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Connection Failed -- Unable to connect to Server: on port:0
+No Host Specified</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-11-16 16:07:34.652 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>135.251128</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20171116_160734.652/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-11-16 16:10:05.925 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>36.019348</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20171116_161005.925/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

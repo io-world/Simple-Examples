@@ -1,0 +1,40 @@
+﻿2018-03-21 12:57:13.837 +0530	START		Running Master.script
+2018-03-21 12:57:14.488 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:57:14.613 +0530	readtext		(205,126,539,389)
+2018-03-21 12:57:14.614 +0530	Log		(Tiger Nixon,John Winters,Austin Cox,Charles Kelly,Amanda Satou,Brielle Williamson,Herrod Chandler,Rhona Davidson,Colleen Hurst,Sonya Frost)	9	on_master	Master.script
+2018-03-21 12:57:15.984 +0530	click	Next	at (1878, 441)	10	on_master	Master.script
+2018-03-21 12:57:17.317 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:57:17.424 +0530	readtext		(205,126,539,389)
+2018-03-21 12:57:17.425 +0530	Log		(Jena Gaines,Quinn Flynn,Charde Marshall,Haley Kennedy,Tatyana Fitzpatrick,Michael Silva,Paul Byrd,Gloria Little,Bradley Greer,Dai Rios)	9	on_master	Master.script
+2018-03-21 12:57:18.158 +0530	click	Next	at (1878, 441)	10	on_master	Master.script
+2018-03-21 12:57:19.486 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:57:19.600 +0530	readtext		(205,126,539,389)
+2018-03-21 12:57:19.601 +0530	Log		(Jenette Caldwell,Yuri Berry,Caesar Vance,Doris Wilder,Angelica Ramos,Gavin Joyce,Jennifer Chang,Brenden Wagner,Fiona Green,Shou Itou)	9	on_master	Master.script
+2018-03-21 12:57:20.318 +0530	click	Next	at (1878, 441)	10	on_master	Master.script
+2018-03-21 12:57:21.635 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:57:21.762 +0530	readtext		(205,126,539,389)
+2018-03-21 12:57:21.764 +0530	Log		(Michelle House,Suki Burks,Prescott Bartlett,Gavin Cortez,Martena Mccray,Unity Butler,Howard Hatfield,Hope Fuentes,Vivian Harrell,Timothy Mooney)	9	on_master	Master.script
+2018-03-21 12:57:22.478 +0530	click	Next	at (1878, 441)	10	on_master	Master.script
+2018-03-21 12:57:23.778 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:57:23.898 +0530	readtext		(205,126,539,389)
+2018-03-21 12:57:23.899 +0530	Log		(Jackson Bradshaw,Olivia Liang,Bruno Nash,Sakura Yamamoto,Thor Walton,Finn Camacho,Serge Baldwin,Zenaida Frank,Zorita Serrano,Jennifer Acosta)	9	on_master	Master.script
+2018-03-21 12:57:24.610 +0530	click	Next	at (1878, 441)	10	on_master	Master.script
+2018-03-21 12:57:25.938 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:57:26.052 +0530	readtext		(205,126,539,389)
+2018-03-21 12:57:26.054 +0530	Log		(Cara Stevens,Hermione Butler,Lael Greer,Jonas Alexander,Shad Decker,Michael Bruce,Donna Snider,Name)	9	on_master	Master.script
+2018-03-21 12:57:27.431 +0530	click	Next	at (1878, 360)	10	on_master	Master.script
+2018-03-21 12:57:28.731 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:57:28.837 +0530	readtext		(205,126,539,389)
+2018-03-21 12:57:28.838 +0530	Log		(Cara Stevens,Hermione Butler,Lael Greer,Jonas Alexander,Shad Decker,Michael Bruce,Donna Snider,Name)	9	on_master	Master.script
+2018-03-21 12:57:30.219 +0530	click	Next	at (1878, 360)	10	on_master	Master.script
+2018-03-21 12:57:30.220 +0530	Log		ITS THE END	16	on_master	Master.script
+2018-03-21 12:57:31.516 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:57:31.623 +0530	readtext		(205,126,539,389)
+2018-03-21 12:57:31.624 +0530	Log		(Cara Stevens,Hermione Butler,Lael Greer,Jonas Alexander,Shad Decker,Michael Bruce,Donna Snider,Name)	9	on_master	Master.script
+2018-03-21 12:57:33.013 +0530	click	Next	at (1878, 360)	10	on_master	Master.script
+2018-03-21 12:57:33.014 +0530	Log		ITS THE END	16	on_master	Master.script
+2018-03-21 12:57:34.309 +0530	imagerectangle	name	at (345,94,419,119)	5	on_master	Master.script
+2018-03-21 12:57:34.416 +0530	readtext		(205,126,539,389)
+2018-03-21 12:57:34.417 +0530	Log		(Cara Stevens,Hermione Butler,Lael Greer,Jonas Alexander,Shad Decker,Michael Bruce,Donna Snider,Name)	9	on_master	Master.script
+2018-03-21 12:57:36.279 +0530	EndTestCase		(Duration:"22.440682", Errors:"1", Exceptions:"0", StartTime:"2018-03-21 12:57:13 +0530", Successes:"0", TestCase:"Master.script", Warnings:"0")
+2018-03-21 12:57:36.280 +0530	ABORTED		Execution Time 0:00:22 Master.script

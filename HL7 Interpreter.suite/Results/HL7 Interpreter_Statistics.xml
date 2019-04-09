@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="ADT01">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>15</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-06-14 10:15:58 -0600</FirstRun>
+  <LastRun>2019-04-03 11:08:38 -0500</LastRun>
+  <TotalTimeOnSuccess>6.416969</TotalTimeOnSuccess>
+ </script>
+</statistics>

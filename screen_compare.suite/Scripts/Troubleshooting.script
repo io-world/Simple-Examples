@@ -1,0 +1,7 @@
+﻿
+
+
+/Users/randyhesse/Desktop/screen_compare.suite/Resources/screen_compare/screen_compare --input /Users/randyhesse/Desktop/screen_compare.suite/Images/ScreenshotA.png --input /Users/randyhesse/Desktop/screen_compare.suite/Images/ScreenshotB.png --output /Users/randyhesse/Desktop/screen_compare.suite/Images/newimage.png > /Users/randyhesse/Desktop/screen_compare.suite/Resources/screen_compare_result.txt
+
+
+/Users/randyhesse/Desktop/screen_compare.suite/Resources/screen_compare/screen_compare --input /Users/randyhesse/Desktop/screen_compare.suite/Images/ScreenshotA.png --input /Users/randyhesse/Desktop/screen_compare.suite/Images/ScreenshotB.png --output /Users/randyhesse/Desktop/screen_compare.suite/Images/newimage.png > /Users/randyhesse/Desktop/screen_compare.suite/Resources/newtext.txt

@@ -1,0 +1,29 @@
+﻿params Patientdata , ProcessingType , Success
+
+
+put (@"billing date":"2018-11-25", @"charge capture date":"2018-11-30", @"claims date":"2018-11-30", @"coding date":"2018-11-23", @"created date":"2018-11-21", @"date of birth":"2018-08-29", @"first name":"Wonder", gender:"Female", @"last name":"Vader", @"marital status":"Separated", @"medical record number":"097825", @"middle name":"K", @"social security number":"180-29-6164", suffix:"Dr") into Patientdata
+
+
+put "created date" into ProcessingType
+put "Completed" into Success
+
+
+
+put Success into Patientdata.(ProcessingType)
+
+
+
+
+
+log Patientdata
+
+
+
+
+
+put (type:"CSV", file:ResourcePath("webformdara3.csv"),writable: "Yes") into myScriptData
+
+put the records of myScriptData into PatientsList
+
+
+log PatientsList

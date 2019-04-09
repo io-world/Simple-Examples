@@ -1,0 +1,12 @@
+﻿2017-06-29 11:05:48.217 -0600	START		Running CheckWebPortal.script
+2017-06-29 11:05:48.343 -0600	typetext		[windowsKey]r	2	on_checkwebportal	CheckWebPortal.script
+2017-06-29 11:05:49.189 -0600	typetext		Chrome.exe[returnKey]	3	on_checkwebportal	CheckWebPortal.script
+2017-06-29 11:05:51.913 -0600	waitfor	CheckWebPortal/Refresh Icons/Chrome	found at (74, 48)	4	on_checkwebportal	CheckWebPortal.script
+2017-06-29 11:05:51.915 -0600	startmovie		/Users/randyhesse/Documents/Simple Examples/ServiceMonitor.suite/Results/CheckWebPortal/20170629_110548.217/Load time Video.mkv	5	on_checkwebportal	CheckWebPortal.script
+2017-06-29 11:05:56.946 -0600	typetext		[controlKey]l	8	on_checkwebportal	CheckWebPortal.script
+2017-06-29 11:05:57.828 -0600	typetext		www.amazon.com[returnKey]	9	on_checkwebportal	CheckWebPortal.script
+2017-06-29 11:05:57.986 -0600	waitfor	CheckWebPortal/Refresh Icons/Chrome	found at (74, 48)	10	on_checkwebportal	CheckWebPortal.script
+2017-06-29 11:05:57.986 -0600	Log		WebPage took: 0.157191 seconds to load	11	on_checkwebportal	CheckWebPortal.script
+2017-06-29 11:06:03.011 -0600	typetext		[windowsAltKey][F4]	14	on_checkwebportal	CheckWebPortal.script
+2017-06-29 11:06:04.669 -0600	EndTestCase		(Duration:"16.450369", Errors:"0", Exceptions:"0", StartTime:"2017-06-29 11:05:48 -0600", Successes:"1", TestCase:"CheckWebPortal.script", Warnings:"0")
+2017-06-29 11:06:04.684 -0600	SUCCESS		Execution Time 0:00:16 CheckWebPortal.script

@@ -1,0 +1,23 @@
+﻿
+
+
+
+
+put the WebDriver into Driver
+put RemoteScreenRectangle() into  Driver.WindowRectangle
+
+put "https://www.progressive.com/" into Driver.url 
+
+
+
+
+
+assert that  WebElementFound(webXPath: <<//*[@id="QuoteStartForm_ueno"]>>) is true
+moveto (webLinkText: "Insurance")
+click (webXPath: <<//*[@id="insurance-flyout"]/li/ul/li[2]/div[1]/ul/li[3]/a>>)
+click (WebCSSSelector:<<#megalistDisplay > div.arrow-background>>)
+wait 5
+click (webxpath:<<//*[@id="logo"]>>)
+
+
+Click "Progressive"

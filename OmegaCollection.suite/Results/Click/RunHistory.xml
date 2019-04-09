@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Click">
+ <run>
+  <RunDate>2018-06-11 14:05:29.602 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.300867</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180611_140529.602/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: (empty)</ErrorMessage>
+ </run>
+</runHistory>

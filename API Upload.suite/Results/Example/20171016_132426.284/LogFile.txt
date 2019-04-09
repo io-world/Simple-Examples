@@ -1,0 +1,4 @@
+﻿2017-10-16 13:24:26.285 -0600	START		Running Untitled.script
+2017-10-16 13:24:26.338 -0600	Log		(description:"", helperSuites:(), imagesFolder:"/Users/randyhesse/Documents/Simple Examples/API Upload.suite/Images", name:"API Upload.suite", path:"/Users/randyhesse/Documents/Simple Examples/API Upload.suite", resultsFolder:"/Users/randyhesse/Documents/Simple Examples/API Upload.suite/Results", scriptsFolder:"/Users/randyhesse/Documents/Simple Examples/API Upload.suite/Scripts", version:"1709262148")	3	on_untitled	Untitled.script
+2017-10-16 13:24:26.700 -0600	EndTestCase		(Duration:"0.414136", Errors:"0", Exceptions:"0", StartTime:"2017-10-16 13:24:26 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2017-10-16 13:24:26.725 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

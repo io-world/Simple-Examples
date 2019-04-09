@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.script",
+      "timestamp" : "2018-11-30 14:53:50.019 -0700"
+    },
+    {
+      "handlerName" : "on_index2",
+      "message" : "username:John,password:go data",
+      "timestamp" : "2018-11-30 14:53:50.199 -0700",
+      "identifier" : "Log",
+      "scriptName" : "index2.script",
+      "handlerLine" : 4
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.439378\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2018-11-30 14:53:50 -0700\", Successes:\"0\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+      "timestamp" : "2018-11-30 14:53:50.480 -0700"
+    },
+    {
+      "identifier" : "FAILURE",
+      "message" : "STUnknownMessage ERROR: No Such Function: 'username' -- Execution Time 0:00:00 Untitled.script",
+      "timestamp" : "2018-11-30 14:53:50.537 -0700"
+    }
+  ],
+  "createdTimestamp" : "2018-11-30 14:53:50.040 -0700"
+}

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<runHistory script="SomeScript">
+ <run>
+  <RunDate>2017-10-16 13:13:13.002 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.303914</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20171016_131313.002/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-10-16 13:16:37.234 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.324154</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20171016_131637.234/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: Contacts Blue</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-10-16 13:16:44.771 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>8.889034</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20171016_131644.771/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-10-16 13:17:16.595 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>8.890465</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20171016_131716.595/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-10-16 13:31:42.165 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>9.080369</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20171016_133142.165/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

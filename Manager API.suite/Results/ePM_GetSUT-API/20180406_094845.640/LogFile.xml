@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="ePM_GetSUT.apitest" package="Manager API.suite" timestamp="2018-04-06 09:48:45.640 -0600"
+ tests="1" successes="1" errors="0" time="0.585886">
+  <properties>
+   <property name="RunDate" value="2018-04-06 09:48:45.640 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="ePM_GetSUT.apitest" assertions="1" successes="1" errors="0" time="0.583835">
+  </testcase>
+ </testsuite>
+</testsuites>

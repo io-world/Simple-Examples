@@ -1,0 +1,18 @@
+﻿
+repeat 5 times
+	insert any item of today to (today plus 10 days) into DateList
+end repeat
+sort DateList
+
+
+repeat random (0,5)  times
+	
+	put random (0,5) into RanGEN
+	if RanGEn <> 0 then	
+		put "" into items RanGEN  of DateList
+	end if
+	
+	
+end repeat
+
+log DateList

@@ -1,0 +1,25 @@
+﻿
+
+put (300,300) into StartPosition
+moveto StartPosition
+
+
+
+repeat 10 times
+	
+	put repeatindex()*30 into Adjustment
+	
+	
+	if repeatindex() mod 2 equals 0 then
+		put Adjustment * -1 into Adjustment
+	else
+		put Adjustment * 1 into Adjustment	
+	end if
+	
+	put (0,Adjustment)+StartPosition into StartPosition
+	moveto StartPosition
+	
+	put (Adjustment,0)+StartPosition into StartPosition
+	moveto StartPosition
+	
+end repeat

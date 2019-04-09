@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Master 1_script" package="OmegaCollection.suite" timestamp="2018-06-06 21:46:42.904 -0500"
+ tests="1"  failures="0" errors="0" time="0.999131">
+  <properties>
+   <property name="RunDate" value="2018-06-06 21:46:42.904 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Master 1.script" assertions="1" status="success"  time="0.997095">
+  </testcase>
+ </testsuite>
+</testsuites>

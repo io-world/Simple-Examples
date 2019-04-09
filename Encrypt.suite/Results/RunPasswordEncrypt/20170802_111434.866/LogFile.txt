@@ -1,0 +1,5 @@
+﻿2017-08-02 11:14:34.867 -0600	START		Running RunPasswordEncrypt.script
+2017-08-02 11:14:39.193 -0600	Log		password1234	11	on_runpasswordencrypt	RunPasswordEncrypt.script
+2017-08-02 11:14:40.339 -0600	Log		(:76,	19	on_runpasswordencrypt	RunPasswordEncrypt.script
+2017-08-02 11:14:41.446 -0600	EndTestCase		(Duration:"6.577186", Errors:"0", Exceptions:"0", StartTime:"2017-08-02 11:14:34 -0600", Successes:"1", TestCase:"RunPasswordEncrypt.script", Warnings:"0")
+2017-08-02 11:14:41.472 -0600	SUCCESS		Execution Time 0:00:06 RunPasswordEncrypt.script

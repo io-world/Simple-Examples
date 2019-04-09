@@ -1,0 +1,17 @@
+﻿
+
+
+put "bearer eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1MzI1NDc2ODYsImlhdCI6MTUzMjU0NDA4NiwiaXNzIjoiZWdncGxhbnRhaS5jb20iLCJ1c2VyIjp7InVzZXJuYW1lIjoicmFuZHkuaGVzc2VAdGVzdHBsYW50LmNvbSJ9fQ.PdUOSwpFncVu_wDwjf9xiJ_-aCpQlokZDztKW0LVfi8" into Header
+
+
+//log Header
+put "https://eggplantai.testplant.com/api/run" into URL
+
+
+
+put JSONFormat(modelName:"me",group:"randy@hesse@testplant.com") into requestbody
+//log requestbody
+
+
+eAI_API(httpMethod:"POST",url:URL,requestheaders:"Authorization=" &Header,requestBody:requestbody)
+log API().responseBody

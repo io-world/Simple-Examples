@@ -1,0 +1,8 @@
+﻿
+put "{[jZb GK/X_i &UY?]igT" into foo
+
+log "typing in password"
+
+TypeEncodedText foo, "KeytoUse"
+
+log "password has been typed"

@@ -1,0 +1,11 @@
+﻿2017-07-03 14:13:53.100 -0600	START		Running Test/NewPatient.script	9	on_examples_examples_example5	Examples/Examples/Example5.script
+2017-07-03 14:13:53.102 -0600	Log		777777	8	on_test_newpatient	Test/NewPatient.script
+2017-07-03 14:13:53.103 -0600	Log		Mr	9	on_test_newpatient	Test/NewPatient.script
+2017-07-03 14:13:53.104 -0600	Log		Homer	10	on_test_newpatient	Test/NewPatient.script
+2017-07-03 14:13:53.105 -0600	Log		Simpson	11	on_test_newpatient	Test/NewPatient.script
+2017-07-03 14:13:53.107 -0600	Log		9/1/80	12	on_test_newpatient	Test/NewPatient.script
+2017-07-03 14:13:53.109 -0600	Log		557-31-0655	13	on_test_newpatient	Test/NewPatient.script
+2017-07-03 14:13:53.111 -0600	Log		Male	14	on_test_newpatient	Test/NewPatient.script
+2017-07-03 14:13:53.112 -0600	Log		Married	15	on_test_newpatient	Test/NewPatient.script
+2017-07-03 14:13:53.114 -0600	EndTestCase		(Duration:"0.012939", Errors:"0", Exceptions:"0", StartTime:"2017-07-03 14:13:53 -0600", Successes:"1", TestCase:"Test/NewPatient.script", Warnings:"0")	9	on_examples_examples_example5	Examples/Examples/Example5.script
+2017-07-03 14:13:53.140 -0600	SUCCESS		Execution Time 0:00:00 Test/NewPatient.script	9	on_examples_examples_example5	Examples/Examples/Example5.script

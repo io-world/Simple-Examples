@@ -1,0 +1,6 @@
+State,Action
+Initial,Connect
+Browser,Load Chrome
+Browser,Check Pop up
+Menu,Get Converage
+Done,Quit

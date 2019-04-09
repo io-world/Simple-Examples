@@ -1,0 +1,7 @@
+﻿2017-08-29 08:42:17.927 -0600	START		Running index.script
+2017-08-29 08:42:17.993 -0600	Log		Start all of it	2	on_initialize	
+2017-08-29 08:42:18.014 -0600	Log		Connecting to server using ''...	2	on_login	
+2017-08-29 08:42:18.038 -0600	typetext		[tab]	5	on_login	
+2017-08-29 08:42:18.739 -0600	typetext			6	on_login	
+2017-08-29 08:42:19.326 -0600	EndTestCase		(Duration:"1.39763", Errors:"0", Exceptions:"0", StartTime:"2017-08-29 08:42:17 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-08-29 08:42:19.338 -0600	SUCCESS		Execution Time 0:00:01 index.script

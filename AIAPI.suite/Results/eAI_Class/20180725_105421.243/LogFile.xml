@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="eAI_Class_script" package="AIAPI.suite" timestamp="2018-07-25 10:54:21.243 -0600"
+ tests="1"  failures="2" errors="0" time="0.446908">
+  <properties>
+   <property name="RunDate" value="2018-07-25 10:54:21.243 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="eAI_Class.script" assertions="1" status="failure"  time="0.442142">
+    <failure type="FAILURE" message="STUnknownMessage ERROR: No Such Command: 'epm_api' -- Execution Time 0:00:00 eAI_Class.script" />
+    <failure type="FAILURE" message="STUnknownMessage ERROR: No Such Command: 'epm_api' -- Execution Time 0:00:00 eAI_Class.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

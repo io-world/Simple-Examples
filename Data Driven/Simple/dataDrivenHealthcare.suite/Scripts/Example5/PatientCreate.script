@@ -1,0 +1,11 @@
+﻿
+
+log global patient.MedicalRecordNumber
+log global patient.Prefix
+log global patient.FirstName
+log global patient.MiddleName
+log global patient.LastName
+log global patient.DateofBirth
+log global patient.SocialSecurityNumber
+log global patient.Gender
+log global patient.MaritalStatus

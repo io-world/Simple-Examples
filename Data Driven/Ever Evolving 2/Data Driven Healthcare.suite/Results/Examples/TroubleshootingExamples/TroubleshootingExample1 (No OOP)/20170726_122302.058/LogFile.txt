@@ -1,0 +1,12 @@
+﻿2017-07-26 12:23:02.059 -0600	START		Running Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2017-07-26 12:23:02.165 -0600	Log		333333	7	on_examples_troubleshootingexamples_troubleshootingexample1__no_oop_	Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2017-07-26 12:23:02.168 -0600	Log		Mrs	8	on_examples_troubleshootingexamples_troubleshootingexample1__no_oop_	Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2017-07-26 12:23:02.170 -0600	Log		Carrie	9	on_examples_troubleshootingexamples_troubleshootingexample1__no_oop_	Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2017-07-26 12:23:02.172 -0600	Log		Underwood	10	on_examples_troubleshootingexamples_troubleshootingexample1__no_oop_	Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2017-07-26 12:23:02.173 -0600	Log		3/16/14	11	on_examples_troubleshootingexamples_troubleshootingexample1__no_oop_	Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2017-07-26 12:23:02.176 -0600	Log		583-00-6387	12	on_examples_troubleshootingexamples_troubleshootingexample1__no_oop_	Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2017-07-26 12:23:02.178 -0600	Log		Female	13	on_examples_troubleshootingexamples_troubleshootingexample1__no_oop_	Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2017-07-26 12:23:02.180 -0600	Log		Married	14	on_examples_troubleshootingexamples_troubleshootingexample1__no_oop_	Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2017-07-26 12:23:02.263 -0600	typetext		Married	17	on_examples_troubleshootingexamples_troubleshootingexample1__no_oop_	Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2017-07-26 12:23:02.823 -0600	EndTestCase		(Duration:"0.76228", Errors:"0", Exceptions:"0", StartTime:"2017-07-26 12:23:02 -0600", Successes:"1", TestCase:"Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script", Warnings:"0")
+2017-07-26 12:23:02.859 -0600	SUCCESS		Execution Time 0:00:00 Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script

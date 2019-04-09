@@ -1,0 +1,7 @@
+﻿2018-03-16 13:28:49.641 +0530	START		Running Master.script
+2018-03-16 13:28:50.207 +0530	imagerectangle	show	at (9,74,48,91)	4	on_master	Master.script
+2018-03-16 13:28:50.720 +0530	imagerectangle	(TEXT:"Name")	at (355,100,396,112)	6	on_master	Master.script
+2018-03-16 13:28:50.868 +0530	readtext		(235,110,416,512)
+2018-03-16 13:28:50.869 +0530	Log		er Nixon\nrrett Winters\niton Cox\ndric Kelly\nSatou\nelle Williamson\nrrod Chandler\nona Davidson\nlleen Hurst\nlya Frost\nName	10	on_master	Master.script
+2018-03-16 13:28:55.841 +0530	EndTestCase		(Duration:"6.198314", Errors:"1", Exceptions:"0", StartTime:"2018-03-16 13:28:49 +0530", Successes:"0", TestCase:"Master.script", Warnings:"0")
+2018-03-16 13:28:55.842 +0530	ABORTED		Execution Time 0:00:06 Master.script

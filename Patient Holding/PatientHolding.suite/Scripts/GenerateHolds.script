@@ -1,0 +1,29 @@
+﻿
+
+
+put (type:"CSV", file:ResourcePath("WebFormDara3.csv"),writable: "Yes") into myScriptData
+
+
+put ("Created Date","Coding Date","Billing Date","Claims Date","Charge Capture Date") into ListofDates
+
+
+//put any item of today to "2018.12.31"into HoldDate
+
+
+
+
+repeat 10 times
+	
+	repeat 5 times
+		
+		put any item of today to (today plus 10 days) into HoldDate
+		put HoldDate into DD.(item repeatindex() of ListofDates)
+	end repeat
+	
+	insert DD into Patients
+end repeat
+
+
+add records Patients to myScriptData
+
+

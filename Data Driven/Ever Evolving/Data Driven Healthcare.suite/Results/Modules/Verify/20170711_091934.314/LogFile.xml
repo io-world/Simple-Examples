@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Modules/Verify.script" package="Data Driven Healthcare v2.suite" timestamp="2017-07-11 09:19:34.314 -0600"
+ tests="1" successes="0" errors="2" time="0.246714">
+  <properties>
+   <property name="RunDate" value="2017-07-11 09:19:34.314 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Modules/Verify.script" assertions="2" successes="0" errors="2" time="0.244851">
+    <failure type="LogError">The Content Name does not exist</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

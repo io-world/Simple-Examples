@@ -1,0 +1,5 @@
+﻿2017-08-18 09:46:47.998 -0500	START		Running test1.script
+2017-08-18 09:46:48.079 -0500	Log		something	1	on_test1	test1.script
+2017-08-18 09:46:48.080 -0500	Log		((Duration:"0", Errors:"0", Exceptions:"0", LogFile:"/Users/randyhesse/Documents/Simple Examples/Folders.suite/Results/test1/20170818_094647.996/LogFile.txt", RunDate:"2017-08-18 09:46:47.996 -0500", Status:"Running", Successes:"0", Warnings:"0"))	9	on_test1	test1.script
+2017-08-18 09:46:48.221 -0500	EndTestCase		(Duration:"0.220676", Errors:"0", Exceptions:"0", StartTime:"2017-08-18 09:46:48 -0500", Successes:"1", TestCase:"test1.script", Warnings:"0")
+2017-08-18 09:46:48.230 -0500	SUCCESS		Execution Time 0:00:00 test1.script

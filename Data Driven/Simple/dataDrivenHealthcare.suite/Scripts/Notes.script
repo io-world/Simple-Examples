@@ -1,0 +1,10 @@
+﻿(* 
+
+Anything That can be logged can also be typetext...
+
+ *)
+
+
+put "John" into var
+log var
+TypeText var

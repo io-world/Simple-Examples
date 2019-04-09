@@ -1,0 +1,36 @@
+﻿params ScriptName
+
+
+put suiteinfo().scriptsFolder &"/"& ScriptName into ScriptPath
+put file ScriptPath into ScriptContents
+put the number of lines of ScriptContents into Max
+
+Repeat max times
+	
+	put line repeatindex() of ScriptContents into ScriptLine
+	if ScriptLine contains "//SCA" then
+		//-----------------------------------------------------------------------------------
+		
+		if  ScriptLine contains "John"
+			LogSuccess "SCA is wirtten correctly"
+		else
+			//logError "SCA is wirtten incorrectly"
+			throw "SCA", "SCA is wirtten incorrectly"
+			exit script
+		end if
+		
+		//-----------------------------------------------------------------------------------
+	end if
+	
+End Repeat
+
+
+
+(*
+
+Try
+	click "Refresh Icon"
+Catch exception
+	Throw "Your Script is terrible", "problems:" && exception
+End try
+*)

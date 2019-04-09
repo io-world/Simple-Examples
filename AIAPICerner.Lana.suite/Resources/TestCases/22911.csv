@@ -1,0 +1,13 @@
+State,Action
+Initial,Launch Epic 2017
+HyperSpace,OK
+EVS Command Center,Create a new Request
+Cleaning Request,Bed
+Bed Select,Back
+Cleaning Request,Bed
+Bed Select,Accept
+Cleaning Request,Priority
+Cleaning Request,Unit
+Cleaning Request,Bed
+Bed Select,Cancel
+Cleaning Request,Accept

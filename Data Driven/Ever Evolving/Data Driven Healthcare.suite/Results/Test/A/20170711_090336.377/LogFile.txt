@@ -1,0 +1,8 @@
+﻿2017-07-11 09:03:36.378 -0600	START		Running Test/A.script
+2017-07-11 09:03:36.444 -0600	Log		code for Navigation for TestA 	6	on_test_a	Test/A.script
+2017-07-11 09:03:36.575 -0600	click	Test/A/Contacts	at (51, 600)	9	on_test_a	Test/A.script
+2017-07-11 09:03:36.628 -0600	imagefound	Test/A/Contacts/Contacts 01.png	found at (51, 600)	19	on_content	Modules/Verify.script
+2017-07-11 09:03:36.630 -0600	Log		Image was found: Test/A/Contacts/Contacts 01.png	20	on_content	Modules/Verify.script
+2017-07-11 09:03:36.650 -0600	Exception	2	Could Not Open Image: 2	19	on_content	Modules/Verify.script
+2017-07-11 09:03:36.846 -0600	EndTestCase		(Duration:"0.467062", Errors:"1", Exceptions:"1", StartTime:"2017-07-11 09:03:36 -0600", Successes:"0", TestCase:"Test/A.script", Warnings:"0")
+2017-07-11 09:03:36.901 -0600	FAILURE	Screen_Error.png	File Not Found imagefound Error - Could Not Open Image: 2 -- Execution Time 0:00:00 Test/A.script

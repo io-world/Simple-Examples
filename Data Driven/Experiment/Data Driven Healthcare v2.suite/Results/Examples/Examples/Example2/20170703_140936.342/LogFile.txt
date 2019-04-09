@@ -1,0 +1,10 @@
+﻿2017-07-03 14:09:36.342 -0600	START		Running Examples/Examples/Example2.script
+2017-07-03 14:09:36.453 -0600	Log		(Password:"PaSwOrD", username:"Wareen")	14	on_examples_examples_example2	Examples/Examples/Example2.script
+2017-07-03 14:09:36.455 -0600	Log		PaSwOrD	15	on_examples_examples_example2	Examples/Examples/Example2.script
+2017-07-03 14:09:36.490 -0600	Log			19	on_examples_examples_example2	Examples/Examples/Example2.script
+2017-07-03 14:09:36.493 -0600	Log			20	on_examples_examples_example2	Examples/Examples/Example2.script
+2017-07-03 14:09:36.500 -0600	Log		9	27	on_examples_examples_example2	Examples/Examples/Example2.script
+2017-07-03 14:09:36.506 -0600	Log		Medical Record Number,Prefix,First Name,Middle Name,Last Name,Date of Birth,Social Security Number,Gender,Marital Status	28	on_examples_examples_example2	Examples/Examples/Example2.script
+2017-07-03 14:09:36.521 -0600	Log		(222222,333333,444444,555555,666666,777777,888888,999999,101010)	31	on_examples_examples_example2	Examples/Examples/Example2.script
+2017-07-03 14:09:36.886 -0600	EndTestCase		(Duration:"0.542354", Errors:"0", Exceptions:"0", StartTime:"2017-07-03 14:09:36 -0600", Successes:"1", TestCase:"Examples/Examples/Example2.script", Warnings:"0")
+2017-07-03 14:09:36.920 -0600	SUCCESS		Execution Time 0:00:00 Examples/Examples/Example2.script

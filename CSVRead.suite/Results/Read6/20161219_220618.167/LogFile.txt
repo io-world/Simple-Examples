@@ -1,4 +1,0 @@
-﻿2016-12-19 22:06:18.167 -0800	START		Running Read6.script
-2016-12-19 22:06:18.758 -0800	Log		(Date_of_Birth:"6/13/06", First_Name:"Bruce", Gender:"Male", Last_Name:"Wayne", Marital_Status:"Single", Medical_Record_Number:"222222", Middle_Name:"", Prefix:"Mr", Social_Security_Number:"113-83-3798")	28	on_read6	Read6.script
-2016-12-19 22:06:18.917 -0800	EndTestCase		(Duration:"0.748027", Errors:"0", Exceptions:"0", StartTime:"2016-12-19 22:06:18 -0800", Successes:"1", TestCase:"Read6.script", Warnings:"0")
-2016-12-19 22:06:18.929 -0800	SUCCESS		Execution Time 0:00:00 Read6.script

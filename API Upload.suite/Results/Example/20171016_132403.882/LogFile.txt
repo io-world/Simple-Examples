@@ -1,0 +1,4 @@
+﻿2017-10-16 13:24:03.883 -0600	START		Running Untitled.script
+2017-10-16 13:24:03.939 -0600	Log		((Duration:"0", Errors:"0", Exceptions:"0", LogFile:"/Users/randyhesse/Documents/Simple Examples/API Upload.suite/Results/Untitled/20171016_132403.882/LogFile.txt", RunDate:"2017-10-16 13:24:03.882 -0600", Status:"Running", Successes:"0", Warnings:"0"))	3	on_untitled	Untitled.script
+2017-10-16 13:24:04.301 -0600	EndTestCase		(Duration:"0.41716", Errors:"0", Exceptions:"0", StartTime:"2017-10-16 13:24:03 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2017-10-16 13:24:04.330 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

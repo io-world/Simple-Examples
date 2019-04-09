@@ -1,0 +1,10 @@
+﻿2017-10-16 13:31:42.166 -0600	START		Running SomeScript.script
+2017-10-16 13:31:42.214 -0600	connect		Tutorial Connection:(null)	2	on_somescript	SomeScript.script
+2017-10-16 13:31:42.215 -0600	Log		start Script	3	on_somescript	SomeScript.script
+2017-10-16 13:31:42.423 -0600	click	Contacts	at (53, 600)	6	on_somescript	SomeScript.script
+2017-10-16 13:31:46.460 -0600	capturescreen	Some Screen.png		9	on_somescript	SomeScript.script
+2017-10-16 13:31:46.673 -0600	click	Downloads	at (372, 601)	10	on_somescript	SomeScript.script
+2017-10-16 13:31:50.883 -0600	click	History	at (268, 599)	12	on_somescript	SomeScript.script
+2017-10-16 13:31:50.884 -0600	Log		End of Script	16	on_somescript	SomeScript.script
+2017-10-16 13:31:51.246 -0600	EndTestCase		(Duration:"9.078114", Errors:"0", Exceptions:"0", StartTime:"2017-10-16 13:31:42 -0600", Successes:"1", TestCase:"SomeScript.script", Warnings:"0")
+2017-10-16 13:31:51.265 -0600	SUCCESS		Execution Time 0:00:09 SomeScript.script

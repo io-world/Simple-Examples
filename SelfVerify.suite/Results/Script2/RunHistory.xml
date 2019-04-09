@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Script2">
+ <run>
+  <RunDate>2018-10-18 10:07:55.328 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.541214</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181018_100755.328/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 10:09:02.676 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.262284</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181018_100902.676/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 10:10:01.763 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.287121</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181018_101001.763/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 10:10:12.461 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.296363</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181018_101012.461/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 10:10:59.734 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.277011</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181018_101059.734/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 10:12:43.049 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.272256</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181018_101243.049/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 10:13:26.542 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.287211</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181018_101326.542/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 10:14:01.748 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.351197</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181018_101401.748/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SCA -- SCA is wirtten incorrectly</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 10:14:39.553 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.268722</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181018_101439.553/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SCA -- SCA is wirtten incorrectly</ErrorMessage>
+ </run>
+</runHistory>

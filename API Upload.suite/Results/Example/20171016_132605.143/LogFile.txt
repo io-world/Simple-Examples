@@ -1,0 +1,4 @@
+﻿2017-10-16 13:26:05.145 -0600	START		Running Untitled.script
+2017-10-16 13:26:05.198 -0600	Log		(RunHistory.csv,RunHistory.xml)	14	on_untitled	Untitled.script
+2017-10-16 13:26:05.556 -0600	EndTestCase		(Duration:"0.40982", Errors:"0", Exceptions:"0", StartTime:"2017-10-16 13:26:05 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2017-10-16 13:26:05.585 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

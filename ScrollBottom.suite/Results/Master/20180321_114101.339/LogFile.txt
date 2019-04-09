@@ -1,0 +1,6 @@
+﻿2018-03-21 11:41:01.340 +0530	START		Running Master.script
+2018-03-21 11:41:01.939 +0530	imagerectangle	name	at (345,94,419,119)	4	on_master	Master.script
+2018-03-21 11:41:02.123 +0530	readtext		(145,114,619,319)
+2018-03-21 11:41:02.123 +0530	Log		Tiger Nixon\nSystem\nJohn Winters\nAccount\nAustin Cox\nJunior Ti\nCharles Kelly\nSenior J\nAmanda Satou\nAccount\nBrielle Williamson\nIntegrati\nHerrod Chandler\nSales A;	6	on_master	Master.script
+2018-03-21 11:41:05.364 +0530	EndTestCase		(Duration:"4.022616", Errors:"0", Exceptions:"0", StartTime:"2018-03-21 11:41:01 +0530", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-03-21 11:41:05.384 +0530	SUCCESS		Execution Time 0:00:04 Master.script

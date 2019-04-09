@@ -1,0 +1,20 @@
+﻿//--Turn On Usability Mode 
+set the usabilityMode to True
+set the usability_delayToCheckForImageMovement to 3 seconds 
+
+
+Click "Start"
+Click "Web Bowser Icon"
+WaitFor 3.5, "Refresh Icon"
+Click Image:"Magnifying Glass"
+
+//--Turn Off Usability Mode 
+set the usabilityMode to False
+
+
+TypeText "www.eggplant.io"
+TypeText returnKey
+WaitFor 5.0, "Eggplant Logo"
+WaitFor 3.5, "Refresh Icon"
+
+

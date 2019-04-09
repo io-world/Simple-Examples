@@ -1,3 +1,0 @@
-﻿2016-12-01 09:40:07.579 -0700	START		Running Untitled.script
-2016-12-01 09:40:10.992 -0700	EndTestCase		(Duration:"3.410941", Errors:"0", Exceptions:"0", StartTime:"2016-12-01 09:40:07 -0700", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
-2016-12-01 09:40:11.046 -0700	SUCCESS		Execution Time 0:00:03 Untitled.script

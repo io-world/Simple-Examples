@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-08-02 13:23:39.811 -0600,"Success",0:00:00,0,0,0,"20180802_132339.811/LogFile.txt","","",1
+2018-08-02 13:23:47.249 -0600,"Success",0:00:00,0,0,0,"20180802_132347.249/LogFile.txt","","",1
+2018-08-02 13:23:52.422 -0600,"Success",0:00:00,0,0,0,"20180802_132352.422/LogFile.txt","","",1

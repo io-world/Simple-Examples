@@ -1,0 +1,59 @@
+﻿
+
+to GetSutID SUT_name
+	//put "Windows 10" into SUT_name //What am I looking for ??
+	ePM_API(httpMethod:"GET",url:"http://127.0.0.1:8080/api/sut",username:"admin",password:"admin")
+	put JSONValue(API().responseBody)  into SUTList
+	put the number of items of SUTList.suts into SUT_count
+	
+	repeat SUT_count times
+		put item repeatindex() of SUTList.suts into SUT_information
+		//log SUT_information.name &":"& SUT_information._id
+		if SUT_name = SUT_information.name then
+			put (SUT_information.name,SUT_information._id) into SUT_information
+		end if
+	end repeat
+	
+	//log SUT_information
+	return item 2 of SUT_information
+end GetSutID
+
+to GetUserID User_Name
+	ePM_API(httpMethod:"GET",url:"http://127.0.0.1:8080/api/user",username:"admin",password:"admin")
+	put JSONValue(API().responseBody)  into UserList
+	put the number of items of UserList.users into User_count
+	
+	repeat User_count times
+		put item repeatindex() of UserList.users into User_information
+		//log User_information.name &":"& User_information._id
+		if (User_Name = User_information.name) then
+			put (User_information.name,User_information._id) into User_information
+		end if
+	end repeat
+	//log User_information
+	return  item 2 of User_information
+end GetUserID
+
+
+to MakeResveration User_ID , SUT_ID , Start_time , End_time
+	log "The User id os" & User_ID
+	
+	(*	put "582cce9e5472610322000001" into  SUT_ID
+	put "570c0a66547261080b00000b" into User_ID
+	put "2018-05-02T06:00:00+00:00"  into Start_time
+	put "2018-05-02T06:14:59+00:00" into End_time*)
+	put JSONFormat((user_id:User_ID,sut_id:SUT_ID,start_time:Start_time,end_time:End_time)) into requestbody
+	ePM_API(httpMethod:"POST",url:"http://127.0.0.1:8080/api/sut_reservation/create",username:"admin",password:"admin",requestBodyFormat:"JSON (application/json)",requestBody:requestbody)
+	put  JSONValue(API().responseBody) into Output
+	
+	//log Output.listen_port
+	return Output.listen_port
+end MakeResveration
+
+to ConnectTo
+
+	Connect (serverID:"127.0.0.1",portNum:"5902",Password:"Spr1ng",type:"VNC")
+	
+	
+	
+end ConnectTo

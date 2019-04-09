@@ -1,0 +1,123 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Index">
+ <run>
+  <RunDate>2017-07-03 13:59:40.979 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.562678</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170703_135940.979/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: Test/A/Contacts</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-16 16:27:30.164 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>450.531468</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170816_162730.164/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-18 10:51:06.777 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.314460</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170818_105106.777/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Wrong file type (must be &#x27;xls&#x27; or &#x27;xlsx&#x27; file): /Users/randyhesse/Documents/Demos/(/)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-18 10:51:21.415 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.318835</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170818_105121.415/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Wrong file type (must be &#x27;xls&#x27; or &#x27;xlsx&#x27; file): /Users/randyhesse/Documents/Demos/(/)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-12 14:44:33.774 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.685689</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180112_144433.774/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Wrong file type (must be &#x27;xls&#x27; or &#x27;xlsx&#x27; file): /Users/randyhesse/Documents/Demos/(/)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-03 16:12:28.003 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.342241</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180403_161228.003/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileException -- File /Users/randyhesse/Documents/Simple Examples/Data Driven/Ever eveloping Excel/Data Driven Healthcare.suite/Resources/PatientInformation.xlsx couldn&#x27;t be read using the defaultStringEncoding (UTF8)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-04 10:08:34.669 -0600</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors></Errors>
+  <Warnings></Warnings>
+  <Exceptions></Exceptions>
+  <Successes></Successes>
+  <LogFile>20180404_100834.669/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-04 10:08:43.208 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.413324</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180404_100843.208/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Wrong file type (must be &#x27;xls&#x27; or &#x27;xlsx&#x27; file): /Users/randyhesse/Documents/(/)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-04 10:09:49.448 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.422741</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180404_100949.448/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Wrong file type (must be &#x27;xls&#x27; or &#x27;xlsx&#x27; file): /Users/randyhesse/Documents/(/)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-04-04 10:11:25.239 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.433056</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180404_101125.239/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Wrong file type (must be &#x27;xls&#x27; or &#x27;xlsx&#x27; file): /Users/randyhesse/Documents/(/)</ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,9 @@
+﻿2018-03-17 17:44:32.368 +0530	START		Running Index.script
+2018-03-17 17:44:32.703 +0530	connect		Windows 10:(null)	3	on_index	Index.script
+2018-03-17 17:44:32.727 +0530	typetext		[windowsKey]r	5	on_index	Index.script
+2018-03-17 17:44:33.528 +0530	typetext		notepad[enter]	6	on_index	Index.script
+2018-03-17 17:44:35.797 +0530	typetext		Hello From Test Plant	8	on_index	Index.script
+2018-03-17 17:44:36.515 +0530	typetext		[enter]	9	on_index	Index.script
+2018-03-17 17:44:37.357 +0530	typetext		second Line	10	on_index	Index.script
+2018-03-17 17:44:37.414 +0530	EndTestCase		(Duration:"5.042064", Errors:"0", Exceptions:"0", StartTime:"2018-03-17 17:44:32 +0530", Successes:"1", TestCase:"Index.script", Warnings:"0")
+2018-03-17 17:44:37.419 +0530	SUCCESS		Execution Time 0:00:05 Index.script

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="Click">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2018-06-11 14:05:29 -0600</FirstRun>
+  <LastRun>2018-06-11 14:05:29 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="attemptRecovery">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2018-06-06 15:38:58 -0500</FirstRun>
+  <LastRun>2018-06-12 08:24:12 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Master 2">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2018-06-11 13:58:28 -0600</FirstRun>
+  <LastRun>2018-06-11 13:58:28 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Master 1">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>146</NumberOfRuns>
+  <NumberOfFails>80</NumberOfFails>
+  <FirstRun>2018-06-05 23:16:42 -0500</FirstRun>
+  <LastRun>2018-06-12 08:26:50 -0600</LastRun>
+  <TotalTimeOnSuccess>297.219783</TotalTimeOnSuccess>
+ </script>
+</statistics>

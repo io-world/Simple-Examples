@@ -1,0 +1,22 @@
+﻿params Patent
+
+
+log "-------------------------------------"
+log  "Claims the Patient" && Patientdata."medical record number"
+log "Frist Name" && Patent."first name"
+log "Middle Name" && Patent."middle name"
+log "Last Name" && Patent."last name"
+
+
+
+
+
+
+
+
+
+
+if random(1,4) = 4 then
+	logerror "Script Errored out"
+	
+end if

@@ -1,0 +1,7 @@
+﻿2018-06-11 13:01:51.101 -0600	START		Running Untitled1.script
+2018-06-11 13:01:58.387 -0600	LogWarning		Unable to Find Image(s): chrome.png -- AutoUpdate engaged	1	on_untitled1	Untitled1.script
+2018-06-11 13:01:59.367 -0600	AutoUpdateCaptureScreen	AutoUpdate_0001.png		1	on_untitled1	Untitled1.script
+2018-06-11 13:01:59.369 -0600	AutoUpdateWarning	chrome.png	Found Alternate Image -- Using Dynamic Tolerance 55	1	on_untitled1	Untitled1.script	"Name" = "Dynamic Tolerance"; "Info" = "55"; 
+2018-06-11 13:02:00.335 -0600	click	chrome.png	at (186, 141)	1	on_untitled1	Untitled1.script
+2018-06-11 13:02:00.627 -0600	EndTestCase		(Duration:"9.523701", Errors:"0", Exceptions:"0", StartTime:"2018-06-11 13:01:51 -0600", Successes:"1", TestCase:"Untitled1.script", Warnings:"1")
+2018-06-11 13:02:00.645 -0600	SUCCESS		Execution Time 0:00:09 Untitled1.script

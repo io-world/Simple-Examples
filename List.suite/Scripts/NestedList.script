@@ -1,0 +1,11 @@
+﻿insert ("apple","bananas","chips") nested into Glist
+insert ("WOO","FOO","NOO") nested into Glist
+
+
+log glist
+
+log item 1 of item 1 of glist
+
+
+
+log item 3 of item 2 of glist

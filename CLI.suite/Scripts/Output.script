@@ -1,0 +1,33 @@
+3/17/18, 5:44:32 PM	START		Running Index.script
+3/17/18, 5:44:32 PM	connect		Windows 10:(null)
+3/17/18, 5:44:32 PM	typetext		[windowsKey]r
+3/17/18, 5:44:33 PM	typetext		notepad[enter]
+3/17/18, 5:44:35 PM	typetext		Hello From Test Plant
+3/17/18, 5:44:36 PM	typetext		[enter]
+3/17/18, 5:44:37 PM	typetext		second Line
+3/17/18, 5:44:37 PM	EndTestCase		(Duration:"5.042064", Errors:"0", Exceptions:"0", StartTime:"2018-03-17 17:44:32 +0530", Successes:"1", TestCase:"Index.script", Warnings:"0")
+3/17/18, 5:44:37 PM	SUCCESS		Execution Time 0:00:05 Index.script
+3/17/18, 5:46:05 PM	START		Running Index.script
+3/17/18, 5:46:05 PM	connect		Windows 10:(null)
+3/17/18, 5:46:05 PM	typetext		[windowsKey]r
+3/17/18, 5:46:06 PM	typetext		notepad[enter]
+3/17/18, 5:46:09 PM	typetext		Hello From Test Plant
+3/17/18, 5:46:09 PM	typetext		[enter]
+3/17/18, 5:46:10 PM	typetext		second Line
+3/17/18, 5:46:10 PM	capturescreen	Screen Shot.png	
+3/17/18, 5:46:10 PM	EndTestCase		(Duration:"5.174886", Errors:"0", Exceptions:"0", StartTime:"2018-03-17 17:46:05 +0530", Successes:"1", TestCase:"Index.script", Warnings:"0")
+3/17/18, 5:46:10 PM	SUCCESS		Execution Time 0:00:05 Index.script
+11/30/18, 2:46:51 PM	START		Running Index.script
+11/30/18, 2:46:51 PM	connect		Windows 10:(null)
+11/30/18, 2:46:51 PM	typetext		[windowsKey]r
+11/30/18, 2:46:52 PM	typetext		notepad[enter]
+11/30/18, 2:46:54 PM	typetext		Hello From Test Plant
+11/30/18, 2:46:55 PM	typetext		[enter]
+11/30/18, 2:46:56 PM	typetext		second Line
+11/30/18, 2:46:56 PM	capturescreen	Screen Shot.png	
+11/30/18, 2:46:56 PM	EndTestCase		(Duration:"5.430796", Errors:"0", Exceptions:"0", StartTime:"2018-11-30 14:46:51 -0700", Successes:"1", TestCase:"Index.script", Warnings:"0")
+11/30/18, 2:46:56 PM	SUCCESS		Execution Time 0:00:05 Index.script
+11/30/18, 2:47:50 PM	START		Running index2.script
+11/30/18, 2:47:50 PM	Log		Hello From Test Plant
+11/30/18, 2:47:50 PM	EndTestCase		(Duration:"0.092137", Errors:"0", Exceptions:"0", StartTime:"2018-11-30 14:47:50 -0700", Successes:"1", TestCase:"index2.script", Warnings:"0")
+11/30/18, 2:47:50 PM	SUCCESS		Execution Time 0:00:00 index2.script

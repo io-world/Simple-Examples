@@ -1,0 +1,12 @@
+State,Action
+Initial,Start
+Browser,IE
+Amazon Addres,UK
+Login Screen,get my password from file
+Login Screen,Close Browser
+Login Screen,Back
+Amazon Addres,UK
+Login Screen,Enter Username
+Login Screen,Enter Password
+Login Screen,click login Button
+Home,Verify

@@ -1,0 +1,10 @@
+State,Action
+Initial,Start
+Entrance,ER
+Department Transfer,Transfer to
+Ambulatory,back
+Department Transfer,Transfer to
+Cupid,x-ray
+Cupid,Back
+Department Transfer,Transfer to
+discharge,patient leaves

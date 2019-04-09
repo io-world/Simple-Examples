@@ -1,0 +1,10 @@
+﻿2018-06-11 15:40:45.170 -0600	START		Running Master 1.script
+2018-06-11 15:40:59.400 -0600	Exception	Chrome	No Image Found On Screen: "Chrome"	1	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 15:41:13.432 -0600	imagerectangle	Chrome	at (165,110,212,157)	4	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 15:41:13.435 -0600	Log		Error Name: Runtime Error at line 1: Image Not Found - click Error - No Image Found On Screen: "Chrome"	19	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:41:13.439 -0600	Log		Action Name: click	20	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:41:13.441 -0600	Log		Image Name: 	21	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:41:13.442 -0600	Log		New Collection: 	22	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:41:13.443 -0600	Log			23	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:41:13.794 -0600	EndTestCase		(Duration:"28.623212", Errors:"1", Exceptions:"1", StartTime:"2018-06-11 15:40:45 -0600", Successes:"0", TestCase:"Master 1.script", Warnings:"0")
+2018-06-11 15:41:14.566 -0600	FAILURE	Screen_Error.png	STFileSystemException Failed to create folder  -- Execution Time 0:00:28 Master 1.script

@@ -1,4 +1,0 @@
-﻿2016-09-29 10:12:14.246 -0600	START		Running index.script
-2016-09-29 10:12:14.300 -0600	Log		10	6	on_index	index.script
-2016-09-29 10:12:14.562 -0600	EndTestCase		(Duration:"0.314106", Errors:"1", Exceptions:"0", StartTime:"2016-09-29 10:12:14 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-09-29 10:12:14.989 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: 'scriptresults' was called as a Command, but is only available as a Function -- Execution Time 0:00:00 index.script

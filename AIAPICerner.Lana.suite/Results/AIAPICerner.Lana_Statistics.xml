@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="AI_Reports">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>51</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2018-07-25 10:54:21 -0600</FirstRun>
+  <LastRun>2018-08-22 15:09:22 -0600</LastRun>
+  <TotalTimeOnSuccess>80.607765</TotalTimeOnSuccess>
+ </script>
+ <script name="NewFolder/Untitled">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-07-25 21:08:09 -0600</FirstRun>
+  <LastRun>2018-07-25 21:08:54 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Sample-API">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>12</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-07-25 10:57:04 -0600</FirstRun>
+  <LastRun>2018-07-25 14:54:19 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="CreateTestCase">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>9</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2018-08-22 14:38:50 -0600</FirstRun>
+  <LastRun>2018-08-22 15:02:54 -0600</LastRun>
+  <TotalTimeOnSuccess>7.370740</TotalTimeOnSuccess>
+ </script>
+ <script name="Run EAI-API">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>28</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2018-07-25 11:53:23 -0600</FirstRun>
+  <LastRun>2018-08-01 13:44:57 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="NewFolder/Run eAI Model">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>16</NumberOfRuns>
+  <NumberOfFails>9</NumberOfFails>
+  <FirstRun>2018-07-25 11:52:13 -0600</FirstRun>
+  <LastRun>2018-07-25 15:09:33 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+</statistics>

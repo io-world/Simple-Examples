@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="RunScriptEncrypt.script" package="Encrypt.suite" timestamp="2017-07-17 22:59:22.145 -0400"
+ tests="1" successes="0" errors="1" time="0.002014">
+  <properties>
+   <property name="RunDate" value="2017-07-17 22:59:22.145 -0400"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="RunScriptEncrypt.script" assertions="1" successes="0" errors="1" time="0.000626">
+  </testcase>
+ </testsuite>
+</testsuites>

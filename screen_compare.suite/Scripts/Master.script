@@ -1,0 +1,9 @@
+﻿
+
+
+
+
+
+
+screen_compare "ScreenshotA", "ScreenshotB" , "newimage" , "newtext"
+

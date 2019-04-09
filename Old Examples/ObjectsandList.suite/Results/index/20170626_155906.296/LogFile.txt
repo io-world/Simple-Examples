@@ -1,0 +1,7 @@
+﻿2017-06-26 15:59:06.297 -0600	START		Running index.script
+2017-06-26 15:59:06.414 -0600	Log		We are this 9	2	on_foo	mod.script
+2017-06-26 15:59:06.423 -0600	Log		We are this 9	2	on_foo	
+2017-06-26 15:59:06.430 -0600	Log		We are this 9	2	on_foo	mod.script
+2017-06-26 15:59:06.437 -0600	Log		9	14	on_index	index.script
+2017-06-26 15:59:06.697 -0600	EndTestCase		(Duration:"0.398378", Errors:"0", Exceptions:"0", StartTime:"2017-06-26 15:59:06 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-06-26 15:59:06.711 -0600	SUCCESS		Execution Time 0:00:00 index.script

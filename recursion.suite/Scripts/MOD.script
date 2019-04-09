@@ -1,0 +1,9 @@
+﻿params var
+
+
+
+put var+ 1 into var
+
+log var
+
+run me var

@@ -1,0 +1,4 @@
+﻿2017-07-11 13:01:41.473 -0600	START		Running index.script
+2017-07-11 13:01:41.512 -0600	Log		(long_name:"Chicago", short_name:"Chicago", types:(locality,political))	6	on_index	index.script
+2017-07-11 13:01:41.706 -0600	EndTestCase		(Duration:"0.231907", Errors:"0", Exceptions:"0", StartTime:"2017-07-11 13:01:41 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-07-11 13:01:41.712 -0600	SUCCESS		Execution Time 0:00:00 index.script

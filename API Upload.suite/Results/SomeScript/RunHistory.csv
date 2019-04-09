@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-10-16 13:13:13.002 -0600,"Success",0:00:00,0,0,0,"20171016_131313.002/LogFile.txt","","",1
+2017-10-16 13:16:37.234 -0600,"Failure",0:00:00,1,0,1,"20171016_131637.234/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Contacts Blue",0
+2017-10-16 13:16:44.771 -0600,"Success",0:00:08,0,0,0,"20171016_131644.771/LogFile.txt","","",1
+2017-10-16 13:17:16.595 -0600,"Success",0:00:08,0,0,0,"20171016_131716.595/LogFile.txt","","",1
+2017-10-16 13:31:42.165 -0600,"Success",0:00:09,0,0,0,"20171016_133142.165/LogFile.txt","","",1

@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-09-05 08:12:37.088 -0600,"Success",0:00:00,0,0,0,"20170905_081237.088/LogFile.txt","","",1
+2017-09-05 08:12:52.741 -0600,"Success",0:00:00,0,0,0,"20170905_081252.741/LogFile.txt","","",1
+2017-09-05 08:12:56.950 -0600,"Failure",0:00:00,1,0,0,"20170905_081256.950/LogFile.txt","","Unknown Property or Function -- Unable to access global property or function 'RESULTS'",0
+2017-09-05 08:20:57.112 -0600,"Failure",0:00:00,1,0,0,"20170905_082057.112/LogFile.txt","","Unknown Property or Function -- Unable to access global property or function 'RESULTS'",0
+2017-09-05 08:21:02.291 -0600,"Success",0:00:00,0,0,0,"20170905_082102.291/LogFile.txt","","",1

@@ -1,0 +1,14 @@
+State,Action
+Initial,Launch Epic 2017
+HyperSpace,Enter Department
+HyperSpace,Enter Password
+HyperSpace,Login
+HyperSpace,Choose Instance
+HyperSpace,Choose Instance
+HyperSpace,Enter Username
+HyperSpace,OK
+EVS Command Center,Create a new Request
+Cleaning Request,Bed
+Bed Select,Cancel
+Cleaning Request,Unit
+Cleaning Request,Accept

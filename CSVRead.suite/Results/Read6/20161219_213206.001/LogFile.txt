@@ -1,7 +1,0 @@
-﻿2016-12-19 21:32:06.002 -0800	START		Running Read6.script
-2016-12-19 21:32:06.155 -0800	Log		PatientLine:Prefix,First_Name,Middle_Name,Last_Name,Medical_Record_Number,Date_of_Birth,Social_Security_Number,Gender,Marital_Status	10	on_read6	Read6.script
-2016-12-19 21:32:08.455 -0800	Log		PatientLine:Mr,Bruce,,Wayne,222222,6/13/06,113-83-3798,Male,Single	10	on_read6	Read6.script
-2016-12-19 21:32:10.383 -0800	Log		("":"", @"113-83-3798":"113-83-3798", @"222222":"222222", @"6/13/06":"6/13/06", Bruce:"Bruce", Male:"Male", Mr:"Mr", Single:"Single", Wayne:"Wayne")	24	on_read6	Read6.script
-2016-12-19 21:32:10.401 -0800	Log			29	on_read6	Read6.script
-2016-12-19 21:32:10.628 -0800	EndTestCase		(Duration:"4.624709", Errors:"0", Exceptions:"0", StartTime:"2016-12-19 21:32:06 -0800", Successes:"1", TestCase:"Read6.script", Warnings:"0")
-2016-12-19 21:32:10.641 -0800	SUCCESS		Execution Time 0:00:04 Read6.script

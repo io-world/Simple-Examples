@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Script1.script",
+      "timestamp" : "2018-12-07 18:38:27.285 -0700"
+    },
+    {
+      "handlerName" : "on_selfvalidate",
+      "message" : "SCA is wirtten correctly",
+      "timestamp" : "2018-12-07 18:38:27.653 -0700",
+      "identifier" : "LogSuccess",
+      "scriptName" : "SelfValidate.script",
+      "handlerLine" : 15
+    },
+    {
+      "handlerName" : "on_script1",
+      "message" : "YES",
+      "timestamp" : "2018-12-07 18:38:27.669 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Script1.script",
+      "handlerLine" : 8
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.548311\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2018-12-07 18:38:27 -0700\", Successes:\"1\", TestCase:\"Script1.script\", Warnings:\"0\")",
+      "timestamp" : "2018-12-07 18:38:27.846 -0700"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Script1.script",
+      "timestamp" : "2018-12-07 18:38:27.870 -0700"
+    }
+  ],
+  "createdTimestamp" : "2018-12-07 18:38:27.297 -0700"
+}

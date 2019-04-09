@@ -1,0 +1,4 @@
+﻿2018-06-05 23:21:24.805 -0500	START		Running Master.script
+2018-06-05 23:21:25.576 -0500	click	Chrome	at (648, 231)	1	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-05 23:21:25.797 -0500	EndTestCase		(Duration:"0.990422", Errors:"0", Exceptions:"0", StartTime:"2018-06-05 23:21:24 -0500", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-06-05 23:21:25.816 -0500	SUCCESS		Execution Time 0:00:00 Master.script

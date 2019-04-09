@@ -1,0 +1,85 @@
+﻿params PatientCount
+
+
+
+
+//put 2 into PatientCount
+
+put URL ("https://uinames.com/api/?amount="&PatientCount&"&region=United%20States") into APIPatientList
+put APIPatientList as an object into APIPatientList
+
+
+//log APIPatientList
+
+repeat PatientCount times
+	
+	
+	put item repeatindex()  of APIPatientList into APIPatient
+	put capitalized(APIPatient.gender) into Patient."Gender"
+	put APIPatient.name into Patient."First Name"
+	put APIPatient.surname into Patient."Last Name"
+	put any item of (A..Z) into Patient."Middle Name"
+	put any item of "1970-01-01" to today into Patient."Date of Birth"
+	
+	
+	if Patient."Gender" = "female" then
+		put any item of ("Ms","Ms","Mrs","Mrs","Dr")  into Patient.Suffix
+	else
+		put any item of ("Mr","Mr","Dr")  into Patient.Suffix
+	end if
+	
+	//----------------------------------------------------------------------------------------------------------
+	if Patient."Gender" = "female" and if Patient."Suffix" = "Ms" then
+		put any item of ("Single","Divorced","Widowed","Separated","Domestic") into Patient."Marital Status"
+	else if Patient."Gender" = "female" and if Patient."Suffix" = "Mrs" then
+		put "Married" into Patient."Marital Status"
+	else
+		put any item of ("Married","Single","Divorced","Widowed","Separated","Domestic") into Patient."Marital Status"
+	end if
+	
+	
+	
+	put the numberFormat into defualtNumberFormat
+	set the numberFormat to "000000"
+	put random(000000, 999999) as text into Patient."Medical Record Number"
+	set the numberFormat to "000000000"
+	put random(000000000, 999999999) as text into SocialSecurity
+	set the numberFormat to defualtNumberFormat
+	
+	
+	put  (chars 1 to 3 of SocialSecurity & "-" & chars 4 to 5 of SocialSecurity & "-" & chars 6 to 9 of SocialSecurity) into Patient."Social Security Number"
+	
+	
+	
+	//----------------------------------------------------------------------------------------------------------
+	put empty into DateList
+	repeat 5 times
+		insert any item of today to (today plus 10 days) into DateList
+	end repeat
+	sort DateList
+	
+	repeat random (0,5)  times
+		
+		put random (0,5) into RanGEN
+		if RanGEN <> 0 then	
+			put "" into items RanGEN  of DateList
+		end if
+		
+		
+	end repeat
+	
+	
+	put (item 1 of DateList) into Patient."Created Date"
+	put (item 2 of DateList) into Patient."Coding Date"
+	put (item 3 of DateList) into Patient."Billing Date"
+	put (item 4 of DateList) into Patient."Claims Date"
+	put (item 5 of DateList) into Patient."Charge Capture Date"
+	
+	insert Patient into PatientList
+	
+	
+	
+end repeat
+
+return PatientList
+

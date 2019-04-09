@@ -1,0 +1,195 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Example Write1">
+ <run>
+  <RunDate>2017-08-26 16:30:31.391 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.308280</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170826_163031.391/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Worksheet Results doesn&#x27;t exist</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-26 16:30:58.133 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.246570</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170826_163058.133/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Worksheet Results doesn&#x27;t exist</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-26 16:31:23.173 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.245282</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170826_163123.173/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-26 16:31:46.898 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.254016</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170826_163146.898/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-10 15:53:51.169 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.348895</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181010_155351.169/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-10 15:54:54.435 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.346176</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181010_155454.435/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-10 15:58:32.089 -0400</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.324475</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181010_155832.089/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Cell Error -- Cell identifier must be either two positive numbers (row, column) or a letter-number identifier (like &quot;C6&quot;). Got (B,2)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-10 15:58:41.811 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.312252</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181010_155841.811/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-10 15:58:59.305 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.329599</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181010_155859.305/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-10 15:59:03.024 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.308644</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181010_155903.024/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-10 15:59:12.830 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.315585</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181010_155912.830/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-10 16:00:30.978 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.346655</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181010_160030.978/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-10 16:00:46.337 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.310723</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181010_160046.337/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-10 16:01:03.903 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>0.323761</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181010_160103.903/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-10 16:02:03.191 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>2.325398</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181010_160203.191/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-10 16:02:35.109 -0400</RunDate>
+  <Status>Success</Status>
+  <Duration>2.336014</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181010_160235.109/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,20 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running index2.script",
+      "timestamp" : "2018-11-30 14:57:11.059 -0700"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.071476\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2018-11-30 14:57:11 -0700\", Successes:\"0\", TestCase:\"index2.script\", Warnings:\"0\")",
+      "timestamp" : "2018-11-30 14:57:11.133 -0700"
+    },
+    {
+      "identifier" : "FAILURE",
+      "message" : "STUnknownMessage ERROR: 'params' was called as a Command, but is only available as a Function -- Execution Time 0:00:00 index2.script",
+      "timestamp" : "2018-11-30 14:57:11.137 -0700"
+    }
+  ],
+  "createdTimestamp" : "2018-11-30 14:57:11.061 -0700"
+}

@@ -1,0 +1,19 @@
+﻿
+
+put (firstname:"John",lastename:"doe",age:21,sex:"male") into patient
+
+
+put brown into patient.eyecolor
+
+
+put "height" into var
+put 20cm into patient.(var)
+
+
+log patient
+
+
+put "patient" into var1
+put "age" into var2
+
+log (var1)

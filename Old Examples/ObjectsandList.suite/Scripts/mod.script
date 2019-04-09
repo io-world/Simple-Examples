@@ -1,0 +1,35 @@
+﻿on foo var1
+	log "We are this" && var1
+end foo
+
+
+
+function bar  var1 , var2 
+	put var1 + var2 into answer
+	
+	return answer
+	
+	
+end bar
+
+
+
+
+on createPatient VarName , VarProperties
+
+
+	put (:) into VarName
+	put ("John","Doe","Male") into VarProperties
+	
+	
+	put item 1 of  VarProperties into (VarName).firstname
+	put item 2 of  VarProperties into (VarName).lastname
+	put item 3 of  VarProperties into (VarName).sex
+	
+	log varnames
+	
+	
+	
+end createPatient
+
+

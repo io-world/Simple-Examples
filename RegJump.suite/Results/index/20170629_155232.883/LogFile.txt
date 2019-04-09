@@ -1,0 +1,14 @@
+﻿2017-06-29 15:52:32.884 -0600	START		Running index.script
+2017-06-29 15:52:32.979 -0600	typetext		[windowsKey]	9	on_index	index.script
+2017-06-29 15:52:33.718 -0600	typetext		cmd	10	on_index	index.script
+2017-06-29 15:52:34.868 -0600	rightclick	Command Prompt Icon	at (75, 392)	11	on_index	index.script
+2017-06-29 15:52:36.059 -0600	click	administrator	at (179, 416)	12	on_index	index.script
+2017-06-29 15:52:36.558 -0600	waitfor	Command Prompt Icon Small	found at (74, 67)	13	on_index	index.script
+2017-06-29 15:52:37.280 -0600	typetext		regjump HKLM\Software\Microsoft\Windows[returnKey]	14	on_index	index.script
+2017-06-29 15:52:38.223 -0600	doubleclick	Columns/Type	at (578, 48)	18	on_index	index.script
+2017-06-29 15:52:39.255 -0600	imagelocation	Columns/Name	at (420, 57)	22	on_index	index.script
+2017-06-29 15:52:43.830 -0600	imagefound	(TEXT:"OneCoreNoBootDWM")	Unable to Find Image (TEXT:"OneCoreNoBootDWM")	26	on_index	index.script
+2017-06-29 15:52:43.831 -0600	LogError		Unable to Find: OneCoreNoBootDWM	37	on_index	index.script
+2017-06-29 15:52:43.926 -0600	typetext		altRun[F4]	42	on_index	index.script
+2017-06-29 15:52:44.205 -0600	EndTestCase		(Duration:"11.319635", Errors:"2", Exceptions:"0", StartTime:"2017-06-29 15:52:32 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-06-29 15:52:44.594 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'wrl' -- Execution Time 0:00:11 index.script

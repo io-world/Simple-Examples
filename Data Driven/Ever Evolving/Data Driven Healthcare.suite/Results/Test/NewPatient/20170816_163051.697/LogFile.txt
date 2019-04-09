@@ -1,0 +1,11 @@
+﻿2017-08-16 16:30:51.698 -0600	START		Running Test/NewPatient.script	21	on_index	Index.script
+2017-08-16 16:30:51.700 -0600	Log		888888	8	on_test_newpatient	Test/NewPatient.script
+2017-08-16 16:30:51.701 -0600	Log		Dr	9	on_test_newpatient	Test/NewPatient.script
+2017-08-16 16:30:51.702 -0600	Log		Optimus	10	on_test_newpatient	Test/NewPatient.script
+2017-08-16 16:30:51.703 -0600	Log		Prime	11	on_test_newpatient	Test/NewPatient.script
+2017-08-16 16:30:51.704 -0600	Log		9/19/85	12	on_test_newpatient	Test/NewPatient.script
+2017-08-16 16:30:51.705 -0600	Log		521-26-0727	13	on_test_newpatient	Test/NewPatient.script
+2017-08-16 16:30:51.706 -0600	Log		Other	14	on_test_newpatient	Test/NewPatient.script
+2017-08-16 16:30:51.707 -0600	Log		Divorced	15	on_test_newpatient	Test/NewPatient.script
+2017-08-16 16:30:51.708 -0600	EndTestCase		(Duration:"0.00886", Errors:"0", Exceptions:"0", StartTime:"2017-08-16 16:30:51 -0600", Successes:"1", TestCase:"Test/NewPatient.script", Warnings:"0")	21	on_index	Index.script
+2017-08-16 16:30:51.736 -0600	SUCCESS		Execution Time 0:00:00 Test/NewPatient.script	21	on_index	Index.script

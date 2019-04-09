@@ -1,0 +1,19 @@
+﻿
+
+put (type:"CSV", file:ResourcePath("webformdara3.csv"),writable: "Yes") into myScriptData
+put the records of myScriptData into PatientsList
+
+put the number of items of PatientsList into max
+
+
+repeat max times
+	
+	
+	
+	put item repeatindex() of PatientsList into PatientData
+	
+	
+	log PatientData
+	
+	
+end repeat

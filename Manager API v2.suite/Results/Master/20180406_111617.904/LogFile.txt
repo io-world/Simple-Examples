@@ -1,0 +1,7 @@
+﻿2018-04-06 11:16:17.905 -0600	START		Running Master.script
+2018-04-06 11:16:18.293 -0600	Log		(Administrator,570c0a66547261080b00000b)	8	on_master	Master.script
+2018-04-06 11:16:18.295 -0600	Log		(Windows 10,582cce9e5472610322000001)	9	on_master	Master.script
+2018-04-06 11:16:18.300 -0600	Log		(Administrator,570c0a66547261080b00000b)	2	function_makeresveration	ePM_API_Class.script
+2018-04-06 11:16:18.639 -0600	Log			16	on_master	Master.script
+2018-04-06 11:16:18.855 -0600	EndTestCase		(Duration:"0.948399", Errors:"0", Exceptions:"0", StartTime:"2018-04-06 11:16:17 -0600", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-04-06 11:16:18.873 -0600	SUCCESS		Execution Time 0:00:00 Master.script

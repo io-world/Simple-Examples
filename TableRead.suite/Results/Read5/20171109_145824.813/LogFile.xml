@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Read5.script" package="TableRead.suite" timestamp="2017-11-09 14:58:24.813 -0700"
+ tests="1" successes="1" errors="0" time="9.201279">
+  <properties>
+   <property name="RunDate" value="2017-11-09 14:58:24.813 -0700"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Read5.script" assertions="1" successes="1" errors="0" time="9.199046">
+  </testcase>
+ </testsuite>
+</testsuites>

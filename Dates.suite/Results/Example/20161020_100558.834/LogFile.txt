@@ -1,4 +1,0 @@
-﻿2016-10-20 10:05:58.835 -0600	START		Running Untitled.script
-2016-10-20 10:05:58.902 -0600	Log		498672358.902529	3	on_untitled	Untitled.script
-2016-10-20 10:05:59.751 -0600	EndTestCase		(Duration:"0.915273", Errors:"0", Exceptions:"0", StartTime:"2016-10-20 10:05:58 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
-2016-10-20 10:05:59.762 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

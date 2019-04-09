@@ -1,0 +1,41 @@
+﻿2017-11-09 14:58:24.814 -0700	START		Running Read5.script
+2017-11-09 14:58:25.219 -0700	imagelocation	Show	at (28, 82)	1	on_read5	Read5.script
+2017-11-09 14:58:25.230 -0700	moveto		at (128, 82)	1	on_read5	Read5.script
+2017-11-09 14:58:26.414 -0700	everyimagelocation	Number	found 2 images	4	on_read5	Read5.script
+2017-11-09 14:58:26.416 -0700	Log		(76,106)	5	on_read5	Read5.script
+2017-11-09 14:58:26.794 -0700	imagelocation	Show	at (28, 82)	8	on_read5	Read5.script
+2017-11-09 14:58:27.176 -0700	imagelocation	Show	at (28, 82)	9	on_read5	Read5.script
+2017-11-09 14:58:27.232 -0700	readtext		(8,122,78,390)
+2017-11-09 14:58:27.233 -0700	Log		4\n12\n10\n20\n26\n50\n35\n55\n1\n15	12	on_read5	Read5.script
+2017-11-09 14:58:29.621 -0700	imagelocation	(TEXT:"4")	at (15, 134)	18	on_read5	Read5.script
+2017-11-09 14:58:29.648 -0700	readtext		(155,124,315,144)
+2017-11-09 14:58:29.649 -0700	Log		Cedric Kelly	22	on_read5	Read5.script
+2017-11-09 14:58:30.037 -0700	imagelocation	(TEXT:"12")	at (20, 161)	18	on_read5	Read5.script
+2017-11-09 14:58:30.065 -0700	readtext		(160,151,320,171)
+2017-11-09 14:58:30.066 -0700	Log		Quinn Flynn	22	on_read5	Read5.script
+2017-11-09 14:58:30.468 -0700	imagelocation	(TEXT:"10")	at (20, 188)	18	on_read5	Read5.script
+2017-11-09 14:58:30.502 -0700	readtext		(160,178,320,198)
+2017-11-09 14:58:30.503 -0700	Log		Sonya Frost	22	on_read5	Read5.script
+2017-11-09 14:58:30.897 -0700	imagelocation	(TEXT:"20")	at (20, 215)	18	on_read5	Read5.script
+2017-11-09 14:58:30.929 -0700	readtext		(160,205,320,225)
+2017-11-09 14:58:30.930 -0700	Log		Dai Rios	22	on_read5	Read5.script
+2017-11-09 14:58:31.316 -0700	imagelocation	(TEXT:"26")	at (20, 242)	18	on_read5	Read5.script
+2017-11-09 14:58:31.345 -0700	readtext		(160,232,320,252)
+2017-11-09 14:58:31.346 -0700	Log		Gavin Joyce	22	on_read5	Read5.script
+2017-11-09 14:58:31.743 -0700	imagelocation	(TEXT:"50")	at (20, 269)	18	on_read5	Read5.script
+2017-11-09 14:58:31.776 -0700	readtext		(160,259,320,279)
+2017-11-09 14:58:31.777 -0700	Log		Jennifer Acosta	22	on_read5	Read5.script
+2017-11-09 14:58:32.162 -0700	imagelocation	(TEXT:"35")	at (20, 296)	18	on_read5	Read5.script
+2017-11-09 14:58:32.222 -0700	readtext		(160,286,320,306)
+2017-11-09 14:58:32.223 -0700	Log		Martena Mccray	22	on_read5	Read5.script
+2017-11-09 14:58:32.636 -0700	imagelocation	(TEXT:"55")	at (20, 323)	18	on_read5	Read5.script
+2017-11-09 14:58:32.665 -0700	readtext		(160,313,320,333)
+2017-11-09 14:58:32.666 -0700	Log		Shad Decker	22	on_read5	Read5.script
+2017-11-09 14:58:33.063 -0700	imagelocation	(TEXT:"1")	at (15, 161)	18	on_read5	Read5.script
+2017-11-09 14:58:33.092 -0700	readtext		(155,151,315,171)
+2017-11-09 14:58:33.092 -0700	Log		Quinn Flynn	22	on_read5	Read5.script
+2017-11-09 14:58:33.478 -0700	imagelocation	(TEXT:"15")	at (20, 377)	18	on_read5	Read5.script
+2017-11-09 14:58:33.509 -0700	readtext		(160,367,320,387)
+2017-11-09 14:58:33.510 -0700	Log		Tatyana Fitzpatrick	22	on_read5	Read5.script
+2017-11-09 14:58:34.015 -0700	EndTestCase		(Duration:"9.199046", Errors:"0", Exceptions:"0", StartTime:"2017-11-09 14:58:24 -0700", Successes:"1", TestCase:"Read5.script", Warnings:"0")
+2017-11-09 14:58:34.047 -0700	SUCCESS		Execution Time 0:00:09 Read5.script

@@ -1,7 +1,0 @@
-﻿2017-05-15 09:31:35.321 -0600	START		Running Example.script
-2017-05-15 09:31:35.503 -0600	imagelocation	Show	at (28, 82)	3	on_example	Example.script
-2017-05-15 09:31:35.504 -0600	Log		(28,82)	5	on_example	Example.script
-2017-05-15 09:31:35.506 -0600	Log		(128,82)	9	on_example	Example.script
-2017-05-15 09:31:35.508 -0600	Exception		Parameter Error - readtext called with absolute point (28, 82) and other parameters	12	on_example	Example.script
-2017-05-15 09:31:35.684 -0600	EndTestCase		(Duration:"0.361984", Errors:"1", Exceptions:"1", StartTime:"2017-05-15 09:31:35 -0600", Successes:"0", TestCase:"Example.script", Warnings:"0")
-2017-05-15 09:31:36.009 -0600	FAILURE	Screen_Error.png	Error Running Script Command readtext Error - Parameter Error - readtext called with absolute point (28, 82) and other parameters -- Execution Time 0:00:00 Example.script

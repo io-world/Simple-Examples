@@ -1,6 +1,6 @@
 ﻿params notewrite1, notewrite2
 
-Connect "Windows 2012"
+Connect "Windows 10"
 
 typetext windowsKey , "r"
 typetext "notepad" , enterkey
@@ -8,4 +8,5 @@ wait 2
 typetext notewrite1
 typetext enterkey
 typetext notewrite2
+CaptureScreen (Name: "Screen Shot")
 

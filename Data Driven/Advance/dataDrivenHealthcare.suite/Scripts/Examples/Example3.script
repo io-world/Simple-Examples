@@ -1,0 +1,26 @@
+﻿----------------DO Not Touch--------------------------------------
+set GD to a new "GlobalDefine"
+(GD).SetupFiles
+-------------------------------------------------------------------------
+
+log (GD).GETALL ("Last Name")
+
+
+
+Run (GD).BuildPatient 2
+log global Patient
+
+
+
+log (GD).PatientCount
+log (GD).ColumnNames
+log (GD).ColumnCount
+
+------------------------------
+put (GD).GETALL ("Medical Record Number") into  ALLMRNS
+log ALLMRNS
+
+
+log (GD).DataDump
+
+

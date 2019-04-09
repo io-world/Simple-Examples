@@ -1,0 +1,5 @@
+﻿2018-03-21 12:51:12.627 +0530	START		Running Master.script
+2018-03-21 12:51:13.284 +0530	imagerectangle	name	at (345,94,419,119)	3	on_master	Master.script
+2018-03-21 12:51:13.286 +0530	Log		(205,126,539,319)	5	on_master	Master.script
+2018-03-21 12:51:13.566 +0530	EndTestCase		(Duration:"0.937665", Errors:"0", Exceptions:"0", StartTime:"2018-03-21 12:51:12 +0530", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-03-21 12:51:13.582 +0530	SUCCESS		Execution Time 0:00:00 Master.script

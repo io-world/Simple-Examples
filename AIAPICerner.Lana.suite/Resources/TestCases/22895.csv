@@ -1,0 +1,45 @@
+State,Action
+Initial,Patient
+Registration,Forms
+Waiting Room,In Patient
+Pharmacy,Ibuprofen
+Pharmacy,Hydrocodone
+Pharmacy,Back
+Waiting Room,In Patient
+Oncology,Code Blue
+Oncology,Radiation
+Oncology,Chemotherapy
+Oncology,Radiation
+Oncology,Back
+Waiting Room,In Patient
+Intensive Care Unit,Crash Cart
+Intensive Care Unit,Haemodynamic monitoring
+Intensive Care Unit,Back
+Waiting Room,In Patient
+Maternity departments,Delivery Suite
+Maternity departments,Back
+Waiting Room,In Patient
+Diagnostic imaging,X-Ray
+Diagnostic imaging,Back
+Waiting Room,In Patient
+Pharmacy,Oxycodone
+Pharmacy,Back
+Waiting Room,In Patient
+Oncology,Radiation
+Oncology,Network Drop
+Oncology,Chemotherapy
+Oncology,Back
+Waiting Room,In Patient
+Intensive Care Unit,Haemodynamic monitoring
+Intensive Care Unit,Crash Cart
+Intensive Care Unit,Code Blue
+Intensive Care Unit,Haemodynamic monitoring
+Intensive Care Unit,Ventilator
+Intensive Care Unit,Back
+Waiting Room,In Patient
+Diagnostic imaging,Back
+Waiting Room,In Patient
+General surgery,Thyroid
+General surgery,Back
+Waiting Room,Out Patient
+Diagnostic Complete,Patient Leaves

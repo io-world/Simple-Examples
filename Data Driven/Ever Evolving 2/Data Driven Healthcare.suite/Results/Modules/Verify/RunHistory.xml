@@ -1,0 +1,75 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Modules/Verify">
+ <run>
+  <RunDate>2017-07-11 09:11:52.106 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.249568</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170711_091152.106/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagefound Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-11 09:12:13.247 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.265399</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170711_091213.247/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagefound Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-11 09:12:32.228 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.277976</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170711_091232.228/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagefound Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-11 09:12:43.081 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.331612</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170711_091243.081/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-11 09:19:34.314 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.246714</Duration>
+  <Errors>2</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170711_091934.314/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagefound Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-11 09:20:39.619 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.220138</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20170711_092039.619/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+</runHistory>

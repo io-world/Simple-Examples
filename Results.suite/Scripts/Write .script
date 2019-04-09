@@ -1,0 +1,18 @@
+﻿
+
+put "/Users/randyhesse/Desktop/abcd.txt" into NewFile
+create file NewFile
+open file NewFile
+
+
+write "hello from testplant" to file NewFile
+write return to file NewFile at eof
+write "goodbye from testplant" to file NewFile
+close file NewFile
+
+move file "/Users/randyhesse/Desktop/abcd.txt" to "/Users/randyhesse/"
+
+Copy file "/Users/randyhesse/Desktop/abcd.txt" into folder "/Users/randyhesse/somethingelse.txt"
+
+
+copy folder "/Users/randyhesse/Desktop/abcd.txt" to "/Users/randyhesse/"

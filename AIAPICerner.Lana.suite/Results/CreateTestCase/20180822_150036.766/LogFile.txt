@@ -1,0 +1,3 @@
+﻿2018-08-22 15:00:36.768 -0600	START		Running CreateTestCase.script
+2018-08-22 15:00:37.869 -0600	EndTestCase		(Duration:"1.095954", Errors:"0", Exceptions:"0", StartTime:"2018-08-22 15:00:36 -0600", Successes:"1", TestCase:"CreateTestCase.script", Warnings:"0")
+2018-08-22 15:00:37.913 -0600	SUCCESS		Execution Time 0:00:01 CreateTestCase.script

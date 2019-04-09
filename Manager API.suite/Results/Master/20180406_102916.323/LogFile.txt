@@ -1,0 +1,9 @@
+﻿2018-04-06 10:29:16.324 -0600	START		Running Master.script
+2018-04-06 10:29:16.571 -0600	Log		Author:5757429f54726101ef000001	9	function_getuserid	ePM_API_Class.script
+2018-04-06 10:29:16.573 -0600	Log		Tester:5757424f54726101e7000000	9	function_getuserid	ePM_API_Class.script
+2018-04-06 10:29:16.575 -0600	Log		Watcher:5757423054726101f3000000	9	function_getuserid	ePM_API_Class.script
+2018-04-06 10:29:16.577 -0600	Log		Administrator:570c0a66547261080b00000b	9	function_getuserid	ePM_API_Class.script
+2018-04-06 10:29:16.581 -0600	Log		(Windows 10,582cce9e5472610322000001)	10	on_master	Master.script
+2018-04-06 10:29:16.584 -0600	Log		(Administrator,570c0a66547261080b00000b)	11	on_master	Master.script
+2018-04-06 10:29:17.074 -0600	EndTestCase		(Duration:"0.749365", Errors:"0", Exceptions:"0", StartTime:"2018-04-06 10:29:16 -0600", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-04-06 10:29:17.098 -0600	SUCCESS		Execution Time 0:00:00 Master.script

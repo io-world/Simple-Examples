@@ -1,0 +1,15 @@
+﻿2017-07-18 22:12:03.580 -0400	START		Running EncryptScript.script
+2017-07-18 22:12:03.626 -0400	Log		XXXXXX	17	on_encryptscript	EncryptScript.script
+2017-07-18 22:12:03.627 -0400	Log		XXXXXX	17	on_encryptscript	EncryptScript.script
+2017-07-18 22:12:03.628 -0400	Log		XXXXXX	17	on_encryptscript	EncryptScript.script
+2017-07-18 22:12:03.629 -0400	Log		Log " this will do something"	20	on_encryptscript	EncryptScript.script
+2017-07-18 22:12:03.631 -0400	Log		XXXXXX	17	on_encryptscript	EncryptScript.script
+2017-07-18 22:12:03.632 -0400	Log		XXXXXX	17	on_encryptscript	EncryptScript.script
+2017-07-18 22:12:03.633 -0400	Log		repeat 10 times	20	on_encryptscript	EncryptScript.script
+2017-07-18 22:12:03.634 -0400	Log		XXXXXX	17	on_encryptscript	EncryptScript.script
+2017-07-18 22:12:03.635 -0400	Log		XXXXXX	17	on_encryptscript	EncryptScript.script
+2017-07-18 22:12:03.636 -0400	Log		\tlog "yup"	20	on_encryptscript	EncryptScript.script
+2017-07-18 22:12:03.638 -0400	Log		XXXXXX	17	on_encryptscript	EncryptScript.script
+2017-07-18 22:12:03.639 -0400	Log		end repeat	20	on_encryptscript	EncryptScript.script
+2017-07-18 22:12:03.825 -0400	EndTestCase		(Duration:"0.24339", Errors:"0", Exceptions:"0", StartTime:"2017-07-18 22:12:03 -0400", Successes:"1", TestCase:"EncryptScript.script", Warnings:"0")
+2017-07-18 22:12:03.833 -0400	SUCCESS		Execution Time 0:00:00 EncryptScript.script

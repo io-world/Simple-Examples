@@ -1,0 +1,27 @@
+﻿
+
+
+
+
+
+
+put "GeneratePatientAPI" (20) into PatientList
+
+log PatientList
+csvclass.DirectWrite "WebFormData6",PatientList
+
+
+
+
+
+
+
+
+
+
+
+
+
+put "ProcessingMain" ("WebFormData6") into FinalPatientList
+csvclass.DirectWrite "WebFormData7",FinalPatientList
+

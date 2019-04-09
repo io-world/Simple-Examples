@@ -1,0 +1,4 @@
+﻿2017-07-11 09:20:39.620 -0600	START		Running Modules/Verify.script
+2017-07-11 09:20:39.670 -0600	LogError		The Content Name does not exist	5	on_content	Modules/Verify.script
+2017-07-11 09:20:39.840 -0600	EndTestCase		(Duration:"0.218338", Errors:"1", Exceptions:"0", StartTime:"2017-07-11 09:20:39 -0600", Successes:"0", TestCase:"Modules/Verify.script", Warnings:"0")
+2017-07-11 09:20:39.863 -0600	FAILURE	Screen_Error.png	Script Error Number of Errors logged: 1 -- Execution Time 0:00:00 Modules/Verify.script

@@ -1,0 +1,8 @@
+State,Action
+Initial,Start
+Browser,Chrome
+Amazon Addres,USA
+Login Screen,Enter Username
+Login Screen,Enter Password
+Login Screen,click login Button
+Home,Verify

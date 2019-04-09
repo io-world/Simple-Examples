@@ -1,0 +1,4 @@
+﻿2017-07-14 10:47:21.926 -0600	START		Running index.script
+2017-07-14 10:47:22.015 -0600	Log		Start all of it	2	on_initialize	
+2017-07-14 10:47:22.292 -0600	EndTestCase		(Duration:"0.364789", Errors:"1", Exceptions:"0", StartTime:"2017-07-14 10:47:21 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2017-07-14 10:47:22.780 -0600	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'login' -- Execution Time 0:00:00 index.script

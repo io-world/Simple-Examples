@@ -1,0 +1,13 @@
+﻿2018-08-13 22:07:17.098 -0400	START		Running index.script
+2018-08-13 22:07:17.332 -0400	Log		Start all of it	2	on_initialize	
+2018-08-13 22:07:17.435 -0400	Log		Rabbit	8	on_index	index.script
+2018-08-13 22:07:17.443 -0400	Log		ducks	9	on_index	index.script
+2018-08-13 22:07:17.451 -0400	Log		Donkey	15	on_index	index.script
+2018-08-13 22:07:17.462 -0400	Log		Donkey	16	on_index	index.script
+2018-08-13 22:07:17.473 -0400	Log		Start all of it	2	on_initialize	
+2018-08-13 22:07:17.498 -0400	Log		The Status is Alive	2	function_status	
+2018-08-13 22:07:17.501 -0400	Log		THe Function was executed correctly	23	on_index	index.script
+2018-08-13 22:07:17.520 -0400	Log		Greetings! My age is May 14, 1942	3	on_sayhello	
+2018-08-13 22:07:17.523 -0400	Log		somethig	30	on_index	index.script
+2018-08-13 22:07:17.698 -0400	EndTestCase		(Duration:"0.59389", Errors:"0", Exceptions:"0", StartTime:"2018-08-13 22:07:17 -0400", Successes:"1", TestCase:"index.script", Warnings:"0")
+2018-08-13 22:07:17.716 -0400	SUCCESS		Execution Time 0:00:00 index.script

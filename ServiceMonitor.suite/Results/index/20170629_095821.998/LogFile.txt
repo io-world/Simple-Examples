@@ -1,0 +1,16 @@
+﻿2017-06-29 09:58:21.999 -0600	START		Running index.script
+2017-06-29 09:58:22.068 -0600	typetext		[windowsKey]r	6	on_index	index.script
+2017-06-29 09:58:22.937 -0600	typetext		services.msc[returnKey]	7	on_index	index.script
+2017-06-29 09:58:23.650 -0600	moveto		at (1440, 900)	8	on_index	index.script
+2017-06-29 09:58:24.651 -0600	waitfor	Gears Icon	found at (350, 136)	9	on_index	index.script
+2017-06-29 09:58:28.990 -0600	imagefound	Windows Float	Unable to Find Image Windows Float within 3.00 seconds	12	on_index	index.script
+2017-06-29 09:58:29.592 -0600	doubleclick	Columns/Description	at (672, 108)	18	on_index	index.script
+2017-06-29 09:58:30.721 -0600	imagelocation	Columns/Name	at (365, 114)	22	on_index	index.script
+2017-06-29 09:58:32.741 -0600	typetext		[pageDown]	30	on_index	index.script
+2017-06-29 09:58:33.851 -0600	readtext		(358,127,672,820)
+2017-06-29 09:58:33.852 -0600	Log		ActiveX Installer (AxInstSV)\nAllJoyn Router Service\nApp Readiness\nApplication Identity\nApplication Information\nApplication Layer Gateway Service\nApplication Management\nAppX Deployment Service (AppXSVC)\nAuto Time Zone Updater\nBackground Intelligent Transfer Service\nBackground Tasks Infrastructure Service\nBase Filtering Engine\nBitLocker Drive Encryption Service\nBlock Level Backup Engine Service\nBluetooth Handsfree Service\nBluetooth Support Service\nBonjour Service\nBranchCache\nCDPUserSvc_3795e\nCertificate Propagation\nClient License Service (ClipSVC)\nCNG Key Isolation\nCOM+ Event System\nCOM+ System Application\nComputer Browser\nConnected Devices Platform Service\nConnected User Experiences and Telemetry\nContact Data_3795e\nCoreMessaging\nCredential Manager\nCryptographic Services\nData Sharing Service\nDataCollectionPublishingService\nDCOM Server Process Launcher\nDelivery Optimization\nDevice Association Service	32	on_index	index.script
+2017-06-29 09:58:35.870 -0600	typetext		[pageDown]	30	on_index	index.script
+2017-06-29 09:58:36.933 -0600	readtext		(358,127,672,820)
+2017-06-29 09:58:36.935 -0600	Log		Device Association Service\nDevice Install Service\nDevice Management Enrollment Service\nDevice Setup Manager\nDevQuery Background Discovery Broker\nDHCP Client\nDiagnostic Policy Service\nDiagnostic Service Host\nDiagnostic System Host\nDistributed Link Tracking Client\nDistributed Transaction Coordinator\ndmwappushsvc\nDNS Client\nDownloaded Maps Manager\nEmbedded Mode\nEncrypting File System (EFS)\nEnterprise App Management Service\nExtensible Authentication Protocol\nFax\nFile History Service\nFunction Discovery Provider Host\nFunction Discovery Resource Publication\nGeolocation Service\nGoogle Update Service (gupdate)\nGoogle Update Service (gupdatem)\nGroup Policy Client\nHomeGroup Listener\nHomeGroup Provider\nHuman Interface Device Service\nHV Host Service\nHyper-V Data Exchange Service\nHyper-V Guest Service Interface\nHyper-V Guest Shutdown Service\nHyper-V Heartbeat Service\nHyper-V PowerShell Direct Service\nHyper-V Remote Desktop Virtualization Service	32	on_index	index.script
+2017-06-29 09:58:37.108 -0600	EndTestCase		(Duration:"15.108304", Errors:"0", Exceptions:"0", StartTime:"2017-06-29 09:58:21 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-06-29 09:58:37.113 -0600	SUCCESS		Execution Time 0:00:15 index.script

@@ -1,0 +1,5 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+Examples/Example2,Success,1,0,2017-06-30 10:30:52 -0600,2017-06-30 10:30:52 -0600,0:00:00
+Index,Success,2,0,2017-06-30 10:31:28 -0600,2017-08-16 17:18:59 -0600,0:00:00
+NewPatient,Success,18,0,2017-06-30 10:31:28 -0600,2017-08-16 17:19:00 -0600,0:00:00
+Examples/Example1,Success,1,0,2017-06-30 10:29:48 -0600,2017-06-30 10:29:48 -0600,0:00:00

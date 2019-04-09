@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-08-13 22:09:08.301 -0400,"Success",0:00:00,0,0,0,"20180813_220908.301/LogFile.txt","","",1
+2018-08-13 22:09:19.439 -0400,"Success",0:00:00,0,0,0,"20180813_220919.439/LogFile.txt","","",1
+2018-08-13 22:35:30.789 -0400,"Failure",0:00:00,1,0,0,"20180813_223530.789/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'age'",0
+2018-08-13 22:35:43.427 -0400,"Failure",0:00:00,1,0,0,"20180813_223543.427/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'age'",0
+2018-08-13 22:35:53.791 -0400,"Success",0:00:00,0,0,0,"20180813_223553.791/LogFile.txt","","",1

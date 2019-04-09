@@ -1,0 +1,6 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+Libraries/Logout,Success,1,0,2017-05-04 15:06:38 -0500,2017-05-04 15:06:38 -0500,0:00:00
+Index,Success,1,0,2017-05-04 15:04:45 -0500,2017-05-04 15:04:45 -0500,0:01:53
+Test/NewPatient,Success,9,0,2017-05-04 15:05:00 -0500,2017-05-04 15:06:38 -0500,0:00:00
+Libraries/Login,Success,2,0,2017-05-04 10:29:57 -0500,2017-05-04 15:04:46 -0500,0:00:01
+States/Zero,Success,3,0,2017-05-04 10:29:57 -0500,2017-05-04 15:06:38 -0500,0:00:00

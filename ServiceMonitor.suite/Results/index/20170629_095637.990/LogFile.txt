@@ -1,0 +1,16 @@
+﻿2017-06-29 09:56:37.991 -0600	START		Running index.script
+2017-06-29 09:56:38.061 -0600	typetext		[windowsKey]r	6	on_index	index.script
+2017-06-29 09:56:38.926 -0600	typetext		services.msc[returnKey]	7	on_index	index.script
+2017-06-29 09:56:39.642 -0600	moveto		at (1440, 900)	8	on_index	index.script
+2017-06-29 09:56:40.270 -0600	waitfor	Gears Icon	found at (350, 136)	9	on_index	index.script
+2017-06-29 09:56:44.620 -0600	imagefound	Windows Float	Unable to Find Image Windows Float within 3.00 seconds	12	on_index	index.script
+2017-06-29 09:56:45.216 -0600	doubleclick	Columns/Description	at (672, 108)	18	on_index	index.script
+2017-06-29 09:56:46.332 -0600	imagelocation	Columns/Name	at (365, 114)	22	on_index	index.script
+2017-06-29 09:56:47.722 -0600	readtext		(358,127,672,820)
+2017-06-29 09:56:47.722 -0600	Log		ActiveX Installer (AxInstSV)\nAllJoyn Router Service\nApp Readiness\nApplication Identity\nApplication Information\nApplication Layer Gateway Service\nApplication Management\nAppX Deployment Service (AppXSVC)\nAuto Time Zone Updater\nBackground Intelligent Transfer Service\nBackground Tasks Infrastructure Service\nBase Filtering Engine\nBitLocker Drive Encryption Service\nBlock Level Backup Engine Service\nBluetooth Handsfree Service\nBluetooth Support Service\nBonjour Service\nBranchCache\nCDPUserSvc_3795e\nCertificate Propagation\nClient License Service (ClipSVC)\nCNG Key Isolation\nCOM+ Event System\nCOM+ System Application\nComputer Browser\nConnected Devices Platform Service\nConnected User Experiences and Telemetry\nContact Data_3795e\nCoreMessaging\nCredential Manager\nCryptographic Services\nData Sharing Service\nDataCollectionPublishingService\nDCOM Server Process Launcher\nDelivery Optimization\nDevice Association Service	31	on_index	index.script
+2017-06-29 09:56:47.738 -0600	typetext		[pageDown]	33	on_index	index.script
+2017-06-29 09:56:49.145 -0600	readtext		(358,127,672,820)
+2017-06-29 09:56:49.146 -0600	Log		ActiveX Installer (AxInstSV)\nAllJoyn Router Service\nApp Readiness\nApplication Identity\nApplication Information\nApplication Layer Gateway Service\nApplication Management\nAppX Deployment Service (AppXSVC)\nAuto Time Zone Updater\nBackground Intelligent Transfer Service\nBackground Tasks Infrastructure Service\nBase Filtering Engine\nBitLocker Drive Encryption Service\nBlock Level Backup Engine Service\nBluetooth Handsfree Service\nBluetooth Support Service\nBonjour Service\nBranchCache\nCDPUserSvc_3795e\nCertificate Propagation\nClient License Service (ClipSVC)\nCNG Key Isolation\nCOM+ Event System\nCOM+ System Application\nComputer Browser\nConnected Devices Platform Service\nConnected User Experiences and Telemetry\nContact Data_3795e\nCoreMessaging\nCredential Manager\nCryptographic Services\nData Sharing Service\nDataCollectionPublishingService\nDCOM Server Process Launcher\nDelivery Optimization\nDevice Association Service	31	on_index	index.script
+2017-06-29 09:56:49.161 -0600	typetext		[pageDown]	33	on_index	index.script
+2017-06-29 09:56:49.338 -0600	EndTestCase		(Duration:"11.345535", Errors:"0", Exceptions:"0", StartTime:"2017-06-29 09:56:37 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-06-29 09:56:49.359 -0600	SUCCESS		Execution Time 0:00:11 index.script

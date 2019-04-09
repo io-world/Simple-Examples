@@ -1,4 +1,0 @@
-﻿2017-04-11 13:55:32.993 -0600	START		Running index.script
-2017-04-11 13:55:33.082 -0600	Log		Workbook("/Users/randyhesse/Desktop/Excel.suite/Resources/WebFormData.xlsx")	3	on_index	index.script
-2017-04-11 13:55:33.769 -0600	EndTestCase		(Duration:"0.774895", Errors:"0", Exceptions:"0", StartTime:"2017-04-11 13:55:32 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
-2017-04-11 13:55:33.776 -0600	SUCCESS		Execution Time 0:00:00 index.script

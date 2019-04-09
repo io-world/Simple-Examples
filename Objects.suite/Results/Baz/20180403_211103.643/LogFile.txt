@@ -1,0 +1,4 @@
+﻿2018-04-03 21:11:03.645 -0600	START		Running Baz.script
+2018-04-03 21:11:03.747 -0600	Log		Greetings! My age is May 14, 1942	3	on_sayhello	Baz.script
+2018-04-03 21:11:03.939 -0600	EndTestCase		(Duration:"0.292609", Errors:"0", Exceptions:"0", StartTime:"2018-04-03 21:11:03 -0600", Successes:"1", TestCase:"Baz.script", Warnings:"0")
+2018-04-03 21:11:03.955 -0600	SUCCESS		Execution Time 0:00:00 Baz.script

@@ -1,0 +1,3 @@
+﻿2018-04-03 21:10:21.769 -0600	START		Running Baz.script
+2018-04-03 21:10:22.072 -0600	EndTestCase		(Duration:"0.301679", Errors:"0", Exceptions:"0", StartTime:"2018-04-03 21:10:21 -0600", Successes:"1", TestCase:"Baz.script", Warnings:"0")
+2018-04-03 21:10:22.089 -0600	SUCCESS		Execution Time 0:00:00 Baz.script

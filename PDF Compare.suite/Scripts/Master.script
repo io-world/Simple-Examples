@@ -1,0 +1,14 @@
+﻿put ImageRectangle("WHITEPAPER") into IL
+insert topLeft of IL + (0,70) into RR
+insert bottomRight of IL + (650,330) into RR
+put ReadText(RR) into Paragraph1
+
+
+log Paragraph1
+
+
+repeat for each line of Paragraph1
+	
+	log it
+	
+end repeat

@@ -1,0 +1,25 @@
+﻿
+put Worksheet (ResourcePath("WebFormData.xlsx"), "Results") into WSheet
+
+
+put "FOO" into var
+
+wait 2
+
+put 6 into foo
+
+put var into Cell(1,foo) of WSheet
+put var into Cell(C2) of WSheet
+
+
+
+
+repeat 3 times
+	
+	put var into Cell(repeatindex(),2) of WSheet
+	
+	
+end repeat
+
+
+put "foo" into line 1 of item 4 of csv

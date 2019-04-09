@@ -1,0 +1,12 @@
+﻿2017-07-03 14:01:04.014 -0600	START		Running Examples/TroubleshootingExamples/TroubleshootingExample1.script
+2017-07-03 14:01:04.147 -0600	Log		222222	13	on_examples_troubleshootingexamples_troubleshootingexample1	Examples/TroubleshootingExamples/TroubleshootingExample1.script
+2017-07-03 14:01:04.148 -0600	Log		Mr	14	on_examples_troubleshootingexamples_troubleshootingexample1	Examples/TroubleshootingExamples/TroubleshootingExample1.script
+2017-07-03 14:01:04.150 -0600	Log		Bruce	15	on_examples_troubleshootingexamples_troubleshootingexample1	Examples/TroubleshootingExamples/TroubleshootingExample1.script
+2017-07-03 14:01:04.151 -0600	Log		Wayne	16	on_examples_troubleshootingexamples_troubleshootingexample1	Examples/TroubleshootingExamples/TroubleshootingExample1.script
+2017-07-03 14:01:04.152 -0600	Log		6/13/06	17	on_examples_troubleshootingexamples_troubleshootingexample1	Examples/TroubleshootingExamples/TroubleshootingExample1.script
+2017-07-03 14:01:04.153 -0600	Log		113-83-3798	18	on_examples_troubleshootingexamples_troubleshootingexample1	Examples/TroubleshootingExamples/TroubleshootingExample1.script
+2017-07-03 14:01:04.154 -0600	Log		Male	19	on_examples_troubleshootingexamples_troubleshootingexample1	Examples/TroubleshootingExamples/TroubleshootingExample1.script
+2017-07-03 14:01:04.155 -0600	Log		Single	20	on_examples_troubleshootingexamples_troubleshootingexample1	Examples/TroubleshootingExamples/TroubleshootingExample1.script
+2017-07-03 14:01:04.230 -0600	typetext		Single	23	on_examples_troubleshootingexamples_troubleshootingexample1	Examples/TroubleshootingExamples/TroubleshootingExample1.script
+2017-07-03 14:01:04.506 -0600	EndTestCase		(Duration:"0.490341", Errors:"0", Exceptions:"0", StartTime:"2017-07-03 14:01:04 -0600", Successes:"1", TestCase:"Examples/TroubleshootingExamples/TroubleshootingExample1.script", Warnings:"0")
+2017-07-03 14:01:04.545 -0600	SUCCESS		Execution Time 0:00:00 Examples/TroubleshootingExamples/TroubleshootingExample1.script

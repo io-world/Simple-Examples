@@ -1,0 +1,9 @@
+﻿2018-06-11 15:02:42.196 -0600	START		Running Master 1.script
+2018-06-11 15:02:50.620 -0600	Exception	Chrome	No Image Found On Screen: "Chrome"	1	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 15:02:50.705 -0600	Log		Error Name: Runtime Error at line 1: Image Not Found - click Error - No Image Found On Screen: "Chrome"	18	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:02:50.707 -0600	Log		Action Name: click	19	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:02:50.708 -0600	Log		Image Name: chromeasdasd	20	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:02:50.710 -0600	Log		New Collection: /Users/randyhesse/Documents/Simple Examples/OmegaCollection.suite/Images/Chrome/chromeasdasd/	21	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:02:50.711 -0600	Log		Creating new Folder: New_Collection	27	function_attemptrecovery	attemptRecovery.script
+2018-06-11 15:02:51.836 -0600	EndTestCase		(Duration:"9.638115", Errors:"1", Exceptions:"1", StartTime:"2018-06-11 15:02:42 -0600", Successes:"0", TestCase:"Master 1.script", Warnings:"0")
+2018-06-11 15:02:51.984 -0600	FAILURE	Screen_Error.png	STFileSystemException Failed to move /Users/randyhesse/Documents/Users/randyhesse/Documents/Simple Examples/OmegaCollection.suite/Images/Chrome into folder /Users/randyhesse/Documents/Simple Examples/OmegaCollection.suite/Images/Chrome/chromeasdasd (Error: “Chrome” couldn’t be moved to “chromeasdasd” because either the former doesn’t exist, or the folder containing the latter doesn’t exist.) -- Execution Time 0:00:09 Master 1.script

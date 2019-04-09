@@ -1,0 +1,10 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2018-10-18 10:07:55.328 -0600,"Success",0:00:00,0,0,0,"20181018_100755.328/LogFile.txt","","",1
+2018-10-18 10:09:02.676 -0600,"Success",0:00:00,0,0,0,"20181018_100902.676/LogFile.txt","","",1
+2018-10-18 10:10:01.763 -0600,"Success",0:00:00,0,0,0,"20181018_101001.763/LogFile.txt","","",1
+2018-10-18 10:10:12.461 -0600,"Success",0:00:00,0,0,0,"20181018_101012.461/LogFile.txt","","",1
+2018-10-18 10:10:59.734 -0600,"Success",0:00:00,0,1,0,"20181018_101059.734/LogFile.txt","","",1
+2018-10-18 10:12:43.049 -0600,"Success",0:00:00,0,0,0,"20181018_101243.049/LogFile.txt","","",1
+2018-10-18 10:13:26.542 -0600,"Failure",0:00:00,1,0,0,"20181018_101326.542/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2018-10-18 10:14:01.748 -0600,"Failure",0:00:00,1,0,1,"20181018_101401.748/LogFile.txt","","SCA -- SCA is wirtten incorrectly",0
+2018-10-18 10:14:39.553 -0600,"Failure",0:00:00,1,0,1,"20181018_101439.553/LogFile.txt","","SCA -- SCA is wirtten incorrectly",0

@@ -1,0 +1,6 @@
+﻿2017-06-29 10:58:21.609 -0600	START		Running CheckWebPortal.script
+2017-06-29 10:58:21.726 -0600	typetext		[windowsKey]r	2	on_checkwebportal	CheckWebPortal.script
+2017-06-29 10:58:22.573 -0600	typetext		Chrome.exe[returnKey]	3	on_checkwebportal	CheckWebPortal.script
+2017-06-29 10:58:23.952 -0600	waitfor	CheckWebPortal/Refresh Icons/Chrome	found at (134, 77)	4	on_checkwebportal	CheckWebPortal.script
+2017-06-29 10:58:24.200 -0600	EndTestCase		(Duration:"2.586257", Errors:"0", Exceptions:"0", StartTime:"2017-06-29 10:58:21 -0600", Successes:"1", TestCase:"CheckWebPortal.script", Warnings:"0")
+2017-06-29 10:58:24.211 -0600	SUCCESS		Execution Time 0:00:02 CheckWebPortal.script

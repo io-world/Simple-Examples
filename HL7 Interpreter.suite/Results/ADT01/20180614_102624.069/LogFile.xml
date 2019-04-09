@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="ADT01.script" package="HL7 Interpreter.suite" timestamp="2018-06-14 10:26:24.069 -0600"
+ tests="1" successes="1" errors="0" time="0.359006">
+  <properties>
+   <property name="RunDate" value="2018-06-14 10:26:24.069 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="ADT01.script" assertions="1" successes="1" errors="0" time="0.356559">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,44 @@
+State,Action
+Initial,Patient
+Registration,Forms
+Waiting Room,In Patient
+Diagnostic imaging,Back
+Waiting Room,In Patient
+Diagnostic imaging,X-Ray
+Diagnostic imaging,Back
+Waiting Room,In Patient
+Pharmacy,Back
+Waiting Room,In Patient
+Intensive Care Unit,Haemodynamic monitoring
+Intensive Care Unit,Crash Cart
+Intensive Care Unit,Back
+Waiting Room,In Patient
+Diagnostic imaging,Back
+Waiting Room,In Patient
+Pharmacy,Hydrocodone
+Pharmacy,Oxycodone
+Pharmacy,Network Drop
+Pharmacy,Hydrocodone
+Pharmacy,Oxycodone
+Pharmacy,Ibuprofen
+Pharmacy,Hydrocodone
+Pharmacy,Oxycodone
+Pharmacy,Network Drop
+Pharmacy,Back
+Waiting Room,In Patient
+Maternity departments,Delivery Suite
+Maternity departments,Postnatal care
+Maternity departments,Back
+Waiting Room,In Patient
+Pharmacy,Oxycodone
+Pharmacy,Hydrocodone
+Pharmacy,Back
+Waiting Room,In Patient
+Pharmacy,Hydrocodone
+Pharmacy,Code Blue
+Pharmacy,Oxycodone
+Pharmacy,Back
+Waiting Room,In Patient
+General surgery,Day
+General surgery,Back
+Waiting Room,Out Patient

@@ -1,0 +1,26 @@
+﻿
+
+put file ResourcePath("ADT-A01.HL7") into HLM
+
+//log HLM
+
+put  character 4 of line 1 of HLM into delimiter
+
+
+split HLM by delimiter
+
+
+(*repeat the number of items of HLM
+	log repeatindex() &":"&item repeatindex() of HLM
+end repeat*)
+
+
+put ("Message Type": 9 , "Patient Name": 27 , "MRN" : 29, "Gender" : 30 , "address":33) into HL_T
+
+
+log item HL_T."Message Type" of HLM
+log item HL_T."Patient Name" of HLM
+log item HL_T."MRN" of HLM
+log item HL_T."Gender" of HLM
+log item HL_T."Address" of HLM
+

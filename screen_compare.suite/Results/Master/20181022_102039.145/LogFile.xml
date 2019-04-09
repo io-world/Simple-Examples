@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Master_script" package="screen_compare.suite" timestamp="2018-10-22 10:20:39.145 -0600"
+ tests="1"  failures="0" errors="0" time="0.411933">
+  <properties>
+   <property name="RunDate" value="2018-10-22 10:20:39.145 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Master.script" assertions="1" status="success"  time="0.409811">
+  </testcase>
+ </testsuite>
+</testsuites>

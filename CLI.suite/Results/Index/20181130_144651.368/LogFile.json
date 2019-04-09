@@ -1,0 +1,76 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Index.script",
+      "timestamp" : "2018-11-30 14:46:51.370 -0700"
+    },
+    {
+      "handlerName" : "on_index",
+      "message" : "Windows 10:(null)",
+      "timestamp" : "2018-11-30 14:46:51.843 -0700",
+      "identifier" : "connect",
+      "scriptName" : "Index.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_index",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2018-11-30 14:46:51.877 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "Index.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_index",
+      "message" : "notepad[enter]",
+      "timestamp" : "2018-11-30 14:46:52.686 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "Index.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_index",
+      "message" : "Hello From Test Plant",
+      "timestamp" : "2018-11-30 14:46:54.971 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "Index.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_index",
+      "message" : "[enter]",
+      "timestamp" : "2018-11-30 14:46:55.697 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "Index.script",
+      "handlerLine" : 9
+    },
+    {
+      "handlerName" : "on_index",
+      "message" : "second Line",
+      "timestamp" : "2018-11-30 14:46:56.544 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "Index.script",
+      "handlerLine" : 10
+    },
+    {
+      "handlerLine" : 11,
+      "handlerName" : "on_index",
+      "timestamp" : "2018-11-30 14:46:56.743 -0700",
+      "identifier" : "capturescreen",
+      "image" : "Screen Shot.png",
+      "scriptName" : "Index.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"5.430796\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2018-11-30 14:46:51 -0700\", Successes:\"1\", TestCase:\"Index.script\", Warnings:\"0\")",
+      "timestamp" : "2018-11-30 14:46:56.813 -0700"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:05 Index.script",
+      "timestamp" : "2018-11-30 14:46:56.824 -0700"
+    }
+  ],
+  "createdTimestamp" : "2018-11-30 14:46:51.381 -0700"
+}

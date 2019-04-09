@@ -1,0 +1,29 @@
+{
+    URLparameters = (
+	{
+	    checkedNumber = <*BY>;
+	    param = "";
+	    showCheckedNumber = <*BY>;
+	    value = "";
+	}
+    );
+    authenticationType = "Basic Auth";
+    httpVerb = GET;
+    oauth1Token = "";
+    password = "Fv#<%^,B&";
+    requestBody = "";
+    requestBodyFormat = "Form Url Encoded";
+    requestHeaders = "<![CDATA[]]>";
+    requests = "";
+    testResults = "";
+    testScript = "Set suts to JSONValue(api().responseBody).suts
+repeat with each item sut of suts
+	if sut.name is global device
+		set the suitevariables to (sutID:sut._id)
+	end if
+end repeat
+set the suitevariables to (currentTime:time)
+Return Reservation()";
+    url = "http://reqeggpmanprd01:8080/api/sut";
+    userName = careaware;
+}

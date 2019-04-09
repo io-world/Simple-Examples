@@ -1,7 +1,0 @@
-﻿2016-09-20 10:13:01.766 -0600	START		Running Index.script
-2016-09-20 10:13:02.311 -0600	imagelocation	List	at (220, 114)	5	on_index	Index.script
-2016-09-20 10:13:02.350 -0600	Log		(270,164,290,314)	9	on_index	Index.script
-2016-09-20 10:13:02.559 -0600	readtext		(270,164,290,314)
-2016-09-20 10:13:02.559 -0600	Log		N2l\n1\nI	11	on_index	Index.script
-2016-09-20 10:13:02.902 -0600	EndTestCase		(Duration:"1.134165", Errors:"0", Exceptions:"0", StartTime:"2016-09-20 10:13:01 -0600", Successes:"1", TestCase:"Index.script", Warnings:"0")
-2016-09-20 10:13:02.906 -0600	SUCCESS		Execution Time 0:00:01 Index.script

@@ -1,0 +1,55 @@
+State,Action
+Initial,Switch Platform
+Platform,iPhone
+Environment,Work
+Environment,Goto
+Music,Spotify
+Music,Back
+Environment,Personal
+Environment,Goto
+Travel,Google Maps
+Travel,Uber
+Travel,Switch Platform
+Platform,iPhone
+Environment,Work
+Environment,Goto
+Financial,Paypal
+Financial,Back
+Environment,Personal
+Environment,Goto
+Messages,Switch Platform
+Platform,Mac
+Environment,Personal
+Environment,Goto
+Messages,Switch Platform
+Platform,Android
+Environment,Work
+Environment,Goto
+Music,Podcast
+Music,Switch Platform
+Platform,Mac
+Environment,Work
+Environment,Goto
+Travel,Back
+Environment,Personal
+Environment,Goto
+Social Media,Switch Platform
+Platform,PC
+Environment,Work
+Environment,Goto
+Financial,ADP
+Financial,Chase
+Financial,Switch Platform
+Platform,iPhone
+Environment,Personal
+Environment,Goto
+Financial,ADP
+Financial,Wells Fargo
+Financial,Switch Platform
+Platform,iPhone
+Environment,Work
+Environment,Goto
+Music,Back
+Environment,Work
+Environment,Goto
+Social Media,Switch Platform

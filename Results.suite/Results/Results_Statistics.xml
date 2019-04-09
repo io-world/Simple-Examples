@@ -1,19 +1,59 @@
 ﻿<?xml version="1.0"?>
 <statistics>
- <script name="index">
+ <script name="Write ">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>11</NumberOfRuns>
-  <NumberOfFails>2</NumberOfFails>
-  <FirstRun>2016-09-29 10:09:22 -0600</FirstRun>
-  <LastRun>2016-10-21 09:54:55 -0600</LastRun>
-  <TotalTimeOnSuccess>2.533231</TotalTimeOnSuccess>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-03-29 08:06:26 -0600</FirstRun>
+  <LastRun>2017-03-29 08:06:26 -0600</LastRun>
+  <TotalTimeOnSuccess>0.212534</TotalTimeOnSuccess>
  </script>
  <script name="Results">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>30</NumberOfRuns>
+  <NumberOfRuns>34</NumberOfRuns>
   <NumberOfFails>1</NumberOfFails>
   <FirstRun>2016-09-29 10:13:10 -0600</FirstRun>
-  <LastRun>2016-11-02 11:12:44 -0400</LastRun>
-  <TotalTimeOnSuccess>3.249458</TotalTimeOnSuccess>
+  <LastRun>2017-06-06 09:10:36 -0600</LastRun>
+  <TotalTimeOnSuccess>4.895735</TotalTimeOnSuccess>
+ </script>
+ <script name="Logit">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-06-06 09:11:25 -0600</FirstRun>
+  <LastRun>2017-06-06 09:11:41 -0600</LastRun>
+  <TotalTimeOnSuccess>1.577431</TotalTimeOnSuccess>
+ </script>
+ <script name="email">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2017-05-31 14:46:36 -0600</FirstRun>
+  <LastRun>2017-06-12 08:48:48 -0600</LastRun>
+  <TotalTimeOnSuccess>7.679031</TotalTimeOnSuccess>
+ </script>
+ <script name="Rename Folders">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>20</NumberOfRuns>
+  <NumberOfFails>8</NumberOfFails>
+  <FirstRun>2017-04-20 09:26:38 -0400</FirstRun>
+  <LastRun>2017-04-20 10:01:08 -0400</LastRun>
+  <TotalTimeOnSuccess>2.937490</TotalTimeOnSuccess>
+ </script>
+ <script name="index2 LogIT">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>13</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2017-06-06 09:23:40 -0600</FirstRun>
+  <LastRun>2017-06-06 10:38:40 -0600</LastRun>
+  <TotalTimeOnSuccess>89.867777</TotalTimeOnSuccess>
+ </script>
+ <script name="index">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>19</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2016-09-29 10:09:22 -0600</FirstRun>
+  <LastRun>2017-06-13 15:04:38 -0600</LastRun>
+  <TotalTimeOnSuccess>16.370905</TotalTimeOnSuccess>
  </script>
 </statistics>

@@ -1,0 +1,24 @@
+﻿{
+    EPVersionNumber = 1706292232;
+    Schedules =     (
+                {
+            ChangeCount = 5;
+            Name = Schedule;
+            Schedule =             (
+                                {
+                    Connection = "Windows 10";
+                    Num = 1;
+                    Run = YES;
+                    Script = "index.script";
+                }
+            );
+        }
+    );
+    ScriptMetaData =     {
+    };
+    SuiteEncodedTextKey = "SC/<36@<frGH(G\\P";
+    helpedSuitesInfo =     (
+    );
+    helperSuitesInfo =     (
+    );
+}

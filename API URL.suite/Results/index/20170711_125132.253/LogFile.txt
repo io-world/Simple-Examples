@@ -1,0 +1,4 @@
+﻿2017-07-11 12:51:32.255 -0600	START		Running index.script
+2017-07-11 12:51:32.465 -0600	Log		\n{\n  "response": {\n  "version":"0.1",\n  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",\n  "features": {\n  }\n\t\t,\n\t"error": {\n\t\t"type": "keynotfound"\n\t\t,"description": "this key does not exist"\n\t}\n\t}\n}\n	1	on_index	index.script
+2017-07-11 12:51:32.656 -0600	EndTestCase		(Duration:"0.400513", Errors:"0", Exceptions:"0", StartTime:"2017-07-11 12:51:32 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-07-11 12:51:32.663 -0600	SUCCESS		Execution Time 0:00:00 index.script

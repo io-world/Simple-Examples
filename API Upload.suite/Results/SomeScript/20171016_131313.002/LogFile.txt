@@ -1,0 +1,5 @@
+﻿2017-10-16 13:13:13.003 -0600	START		Running SomeScript.script
+2017-10-16 13:13:13.075 -0600	connect		Tutorial Connection:(null)	2	on_somescript	SomeScript.script
+2017-10-16 13:13:13.076 -0600	Log		This is some sort of script	5	on_somescript	SomeScript.script
+2017-10-16 13:13:13.306 -0600	EndTestCase		(Duration:"0.302078", Errors:"0", Exceptions:"0", StartTime:"2017-10-16 13:13:13 -0600", Successes:"1", TestCase:"SomeScript.script", Warnings:"0")
+2017-10-16 13:13:13.609 -0600	SUCCESS		Execution Time 0:00:00 SomeScript.script

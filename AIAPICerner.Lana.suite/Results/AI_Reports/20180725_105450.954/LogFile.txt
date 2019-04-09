@@ -1,0 +1,5 @@
+﻿2018-07-25 10:54:50.955 -0600	START		Running eAI_Class.script
+2018-07-25 10:54:51.030 -0600	LogWarning		Validation Warning: Empty request body.	15	on_eai_class	eAI_Class.script
+2018-07-25 10:54:51.704 -0600	Log		(description:"Please provide the required credentials.", message:"Bad Request")	19	on_eai_class	eAI_Class.script
+2018-07-25 10:54:52.061 -0600	EndTestCase		(Duration:"1.104275", Errors:"0", Exceptions:"0", StartTime:"2018-07-25 10:54:50 -0600", Successes:"1", TestCase:"eAI_Class.script", Warnings:"1")
+2018-07-25 10:54:52.080 -0600	SUCCESS		Execution Time 0:00:01 eAI_Class.script

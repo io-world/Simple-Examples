@@ -1,3 +1,0 @@
-﻿2016-11-01 22:54:37.281 -0400	START		Running Read4.script
-2016-11-01 22:54:37.283 -0400	EndTestCase		(Duration:"0.000694", Errors:"1", Exceptions:"0", StartTime:"2016-11-01 22:54:37 -0400", Successes:"0", TestCase:"Read4.script", Warnings:"0")
-2016-11-01 22:54:37.338 -0400	FAILURE		SenseTalk Compiler Exception in read4:\nSyntax Error at line 25: Syntax Error - can't understand [end of line] at or near character 616 -- Execution Time 0:00:00 Read4.script

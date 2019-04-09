@@ -1,0 +1,4 @@
+﻿2018-01-16 11:02:41.384 +0530	START		Running TestanImage.script
+2018-01-16 11:02:41.458 +0530	Exception	Test/A/Fasvorites/Favorites 01	Could Not Open Image: Test/A/Fasvorites/Favorites 01	8	on_testanimage	TestanImage.script
+2018-01-16 11:02:41.850 +0530	EndTestCase		(Duration:"0.464788", Errors:"1", Exceptions:"1", StartTime:"2018-01-16 11:02:41 +0530", Successes:"0", TestCase:"TestanImage.script", Warnings:"0")
+2018-01-16 11:02:41.889 +0530	FAILURE	Screen_Error.png	File Not Found imageinfo Error - Could Not Open Image: Test/A/Fasvorites/Favorites 01 -- Execution Time 0:00:00 TestanImage.script

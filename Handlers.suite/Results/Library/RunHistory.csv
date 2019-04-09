@@ -1,6 +1,0 @@
-﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
-2016-08-31 08:52:37.931 -0600,"Failure",0:00:00,1,0,0,"20160831_085237.931/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'msubtract'",0
-2016-08-31 09:12:25.966 -0600,"Success",0:00:01,0,0,0,"20160831_091225.966/LogFile.txt","","",1
-2016-08-31 09:12:55.999 -0600,"Success",0:00:01,0,0,0,"20160831_091255.999/LogFile.txt","","",1
-2016-08-31 09:13:08.572 -0600,"Success",0:00:01,0,0,0,"20160831_091308.572/LogFile.txt","","",1
-2016-09-27 12:24:50.794 -0600,"Success",0:00:00,0,0,0,"20160927_122450.794/LogFile.txt","","",1

@@ -1,0 +1,6 @@
+﻿2017-11-01 19:00:15.961 -0600	START		Running Libraries/Login.script	17	on_index	Index.script
+2017-11-01 19:00:15.980 -0600	Log		Randy	4	on_libraries_login	Libraries/Login.script
+2017-11-01 19:00:15.981 -0600	Log		passW0rd	5	on_libraries_login	Libraries/Login.script
+2017-11-01 19:00:16.388 -0600	typetext		username	13	on_libraries_login	Libraries/Login.script
+2017-11-01 19:00:17.188 -0600	EndTestCase		(Duration:"1.225622", Errors:"0", Exceptions:"0", StartTime:"2017-11-01 19:00:15 -0600", Successes:"1", TestCase:"Libraries/Login.script", Warnings:"0")	17	on_index	Index.script
+2017-11-01 19:00:17.205 -0600	SUCCESS		Execution Time 0:00:01 Libraries/Login.script	17	on_index	Index.script

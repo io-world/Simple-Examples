@@ -1,0 +1,19 @@
+﻿
+
+Click "Start"
+Click "Web Bowser Icon"
+WaitFor 3.5, "Refresh Icon"
+Click Image:"Magnifying Glass"
+
+//--Turn On Usability Mode 
+set the usabilityMode to True
+
+TypeText "www.eggplant.io"
+TypeText returnKey
+WaitFor 5.0, "Eggplant Logo"
+WaitFor 3.5, "Refresh Icon"
+
+//--Turn Off Usability Mode 
+set the usabilityMode to False
+
+set the usability_LoadTimeWarning to 7 seconds

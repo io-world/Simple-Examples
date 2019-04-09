@@ -1,0 +1,4 @@
+﻿2017-07-17 21:52:03.170 -0400	START		Running RunScriptEncrypt.script
+2017-07-17 21:52:03.218 -0400	Log		\n\n\nWBz " C&u~ .+}w ~{ F&/v#7'zr"\n\n\n}4.qlG OA C'ypF\n\t\n\t\n\txz: ".$?\n\t\n8%& }4.qlG	15	on_runscriptencrypt	RunScriptEncrypt.script
+2017-07-17 21:52:03.372 -0400	EndTestCase		(Duration:"0.20079", Errors:"0", Exceptions:"0", StartTime:"2017-07-17 21:52:03 -0400", Successes:"1", TestCase:"RunScriptEncrypt.script", Warnings:"0")
+2017-07-17 21:52:03.380 -0400	SUCCESS		Execution Time 0:00:00 RunScriptEncrypt.script

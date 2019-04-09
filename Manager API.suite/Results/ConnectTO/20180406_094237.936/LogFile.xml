@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="ConnectTO.script" package="Manager API.suite" timestamp="2018-04-06 09:42:37.936 -0600"
+ tests="1" successes="1" errors="0" time="0.789674">
+  <properties>
+   <property name="RunDate" value="2018-04-06 09:42:37.936 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="ConnectTO.script" assertions="1" successes="1" errors="0" time="0.786891">
+  </testcase>
+ </testsuite>
+</testsuites>

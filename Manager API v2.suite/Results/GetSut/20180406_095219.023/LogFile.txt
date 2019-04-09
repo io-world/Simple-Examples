@@ -1,0 +1,4 @@
+﻿2018-04-06 09:52:19.024 -0600	START		Running GetSut.script
+2018-04-06 09:52:19.313 -0600	Log			5	on_getsut	GetSut.script
+2018-04-06 09:52:19.651 -0600	EndTestCase		(Duration:"0.625628", Errors:"0", Exceptions:"0", StartTime:"2018-04-06 09:52:19 -0600", Successes:"1", TestCase:"GetSut.script", Warnings:"0")
+2018-04-06 09:52:19.669 -0600	SUCCESS		Execution Time 0:00:00 GetSut.script

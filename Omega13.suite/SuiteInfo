@@ -1,14 +1,12 @@
 ﻿{
-    EPVersionNumber = 1607250001;
+    EPVersionNumber = 1802231659;
     Schedules =     (
     );
     ScriptMetaData =     {
     };
+    SuiteEncodedTextKey = ",bi;iskpr1RGObZg";
     helpedSuitesInfo =     (
     );
     helperSuitesInfo =     (
-                {
-            filePath = "/Users/randyhesse/Documents/Demos/Calculator.suite";
-        }
     );
 }

@@ -1,0 +1,10 @@
+﻿2018-06-11 12:36:47.902 -0600	START		Running Master 1.script
+2018-06-11 12:36:58.631 -0600	Exception	thing	No Image Found On Screen: "thing"	1	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 12:36:58.693 -0600	Log		var1Runtime Error at line 1: Image Not Found - click Error - No Image Found On Screen: "thing"	3	function_attemptrecovery	attemptRecovery.script
+2018-06-11 12:36:58.695 -0600	Log		var2click	5	function_attemptrecovery	attemptRecovery.script
+2018-06-11 12:36:58.697 -0600	Log		var3(thing)	6	function_attemptrecovery	attemptRecovery.script
+2018-06-11 12:36:58.698 -0600	Log		var4	7	function_attemptrecovery	attemptRecovery.script
+2018-06-11 12:36:58.699 -0600	Log		var5	8	function_attemptrecovery	attemptRecovery.script
+2018-06-11 12:36:58.701 -0600	Throw		Image Not Found - click Error - No Image Found On Screen: "thing"	20	on_overridecommand	/Applications/eggPlant/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2018-06-11 12:36:59.007 -0600	EndTestCase		(Duration:"11.103112", Errors:"1", Exceptions:"2", StartTime:"2018-06-11 12:36:47 -0600", Successes:"0", TestCase:"Master 1.script", Warnings:"0")
+2018-06-11 12:36:59.090 -0600	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "thing" -- Execution Time 0:00:11 Master 1.script

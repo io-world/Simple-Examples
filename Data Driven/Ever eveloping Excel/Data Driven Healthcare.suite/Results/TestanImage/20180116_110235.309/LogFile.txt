@@ -1,0 +1,4 @@
+﻿2018-01-16 11:02:35.310 +0530	START		Running TestanImage.script
+2018-01-16 11:02:35.430 +0530	Log		((CaptureDate:"2017-03-12 18:27:43 +0000", CaptureHost:"Tutorial Connection", CaptureLocation:(137,582), CaptureScreenSize:(427,640), Description:"", HotSpot:(22,19), ImageLocation:"", ImageName:"Test/A/Favorites/Favorites 01", ImagePath:"/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever eveloping Excel/Data Driven Healthcare.suite/Images/Test/A/Favorites/Favorites 01.png", ImageRectangle:"", ImageSize:(44,39), Pulsing:"False", Scale:"1", SearchType:"Tolerant"))	8	on_testanimage	TestanImage.script
+2018-01-16 11:02:35.817 +0530	EndTestCase		(Duration:"0.505735", Errors:"0", Exceptions:"0", StartTime:"2018-01-16 11:02:35 +0530", Successes:"1", TestCase:"TestanImage.script", Warnings:"0")
+2018-01-16 11:02:35.859 +0530	SUCCESS		Execution Time 0:00:00 TestanImage.script

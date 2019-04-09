@@ -1,0 +1,23 @@
+﻿
+
+//Use the Script to Create New Patient
+set GD to a new "Modules/GlobalDefine"
+(GD).SetupCustomFiles "/Users/randyhesse/Documents/Simple Examples/Data Driven/Version 3 Advance/dataDrivenHealthcare.suite/Resources/PatientInformation.csv"
+
+
+
+
+Run (GD).TroubleShooting 9
+log global Patient.MedicalRecordNumber
+log global Patient.Prefix
+log global Patient.FirstName
+log global Patient.LastName
+log global Patient.DateofBirth
+log global Patient.SocialSecurityNumber
+log global Patient.Gender
+log global Patient.MaritalStatus
+
+
+
+put (GD).BuildPatient ("5") into var
+log var

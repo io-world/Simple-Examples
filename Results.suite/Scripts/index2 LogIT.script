@@ -1,0 +1,34 @@
+﻿set LI to a new "Logit"
+(LI).createLog
+
+
+
+BeginTestCase FOO
+
+
+///Click and Typetext Commands
+(LI).log "this was done"
+///Click and Typetext Commands
+(LI).log "that was done"
+///Click and Typetext Commands
+
+wait 4
+
+EndTestCase FOO
+
+put the Result into TR
+(LI).closeLog TR.Duration
+
+
+wait 10
+
+
+
+
+
+
+
+
+
+
+(LI).closeLog

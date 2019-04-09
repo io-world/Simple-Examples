@@ -1,0 +1,54 @@
+﻿//put Worksheet (ResourcePath("PatientInformation.xlsx"), "WebFormData") into WSheet
+
+(*
+put Workbook(ResourcePath("PatientInformation.xlsx")) into ExcelData
+put the worksheetNames of ExcelData into SheetNames
+put Worksheet (ExcelData, item 1 of SheetNames) into WSheet
+
+put WSheet.cellrange() into SheetData
+put SheetData into my PIFile
+log my PIFile*)
+
+
+put new   "GlobalDefine" into GD
+
+
+//(GD).BuildPatient
+
+
+(* 
+
+
+
+
+
+Examples Folders: examples and troubleshooting techniques
+_______________________________________________________________________
+Libraries Folder: individual workflow modules
+_______________________________________________________________________
+Modules Folder: 
+          GlobalDefine Class: Defines Files Locations, Patient Information
+          Verify Class: Check if Text or Images Exist.
+_______________________________________________________________________
+States:
+           Zero: Workflow related to setting the SUT into a Zero State (Known State)
+           Report: Workflow to send custom Reporting Information
+_______________________________________________________________________
+Test: Workflow of specific tests to perform.
+______________________________________________________________________
+INDEX: This is the most important File, This is where you Run the Script from.
+
+
+
+
+
+
+
+ *)
+
+
+
+
+Run "Modules/GlobalDefine".BuildPatient 2
+
+

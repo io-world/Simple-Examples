@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="ResultRename">
+ <run>
+  <RunDate>2017-08-26 16:27:01.783 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.242196</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170826_162701.783/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-08-26 16:27:08.123 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.198045</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170826_162708.123/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,3 @@
+﻿2018-10-10 15:58:32.091 -0400	START		Running Example Write1.script
+2018-10-10 15:58:32.414 -0400	EndTestCase		(Duration:"0.322257", Errors:"1", Exceptions:"0", StartTime:"2018-10-10 15:58:32 -0400", Successes:"0", TestCase:"Example Write1.script", Warnings:"0")
+2018-10-10 15:58:32.764 -0400	FAILURE	Screen_Error.png	Cell Error Cell identifier must be either two positive numbers (row, column) or a letter-number identifier (like "C6"). Got (B,2) -- Execution Time 0:00:00 Example Write1.script

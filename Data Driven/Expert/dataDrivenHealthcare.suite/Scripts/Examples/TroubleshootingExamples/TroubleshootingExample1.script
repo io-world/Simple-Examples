@@ -1,0 +1,23 @@
+﻿
+
+//Use the Script to Create New Patient
+
+set GD to a new "Modules/GlobalDefine"
+(GD).SetupFiles
+put (GD)."BuildPatient" (2) into Patient
+
+
+put (GD)."TroubleShoot" (2) into Patient
+
+
+log  Patient.MedicalRecordNumber
+log  Patient.Prefix
+log  Patient.FirstName
+log  Patient.LastName
+log  Patient.DateofBirth
+log  Patient.SocialSecurityNumber
+log  Patient.Gender
+log  Patient.MaritalStatus
+
+
+typetext  Patient.MaritalStatus

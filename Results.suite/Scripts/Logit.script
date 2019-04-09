@@ -1,0 +1,25 @@
+﻿
+
+
+on createLog
+	put formattedTime("%m-%d-%Y-%I--%M-%S-%p") into TimeStamp
+	put "/Users/randyhesse/Desktop/"&TimeStamp&".txt" into NewFile
+	create file NewFile
+	open file NewFile
+	put NewFile into my LogItFile
+	
+	
+end createLog
+
+
+on Log context
+	write context to file my LogItFile
+	write return to file my LogItFile
+end Log
+
+
+
+on CloseLog
+	close file my LogItFile
+	
+end CloseLog

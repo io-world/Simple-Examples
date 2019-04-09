@@ -1,0 +1,3 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-07-27 13:59:13.071 -0600,"Failure",0:00:10,1,0,0,"20170727_135913.071/LogFile.txt","","Connection Failed -- Unable to connect to Server:172.16.229.147 on port:5900\nConnection Timed Out - Unable to Connect to Host",0
+2017-07-27 14:00:04.669 -0600,"Failure",0:00:10,1,0,0,"20170727_140004.669/LogFile.txt","","Connection Failed -- Unable to connect to Server:172.16.229.147 on port:5900\nConnection Timed Out - Unable to Connect to Host",0

@@ -1,9 +1,0 @@
-﻿2017-04-12 10:24:54.066 -0600	START		Running Example.script
-2017-04-12 10:24:54.145 -0600	Log		Bruce	12	on_example	Example.script
-2017-04-12 10:24:54.148 -0600	Log		Bruce	13	on_example	Example.script
-2017-04-12 10:24:54.150 -0600	Log		((Bond,666666),(Simpson,777777),(Prime,888888),(Mouse,999999))	16	on_example	Example.script
-2017-04-12 10:24:54.153 -0600	Log		((Prefix,First Name,Middle Name,Last Name,Medical Record Number,Date of Birth,Social Security Number,Gender,Marital Status))	17	on_example	Example.script
-2017-04-12 10:24:54.155 -0600	Log		Calibri	19	on_example	Example.script
-2017-04-12 10:24:54.159 -0600	Log		(False,False,False,0,0,1,Calibri)	20	on_example	Example.script
-2017-04-12 10:24:54.928 -0600	EndTestCase		(Duration:"0.860721", Errors:"0", Exceptions:"0", StartTime:"2017-04-12 10:24:54 -0600", Successes:"1", TestCase:"Example.script", Warnings:"0")
-2017-04-12 10:24:54.956 -0600	SUCCESS		Execution Time 0:00:00 Example.script

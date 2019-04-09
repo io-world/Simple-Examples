@@ -1,0 +1,45 @@
+﻿2017-06-29 11:25:08.104 -0600	START		Running CheckServices.script
+2017-06-29 11:25:08.213 -0600	typetext		[windowsKey]r	6	on_checkservices	CheckServices.script
+2017-06-29 11:25:09.076 -0600	typetext		services.msc[returnKey]	7	on_checkservices	CheckServices.script
+2017-06-29 11:25:09.792 -0600	moveto		at (1440, 900)	8	on_checkservices	CheckServices.script
+2017-06-29 11:25:10.435 -0600	waitfor	CheckServices/Gears Icon	found at (350, 136)	9	on_checkservices	CheckServices.script
+2017-06-29 11:25:14.554 -0600	imagefound	CheckServices/Windows Float	Unable to Find Image CheckServices/Windows Float within 3.00 seconds	12	on_checkservices	CheckServices.script
+2017-06-29 11:25:15.092 -0600	doubleclick	CheckServices/Columns/Description	at (672, 108)	18	on_checkservices	CheckServices.script
+2017-06-29 11:25:16.164 -0600	imagelocation	CheckServices/Columns/Name	at (365, 114)	22	on_checkservices	CheckServices.script
+2017-06-29 11:25:16.178 -0600	typetext		S	29	on_checkservices	CheckServices.script
+2017-06-29 11:25:16.893 -0600	typetext		[pageDown]	33	on_checkservices	CheckServices.script
+2017-06-29 11:25:19.562 -0600	imagefound	(TEXT:"SSDP Discover")	found at (398, 438)	35	on_checkservices	CheckServices.script
+2017-06-29 11:25:19.564 -0600	Log		Found : SSDP Discover	37	on_checkservices	CheckServices.script
+2017-06-29 11:25:25.256 -0600	imagelocation	(TEXT:"SSDP Discover")	at (398, 438)	44	on_checkservices	CheckServices.script
+2017-06-29 11:25:25.637 -0600	imagelocation	CheckServices/Columns/Status	at (785, 114)	45	on_checkservices	CheckServices.script
+2017-06-29 11:25:25.749 -0600	rightclick		at (785, 438)	53	on_checkservices	CheckServices.script
+2017-06-29 11:25:26.946 -0600	click	CheckServices/Status/Restart	at (839, 540)	54	on_checkservices	CheckServices.script
+2017-06-29 11:25:28.016 -0600	imagefound	CheckServices/Service Control	found at (81, 120)	57	on_checkservices	CheckServices.script
+2017-06-29 11:25:28.017 -0600	Log		Restarting	58	on_checkservices	CheckServices.script
+2017-06-29 11:25:28.119 -0600	imagefound	CheckServices/Service Control	found at (81, 120)	59	on_checkservices	CheckServices.script
+2017-06-29 11:25:28.120 -0600	Log		Restarting	58	on_checkservices	CheckServices.script
+2017-06-29 11:25:28.224 -0600	imagefound	CheckServices/Service Control	found at (81, 120)	59	on_checkservices	CheckServices.script
+2017-06-29 11:25:28.225 -0600	Log		Restarting	58	on_checkservices	CheckServices.script
+2017-06-29 11:25:28.384 -0600	imagefound	CheckServices/Service Control	found at (81, 120)	59	on_checkservices	CheckServices.script
+2017-06-29 11:25:28.385 -0600	Log		Restarting	58	on_checkservices	CheckServices.script
+2017-06-29 11:25:28.759 -0600	imagefound	CheckServices/Service Control	found at (81, 120)	59	on_checkservices	CheckServices.script
+2017-06-29 11:25:28.759 -0600	Log		Restarting	58	on_checkservices	CheckServices.script
+2017-06-29 11:25:28.868 -0600	imagefound	CheckServices/Service Control	found at (81, 120)	59	on_checkservices	CheckServices.script
+2017-06-29 11:25:28.869 -0600	Log		Restarting	58	on_checkservices	CheckServices.script
+2017-06-29 11:25:28.976 -0600	imagefound	CheckServices/Service Control	found at (81, 120)	59	on_checkservices	CheckServices.script
+2017-06-29 11:25:28.977 -0600	Log		Restarting	58	on_checkservices	CheckServices.script
+2017-06-29 11:25:29.083 -0600	imagefound	CheckServices/Service Control	found at (81, 120)	59	on_checkservices	CheckServices.script
+2017-06-29 11:25:29.084 -0600	Log		Restarting	58	on_checkservices	CheckServices.script
+2017-06-29 11:25:29.192 -0600	imagefound	CheckServices/Service Control	found at (81, 120)	59	on_checkservices	CheckServices.script
+2017-06-29 11:25:29.193 -0600	Log		Restarting	58	on_checkservices	CheckServices.script
+2017-06-29 11:25:29.300 -0600	imagefound	CheckServices/Service Control	found at (81, 120)	59	on_checkservices	CheckServices.script
+2017-06-29 11:25:29.301 -0600	Log		Restarting	58	on_checkservices	CheckServices.script
+2017-06-29 11:25:29.408 -0600	imagefound	CheckServices/Service Control	found at (81, 120)	59	on_checkservices	CheckServices.script
+2017-06-29 11:25:29.409 -0600	Log		Restarting	58	on_checkservices	CheckServices.script
+2017-06-29 11:25:29.624 -0600	imagefound	CheckServices/Service Control	found at (81, 120)	59	on_checkservices	CheckServices.script
+2017-06-29 11:25:29.624 -0600	Log		Restarting	58	on_checkservices	CheckServices.script
+2017-06-29 11:25:30.735 -0600	imagefound	CheckServices/Service Control	Unable to Find Image CheckServices/Service Control within 1.00 seconds	59	on_checkservices	CheckServices.script
+2017-06-29 11:25:32.741 -0600	Log		Finished	61	on_checkservices	CheckServices.script
+2017-06-29 11:25:32.768 -0600	typetext		[windowsAltKey][F4]	70	on_checkservices	CheckServices.script
+2017-06-29 11:25:33.033 -0600	EndTestCase		(Duration:"24.927794", Errors:"0", Exceptions:"0", StartTime:"2017-06-29 11:25:08 -0600", Successes:"1", TestCase:"CheckServices.script", Warnings:"0")
+2017-06-29 11:25:33.075 -0600	SUCCESS		Execution Time 0:00:24 CheckServices.script

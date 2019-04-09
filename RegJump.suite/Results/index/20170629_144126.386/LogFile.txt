@@ -1,0 +1,9 @@
+﻿2017-06-29 14:41:26.387 -0600	START		Running index.script
+2017-06-29 14:41:26.468 -0600	typetext		[windowsKey]	9	on_index	index.script
+2017-06-29 14:41:27.211 -0600	typetext		cmd	10	on_index	index.script
+2017-06-29 14:41:28.393 -0600	rightclick	Command Prompt Icon	at (75, 392)	11	on_index	index.script
+2017-06-29 14:41:29.571 -0600	click	administrator	at (179, 416)	12	on_index	index.script
+2017-06-29 14:41:30.069 -0600	waitfor	Command Prompt Icon Small	found at (48, 41)	13	on_index	index.script
+2017-06-29 14:41:30.791 -0600	typetext		regjump HKLM\Software\Microsoft\Windows[returnKey]	14	on_index	index.script
+2017-06-29 14:41:31.039 -0600	EndTestCase		(Duration:"4.650302", Errors:"0", Exceptions:"0", StartTime:"2017-06-29 14:41:26 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-06-29 14:41:31.047 -0600	SUCCESS		Execution Time 0:00:04 index.script

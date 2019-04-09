@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Master 1_script" package="OmegaCollection.suite" timestamp="2018-06-06 21:41:56.859 -0500"
+ tests="1"  failures="1" errors="2" time="8.519262">
+  <properties>
+   <property name="RunDate" value="2018-06-06 21:41:56.859 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Master 1.script" assertions="1" status="error"  time="8.517527">
+    <failure type="FAILURE" message="File Not Found imageinfo Error - Could Not Open Image: &quot;Chrome&quot; -- Execution Time 0:00:08 Master 1.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;Chrome&quot;" />
+    <error type="Exception" message="Could Not Open Image: &quot;Chrome&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

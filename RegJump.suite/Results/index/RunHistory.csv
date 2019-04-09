@@ -1,0 +1,18 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-06-29 13:00:41.075 -0600,"Success",0:00:01,0,0,0,"20170629_130041.075/LogFile.txt","","",1
+2017-06-29 13:01:13.710 -0600,"Success",0:00:02,0,0,0,"20170629_130113.710/LogFile.txt","","",1
+2017-06-29 13:03:31.615 -0600,"Success",0:00:03,0,0,0,"20170629_130331.615/LogFile.txt","","",1
+2017-06-29 13:04:05.855 -0600,"Success",0:00:03,0,0,0,"20170629_130405.855/LogFile.txt","","",1
+2017-06-29 13:10:10.283 -0600,"Success",0:00:04,0,0,0,"20170629_131010.283/LogFile.txt","","",1
+2017-06-29 13:10:56.907 -0600,"Success",0:00:04,0,0,0,"20170629_131056.907/LogFile.txt","","",1
+2017-06-29 14:41:26.386 -0600,"Success",0:00:04,0,0,0,"20170629_144126.386/LogFile.txt","","",1
+2017-06-29 14:49:42.937 -0600,"Running",0:00:00,0,0,0,"20170629_144942.937/LogFile.txt","","",0
+2017-06-29 15:45:35.890 -0600,"Failure",0:00:18,1,0,1,"20170629_154535.890/LogFile.txt","","Image Not Found -- imagelocation Error - Unable To Find Image ""(TEXT:""OneCoreNoBootDWM"")""  Restricted Search Rectangle ((419,71),(607,800))\n",0
+2017-06-29 15:47:37.502 -0600,"Failure",0:00:12,1,0,0,"20170629_154737.502/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2017-06-29 15:48:09.780 -0600,"Failure",0:00:12,1,0,0,"20170629_154809.780/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2017-06-29 15:49:02.007 -0600,"Failure",0:00:16,1,0,0,"20170629_154902.007/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2017-06-29 15:49:29.978 -0600,"Success",0:00:11,0,0,0,"20170629_154929.978/LogFile.txt","","",1
+2017-06-29 15:51:03.170 -0600,"Success",0:00:11,0,0,0,"20170629_155103.170/LogFile.txt","","",1
+2017-06-29 15:52:32.883 -0600,"Failure",0:00:11,2,0,0,"20170629_155232.883/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'wrl'",0
+2017-06-29 15:53:09.020 -0600,"Failure",0:00:11,1,0,0,"20170629_155309.020/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'wrl'",0
+2017-06-29 15:53:40.584 -0600,"Success",0:00:14,0,0,0,"20170629_155340.584/LogFile.txt","","",1

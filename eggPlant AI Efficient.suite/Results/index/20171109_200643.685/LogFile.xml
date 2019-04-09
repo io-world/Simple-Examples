@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="index.script" package="eggPlant AI.suite" timestamp="2017-11-09 20:06:43.685 -0700"
+ tests="2" successes="1" errors="0" time="4.752719">
+  <properties>
+   <property name="RunDate" value="2017-11-09 20:06:43.685 -0700"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Chrome Load Time" assertions="0" successes="0" errors="0" time="2.522109">
+  </testcase>
+  <testcase name="index.script" assertions="1" successes="1" errors="0" time="4.747666">
+  </testcase>
+ </testsuite>
+</testsuites>

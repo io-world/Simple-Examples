@@ -1,0 +1,18 @@
+﻿
+
+
+
+
+
+log "Starting Script 2"
+
+
+
+
+
+click "History"
+click "Downloads"
+
+TypeText "Hello world!"
+click "Contacts"
+click "Favorite"

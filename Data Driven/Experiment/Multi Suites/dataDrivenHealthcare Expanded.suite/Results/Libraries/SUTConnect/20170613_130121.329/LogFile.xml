@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Libraries/SUTConnect.script" package="dataDrivenHealthcare.suite" timestamp="2017-06-13 13:01:21.329 -0600"
+ tests="1" successes="0" errors="1" time="0.274306">
+  <properties>
+   <property name="RunDate" value="2017-06-13 13:01:21.329 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Libraries/SUTConnect.script" assertions="1" successes="0" errors="1" time="0.271772">
+    <failure type="LogError">Not connected to a SUT, quitting the script</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

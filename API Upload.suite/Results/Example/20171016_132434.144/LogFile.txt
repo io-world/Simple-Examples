@@ -1,0 +1,4 @@
+﻿2017-10-16 13:24:34.145 -0600	START		Running Untitled.script
+2017-10-16 13:24:34.202 -0600	Log		/Users/randyhesse/Documents/Simple Examples/API Upload.suite/Results	3	on_untitled	Untitled.script
+2017-10-16 13:24:34.564 -0600	EndTestCase		(Duration:"0.417873", Errors:"0", Exceptions:"0", StartTime:"2017-10-16 13:24:34 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2017-10-16 13:24:34.587 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

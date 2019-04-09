@@ -1,0 +1,4 @@
+﻿2018-06-12 08:24:12.265 -0600	START		Running attemptRecovery.script
+2018-06-12 08:24:12.389 -0600	Exception		Could Not Open Image: (empty)	3	on_attemptrecovery	attemptRecovery.script
+2018-06-12 08:24:12.664 -0600	EndTestCase		(Duration:"0.398168", Errors:"1", Exceptions:"1", StartTime:"2018-06-12 08:24:12 -0600", Successes:"0", TestCase:"attemptRecovery.script", Warnings:"0")
+2018-06-12 08:24:13.465 -0600	FAILURE	Screen_Error.png	File Not Found imageinfo Error - Could Not Open Image: (empty) -- Execution Time 0:00:00 attemptRecovery.script

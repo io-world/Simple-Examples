@@ -1,0 +1,5 @@
+﻿2017-11-01 18:53:12.759 -0600	START		Running Test/A.script
+2017-11-01 18:53:12.822 -0600	Log		code for Navigation for TestA 	6	on_test_a	Test/A.script
+2017-11-01 18:53:13.021 -0600	click	Contacts/Buttons/Contacts	at (53, 607)	9	on_test_a	Test/A.script
+2017-11-01 18:53:13.201 -0600	EndTestCase		(Duration:"0.439831", Errors:"1", Exceptions:"0", StartTime:"2017-11-01 18:53:12 -0600", Successes:"0", TestCase:"Test/A.script", Warnings:"0")
+2017-11-01 18:53:13.238 -0600	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got ''. -- Execution Time 0:00:00 Test/A.script

@@ -1,0 +1,5 @@
+﻿2017-08-26 16:27:08.124 -0600	START		Running ResultRename.script
+2017-08-26 16:27:08.179 -0600	Log		This:/Users/randyhesse/Documents/Simple Examples/Folders.suite/Results/ResultRename/20170826_162708.123	25	on_resultrename	ResultRename.script
+2017-08-26 16:27:08.180 -0600	Log		Will be replaced with this:/Users/randyhesse/Documents/Simple Examples/Folders.suite/Results/ResultRename/DepartmentID-whatever	26	on_resultrename	ResultRename.script
+2017-08-26 16:27:08.322 -0600	EndTestCase		(Duration:"0.196581", Errors:"0", Exceptions:"0", StartTime:"2017-08-26 16:27:08 -0600", Successes:"1", TestCase:"ResultRename.script", Warnings:"0")
+2017-08-26 16:27:08.328 -0600	SUCCESS		Execution Time 0:00:00 ResultRename.script

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled2">
+ <run>
+  <RunDate>2018-08-22 14:38:50.583 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.849145</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180822_143850.583/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-08-22 14:46:18.195 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.954779</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180822_144618.195/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Worksheet Results doesn&#x27;t exist</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-08-22 14:47:03.234 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.966776</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20180822_144703.234/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Workbook Error -- Worksheet Results doesn&#x27;t exist</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-08-22 14:47:23.481 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.017395</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180822_144723.481/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-08-22 14:47:53.707 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.974953</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180822_144753.707/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-08-22 14:59:45.461 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.035314</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180822_145945.461/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-08-22 15:00:36.766 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.102411</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180822_150036.766/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-08-22 15:02:37.823 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.351640</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180822_150237.823/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-08-22 15:02:54.090 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1.039882</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180822_150254.090/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

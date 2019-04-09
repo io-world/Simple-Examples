@@ -1,3 +1,0 @@
-﻿2017-04-12 10:22:14.961 -0600	START		Running Untitled1.script
-2017-04-12 10:22:15.851 -0600	EndTestCase		(Duration:"0.889276", Errors:"1", Exceptions:"0", StartTime:"2017-04-12 10:22:14 -0600", Successes:"0", TestCase:"Untitled1.script", Warnings:"0")
-2017-04-12 10:22:16.189 -0600	FAILURE	Screen_Error.png	Workbook Error Error loading workbook /Users/randyhesse/Desktop/Excel.suite/Resources/TestCustomerList.xlsx: No such file or directory. -- Execution Time 0:00:00 Untitled1.script

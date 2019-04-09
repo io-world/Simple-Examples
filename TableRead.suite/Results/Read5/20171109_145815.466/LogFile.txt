@@ -1,0 +1,12 @@
+﻿2017-11-09 14:58:15.467 -0700	START		Running Read5.script
+2017-11-09 14:58:15.891 -0700	imagelocation	Show	at (28, 82)	1	on_read5	Read5.script
+2017-11-09 14:58:15.903 -0700	moveto		at (128, 82)	1	on_read5	Read5.script
+2017-11-09 14:58:17.112 -0700	everyimagelocation	Number	found 1 images	4	on_read5	Read5.script
+2017-11-09 14:58:17.113 -0700	Log		(75,106)	5	on_read5	Read5.script
+2017-11-09 14:58:17.487 -0700	imagelocation	Show	at (28, 82)	8	on_read5	Read5.script
+2017-11-09 14:58:17.869 -0700	imagelocation	Show	at (28, 82)	9	on_read5	Read5.script
+2017-11-09 14:58:17.918 -0700	readtext		(8,0,78,122)
+2017-11-09 14:58:17.918 -0700	Log		Show 100\nNun*	12	on_read5	Read5.script
+2017-11-09 14:58:20.293 -0700	Exception		Searching For Image: OCR Error: OCR operation was aborted	18	on_read5	Read5.script
+2017-11-09 14:58:20.806 -0700	EndTestCase		(Duration:"5.337123", Errors:"1", Exceptions:"1", StartTime:"2017-11-09 14:58:15 -0700", Successes:"0", TestCase:"Read5.script", Warnings:"0")
+2017-11-09 14:58:20.806 -0700	ABORTED		Execution Time 0:00:05 Read5.script

@@ -1,0 +1,9 @@
+﻿2017-06-29 09:23:48.711 -0600	START		Running index.script
+2017-06-29 09:23:48.787 -0600	typetext		[windowsKey]r	1	on_index	index.script
+2017-06-29 09:23:49.658 -0600	typetext		services.msc[returnKey]	2	on_index	index.script
+2017-06-29 09:23:50.373 -0600	moveto		at (1440, 900)	3	on_index	index.script
+2017-06-29 09:23:51.105 -0600	waitfor	Gears Icon	found at (350, 136)	4	on_index	index.script
+2017-06-29 09:23:57.227 -0600	imagefound	Windows Float	Unable to Find Image Windows Float within 5.00 seconds	7	on_index	index.script
+2017-06-29 09:23:57.779 -0600	doubleclick	Columns/Description	at (672, 108)	12	on_index	index.script
+2017-06-29 09:23:57.966 -0600	EndTestCase		(Duration:"9.253638", Errors:"0", Exceptions:"0", StartTime:"2017-06-29 09:23:48 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-06-29 09:23:57.973 -0600	SUCCESS		Execution Time 0:00:09 index.script

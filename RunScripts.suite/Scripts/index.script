@@ -1,0 +1,35 @@
+﻿
+put ("Flow1","Flow2","Flow3") into ScriptList
+
+
+put the number of items of ScriptList into max
+
+
+repeat max times
+	
+	
+	
+	try
+		Run item repeatindex() of ScriptList
+	catch Exception
+		Log "Can't Run"
+		log "reason:" & Exception
+	end try
+	
+	
+	
+end repeat
+
+
+------------------------------------------------
+
+put suiteinfo().scriptsFolder & "/Flow2.script" into ScriptsRun
+put suiteinfo().scriptsFolder & "/TemoFlow.script" into ScriptsRunTemp
+
+copy file ScriptsRun  to ScriptsRunTemp
+
+
+
+run ScriptsRunTemp
+wait 4
+delete file ScriptsRunTemp

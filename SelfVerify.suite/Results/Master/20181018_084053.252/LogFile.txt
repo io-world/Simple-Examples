@@ -1,0 +1,4 @@
+﻿2018-10-18 08:40:53.254 -0600	START		Running Master.script
+2018-10-18 08:40:53.325 -0600	Exception		Remote Connection Unavailable	4	on_master	Master.script
+2018-10-18 08:40:53.507 -0600	EndTestCase		(Duration:"0.25211", Errors:"0", Exceptions:"1", StartTime:"2018-10-18 08:40:53 -0600", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2018-10-18 08:40:53.522 -0600	SUCCESS		Execution Time 0:00:00 Master.script

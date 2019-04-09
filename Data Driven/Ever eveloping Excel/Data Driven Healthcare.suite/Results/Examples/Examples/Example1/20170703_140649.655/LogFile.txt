@@ -1,0 +1,10 @@
+﻿2017-07-03 14:06:49.656 -0600	START		Running Examples/Examples/Example1.script
+2017-07-03 14:06:49.764 -0600	Log		Wareen	13	on_examples_examples_example1	Examples/Examples/Example1.script
+2017-07-03 14:06:49.765 -0600	Log		PaSwOrD	14	on_examples_examples_example1	Examples/Examples/Example1.script
+2017-07-03 14:06:49.796 -0600	Log		(DateofBirth:"6/14/00", FirstName:"SpongeBob", Gender:"Male", LastName:"SquarePants", MaritalStatus:"Single", MedicalRecordNumber:"101010", MiddleName:"I", Prefix:"Mr", SocialSecurityNumber:"984-56-3166")	17	on_examples_examples_example1	Examples/Examples/Example1.script
+2017-07-03 14:06:49.799 -0600	Log		101010	18	on_examples_examples_example1	Examples/Examples/Example1.script
+2017-07-03 14:06:49.806 -0600	Log		9	25	on_examples_examples_example1	Examples/Examples/Example1.script
+2017-07-03 14:06:49.814 -0600	Log		Medical Record Number,Prefix,First Name,Middle Name,Last Name,Date of Birth,Social Security Number,Gender,Marital Status	26	on_examples_examples_example1	Examples/Examples/Example1.script
+2017-07-03 14:06:49.827 -0600	Log		(222222,333333,444444,555555,666666,777777,888888,999999,101010)	29	on_examples_examples_example1	Examples/Examples/Example1.script
+2017-07-03 14:06:50.142 -0600	EndTestCase		(Duration:"0.484714", Errors:"0", Exceptions:"0", StartTime:"2017-07-03 14:06:49 -0600", Successes:"1", TestCase:"Examples/Examples/Example1.script", Warnings:"0")
+2017-07-03 14:06:50.172 -0600	SUCCESS		Execution Time 0:00:00 Examples/Examples/Example1.script

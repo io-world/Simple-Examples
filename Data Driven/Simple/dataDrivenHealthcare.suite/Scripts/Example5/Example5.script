@@ -1,0 +1,21 @@
+﻿put file ResourcePath("PatientInformation.csv") into PIFile
+
+put (the number of lines of PIFile -1) into Max
+put line 1 of PIFile into AllValueNames	
+put the number of items of line 1 of PIFile into PatientDataCount
+
+
+repeat Max times
+	put line repeatindex()+1 of PIFile into PatientRecord
+	repeat PatientDataCount times		
+		put item repeatindex() of AllValueNames into ValueName
+		put item repeatindex() of PatientRecord into PatientValue
+		delete " " from ValueName
+		put PatientValue into global Patient.(ValueName)
+	end repeat		
+	
+	Run "Example5/PatientCreate" 
+	
+	wait 2 
+	
+end repeat	

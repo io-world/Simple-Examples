@@ -1,0 +1,22 @@
+﻿
+put "WebFormDara3" into CSVName
+
+
+Run "DeleteCSV"  ,CSVName
+
+
+
+Run "CreateCSV"  ,CSVName
+//Run "GeneratePatient" ,CSVName
+
+Run "GeneratePatientAdvance",CSVName
+
+
+
+
+
+
+Run "ProcessingMain" , CSVName
+
+
+

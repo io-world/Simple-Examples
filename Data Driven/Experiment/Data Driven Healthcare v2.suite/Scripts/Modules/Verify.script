@@ -1,0 +1,41 @@
+﻿
+
+
+on Content  ContentName ,WFV, SR
+	--log "The Content Name is:"&&ContentName
+	
+	if ContentName is empty then
+		logerror "The Content Name does not exist"
+		exit handler
+	else
+		put ContentName into Extension
+		split Extension by "." 
+	end if
+	
+	--------------------------------------------------------------------------
+	
+	if WFV is empty then
+		put 3 into WFV
+	end if
+	
+	if SR is empty then
+		put ((0,0),RemoteScreenSize()) into SR
+	end if
+	--------------------------------------------------------------------------
+	
+	
+	if item 2 of Extension <> "png" then
+		if imagefound(text: ContentName, Waitfor: WFV, searchRectangle: SR) then 
+			log "Text was found:" && ContentName
+		else
+			logwarning "Text was NOT found:"&& ContentName
+		end if
+	else
+		if imagefound (image: ContentName, Waitfor: WFV, searchRectangle: SR) then
+			log "Image was found:" && ContentName
+		else
+			logwarning "Image was NOT found:"&& ContentName
+		end if
+		
+	end if
+end Content

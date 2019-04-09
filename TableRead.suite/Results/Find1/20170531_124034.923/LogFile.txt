@@ -1,3 +1,0 @@
-﻿2017-05-31 12:40:34.924 -0600	START		Running Find1.script
-2017-05-31 12:40:34.927 -0600	EndTestCase		(Duration:"0.001012", Errors:"1", Exceptions:"0", StartTime:"2017-05-31 12:40:34 -0600", Successes:"0", TestCase:"Find1.script", Warnings:"0")
-2017-05-31 12:40:35.274 -0600	FAILURE	Screen_Error.png	SenseTalk Compiler Exception in find1:\nSyntax Error at line 16: Syntax Error - can't understand "-" at or near character 287 -- Execution Time 0:00:00 Find1.script

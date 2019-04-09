@@ -1,4 +1,0 @@
-﻿2016-09-29 14:50:08.685 -0600	START		Running IndexShell.script
-2016-09-29 14:50:08.827 -0600	Log		Applications\nLibrary\nNetwork\nOS X Install Data\nSystem\nUsers\nVolumes\nbin\ncores\ndev\netc\nhome\ninstaller.failurerequests\nnet\nopt\nprivate\nsbin\ntmp\nusr\nvar\n	1	on_indexshell	IndexShell.script
-2016-09-29 14:50:09.159 -0600	EndTestCase		(Duration:"0.472754", Errors:"0", Exceptions:"0", StartTime:"2016-09-29 14:50:08 -0600", Successes:"1", TestCase:"IndexShell.script", Warnings:"0")
-2016-09-29 14:50:09.163 -0600	SUCCESS		Execution Time 0:00:00 IndexShell.script

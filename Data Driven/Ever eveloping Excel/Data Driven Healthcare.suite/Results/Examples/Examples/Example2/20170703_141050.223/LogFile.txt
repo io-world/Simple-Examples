@@ -1,0 +1,5 @@
+﻿2017-07-03 14:10:50.224 -0600	START		Running Examples/Examples/Example2.script
+2017-07-03 14:10:50.348 -0600	Log		(Password:"PaSwOrD", username:"Wareen")	14	on_examples_examples_example2	Examples/Examples/Example2.script
+2017-07-03 14:10:50.350 -0600	Log		PaSwOrD	15	on_examples_examples_example2	Examples/Examples/Example2.script
+2017-07-03 14:10:50.739 -0600	EndTestCase		(Duration:"0.513025", Errors:"1", Exceptions:"0", StartTime:"2017-07-03 14:10:50 -0600", Successes:"0", TestCase:"Examples/Examples/Example2.script", Warnings:"0")
+2017-07-03 14:10:50.794 -0600	FAILURE	Screen_Error.png	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got ''. -- Execution Time 0:00:00 Examples/Examples/Example2.script

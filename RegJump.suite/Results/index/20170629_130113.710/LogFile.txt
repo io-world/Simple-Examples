@@ -1,0 +1,6 @@
+﻿2017-06-29 13:01:13.711 -0600	START		Running index.script
+2017-06-29 13:01:13.818 -0600	typetext		[windowsKey]r	7	on_index	index.script
+2017-06-29 13:01:14.574 -0600	typetext		cmd[returnKey]	8	on_index	index.script
+2017-06-29 13:01:15.794 -0600	typetext		regjump HKLM\Software\Microsoft\Windows[returnKey]	9	on_index	index.script
+2017-06-29 13:01:16.036 -0600	EndTestCase		(Duration:"2.323985", Errors:"0", Exceptions:"0", StartTime:"2017-06-29 13:01:13 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-06-29 13:01:16.040 -0600	SUCCESS		Execution Time 0:00:02 index.script

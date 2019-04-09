@@ -1,0 +1,10 @@
+State,Action
+Initial,Verify SUT
+Initial,Zero State
+Login Screen,Admin
+Reset Tabs,Close All Tabs
+Home,Menu Select
+Procedures Dropdown,Load Compendium
+Procedures Dropdown,Launch Dicom
+Procedures Dropdown,Providers
+Procedures Dropdown,Logout and Exit

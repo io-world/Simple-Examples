@@ -1,4 +1,0 @@
-﻿2016-08-31 08:54:15.464 -0600	START		Running index.script
-2016-08-31 08:54:15.638 -0600	Log		-1	4	on_msubtract	Library.script
-2016-08-31 08:54:16.481 -0600	EndTestCase		(Duration:"1.015684", Errors:"1", Exceptions:"0", StartTime:"2016-08-31 08:54:15 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
-2016-08-31 08:54:16.615 -0600	FAILURE	Screen_Error.png	STInvalidNumber Value is not a number: 'numone' -- Execution Time 0:00:01 index.script

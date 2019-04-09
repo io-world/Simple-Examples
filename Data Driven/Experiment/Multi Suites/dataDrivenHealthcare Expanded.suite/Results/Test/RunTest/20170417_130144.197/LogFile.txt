@@ -1,0 +1,4 @@
+﻿2017-04-17 13:01:44.199 -0600	START		Running Test/RunTest.script
+2017-04-17 13:01:44.293 -0600	Log		(Type:"Testplant Tutorial")	1	on_test_runtest	Test/RunTest.script
+2017-04-17 13:01:44.555 -0600	EndTestCase		(Duration:"0.354358", Errors:"0", Exceptions:"0", StartTime:"2017-04-17 13:01:44 -0600", Successes:"1", TestCase:"Test/RunTest.script", Warnings:"0")
+2017-04-17 13:01:44.573 -0600	SUCCESS		Execution Time 0:00:00 Test/RunTest.script

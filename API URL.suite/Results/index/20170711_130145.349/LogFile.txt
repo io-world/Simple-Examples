@@ -1,0 +1,4 @@
+﻿2017-07-11 13:01:45.350 -0600	START		Running index.script
+2017-07-11 13:01:45.392 -0600	Log		(long_name:"Cook County", short_name:"Cook County", types:(administrative_area_level_2,political))	6	on_index	index.script
+2017-07-11 13:01:45.605 -0600	EndTestCase		(Duration:"0.25376", Errors:"0", Exceptions:"0", StartTime:"2017-07-11 13:01:45 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2017-07-11 13:01:45.612 -0600	SUCCESS		Execution Time 0:00:00 index.script

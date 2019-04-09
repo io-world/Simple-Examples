@@ -1,0 +1,11 @@
+﻿
+
+log global MRN
+log global Prefix
+log global FirstName
+log global MiddleName
+log global LastName
+log global DOB
+log global SSN
+log global Gender
+log global MaritalStatus

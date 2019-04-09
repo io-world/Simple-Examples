@@ -1,0 +1,75 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Example Write 3">
+ <run>
+  <RunDate>2018-10-18 23:05:25.589 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.401117</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181018_230525.589/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 23:06:08.357 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.420992</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181018_230608.357/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STDatabaseException -- Can&#x27;t Add records a non-Writable database connection</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 23:06:58.915 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.430867</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181018_230658.915/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 23:07:25.707 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.442422</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181018_230725.707/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 23:08:35.977 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.462616</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181018_230835.977/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-10-18 23:08:51.079 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.448810</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20181018_230851.079/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

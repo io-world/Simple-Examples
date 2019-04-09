@@ -1,0 +1,6 @@
+﻿2017-07-18 22:36:56.932 -0400	START		Running NestedList.script
+2017-07-18 22:36:56.979 -0400	Log		((apple,bananas,chips),(WOO,FOO,NOO))	5	on_nestedlist	NestedList.script
+2017-07-18 22:36:56.981 -0400	Log		(WOO,FOO,NOO)	8	on_nestedlist	NestedList.script
+2017-07-18 22:36:56.982 -0400	Log			13	on_nestedlist	NestedList.script
+2017-07-18 22:36:57.190 -0400	EndTestCase		(Duration:"0.256886", Errors:"0", Exceptions:"0", StartTime:"2017-07-18 22:36:56 -0400", Successes:"1", TestCase:"NestedList.script", Warnings:"0")
+2017-07-18 22:36:57.197 -0400	SUCCESS		Execution Time 0:00:00 NestedList.script

@@ -1,0 +1,23 @@
+﻿
+
+
+RunWithNewResults "Processing/ChargeCapture"
+
+If the result.errors is greater than 0
+	log "Some error"
+End If
+
+
+
+
+
+
+
+
+
+
+
+put "randy" into go
+
+
+log capitalized(go)

@@ -1,0 +1,28 @@
+﻿
+Connect "TutorialSUT"
+
+
+
+
+BeginTestCase "GlobalsOff-TraceON"
+TraceScreen "On"
+RunWithNewResults "Script1"
+TraceScreen "Off"
+EndTestCase "GlobalsOff-TraceON"
+
+
+
+BeginTestCase "GlobalsOff-TraceOff"
+RunWithNewResults "Script1"
+EndTestCase "GlobalsOff-TraceOff"
+
+
+
+BeginTestCase "GlobalsON-TraceON"
+Run "GlobalDefineSet"
+RunWithNewResults "Script1"
+EndTestCase "GlobalsON-TraceON"
+
+
+
+

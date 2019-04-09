@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<runHistory script="ReadFile">
+ <run>
+  <RunDate>2018-01-12 11:57:17.616 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.545964</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180112_115717.616/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-12 11:57:50.515 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.521907</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180112_115750.515/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-12 11:59:06.577 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.530589</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180112_115906.577/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2018-01-12 12:02:48.839 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>12.563445</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20180112_120248.839/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>
