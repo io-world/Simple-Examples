@@ -9,7 +9,7 @@ Click "Web Bowser Icon"
 WaitFor 3.5, "Refresh Icon"
 Click Image:"Magnifying Glass"
 
-
+//--Turn On Usability Mode  (Delay to Check for Feedback)
 set the usability_delayToCheckForFeedback to 1 second
 
 TypeText "www.eggplant.io"
