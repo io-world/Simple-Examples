@@ -1,0 +1,10 @@
+﻿Log "Script is Started"
+wait 5
+log ConnectionInfo()
+
+CaptureScreen (Name: "Screenshot1")
+wait 2
+click (500,500)
+wait 2
+CaptureScreen (Name: "Screenshot2")
+Log "Script is Has Ended"
