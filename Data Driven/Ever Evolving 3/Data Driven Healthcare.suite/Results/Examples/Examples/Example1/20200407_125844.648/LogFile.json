@@ -1,0 +1,21 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Examples\/Examples\/Example1.script",
+      "timestamp" : "2020-04-07 12:58:44.651 -0600"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.619074\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-04-07 12:58:44 -0600\", Successes:\"0\", TestCase:\"Examples\/Examples\/Example1.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 12:58:45.271 -0600"
+    },
+    {
+      "message" : "STUnknownMessage ERROR: No Such Command: 'setupenvironment' -- Execution Time 0:00:00 Examples\/Examples\/Example1.script",
+      "timestamp" : "2020-04-07 12:58:45.316 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 12:58:44.652 -0600"
+}

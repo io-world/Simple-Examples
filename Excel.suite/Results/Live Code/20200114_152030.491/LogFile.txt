@@ -1,0 +1,4 @@
+﻿2020-01-14 15:20:30.494 -0800	START		Running Live Code.script
+2020-01-14 15:20:30.616 -0800	Exception		Remote Connection Unavailable	10	on_live_code	Live Code.script
+2020-01-14 15:20:30.859 -0800	EndTestCase		(Duration:"0.356498", Errors:"1", Exceptions:"1", StartTime:"2020-01-14 15:20:30 -0800", Successes:"0", TestCase:"Live Code.script", Warnings:"0")
+2020-01-14 15:20:30.881 -0800	FAILURE		No Remote Connection typetext Error - Remote Connection Unavailable -- Execution Time 0:00:00 Live Code.script

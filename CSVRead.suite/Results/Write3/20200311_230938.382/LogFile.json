@@ -1,0 +1,20 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Write3.script",
+      "timestamp" : "2020-03-11 23:09:38.385 -0500"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.222766\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-03-11 23:09:38 -0500\", Successes:\"1\", TestCase:\"Write3.script\", Warnings:\"0\")",
+      "timestamp" : "2020-03-11 23:09:39.609 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 Write3.script",
+      "timestamp" : "2020-03-11 23:09:39.626 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-03-11 23:09:38.386 -0500"
+}

@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Main02.script",
+      "timestamp" : "2020-04-07 12:10:58.574 -0600"
+    },
+    {
+      "handlerName" : "on_main02",
+      "message" : "[\"Date of Birth\",\"First Name\",\"Gender\",\"Last Name\",\"Marital Status\",\"Medical Record Number\",\"Middle Name\",\"Prefix\",\"Social Security Number\"]",
+      "timestamp" : "2020-04-07 12:10:58.794 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Main02.script",
+      "handlerLine" : 16
+    },
+    {
+      "handlerName" : "on_main02",
+      "message" : "[\"A\",\"B\",\"C\",\"D\",\"E\",\"F\",\"G\",\"H\",\"I\",\"J\"]",
+      "timestamp" : "2020-04-07 12:10:58.818 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Main02.script",
+      "handlerLine" : 17
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.620569\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-04-07 12:10:58 -0600\", Successes:\"1\", TestCase:\"Main02.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 12:10:59.196 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Main02.script",
+      "timestamp" : "2020-04-07 12:10:59.222 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 12:10:58.575 -0600"
+}

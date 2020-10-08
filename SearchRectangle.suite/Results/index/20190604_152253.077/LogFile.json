@@ -1,0 +1,79 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running index.script",
+      "timestamp" : "2019-06-04 15:22:53.078 -0600"
+    },
+    {
+      "handlerName" : "on_ft2",
+      "message" : "Current SR: (475,339,579,427)",
+      "timestamp" : "2019-06-04 15:22:53.190 -0600",
+      "identifier" : "Log",
+      "scriptName" : "mod.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_ft2",
+      "message" : "Unable to Find Image (TEXT:\"google\")",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"google\")",
+      "handlerLine" : 7,
+      "timestamp" : "2019-06-04 15:22:57.831 -0600",
+      "scriptName" : "mod.script"
+    },
+    {
+      "handlerName" : "on_ft2",
+      "message" : "Current SR: (375,239,679,527)",
+      "timestamp" : "2019-06-04 15:22:57.834 -0600",
+      "identifier" : "Log",
+      "scriptName" : "mod.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_ft2",
+      "message" : "found at (644, 470)",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"google\")",
+      "handlerLine" : 7,
+      "timestamp" : "2019-06-04 15:22:58.484 -0600",
+      "scriptName" : "mod.script"
+    },
+    {
+      "handlerName" : "on_ft2",
+      "message" : "Image was Found",
+      "timestamp" : "2019-06-04 15:22:58.485 -0600",
+      "identifier" : "Log",
+      "scriptName" : "mod.script",
+      "handlerLine" : 38
+    },
+    {
+      "handlerName" : "on_ft2",
+      "message" : "found at (644, 470)",
+      "identifier" : "waitfor",
+      "image" : "(TEXT:\"google\")",
+      "handlerLine" : 39,
+      "timestamp" : "2019-06-04 15:22:59.032 -0600",
+      "scriptName" : "mod.script"
+    },
+    {
+      "handlerName" : "on_ft2",
+      "message" : "at (744, 470)",
+      "timestamp" : "2019-06-04 15:22:59.119 -0600",
+      "identifier" : "click",
+      "scriptName" : "mod.script",
+      "handlerLine" : 45
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"6.281815\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-06-04 15:22:53 -0600\", Successes:\"1\", TestCase:\"index.script\", Warnings:\"0\")",
+      "timestamp" : "2019-06-04 15:22:59.362 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:06 index.script",
+      "timestamp" : "2019-06-04 15:22:59.382 -0600"
+    }
+  ],
+  "createdTimestamp" : "2019-06-04 15:22:53.080 -0600"
+}

@@ -1,9 +1,9 @@
 ﻿moveto image:"Show",hotspot:(100,0)
-put ImageLocation ("Show") into ILList
-insert ILList+(120,40) into SearchArea
-insert ILList+(270,320) into SearchArea
+put ImageRectangle("Show") into ILList
+
+put ILList+(170,40,300,320) into SearchArea
 log SearchArea
 log  readtext(SearchArea)
+wait 1
 
-
-moveto (text:"Garrett Winters",searchRectangle:(SearchArea) )
+moveto (text:"Rhona Davidson",searchRectangle:(SearchArea) )

@@ -1,0 +1,20 @@
+﻿{
+    CaptureDate = "2017-09-14 16:17:23 +0000";
+    CaptureHost = "iPad_Air_DEV02";
+    CaptureScreenSize =     (
+        2048,
+        1536
+    );
+    CropRectangle = "2,2,30,44";
+    HasAlpha = 0;
+    HotSpotX = 121;
+    HotSpotY = 20;
+    ImageDescription = <>;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 506;
+    OriginalLocationY = 65;
+    Precise = 1;
+    Pulsing = 0;
+    Scale = 1;
+}

@@ -1,0 +1,30 @@
+﻿params InputImage1, InputImage2,  OutputImageName , OutputText
+
+
+
+put suiteinfo().imagesFolder into LocalImagePath
+put ResourcePath() into LocalResoucePath
+
+
+put LocalResoucePath&"/screen_compare/screen_compare" into EXEPath
+put LocalImagePath&"/"&InputImage1&"" into ImagePath1
+put LocalImagePath&"/"&InputImage2&"" into ImagePath2
+put LocalImagePath&"/"&OutputImageName&".png" into OutputImagePath
+put LocalResoucePath&"/"&OutputText&".txt" into OutputTextPath
+put EXEPath &&"--input"&&ImagePath1&&"--input"&&ImagePath2&&"--output"&&OutputImagePath&&">"&&OutputTextPath into ShellRun
+
+
+
+
+
+//-----------------------------------------------------------------------------------------------------------------------
+log "EXEPath:" && EXEPath
+log "ImagePath1" && ImagePath1
+log "ImagePath2" && ImagePath1
+log "OutputImagePath" && OutputImagePath
+log "OutputTextPath" && OutputTextPath
+log "Running Shell Command:" && ShellRun
+shell (ShellRun)
+
+
+

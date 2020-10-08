@@ -1,0 +1,23 @@
+﻿
+
+
+
+
+put (10,10,10) into RGB
+
+
+put (5,9,12) into CloseColor
+put 2 into tolerance
+
+
+
+
+
+
+repeat 3 times
+	
+	put item repeatindex() of CloseColor is between (item repeatindex() of RGB +tolerance) and (item repeatindex() of RGB -tolerance) into toleranceList
+	
+	log toleranceList
+	
+end repeat

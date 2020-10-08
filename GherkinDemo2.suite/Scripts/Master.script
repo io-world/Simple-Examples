@@ -1,0 +1,19 @@
+﻿params  input_environment
+
+
+
+
+Log "Starting Script...."
+Log "Environment is = "&input_environment
+
+if input_environment is equal to "QA"
+	log "Starting Gherkin QA"
+	RunFeature "Test_Feature",  "@QA"
+else if  input_environment is equal to "UAT"
+	log "Starting Gherkin UAT"
+	RunFeature "Test_Feature",  "@UAT"
+else
+	Log "Environment is  unknown.  Automation will now exit."
+End If
+
+Log "Test End"

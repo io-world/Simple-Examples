@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Live Code.script",
+      "timestamp" : "2020-01-14 15:20:30.494 -0800"
+    },
+    {
+      "handlerName" : "on_live_code",
+      "message" : "Remote Connection Unavailable",
+      "timestamp" : "2020-01-14 15:20:30.616 -0800",
+      "identifier" : "Exception",
+      "scriptName" : "Live Code.script",
+      "handlerLine" : 10
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.356498\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-01-14 15:20:30 -0800\", Successes:\"0\", TestCase:\"Live Code.script\", Warnings:\"0\")",
+      "timestamp" : "2020-01-14 15:20:30.859 -0800"
+    },
+    {
+      "identifier" : "FAILURE",
+      "message" : "No Remote Connection typetext Error - Remote Connection Unavailable -- Execution Time 0:00:00 Live Code.script",
+      "timestamp" : "2020-01-14 15:20:30.881 -0800"
+    }
+  ],
+  "createdTimestamp" : "2020-01-14 15:20:30.502 -0800"
+}

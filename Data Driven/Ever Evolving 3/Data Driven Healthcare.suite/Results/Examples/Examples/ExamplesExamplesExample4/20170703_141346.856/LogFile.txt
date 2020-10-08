@@ -1,0 +1,10 @@
+﻿2017-07-03 14:13:46.857 -0600	START		Running Examples/Examples/Example4.script
+2017-07-03 14:13:46.978 -0600	Log		(Password:"PaSwOrD", username:"Wareen")	14	on_examples_examples_example4	Examples/Examples/Example4.script
+2017-07-03 14:13:46.980 -0600	Log		Wareen	15	on_examples_examples_example4	Examples/Examples/Example4.script
+2017-07-03 14:13:46.982 -0600	Log		PaSwOrD	16	on_examples_examples_example4	Examples/Examples/Example4.script
+2017-07-03 14:13:46.999 -0600	Log		(DateofBirth:"6/14/00", FirstName:"SpongeBob", Gender:"Male", LastName:"SquarePants", MaritalStatus:"Single", MedicalRecordNumber:"101010", MiddleName:"I", Prefix:"Mr", SocialSecurityNumber:"984-56-3166")	20	on_examples_examples_example4	Examples/Examples/Example4.script
+2017-07-03 14:13:47.000 -0600	Log		101010	21	on_examples_examples_example4	Examples/Examples/Example4.script
+2017-07-03 14:13:47.008 -0600	Log		(Password:"P@$$word", username:"Nick")	27	on_examples_examples_example4	Examples/Examples/Example4.script
+2017-07-03 14:13:47.017 -0600	Log		(DateofBirth:"6/13/06", FirstName:"Bruce", Gender:"Male", LastName:"Wayne", MaritalStatus:"Single", MedicalRecordNumber:"222222", MiddleName:"A", Prefix:"Mr", SocialSecurityNumber:"113-83-3798")	32	on_examples_examples_example4	Examples/Examples/Example4.script
+2017-07-03 14:13:47.280 -0600	EndTestCase		(Duration:"0.421434", Errors:"0", Exceptions:"0", StartTime:"2017-07-03 14:13:46 -0600", Successes:"1", TestCase:"Examples/Examples/Example4.script", Warnings:"0")
+2017-07-03 14:13:47.300 -0600	SUCCESS		Execution Time 0:00:00 Examples/Examples/Example4.script

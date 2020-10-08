@@ -1,0 +1,11 @@
+﻿2020-04-07 12:16:55.683 -0600	START		Running Test/NewPatient.script	18	on_main01	Main01.script
+2020-04-07 12:16:55.702 -0600	Log		101010	8	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:55.704 -0600	Log		Mr	9	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:55.705 -0600	Log		SpongeBob	10	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:55.707 -0600	Log		SquarePants	11	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:55.708 -0600	Log		6/14/00	12	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:55.710 -0600	Log		984-56-3166	13	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:55.712 -0600	Log		Male	14	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:55.715 -0600	Log		Single	15	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:55.718 -0600	EndTestCase		(Duration:"0.032532", Errors:"0", Exceptions:"0", StartTime:"2020-04-07 12:16:55 -0600", Successes:"1", TestCase:"Test/NewPatient.script", Warnings:"0")	18	on_main01	Main01.script
+2020-04-07 12:16:55.752 -0600	SUCCESS		Execution Time 0:00:00 Test/NewPatient.script	18	on_main01	Main01.script

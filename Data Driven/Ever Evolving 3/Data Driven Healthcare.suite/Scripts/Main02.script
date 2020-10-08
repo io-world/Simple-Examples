@@ -1,0 +1,26 @@
+﻿put new "Modules/GlobalDefine" into GD
+
+
+//log (GD).PatientCount
+
+
+//repeat 
+
+
+//log (GD).GetPatient (1)
+
+//log (GD).GetPatientRandom (2)
+
+//log (GD).GetPatient ("all")
+
+log (GD).ColumnNames
+log (GD).GetAll ("Middle Name")
+
+
+
+
+log (GD).UserCount
+
+log (GD).GetUser(1)
+
+

@@ -84,4 +84,136 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
+ <run>
+  <RunDate>2020-01-14 23:18:34 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.773252</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200114_151834.315/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STTableError -- Value can&#x27;t become a database table: myScriptData</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-01-14 23:18:43 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.758103</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200114_151843.117/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STTableError -- Value can&#x27;t become a database table: Worksheet(&quot;PatientList&quot;) of...</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-01-14 23:19:10 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.747089</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200114_151910.572/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-01-14 23:19:35 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.746790</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200114_151935.936/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-01-14 23:19:41 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.740942</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200114_151941.447/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-01-14 23:19:45 +0000</RunDate>
+  <Status>Aborted</Status>
+  <Duration>28.515406</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200114_151945.795/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-01-14 23:20:30 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.367226</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200114_152030.491/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- typetext Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-01-14 23:20:37 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.291546</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200114_152037.284/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-01-14 23:20:45 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.293500</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200114_152045.676/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-01-14 23:20:49 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.289317</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200114_152049.346/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-01-14 23:21:55 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.688334</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200114_152155.226/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
 </runHistory>

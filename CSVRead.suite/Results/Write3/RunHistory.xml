@@ -1,0 +1,267 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Write3">
+ <run>
+  <RunDate>2020-03-12 02:33:00 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.763529</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200311_213300.165/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;testing123&#x27; and &#x27;&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 02:33:07 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.726937</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200311_213307.654/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;testing123&#x27; and &#x27;&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 02:34:35 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.710350</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200311_213435.568/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;first_name&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 02:35:39 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.764613</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200311_213539.174/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;testing123&#x27; and &#x27;&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 02:36:12 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.747105</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200311_213612.363/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;testing123&#x27; and &#x27;&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 02:36:30 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.726019</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200311_213630.714/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>InvalidCommandOrRange -- Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 02:36:37 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.745810</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200311_213637.667/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 02:39:07 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.718561</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200311_213907.458/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STTableError -- Value can&#x27;t become a database table: asdas</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 02:41:28 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.758335</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200311_214128.061/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 02:41:59 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.737936</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200311_214159.469/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 02:42:39 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.795113</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200311_214239.426/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STTableError -- Table has no database connection info: (Last_Name:&quot;testing456&quot;, ob...</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 02:44:17 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.832373</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200311_214417.355/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 02:44:55 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>0.792458</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200311_214455.079/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 03:57:44 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>1.311007</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200311_225744.611/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 03:58:11 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>1.298087</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200311_225811.488/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 03:58:48 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>1.172094</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200311_225848.878/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 04:06:52 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.051732</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200311_230652.910/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STTableError -- Table has no database connection info: (Last_Name:&quot;testing456&quot;, ob...</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 04:07:10 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.176948</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200311_230710.176/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STTableError -- Table has no database connection info: (Last_Name:&quot;testing456&quot;, ob...</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 04:09:01 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>1.084615</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200311_230901.631/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 04:09:38 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>1.226699</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200311_230938.382/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 04:09:56 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>1.257274</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200311_230956.778/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-03-12 04:16:50 +0000</RunDate>
+  <Status>Success</Status>
+  <Duration>1.173139</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200311_231650.121/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,21 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Live Code.script",
+      "timestamp" : "2020-01-14 15:18:43.121 -0800"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.75318\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-01-14 15:18:43 -0800\", Successes:\"0\", TestCase:\"Live Code.script\", Warnings:\"0\")",
+      "timestamp" : "2020-01-14 15:18:43.876 -0800"
+    },
+    {
+      "message" : "STTableError Value can't become a database table: Worksheet(\"PatientList\") of... -- Execution Time 0:00:00 Live Code.script",
+      "timestamp" : "2020-01-14 15:18:44.626 -0800",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-01-14 15:18:43.122 -0800"
+}

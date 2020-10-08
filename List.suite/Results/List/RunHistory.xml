@@ -48,4 +48,16 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;index&#x27;</ErrorMessage>
  </run>
+ <run>
+  <RunDate>2020-03-13 00:41:52 +0000</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.393800</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200312_194152.277/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;index&#x27;</ErrorMessage>
+ </run>
 </runHistory>

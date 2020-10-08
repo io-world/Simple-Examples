@@ -1,0 +1,14 @@
+﻿
+
+
+
+put new  "Utilities/MoreHand"  into MH
+
+
+put (MH).SomeReturn into OtherData
+
+put new  "Utilities/MoreHand2" with (Other:OtherData)  into MH2
+
+
+log (MH2).Other
+(MH2).OtherReturn

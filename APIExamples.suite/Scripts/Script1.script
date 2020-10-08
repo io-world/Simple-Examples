@@ -1,0 +1,13 @@
+﻿
+//Overloading API
+
+
+put "https://eval.dai.eggplant.cloud/ai/auth" into URL
+
+put "randy.hesse@eggplant.io" into username
+put "Spr1ng2016" into password
+put (username:username,password:password) into requestbody
+
+AuthAPI(httpMethod:"POST",url:URL,requestBody:requestbody)
+
+log api().responseBody

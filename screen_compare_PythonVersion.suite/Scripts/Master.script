@@ -1,0 +1,14 @@
+﻿
+
+
+
+
+
+
+//screen_compare "ScreenshotA", "ScreenshotB" , "newimage" , "newtext"
+
+
+
+
+screen_compare "SM-G973u_call.png", "SM-G973u_call_2.png" , "newimage3" , "newtext"
+

@@ -1,0 +1,14 @@
+﻿2019-12-09 09:31:50.914 -0700	START		Running Test/A.script	17	on_index	Index.script
+2019-12-09 09:31:50.955 -0700	Log		code for Navigation for TestA 	6	on_test_a	Test/A.script
+2019-12-09 09:31:51.207 -0700	click	Contacts/Buttons/Contacts	at (53, 607)	9	on_test_a	Test/A.script
+2019-12-09 09:31:52.571 -0700	imagefound	(TEXT:"Contacts/Buttons/Contacts/Blue")	Unable to Find Image (TEXT:"Contacts/Buttons/Contacts/Blue"). Text might be too low contrast to detect.	24	on_content	
+2019-12-09 09:31:52.572 -0700	LogWarning		Text was NOT found: Contacts/Buttons/Contacts/Blue	27	on_content	
+2019-12-09 09:31:55.118 -0700	imagefound	(TEXT:"Contacts/Buttons/Contacts/gray")	Unable to Find Image (TEXT:"Contacts/Buttons/Contacts/gray"). Text might be too low contrast to detect.	24	on_content	
+2019-12-09 09:31:55.119 -0700	LogWarning		Text was NOT found: Contacts/Buttons/Contacts/gray	27	on_content	
+2019-12-09 09:31:55.266 -0700	imagefound	(TEXT:"Tap the buttons")	found at (95, 242)	24	on_content	
+2019-12-09 09:31:55.267 -0700	Log		Text was found: Tap the buttons	25	on_content	
+2019-12-09 09:31:55.406 -0700	click	Favorites/Buttons/Favorites/	at (159, 608)	24	on_test_a	Test/A.script
+2019-12-09 09:31:58.824 -0700	imagefound	(TEXT:"plan")	Unable to Find Image (TEXT:"plan"). Text might be too low contrast to detect.	24	on_content	
+2019-12-09 09:31:58.825 -0700	LogWarning		Text was NOT found: plan	27	on_content	
+2019-12-09 09:31:58.833 -0700	EndTestCase		(Duration:"7.917844", Errors:"0", Exceptions:"0", StartTime:"2019-12-09 09:31:50 -0700", Successes:"1", TestCase:"Test/A.script", Warnings:"3")	17	on_index	Index.script
+2019-12-09 09:31:58.876 -0700	SUCCESS		Execution Time 0:00:07 Test/A.script	17	on_index	Index.script

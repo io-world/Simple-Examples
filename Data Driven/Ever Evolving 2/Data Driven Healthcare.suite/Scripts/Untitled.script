@@ -1,0 +1,11 @@
+﻿put new "Modules/GlobalDefine" into GD
+
+
+
+log (GD).BuildPatient (2)
+
+log (GD).BuildPatient ("all")
+
+
+
+

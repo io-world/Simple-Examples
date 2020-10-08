@@ -1,0 +1,31 @@
+﻿2017-07-03 14:15:47.591 -0600	START		Running Examples/Examples/Example6.script
+2017-07-03 14:15:47.756 -0600	Log		Wareen	13	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.758 -0600	Log		PaSwOrD	14	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.773 -0600	Log		(DateofBirth:"Date of Birth", FirstName:"First Name", Gender:"Gender", LastName:"Last Name", MaritalStatus:"Marital Status", MedicalRecordNumber:"Medical Record Number", MiddleName:"Middle Name", Prefix:"Prefix", SocialSecurityNumber:"Social Security Number")	21	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.774 -0600	Log		Medical Record Number	22	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.792 -0600	Log		(DateofBirth:"6/13/06", FirstName:"Bruce", Gender:"Male", LastName:"Wayne", MaritalStatus:"Single", MedicalRecordNumber:"222222", MiddleName:"A", Prefix:"Mr", SocialSecurityNumber:"113-83-3798")	21	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.794 -0600	Log		222222	22	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.802 -0600	Log		(DateofBirth:"3/16/14", FirstName:"Carrie", Gender:"Female", LastName:"Underwood", MaritalStatus:"Married", MedicalRecordNumber:"333333", MiddleName:"B", Prefix:"Mrs", SocialSecurityNumber:"583-00-6387")	21	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.804 -0600	Log		333333	22	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.812 -0600	Log		(DateofBirth:"4/24/03", FirstName:"Wonder", Gender:"Female", LastName:"Woman", MaritalStatus:"Divorced", MedicalRecordNumber:"444444", MiddleName:"C", Prefix:"Ms", SocialSecurityNumber:"580-71-8520")	21	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.813 -0600	Log		444444	22	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.821 -0600	Log		(DateofBirth:"12/23/87", FirstName:"Darth", Gender:"Male", LastName:"Vader", MaritalStatus:"Widowed", MedicalRecordNumber:"555555", MiddleName:"D", Prefix:"Dr", SocialSecurityNumber:"744-85-1232")	21	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.823 -0600	Log		555555	22	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.835 -0600	Log		(DateofBirth:"7/30/81", FirstName:"James", Gender:"Male", LastName:"Bond", MaritalStatus:"Single", MedicalRecordNumber:"666666", MiddleName:"E", Prefix:"Dr", SocialSecurityNumber:"973-13-0224")	21	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.837 -0600	Log		666666	22	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.847 -0600	Log		(DateofBirth:"9/1/80", FirstName:"Homer", Gender:"Male", LastName:"Simpson", MaritalStatus:"Married", MedicalRecordNumber:"777777", MiddleName:"F", Prefix:"Mr", SocialSecurityNumber:"557-31-0655")	21	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.848 -0600	Log		777777	22	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.860 -0600	Log		(DateofBirth:"9/19/85", FirstName:"Optimus", Gender:"Other", LastName:"Prime", MaritalStatus:"Divorced", MedicalRecordNumber:"888888", MiddleName:"G", Prefix:"Dr", SocialSecurityNumber:"521-26-0727")	21	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.861 -0600	Log		888888	22	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.869 -0600	Log		(DateofBirth:"6/14/00", FirstName:"Mickey", Gender:"Male", LastName:"Mouse", MaritalStatus:"Single", MedicalRecordNumber:"999999", MiddleName:"H", Prefix:"Dr", SocialSecurityNumber:"984-56-3166")	21	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.871 -0600	Log		999999	22	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.897 -0600	Log		(DateofBirth:"6/13/06", FirstName:"Bruce", Gender:"Male", LastName:"Wayne", MaritalStatus:"Single", MedicalRecordNumber:"222222", MiddleName:"A", Prefix:"Mr", SocialSecurityNumber:"113-83-3798")	34	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.899 -0600	Log		222222	35	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.912 -0600	Log		(DateofBirth:"6/13/06", FirstName:"Bruce", Gender:"Male", LastName:"Wayne", MaritalStatus:"Single", MedicalRecordNumber:"222222", MiddleName:"A", Prefix:"Mr", SocialSecurityNumber:"113-83-3798")	34	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.913 -0600	Log		222222	35	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.929 -0600	Log		(DateofBirth:"6/13/06", FirstName:"Bruce", Gender:"Male", LastName:"Wayne", MaritalStatus:"Single", MedicalRecordNumber:"222222", MiddleName:"A", Prefix:"Mr", SocialSecurityNumber:"113-83-3798")	34	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.930 -0600	Log		222222	35	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.946 -0600	Log		(DateofBirth:"6/13/06", FirstName:"Bruce", Gender:"Male", LastName:"Wayne", MaritalStatus:"Single", MedicalRecordNumber:"222222", MiddleName:"A", Prefix:"Mr", SocialSecurityNumber:"113-83-3798")	34	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:47.947 -0600	Log		222222	35	on_examples_examples_example6	Examples/Examples/Example6.script
+2017-07-03 14:15:48.233 -0600	EndTestCase		(Duration:"0.64086", Errors:"0", Exceptions:"0", StartTime:"2017-07-03 14:15:47 -0600", Successes:"1", TestCase:"Examples/Examples/Example6.script", Warnings:"0")
+2017-07-03 14:15:48.279 -0600	SUCCESS		Execution Time 0:00:00 Examples/Examples/Example6.script

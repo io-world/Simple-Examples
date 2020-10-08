@@ -1,0 +1,21 @@
+﻿
+
+
+
+on initialize 
+
+	put "Task" into my FirstName
+	put "Pat1" into my LastName
+	put "04/23/1985" into my BirthDate
+	put "Male" into my Gender
+	put "Innovation" into my Facility
+	put "05/21/2018" into my AdmitDate
+	
+	
+end initialize
+
+
+on ChangeSex SexType
+	// No need for this 1 line handler
+	put SexType into my gender
+end ChangeSex

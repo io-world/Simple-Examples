@@ -5,7 +5,7 @@
 
 
 
-put "GeneratePatientAPI" (20) into PatientList
+put "GeneratePatient" (20) into PatientList
 CreateCSV "WebFormData2",PatientList
 
 

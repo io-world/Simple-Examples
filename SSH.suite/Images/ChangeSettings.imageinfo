@@ -8,6 +8,10 @@
     HasAlpha = 1;
     HotSpotX = 58;
     HotSpotY = 11;
+    ImageDescription = <>;
+    ImageTags =     (
+        SSH
+    );
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
     OriginalLocationX = 232;
@@ -17,5 +21,6 @@
     Scale = 1;
     SearchAlgorithm = TextSmoothSquare;
     tags =     (
+        SSH
     );
 }

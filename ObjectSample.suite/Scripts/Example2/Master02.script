@@ -1,0 +1,13 @@
+﻿
+
+
+put new "Utilities/Patients" into Patients
+
+
+repeat Patients.Count times
+	put Patients.Current (repeatindex()) into Patient
+	log "LastName:" && patient.LastName
+	log "Gender:" && patient.Gender
+	log "AdmitDate:" && patient.AdmitDate
+	log "------------------------------------------------------------"
+end repeat

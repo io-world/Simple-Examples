@@ -1,0 +1,46 @@
+{
+  "entries" : [
+    {
+      "handlerName" : "on_main01",
+      "message" : "Running Test\/B.script",
+      "timestamp" : "2020-04-07 12:15:47.148 -0600",
+      "identifier" : "START",
+      "scriptName" : "Main01.script<SELECTION>",
+      "handlerLine" : 16
+    },
+    {
+      "handlerName" : "on_test_b",
+      "message" : "code for Navigation for TestB ",
+      "timestamp" : "2020-04-07 12:15:47.151 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Test\/B.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_test_b",
+      "message" : "at (265, 608)",
+      "identifier" : "click",
+      "image" : "History\/Buttons\/History",
+      "handlerLine" : 11,
+      "timestamp" : "2020-04-07 12:15:47.836 -0600",
+      "scriptName" : "Test\/B.script"
+    },
+    {
+      "handlerName" : "on_main01",
+      "message" : "(Duration:\"3.449427\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-04-07 12:15:47 -0600\", Successes:\"0\", TestCase:\"Test\/B.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 12:15:50.599 -0600",
+      "identifier" : "EndTestCase",
+      "scriptName" : "Main01.script<SELECTION>",
+      "handlerLine" : 16
+    },
+    {
+      "handlerName" : "on_main01",
+      "message" : "Execution Time 0:00:03 Test\/B.script",
+      "timestamp" : "2020-04-07 12:15:50.602 -0600",
+      "identifier" : "ABORTED",
+      "scriptName" : "Main01.script<SELECTION>",
+      "handlerLine" : 16
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 12:15:47.149 -0600"
+}

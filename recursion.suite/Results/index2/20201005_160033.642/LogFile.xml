@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="index2_script" package="recursion.suite" timestamp="2020-10-05 16:00:33.642 -0600"
+ tests="1"  failures="1" errors="0" time="1.081550">
+  <properties>
+   <property name="RunDate" value="2020-10-05 16:00:33.642 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="index2.script" assertions="1" status="failure"  time="1.07809">
+    <failure type="FAILURE" message="STMaxCallDepthExceeded Handlers were called to a depth exceeding the maximum limit (40). HINT: One common cause for this error is a script that has been given the same name as a built-in command or function unintentionally calling itself. -- Execution Time 0:00:01 index2.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

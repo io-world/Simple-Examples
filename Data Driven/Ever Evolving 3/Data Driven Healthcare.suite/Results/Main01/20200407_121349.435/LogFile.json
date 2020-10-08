@@ -1,0 +1,23 @@
+{
+  "entries" : [
+    {
+      "handlerName" : "on_main01",
+      "timestamp" : "2020-04-07 12:13:50.050 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Main01.script",
+      "handlerLine" : 12
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.038273\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-04-07 12:13:49 -0600\", Successes:\"1\", TestCase:\"Main01.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 12:13:50.479 -0600"
+    },
+    {
+      "message" : "STInvalidNumber Value is not a number: '' -- Execution Time 0:00:01 Main01.script",
+      "timestamp" : "2020-04-07 12:13:50.557 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 12:13:50.052 -0600"
+}

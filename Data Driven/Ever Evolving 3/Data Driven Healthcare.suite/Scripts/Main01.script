@@ -1,0 +1,35 @@
+﻿put new "Modules/GlobalDefine" with (new "Modules/Verify") into GD
+
+
+//put new "Modules/GlobalDefine"  into GD2
+
+//log (gd2).protery
+
+
+Run "Libraries/SUTConnect"
+RunWithNewResults "States/Zero" 
+If the result.errors is greater than 0
+	exit script
+End If
+
+------------------------------------------------------------------------------------
+
+repeat (GD).UserCount times
+	RunWithNewResults "Libraries/Login" , (GD).GetUser (repeatindex())
+	repeat (GD).PatientCount times
+		RunWithNewResults  "Test/A" ,(GD)
+		RunWithNewResults "Test/B" , (GD)
+		RunWithNewResults "Test/NewPatient", (GD)."GetPatient"  (repeatindex())
+	end repeat---------------------------------------------------------------------
+	RunWithNewResults "Libraries/Logout"
+end repeat
+------------------------------------------------------------------------------------
+Run "States/Report"
+
+
+
+
+
+RunWithNewResults "States/Zero"
+
+

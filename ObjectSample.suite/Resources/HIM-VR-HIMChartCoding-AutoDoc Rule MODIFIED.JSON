@@ -1,0 +1,125 @@
+{
+"DomainName" :"SOLGM",
+"Domain":
+        {
+  "SOLGM":
+        {
+      "Login": 
+ 	     {
+    	      "UserName":"VP034803",
+  	      "Domain":"SOLGM",
+ 	      "Password":"VP034803"
+	    },
+     "Patient":
+	      {
+	 	      "Patient1":
+			  	{
+			   	  "FirstName":"Task",
+  				  "LastName":"Pat1",
+                                  "BirthDate":"04/23/1985",
+  				  "Gender":"Male",
+                                  "Facility":"Innovation",
+				  "AdmitDate":"05/21/2018",
+				  "DischargeDate":"05/25/2018",
+				  "EncounterFinancialClass":"Medicare",
+				  "AttendingPhysician":"CPatil, Vikas",
+				  "EncounterType":"Inpatient"
+				},
+		       "Patient2":
+  				{
+			           "FirstName":"Task",
+	                   	   "LastName":"Pat2",
+                    		   "BirthDate":"04/23/1986",
+			           "Gender":"Male",
+				   "Facility":"Innovation",
+			           "AdmitDate":"10/23/2018",
+				   "DischargeDate":"10/25/2018",
+				   "EncounterFinancialClass":"Medicare",
+				   "AttendingPhysician":"Ramanna, Abishek",
+				   "EncounterType":"Inpatient"
+ 			 	},
+	          	"Patient3":
+			  	{
+			   	  "FirstName":"Task",
+  				  "LastName":"Pat3",
+                                  "BirthDate":"05/23/1990",
+  				  "Gender":"Male",
+                                  "Facility":"Innovation",
+				  "AdmitDate":"03/21/2018",
+				  "DischargeDate":"02/25/2018",
+				  "EncounterFinancialClass":"Medicare",
+				  "AttendingPhysician":"CPatil, Vikas",
+				  "EncounterType":"Inpatient"
+				},
+				"Patient4":
+  				{
+			           "FirstName":"Task",
+	                   	   "LastName":"Pat4",
+                    		   "BirthDate":"04/23/1986",
+			           "Gender":"Male",
+				   "Facility":"Innovation",
+			           "AdmitDate":"10/23/2018",
+				   "DischargeDate":"10/25/2018",
+				   "EncounterFinancialClass":"Medicare",
+				   "AttendingPhysician":"Ramanna, Abishek",
+				   "EncounterType":"Inpatient"
+ 			 	},
+	          	"Patient5":
+			  	{
+			   	  "FirstName":"Task",
+  				  "LastName":"Pat5",
+                                  "BirthDate":"05/23/1990",
+  				  "Gender":"Male",
+                                  "Facility":"Innovation",
+				  "AdmitDate":"03/21/2018",
+				  "DischargeDate":"02/25/2018",
+				  "EncounterFinancialClass":"Medicare",
+				  "AttendingPhysician":"CPatil, Vikas",
+				  "EncounterType":"Inpatient"
+				}
+
+
+	          	 }
+                  }
+         },
+     "SourceVocabularies":{
+                            "Grouper":"MS-DRG",
+                            "Diagnosis":"ICD10-CM",
+                            "Procedure":"ICD10-PCS"
+	                  },
+             "AddGrouper":{
+	                      "SourceVocabulary":"MS-DRG",
+                      	      "ContributorSource":"DRGfinder",
+                              "GrouperMethodology":"Medicare",
+                              "RuleType":"INPATIENT INNOVATION"
+			  },
+		  "Codes":{
+			      "GrouperCode":"500",
+		              "ProcedureCode":"0FB98ZX",
+		              "DiagnosisCode1":"R51",
+		              "DiagnosisCode2":"R52"
+		          },
+	"Physicians":{
+
+		 "Physician1":{
+			      "FirstName":"Ranjan",
+		 	      "LastName":"Gowda",
+		 	      "FullName":"Gowda, Ranjan"
+		              },
+     		 "Physician2":{
+		 	      "FirstName":"Ratna",
+		 	      "LastName":"Maddula",
+		 	      "FullName":"Maddula, Ratna"
+		              }
+	              },
+          
+ "AutoDocumentsRule":{
+                       "PatientType":"Inpatient",
+                       "FinancialClass":"Medicare",
+                       "Facility":"Innovation",
+                       "DocumentToPost":"Discharge Summary"
+                     },
+"DuplicateTrackingID":{
+                         "TrackingID":"0001214006"
+                      }
+   }

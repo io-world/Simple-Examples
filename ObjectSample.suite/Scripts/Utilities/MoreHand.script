@@ -1,0 +1,35 @@
+﻿
+on initialize 
+	// Unsure if this is the Best idea to create objects in here, but you can
+	put new  "Utilities/MoreHand2"  into my MH2
+end initialize
+
+function SomeReturn
+	return "Information from MoreHand"
+	
+end SomeReturn
+
+function add
+	return my X + my Y
+end add
+
+
+on foo
+	log "From Foo MoreHand"
+end foo
+
+
+on bar
+	log "From Bar MoreHand"
+end bar
+
+on Baz
+	(my mh2).foo
+	(my mh2).bar
+end Baz
+
+on Spec var
+	(my mh2).(var)
+	
+	
+end Spec

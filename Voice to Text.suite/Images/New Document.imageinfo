@@ -1,0 +1,20 @@
+﻿{
+    CaptureDate = "2019-04-22 16:50:11 +0000";
+    CaptureHost = "Windows 10";
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    HasAlpha = 1;
+    HotSpotX = 37;
+    HotSpotY = 31;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 416;
+    OriginalLocationY = 260;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    tags =     (
+    );
+}

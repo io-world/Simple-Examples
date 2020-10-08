@@ -1,10 +1,13 @@
 ﻿{
-    EPVersionNumber = 1902201105;
+    EPVersionNumber = 1910011136;
     Schedules =     (
     );
     ScriptMetaData =     {
     };
     SuiteEncodedTextKey = "HOfXxz/9sK8^/]QB";
+    Tags =     (
+        SSH
+    );
     helpedSuitesInfo =     (
     );
     helperSuitesInfo =     (

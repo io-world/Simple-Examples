@@ -1,0 +1,87 @@
+{
+  "entries" : [
+    {
+      "handlerName" : "on_main01",
+      "message" : "Running Test\/NewPatient.script",
+      "timestamp" : "2020-04-07 12:14:06.144 -0600",
+      "identifier" : "START",
+      "scriptName" : "Main01.script",
+      "handlerLine" : 17
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "timestamp" : "2020-04-07 12:14:06.149 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "message" : "Dr",
+      "timestamp" : "2020-04-07 12:14:06.151 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 9
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "timestamp" : "2020-04-07 12:14:06.153 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 10
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "timestamp" : "2020-04-07 12:14:06.156 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 11
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "timestamp" : "2020-04-07 12:14:06.158 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "timestamp" : "2020-04-07 12:14:06.161 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 13
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "message" : "Male",
+      "timestamp" : "2020-04-07 12:14:06.163 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 14
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "timestamp" : "2020-04-07 12:14:06.165 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 15
+    },
+    {
+      "handlerName" : "on_main01",
+      "message" : "(Duration:\"0.021739\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-04-07 12:14:06 -0600\", Successes:\"1\", TestCase:\"Test\/NewPatient.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 12:14:06.168 -0600",
+      "identifier" : "EndTestCase",
+      "scriptName" : "Main01.script",
+      "handlerLine" : 17
+    },
+    {
+      "handlerName" : "on_main01",
+      "message" : "Execution Time 0:00:00 Test\/NewPatient.script",
+      "timestamp" : "2020-04-07 12:14:06.190 -0600",
+      "identifier" : "SUCCESS",
+      "scriptName" : "Main01.script",
+      "handlerLine" : 17
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 12:14:06.145 -0600"
+}

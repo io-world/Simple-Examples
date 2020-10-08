@@ -1,0 +1,11 @@
+﻿set GD to a new "Modules/GlobalDefine"
+Run (GD).SetupCustomFile
+Run (GD).SetupEnvironment
+
+
+
+put (GD).GetUser ("3") into var
+log var
+
+
+log (GD).DataDump

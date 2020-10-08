@@ -1,0 +1,9 @@
+﻿
+
+put new "Example02/Class01" with (new "Example02/Class02") into CS2
+put new CS2 with (new  "Example02/Class03") into CS3
+
+
+
+log CS3
+

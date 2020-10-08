@@ -1,0 +1,14 @@
+﻿2017-11-01 18:59:48.697 -0600	START		Running Test/A.script	19	on_index	Index.script
+2017-11-01 18:59:48.706 -0600	Log		code for Navigation for TestA 	6	on_test_a	Test/A.script
+2017-11-01 18:59:49.223 -0600	click	Contacts/Buttons/Contacts	at (53, 607)	9	on_test_a	Test/A.script
+2017-11-01 18:59:50.513 -0600	imagefound	(TEXT:"Contacts/Buttons/Contacts/Blue")	Unable to Find Image (TEXT:"Contacts/Buttons/Contacts/Blue")	25	on_content	Modules/Verify.script
+2017-11-01 18:59:50.514 -0600	LogWarning		Text was NOT found: Contacts/Buttons/Contacts/Blue	28	on_content	Modules/Verify.script
+2017-11-01 18:59:52.826 -0600	imagefound	(TEXT:"Contacts/Buttons/Contacts/gray")	Unable to Find Image (TEXT:"Contacts/Buttons/Contacts/gray")	25	on_content	Modules/Verify.script
+2017-11-01 18:59:52.827 -0600	LogWarning		Text was NOT found: Contacts/Buttons/Contacts/gray	28	on_content	Modules/Verify.script
+2017-11-01 18:59:52.945 -0600	imagefound	(TEXT:"Tap the buttons")	found at (95, 242)	25	on_content	Modules/Verify.script
+2017-11-01 18:59:52.946 -0600	Log		Text was found: Tap the buttons	26	on_content	Modules/Verify.script
+2017-11-01 18:59:53.117 -0600	click	Favorites/Buttons/Favorites/	at (159, 608)	24	on_test_a	Test/A.script
+2017-11-01 18:59:56.461 -0600	imagefound	(TEXT:"plan")	Unable to Find Image (TEXT:"plan")	25	on_content	Modules/Verify.script
+2017-11-01 18:59:56.462 -0600	LogWarning		Text was NOT found: plan	28	on_content	Modules/Verify.script
+2017-11-01 18:59:56.472 -0600	EndTestCase		(Duration:"7.773777", Errors:"0", Exceptions:"0", StartTime:"2017-11-01 18:59:48 -0600", Successes:"1", TestCase:"Test/A.script", Warnings:"3")	19	on_index	Index.script
+2017-11-01 18:59:56.490 -0600	SUCCESS		Execution Time 0:00:07 Test/A.script	19	on_index	Index.script

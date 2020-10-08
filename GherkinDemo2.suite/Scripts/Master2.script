@@ -1,0 +1,8 @@
+﻿params input_environment
+
+
+
+
+Log "Starting Script...."
+Log "Environment is = "&input_environment
+RunFeature "Test_Feature",  input_environment

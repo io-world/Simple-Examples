@@ -1,0 +1,21 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Live Code.script",
+      "timestamp" : "2020-01-14 15:18:34.320 -0800"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.767472\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-01-14 15:18:34 -0800\", Successes:\"0\", TestCase:\"Live Code.script\", Warnings:\"0\")",
+      "timestamp" : "2020-01-14 15:18:35.090 -0800"
+    },
+    {
+      "message" : "STTableError Value can't become a database table: myScriptData -- Execution Time 0:00:00 Live Code.script",
+      "timestamp" : "2020-01-14 15:18:35.533 -0800",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-01-14 15:18:34.321 -0800"
+}

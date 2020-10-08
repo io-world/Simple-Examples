@@ -1,0 +1,14 @@
+﻿{
+    EPVersionNumber = 1912110008;
+    PreRunScript = "fooMaster.script";
+    RunPreScript = NO;
+    Schedules =     (
+    );
+    ScriptMetaData =     {
+    };
+    SuiteEncodedTextKey = "F3j_6q>#Rps7))%X";
+    helpedSuitesInfo =     (
+    );
+    helperSuitesInfo =     (
+    );
+}

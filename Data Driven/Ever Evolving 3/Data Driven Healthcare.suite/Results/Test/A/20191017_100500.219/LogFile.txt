@@ -1,0 +1,8 @@
+﻿2019-10-17 10:05:00.222 -0700	START		Running Test/A.script	16	on_index	Index.script
+2019-10-17 10:05:00.224 -0700	Log		code for Navigation for TestA 	6	on_test_a	Test/A.script
+2019-10-17 10:05:00.976 -0700	click	Contacts/Buttons/Contacts	at (53, 607)	9	on_test_a	Test/A.script
+2019-10-17 10:05:02.341 -0700	imagefound	(TEXT:"Contacts/Buttons/Contacts/Blue")	Unable to Find Image (TEXT:"Contacts/Buttons/Contacts/Blue"). Text might be too low contrast to detect.	24	on_content	Modules/Verify.script
+2019-10-17 10:05:02.342 -0700	LogWarning		Text was NOT found: Contacts/Buttons/Contacts/Blue	27	on_content	Modules/Verify.script
+2019-10-17 10:05:03.054 -0700	Exception		Searching For Image: OCR Error: OCR operation was aborted	24	on_content	Modules/Verify.script
+2019-10-17 10:05:03.066 -0700	EndTestCase		(Duration:"2.842909", Errors:"1", Exceptions:"1", StartTime:"2019-10-17 10:05:00 -0700", Successes:"0", TestCase:"Test/A.script", Warnings:"1")	16	on_index	Index.script
+2019-10-17 10:05:03.069 -0700	ABORTED		Execution Time 0:00:02 Test/A.script	16	on_index	Index.script

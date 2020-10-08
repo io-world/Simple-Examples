@@ -1,0 +1,14 @@
+﻿
+
+RunWithNewResults "Script1"
+
+
+RunWithNewResults "Script2"
+
+
+RunWithNewResults "Script3"
+
+
+RunWithNewResults "Script4"
+
+RunWithNewResults "ScriptSubSet/Script6"

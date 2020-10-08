@@ -1,0 +1,22 @@
+﻿
+
+on Giving_It_Away
+
+	log "Why Hello there"
+	
+	
+end Giving_It_Away
+
+on When_will_it_go
+
+	log "Hope you are doing well"
+	
+end When_will_it_go
+
+
+on All_will_be_welcomed
+
+log "Goodbye for now"
+
+
+end All_will_be_welcomed

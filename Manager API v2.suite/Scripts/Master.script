@@ -1,8 +1,14 @@
 ﻿
 
 
-put "ePM_API_Class".GetUserID  ("Administrator") into User_ID
-put "ePM_API_Class".GetSutID  ("windows 10") into SUT_ID
+put new "ePM_API_Class" into EMC
+
+
+put (EMC).GetUserID  ("Administrator") into User_ID
+log User_ID
+
+
+put (EMC).GetSutID  ("windows 10") into SUT_ID
 
 put "2018-04-06T06:00:00+00:00"  into Start_time
 put "2018-04-07T23:14:59+00:00" into End_time
@@ -11,7 +17,7 @@ put "2018-04-07T23:14:59+00:00" into End_time
 
 log user_id
 
-put "ePM_API_Class".MakeResveration  (User_ID,SUT_ID,Start_time,End_time) into Listening_port
+put (EMC).MakeResveration  (User_ID,SUT_ID,Start_time,End_time) into Listening_port
 
 
 log Listening_port

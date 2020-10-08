@@ -1,0 +1,19 @@
+﻿{
+    CaptureDate = "2017-12-18 23:33:43 +0000";
+    CaptureHost = "Galaxy_S8_DEV04";
+    CaptureScreenSize =     (
+        540,
+        1110
+    );
+    HasAlpha = 1;
+    HotSpotX = 4;
+    HotSpotY = 8;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 200;
+    OriginalLocationY = 317;
+    Precise = 0;
+    Pulsing = 1;
+    Scale = 1;
+    SearchAlgorithm = Precise;
+}

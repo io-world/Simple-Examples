@@ -1,0 +1,19 @@
+﻿(* Note: This is not officially supported, and is intentionally not documented at this time. *)
+
+accept connections on port 8081
+
+wait a century
+
+to handle newConnection with client
+	try to read an http request from socket client into message
+	put resourcePath() & message's request into fileName
+	
+	//log message's request
+	
+	if fileName is a file then
+		write (status:200, body:merge(file fileName, "<?st", "?>")) as http to socket client
+	else
+		write httpMessage(status:404, body:!"<html><body><h2>File Not Found: [[fileName]]</h2></body></html>") to socket client
+	end if
+	close socket client
+end newConnection

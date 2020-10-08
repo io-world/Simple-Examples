@@ -1,0 +1,11 @@
+﻿2020-04-07 11:33:25.408 -0600	START		Running Index.script
+2020-04-07 11:33:25.617 -0600	connect		Tutorial Connection:(null)	1	on_libraries_sutconnect	Libraries/SUTConnect.script
+2020-04-07 11:33:25.942 -0600	runwithnewresults		Zero.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving 3/Data Driven Healthcare.suite/Results/States/Zero/20200407_113325.940/LogFile.txt)	5	on_index	Index.script
+2020-04-07 11:33:26.226 -0600	Log		4	12	on_index	Index.script
+2020-04-07 11:33:26.269 -0600	runwithnewresults		Login.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving 3/Data Driven Healthcare.suite/Results/Libraries/Login/20200407_113326.267/LogFile.txt)	15	on_index	Index.script
+2020-04-07 11:33:27.879 -0600	runwithnewresults		A.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving 3/Data Driven Healthcare.suite/Results/Test/A/20200407_113327.878/LogFile.txt)	17	on_index	Index.script
+2020-04-07 11:33:38.120 -0600	runwithnewresults		B.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving 3/Data Driven Healthcare.suite/Results/Test/B/20200407_113338.119/LogFile.txt)	18	on_index	Index.script
+2020-04-07 11:33:44.000 -0600	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving 3/Data Driven Healthcare.suite/Results/Test/NewPatient/20200407_113343.998/LogFile.txt)	19	on_index	Index.script
+2020-04-07 11:33:44.162 -0600	runwithnewresults		A.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving 3/Data Driven Healthcare.suite/Results/Test/A/20200407_113344.161/LogFile.txt)	17	on_index	Index.script
+2020-04-07 11:33:47.740 -0600	EndTestCase		(Duration:"22.331242", Errors:"2", Exceptions:"0", StartTime:"2020-04-07 11:33:25 -0600", Successes:"5", TestCase:"Index.script", Warnings:"5")
+2020-04-07 11:33:47.743 -0600	ABORTED		Execution Time 0:00:22 Index.script

@@ -1,0 +1,4 @@
+﻿2020-01-14 15:19:41.450 -0800	START		Running Live Code.script
+2020-01-14 15:19:41.525 -0800	typetext			10	on_live_code	Live Code.script
+2020-01-14 15:19:42.188 -0800	EndTestCase		(Duration:"0.73646", Errors:"0", Exceptions:"0", StartTime:"2020-01-14 15:19:41 -0800", Successes:"1", TestCase:"Live Code.script", Warnings:"0")
+2020-01-14 15:19:42.210 -0800	SUCCESS		Execution Time 0:00:00 Live Code.script

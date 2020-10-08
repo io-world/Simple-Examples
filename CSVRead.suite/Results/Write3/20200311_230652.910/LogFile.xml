@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Write3_script" package="CSVRead.suite" timestamp="2020-03-12 04:06:52 +0000"
+ tests="1"  failures="2" errors="0" time="1.051732">
+  <properties>
+   <property name="RunDate" value="2020-03-12 04:06:52 +0000"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Write3.script" assertions="1" status="failure"  time="1.04821">
+    <failure type="FAILURE" message="STTableError Table has no database connection info: (Last_Name:&quot;testing456&quot;, ob... -- Execution Time 0:00:01 Write3.script" />
+    <failure type="FAILURE" message="STTableError Table has no database connection info: (Last_Name:&quot;testing456&quot;, ob... -- Execution Time 0:00:01 Write3.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,29 @@
+﻿Log "GO"
+put "off" into the ScriptLogging
+put 0.001 into the remoteWorkInterval
+
+
+put "20" into Radius
+put (300,400) into CenterPoint
+put 100 into AP
+
+
+repeat 630 times
+	
+	put repeatindex() into iP
+	put Radius+ AP*sin((1/AP)*iP) into YP
+	put Radius+ AP*cos((1/AP)*iP) into XP
+	
+	put XP rounded 2 decimal places into XP
+	put YP rounded 2 decimal places into YP
+	
+	
+	put (XP,YP)+ CenterPoint into DP
+	
+	insert XP into ALLPoints
+	insert YP into ALLPoints
+	
+	click DP
+	
+	
+end repeat

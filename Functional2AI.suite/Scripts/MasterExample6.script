@@ -1,0 +1,22 @@
+﻿
+
+put "Script1" into Fudge
+put "Script3" into Cookie
+
+RunWithNewResults Fudge
+RunWithNewResults "Script2"
+
+run Cookie
+
+run "Script4"
+
+
+put "foo" into Brownie
+
+"Script5".(Brownie)
+log "Script5".Bar
+
+"Script5".Baz
+
+put "Script6" into IceCream
+Run  ("ScriptSubSet/"&IceCream)

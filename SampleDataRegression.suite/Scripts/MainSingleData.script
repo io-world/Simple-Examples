@@ -1,0 +1,21 @@
+﻿
+
+///----Load the Data
+
+
+put CSVValue(file ResourcePath("WebFormData6.csv")) into CSVData
+
+
+
+
+//// CHange the 3 to whatever
+put item 3 of CSVData into Single_CSVData
+
+log "Loading Data" & Single_CSVData
+log "--------------------"
+Run "SubScript/Script1" Single_CSVData
+Run "SubScript/Script2" Single_CSVData
+Run "SubScript/Script3" Single_CSVData
+
+log "**********************************************"
+

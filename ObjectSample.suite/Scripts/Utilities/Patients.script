@@ -1,0 +1,17 @@
+﻿on initialize 
+	Set dataFile to JSONValue(File ResourcePath("HIM-VR-HIMChartCoding-AutoDoc Rule Modified.JSON"))
+	
+	Set username to dataFile.Domain.SOLGM.Login.UserName
+	Set password to dataFile.Domain.SOLGM.Login.Password
+	Set domain to dataFile.Domain.SOLGM.Login.Domain
+	
+	put keys(dataFile.Domain.SOLGM.Patient) into PatientKeyNames
+	put dataFile.Domain.SOLGM.Patient into my Datafile
+	
+	put  the number of keys of my Datafile into my Count
+end initialize
+
+function Current PatientNumber
+	put "Patient"&PatientNumber into KeyName
+	return my Datafile.(KeyName)
+end Current

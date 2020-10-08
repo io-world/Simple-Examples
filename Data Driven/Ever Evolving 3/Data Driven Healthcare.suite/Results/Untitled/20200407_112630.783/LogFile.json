@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.script",
+      "timestamp" : "2020-04-07 11:26:30.785 -0600"
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "{DateofBirth:\"Date of Birth\", FirstName:\"First Name\", Gender:\"Gender\", LastName:\"Last Name\", MaritalStatus:\"Marital Status\", MedicalRecordNumber:\"Medical Record Number\", MiddleName:\"Middle Name\", Prefix:\"Prefix\", SocialSecurityNumber:\"Social Security Number\"}",
+      "timestamp" : "2020-04-07 11:26:30.936 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "Medical Record Number,Prefix,First Name,Middle Name,Last Name,Date of Birth,Social Security Number,Gender,Marital Status222222,Mr,Bruce,A,Wayne,6\/13\/06,113-83-3798,Male,Single333333,Mrs,Carrie,B,Underwood,3\/16\/14,583-00-6387,Female,Married444444,Ms,Wonder,C,Woman,4\/24\/03,580-71-8520,Female,Divorced555555,Dr,Darth,D,Vader,12\/23\/87,744-85-1232,Male,Widowed666666,Dr,James,E,Bond,7\/30\/81,973-13-0224,Male,Single777777,Mr,Homer,F,Simpson,9\/1\/80,557-31-0655,Male,Married888888,Dr,Optimus,G,Prime,9\/19\/85,521-26-0727,Other,Divorced999999,Dr,Mickey,H,Mouse,6\/14\/00,984-56-3166,Male,Single101010,Mr,SpongeBob,I,SquarePants,6\/14\/00,984-56-3166,Male,Single",
+      "timestamp" : "2020-04-07 11:26:30.944 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 7
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.449692\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-04-07 11:26:30 -0600\", Successes:\"1\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 11:26:31.236 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Untitled.script",
+      "timestamp" : "2020-04-07 11:26:31.259 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 11:26:30.786 -0600"
+}

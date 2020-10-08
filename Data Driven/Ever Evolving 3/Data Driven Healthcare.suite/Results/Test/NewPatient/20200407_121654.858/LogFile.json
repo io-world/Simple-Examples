@@ -1,0 +1,93 @@
+{
+  "entries" : [
+    {
+      "handlerName" : "on_main01",
+      "message" : "Running Test\/NewPatient.script",
+      "timestamp" : "2020-04-07 12:16:54.861 -0600",
+      "identifier" : "START",
+      "scriptName" : "Main01.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "message" : "444444",
+      "timestamp" : "2020-04-07 12:16:54.888 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "message" : "Ms",
+      "timestamp" : "2020-04-07 12:16:54.890 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 9
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "message" : "Wonder",
+      "timestamp" : "2020-04-07 12:16:54.892 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 10
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "message" : "Woman",
+      "timestamp" : "2020-04-07 12:16:54.895 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 11
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "message" : "4\/24\/03",
+      "timestamp" : "2020-04-07 12:16:54.898 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "message" : "580-71-8520",
+      "timestamp" : "2020-04-07 12:16:54.900 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 13
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "message" : "Female",
+      "timestamp" : "2020-04-07 12:16:54.903 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 14
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "message" : "Divorced",
+      "timestamp" : "2020-04-07 12:16:54.905 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 15
+    },
+    {
+      "handlerName" : "on_main01",
+      "message" : "(Duration:\"0.044439\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-04-07 12:16:54 -0600\", Successes:\"1\", TestCase:\"Test\/NewPatient.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 12:16:54.908 -0600",
+      "identifier" : "EndTestCase",
+      "scriptName" : "Main01.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_main01",
+      "message" : "Execution Time 0:00:00 Test\/NewPatient.script",
+      "timestamp" : "2020-04-07 12:16:54.950 -0600",
+      "identifier" : "SUCCESS",
+      "scriptName" : "Main01.script",
+      "handlerLine" : 18
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 12:16:54.863 -0600"
+}

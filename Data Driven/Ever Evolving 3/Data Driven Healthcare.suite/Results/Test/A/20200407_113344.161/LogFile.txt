@@ -1,0 +1,7 @@
+﻿2020-04-07 11:33:44.163 -0600	START		Running Test/A.script	17	on_index	Index.script
+2020-04-07 11:33:44.166 -0600	Log		code for Navigation for TestA 	6	on_test_a	Test/A.script
+2020-04-07 11:33:44.432 -0600	click	Contacts/Buttons/Contacts	at (53, 607)	9	on_test_a	Test/A.script
+2020-04-07 11:33:45.899 -0600	imagefound	(TEXT:"Contacts/Buttons/Contacts/Blue")	Unable to Find Image (TEXT:"Contacts/Buttons/Contacts/Blue"). Text might be too low contrast to detect.	24	on_content	
+2020-04-07 11:33:45.900 -0600	LogWarning		Text was NOT found: Contacts/Buttons/Contacts/Blue	27	on_content	
+2020-04-07 11:33:47.293 -0600	EndTestCase		(Duration:"3.128023", Errors:"1", Exceptions:"0", StartTime:"2020-04-07 11:33:44 -0600", Successes:"0", TestCase:"Test/A.script", Warnings:"1")	17	on_index	Index.script
+2020-04-07 11:33:47.296 -0600	ABORTED		Execution Time 0:00:03 Test/A.script	17	on_index	Index.script

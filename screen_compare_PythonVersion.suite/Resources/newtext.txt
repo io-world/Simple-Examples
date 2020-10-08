@@ -1,0 +1,1 @@
+{"success":true,"result":{"images_match":false,"output_filepath":"/Users/randyhesse/Desktop/screen_compare.suite/Images/newimage2.png"}}

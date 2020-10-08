@@ -1,0 +1,20 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.script",
+      "timestamp" : "2020-04-07 11:26:12.418 -0600"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.497466\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-04-07 11:26:12 -0600\", Successes:\"0\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 11:26:12.916 -0600"
+    },
+    {
+      "identifier" : "FAILURE",
+      "message" : "STUnknownMessage ERROR: No Such Command: 'reutrn' -- Execution Time 0:00:00 Untitled.script",
+      "timestamp" : "2020-04-07 11:26:12.942 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 11:26:12.418 -0600"
+}

@@ -1,0 +1,46 @@
+{
+  "entries" : [
+    {
+      "handlerName" : "on_main01",
+      "message" : "Running States\/Zero.script",
+      "timestamp" : "2020-04-07 12:16:54.207 -0600",
+      "identifier" : "START",
+      "scriptName" : "Main01.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_states_zero",
+      "message" : "Initiate Zero State",
+      "timestamp" : "2020-04-07 12:16:54.218 -0600",
+      "identifier" : "Log",
+      "scriptName" : "States\/Zero.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_states_zero",
+      "message" : "at (53, 607)",
+      "identifier" : "click",
+      "image" : "Contacts\/Buttons\/Contacts",
+      "handlerLine" : 5,
+      "timestamp" : "2020-04-07 12:16:54.399 -0600",
+      "scriptName" : "States\/Zero.script"
+    },
+    {
+      "handlerName" : "on_main01",
+      "message" : "(Duration:\"0.192912\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-04-07 12:16:54 -0600\", Successes:\"1\", TestCase:\"States\/Zero.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 12:16:54.402 -0600",
+      "identifier" : "EndTestCase",
+      "scriptName" : "Main01.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_main01",
+      "message" : "Execution Time 0:00:00 States\/Zero.script",
+      "timestamp" : "2020-04-07 12:16:54.435 -0600",
+      "identifier" : "SUCCESS",
+      "scriptName" : "Main01.script",
+      "handlerLine" : 5
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 12:16:54.208 -0600"
+}

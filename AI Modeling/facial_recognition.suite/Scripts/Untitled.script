@@ -1,0 +1,2 @@
+﻿
+log shell(<</usr/local/bin/go run "/Users/randyhesse/Desktop/Test.go">>,includeErrors:"YES")

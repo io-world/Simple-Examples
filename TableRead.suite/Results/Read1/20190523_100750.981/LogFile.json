@@ -1,0 +1,73 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Read1.script",
+      "timestamp" : "2019-05-23 10:07:50.982 -0600"
+    },
+    {
+      "handlerName" : "on_read1",
+      "message" : "at (109, 79)",
+      "identifier" : "moveto",
+      "image" : "Show",
+      "handlerLine" : 1,
+      "timestamp" : "2019-05-23 10:07:51.388 -0600",
+      "scriptName" : "Read1.script"
+    },
+    {
+      "handlerName" : "on_read1",
+      "message" : "at (9,79,48,96)",
+      "identifier" : "imagerectangle",
+      "image" : "Show",
+      "handlerLine" : 2,
+      "timestamp" : "2019-05-23 10:07:52.441 -0600",
+      "scriptName" : "Read1.script"
+    },
+    {
+      "handlerName" : "on_read1",
+      "message" : "(179,119,348,416)",
+      "timestamp" : "2019-05-23 10:07:52.443 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Read1.script",
+      "handlerLine" : 5
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(179,119,348,416)",
+      "timestamp" : "2019-05-23 10:07:52.550 -0600"
+    },
+    {
+      "handlerName" : "on_read1",
+      "message" : "Tiger Nixon\\nJohn Winters\\nAustin Cox\\nCharles Kelly\\nAmanda Satou\\nBrielle Williamson\\nHerrod Chandler\\nRhona Davidson\\nColleen Hurst\\nSonya Frost",
+      "timestamp" : "2019-05-23 10:07:52.550 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Read1.script",
+      "handlerLine" : 6
+    },
+    {
+      "identifier" : "LogWarning",
+      "message" : "OCR Text read in search rect: Tiger Nixon\\nJohn Winters\\nAustin Cox\\nCharles Kelly\\nAmanda Satou\\nBrielle Williamson\\nHerrod Chandler\\nRhona Davidson\\nColleen Hurst\\nSonya Frost",
+      "timestamp" : "2019-05-23 10:07:59.095 -0600"
+    },
+    {
+      "handlerName" : "on_read1",
+      "message" : "No Text Found On Screen: \"(TEXT:\"Garrett Winters\")\"",
+      "identifier" : "Exception",
+      "image" : "(TEXT:\"Garrett Winters\")",
+      "handlerLine" : 9,
+      "timestamp" : "2019-05-23 10:08:19.916 -0600",
+      "scriptName" : "Read1.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"29.230918\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2019-05-23 10:07:50 -0600\", Successes:\"0\", TestCase:\"Read1.script\", Warnings:\"1\")",
+      "timestamp" : "2019-05-23 10:08:20.214 -0600"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:00:29 Read1.script",
+      "timestamp" : "2019-05-23 10:08:20.222 -0600"
+    }
+  ],
+  "createdTimestamp" : "2019-05-23 10:07:50.983 -0600"
+}

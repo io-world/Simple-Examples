@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-07-03 14:05:23.491 -0600,"Success",0:00:00,0,0,0,"20170703_140523.491/LogFile.txt","","",1
+2017-07-26 12:23:02.058 -0600,"Success",0:00:00,0,0,0,"20170726_122302.058/LogFile.txt","","",1
+2018-10-18 23:01:20.027 -0600,"Failure",0:00:00,1,0,1,"20181018_230120.027/LogFile.txt","","No Remote Connection -- typetext Error - Remote Connection Unavailable",0

@@ -1,0 +1,68 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Master.script",
+      "timestamp" : "2019-05-10 14:05:30.309 -0600"
+    },
+    {
+      "handlerName" : "on_screen_compare",
+      "message" : "EXEPath: \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Resources\/screen_compare\/screen_compare",
+      "timestamp" : "2019-05-10 14:05:30.367 -0600",
+      "identifier" : "Log",
+      "scriptName" : "screen_compare.script",
+      "handlerLine" : 21
+    },
+    {
+      "handlerName" : "on_screen_compare",
+      "message" : "ImagePath1 \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Images\/ScreenshotA.png",
+      "timestamp" : "2019-05-10 14:05:30.368 -0600",
+      "identifier" : "Log",
+      "scriptName" : "screen_compare.script",
+      "handlerLine" : 22
+    },
+    {
+      "handlerName" : "on_screen_compare",
+      "message" : "ImagePath2 \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Images\/ScreenshotA.png",
+      "timestamp" : "2019-05-10 14:05:30.369 -0600",
+      "identifier" : "Log",
+      "scriptName" : "screen_compare.script",
+      "handlerLine" : 23
+    },
+    {
+      "handlerName" : "on_screen_compare",
+      "message" : "OutputImagePath \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Images\/newimage.png",
+      "timestamp" : "2019-05-10 14:05:30.370 -0600",
+      "identifier" : "Log",
+      "scriptName" : "screen_compare.script",
+      "handlerLine" : 24
+    },
+    {
+      "handlerName" : "on_screen_compare",
+      "message" : "OutputTextPath \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Resources\/newtext.txt",
+      "timestamp" : "2019-05-10 14:05:30.371 -0600",
+      "identifier" : "Log",
+      "scriptName" : "screen_compare.script",
+      "handlerLine" : 25
+    },
+    {
+      "handlerName" : "on_screen_compare",
+      "message" : "Running Shell Command: \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Resources\/screen_compare\/screen_compare --input \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Images\/ScreenshotA.png --input \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Images\/ScreenshotB.png --output \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Images\/newimage.png > \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Resources\/newtext.txt",
+      "timestamp" : "2019-05-10 14:05:30.372 -0600",
+      "identifier" : "Log",
+      "scriptName" : "screen_compare.script",
+      "handlerLine" : 26
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.564173\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-10 14:05:30 -0600\", Successes:\"1\", TestCase:\"Master.script\", Warnings:\"0\")",
+      "timestamp" : "2019-05-10 14:05:30.875 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Master.script",
+      "timestamp" : "2019-05-10 14:05:30.889 -0600"
+    }
+  ],
+  "createdTimestamp" : "2019-05-10 14:05:30.310 -0600"
+}

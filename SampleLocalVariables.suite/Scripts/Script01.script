@@ -1,0 +1,11 @@
+﻿params DataInput
+
+
+log "From Script 01"
+log DataInput
+
+
+
+
+
+return "Data From Script 01"

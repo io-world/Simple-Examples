@@ -18,10 +18,10 @@
  </script>
  <script name="upload_results">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfRuns>6</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2017-10-16 13:13:04 -0600</FirstRun>
-  <LastRun>2017-10-16 14:00:49 -0600</LastRun>
-  <TotalTimeOnSuccess>2.931908</TotalTimeOnSuccess>
+  <LastRun>2020-08-06 08:26:09 -0600</LastRun>
+  <TotalTimeOnSuccess>7.760965</TotalTimeOnSuccess>
  </script>
 </statistics>

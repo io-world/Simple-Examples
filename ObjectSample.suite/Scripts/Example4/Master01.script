@@ -1,0 +1,12 @@
+﻿
+
+
+put new  "Utilities/Squares"  into SearchSquares
+
+
+log SearchSquares.srect1
+
+
+log SearchSquares.S_Srect4 // DO NOT DO THIS
+
+log SearchSquares.Srect4

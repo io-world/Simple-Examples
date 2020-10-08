@@ -1,0 +1,7 @@
+﻿
+
+
+put suiteinfo().imagesFolder & "/" into Path
+
+
+CaptureScreen (Name: Path & "Header", Rectangle: (713,209,1188,350))

@@ -1,0 +1,3 @@
+﻿2020-03-11 21:44:55.082 -0500	START		Running Write3.script
+2020-03-11 21:44:55.872 -0500	EndTestCase		(Duration:"0.788432", Errors:"0", Exceptions:"0", StartTime:"2020-03-11 21:44:55 -0500", Successes:"1", TestCase:"Write3.script", Warnings:"0")
+2020-03-11 21:44:55.903 -0500	SUCCESS		Execution Time 0:00:00 Write3.script

@@ -1,0 +1,19 @@
+﻿{
+    CaptureDate = "2017-09-14 16:39:31 +0000";
+    CaptureHost = "iPhone_6s_DEV03";
+    CaptureScreenSize =     (
+        750,
+        1334
+    );
+    HasAlpha = 1;
+    HotSpotX = 59;
+    HotSpotY = 25;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 618;
+    OriginalLocationY = 239;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+}

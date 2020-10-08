@@ -1,0 +1,18 @@
+﻿
+
+
+put new  "Utilities/MoreHand"  into MH
+
+put 10 into MH.X
+put 20 into MH.Y
+
+log MH.add
+
+
+put x into var
+put 1 into MH.(var)
+
+
+put "add" into var2
+log MH.(var2)
+

@@ -1,0 +1,21 @@
+﻿
+
+
+
+put <<export GOPATH="/Users/randyhesse/go";>> into SetGoPath
+put <<cd /Users/randyhesse/Documents/Simple_Examples/facial_recognition.suite/Resources/ &&>> into SetDirectoryPath
+put <</usr/local/bin/go run>> into SetGoRunPath
+put <</Users/randyhesse/Documents/Simple_Examples/facial_recognition.suite/Resources/FaceR.go>> into SetExecutePath
+
+
+put "Test.jpg" into InputName
+put "output.png" into OutputName
+put <<">>&InputName&<<">> into InputFile
+put <<">>&OutputName&<<">> into outputFile
+
+
+put SetGoPath &&SetDirectoryPath && SetGoRunPath && SetExecutePath && InputFile && OutputFile into ShellCommand
+
+
+log shell(ShellCommand ,includeErrors:"YES")
+

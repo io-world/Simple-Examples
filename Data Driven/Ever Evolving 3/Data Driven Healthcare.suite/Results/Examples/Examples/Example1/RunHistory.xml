@@ -1,0 +1,99 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Examples/Examples/Example1">
+ <run>
+  <RunDate>2017-07-03 14:06:49.655 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.486336</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_140649.655/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-03 14:07:09.488 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.553230</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_140709.488/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-03 14:46:35.003 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.421438</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_144635.003/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-03 14:46:53.423 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.475733</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_144653.423/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2017-07-03 14:47:08.717 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.542359</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20170703_144708.717/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 12:57:04.840 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.640457</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200407_125704.840/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;setupfiles&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 12:57:33.440 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.636461</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200407_125733.440/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;setupcustomerfiles&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 12:58:44.648 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.622536</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200407_125844.648/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;setupenvironment&#x27;</ErrorMessage>
+ </run>
+</runHistory>

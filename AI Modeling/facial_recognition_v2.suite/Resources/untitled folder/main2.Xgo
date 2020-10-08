@@ -1,0 +1,33 @@
+package main
+
+import (
+	"fmt"
+	"image/color"
+
+	"gocv.io/x/gocv"
+)
+
+func main() {
+
+	img := gocv.IMRead("Test.jpg", 1)
+	defer img.Close()
+
+	//window := gocv.NewWindow("webcamwindow")
+	//defer window.Close()
+
+	harrcascade := "haarcascade_frontalface_default.xml"
+	classifier := gocv.NewCascadeClassifier()
+	classifier.Load(harrcascade)
+	defer classifier.Close()
+
+	color := color.RGBA{0, 255, 0, 0}
+
+	rects := classifier.DetectMultiScale(img)
+	for _, r := range rects {
+		fmt.Println("detected", r)
+		gocv.Rectangle(&img, r, color, 3)
+	}
+
+	gocv.IMWrite("saveFile.jpg", img)
+
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Read2_script" package="TableRead.suite" timestamp="2019-05-23 10:04:33.424 -0600"
+ tests="1"  failures="2" errors="0" time="12.220279">
+  <properties>
+   <property name="RunDate" value="2019-05-23 10:04:33.424 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Read2.script" assertions="1" status="failure"  time="12.217587">
+    <failure type="LogError" message="Could Not Find Positions Name" />
+    <failure type="FAILURE" message="Script Error Number of Errors logged: 1 -- Execution Time 0:00:12 Read2.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

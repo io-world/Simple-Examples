@@ -1,0 +1,17 @@
+﻿
+put new "Utilities/Patient" into Patient
+
+
+log Patient.FirstName
+log Patient.BirthDate
+log Patient.Gender
+
+(Patient).ChangeSex ("Female")
+
+log Patient.Gender
+
+
+put "Male" into Patient.Gender
+
+
+log Patient.Gender

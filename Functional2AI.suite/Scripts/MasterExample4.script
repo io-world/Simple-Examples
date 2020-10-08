@@ -1,0 +1,16 @@
+﻿
+RunWithNewResults "Script1"
+RunWithNewResults "Script2"
+
+run "Script3"
+
+run "Script4"
+
+
+
+"Script5".Foo
+log "Script5".Bar
+"Script5".Baz
+
+
+Run  "ScriptSubSet/Script6"

@@ -1,0 +1,27 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Live Code.script",
+      "timestamp" : "2020-01-14 15:19:41.450 -0800"
+    },
+    {
+      "handlerName" : "on_live_code",
+      "timestamp" : "2020-01-14 15:19:41.525 -0800",
+      "identifier" : "typetext",
+      "scriptName" : "Live Code.script",
+      "handlerLine" : 10
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.73646\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-01-14 15:19:41 -0800\", Successes:\"1\", TestCase:\"Live Code.script\", Warnings:\"0\")",
+      "timestamp" : "2020-01-14 15:19:42.188 -0800"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Live Code.script",
+      "timestamp" : "2020-01-14 15:19:42.210 -0800"
+    }
+  ],
+  "createdTimestamp" : "2020-01-14 15:19:41.451 -0800"
+}

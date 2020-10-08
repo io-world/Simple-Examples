@@ -1,0 +1,10 @@
+<?xml version="1.0"?><TableScript xmlns="http://www.testplant.com/xmlns/TableScript/2014">
+<Lines>
+<Line><Action>ConnectDevice</Action><Arguments>iPhone_6s_DEV03</Arguments><ExpectedValueExpression>Pass</ExpectedValueExpression><Comment>Change the SUT to any of the other mobile devices</Comment></Line>
+<Line><Action>EnvSetup</Action><Arguments></Arguments><ExpectedValueExpression>Pass</ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>OpenAmazon</Action><Arguments></Arguments><ExpectedValueExpression>Pass</ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>SearchItem</Action><Arguments>"Playstation 4"</Arguments><ExpectedValueExpression>Pass</ExpectedValueExpression><Comment>Adjsut the search to a different item</Comment></Line>
+<Line><Action>HomeScreen</Action><Arguments></Arguments><ExpectedValueExpression>Pass</ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>HomeButton</Action><Arguments></Arguments><ExpectedValueExpression>pass</ExpectedValueExpression><Comment></Comment></Line>
+</Lines>
+</TableScript>

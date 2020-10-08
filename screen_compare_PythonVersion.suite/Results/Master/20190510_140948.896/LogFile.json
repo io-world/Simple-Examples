@@ -1,0 +1,68 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Master.script",
+      "timestamp" : "2019-05-10 14:09:48.898 -0600"
+    },
+    {
+      "handlerName" : "on_screen_compare",
+      "message" : "EXEPath: \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Resources\/screen_compare\/screen_compare",
+      "timestamp" : "2019-05-10 14:09:48.979 -0600",
+      "identifier" : "Log",
+      "scriptName" : "screen_compare.script",
+      "handlerLine" : 21
+    },
+    {
+      "handlerName" : "on_screen_compare",
+      "message" : "ImagePath1 \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Images\/SM-G973u_call.png",
+      "timestamp" : "2019-05-10 14:09:48.980 -0600",
+      "identifier" : "Log",
+      "scriptName" : "screen_compare.script",
+      "handlerLine" : 22
+    },
+    {
+      "handlerName" : "on_screen_compare",
+      "message" : "ImagePath2 \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Images\/SM-G973u_call.png",
+      "timestamp" : "2019-05-10 14:09:48.982 -0600",
+      "identifier" : "Log",
+      "scriptName" : "screen_compare.script",
+      "handlerLine" : 23
+    },
+    {
+      "handlerName" : "on_screen_compare",
+      "message" : "OutputImagePath \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Images\/newimage2.png",
+      "timestamp" : "2019-05-10 14:09:48.983 -0600",
+      "identifier" : "Log",
+      "scriptName" : "screen_compare.script",
+      "handlerLine" : 24
+    },
+    {
+      "handlerName" : "on_screen_compare",
+      "message" : "OutputTextPath \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Resources\/newtext.txt",
+      "timestamp" : "2019-05-10 14:09:48.984 -0600",
+      "identifier" : "Log",
+      "scriptName" : "screen_compare.script",
+      "handlerLine" : 25
+    },
+    {
+      "handlerName" : "on_screen_compare",
+      "message" : "Running Shell Command: \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Resources\/screen_compare\/screen_compare --input \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Images\/SM-G973u_call.png --input \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Images\/SM-G973u_call_2.png --output \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Images\/newimage2.png > \/Users\/randyhesse\/Desktop\/screen_compare.suite\/Resources\/newtext.txt",
+      "timestamp" : "2019-05-10 14:09:48.985 -0600",
+      "identifier" : "Log",
+      "scriptName" : "screen_compare.script",
+      "handlerLine" : 26
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.319359\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-10 14:09:48 -0600\", Successes:\"1\", TestCase:\"Master.script\", Warnings:\"0\")",
+      "timestamp" : "2019-05-10 14:09:49.218 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Master.script",
+      "timestamp" : "2019-05-10 14:09:49.233 -0600"
+    }
+  ],
+  "createdTimestamp" : "2019-05-10 14:09:48.899 -0600"
+}

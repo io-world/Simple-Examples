@@ -7,6 +7,9 @@ Click Image:"Magnifying Glass"
 
 //--Turn On Usability Mode 
 set the usabilityMode to True
+//--Turn on Usability Load Time Warning
+set the usability_LoadTimeWarning to 7 seconds
+
 
 TypeText "www.eggplant.io"
 TypeText returnKey
@@ -15,5 +18,3 @@ WaitFor 3.5, "Refresh Icon"
 
 //--Turn Off Usability Mode 
 set the usabilityMode to False
-
-set the usability_LoadTimeWarning to 7 seconds

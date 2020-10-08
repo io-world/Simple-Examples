@@ -1,0 +1,30 @@
+﻿
+
+Properties
+
+	propertyKey3:"value3",
+	propertyKey4:"value4"
+	
+end Properties
+
+on C2_Function1
+	
+	log "From Class02 Function 01"
+	
+end C2_Function1
+
+
+
+
+on C2_Function2 var
+	
+	log "From Class02 Function 02"
+	log "this is the var" & var
+end C2_Function2
+
+
+on C2_Function3
+	
+	log "From Class02 Function 03"
+	
+end C2_Function3

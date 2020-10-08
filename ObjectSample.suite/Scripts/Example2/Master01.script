@@ -1,0 +1,19 @@
+﻿
+
+put new "Utilities/Patients" into Patients
+
+
+put Patients.Current (2) into Patient
+log "LastName:" && patient.LastName
+log "Gender:" && patient.Gender
+log "AdmitDate:" && patient.AdmitDate
+
+log "------------------------------------------------------------"
+
+put Patients.Current  (4)into Patient
+log "LastName:" && patient.LastName
+log "Gender:" && patient.Gender
+log "AdmitDate:" && patient.AdmitDate
+
+log "------------------------------------------------------------"
+

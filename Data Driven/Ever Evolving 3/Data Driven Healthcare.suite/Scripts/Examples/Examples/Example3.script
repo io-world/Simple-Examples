@@ -1,0 +1,27 @@
+﻿----------------DO Not Touch--------------------------------------
+set GD to a new "Modules/GlobalDefine"
+Run (GD).SetupCustomFile
+-------------------------------------------------------------------------
+
+
+
+
+
+-------------------------------------------------------------------------
+put (GD).GetPatient  (2) into patient
+log  Patient
+
+
+
+log (GD).PatientCount
+log (GD).ColumnNames
+log (GD).ColumnCount
+
+------------------------------
+put (GD).GETALL ("Medical Record Number") into  ALLMRNS
+log ALLMRNS
+
+
+log (GD).DataDump
+
+

@@ -1,0 +1,11 @@
+Medical Record Number,Suffix,First Name,Middle Name,Last Name,Date of Birth,Social Security Number,Gender,Marital Status,Created Date,Coding Date,Billing Date,Claims Date,Charge Capture Date
+451976,Mrs,Jessica,E,Wheeler,6/3/17,615-48-0563,Female,Married,12/3/18,12/5/18,12/6/18,12/7/18,
+41281,Mr,Harold,T,Jones,7/25/18,621-43-2972,Male,Divorced,12/1/18,12/3/18,12/5/18,12/8/18,12/8/18
+524763,Mrs,Maria,U,Rose,5/31/05,069-63-3070,Female,Married,11/29/18,11/30/18,12/5/18,,12/9/18
+587068,Mr,Alexander,B,George,3/24/17,223-02-9280,Male,Widowed,,,,,12/8/18
+86949,Mr,Bruce,O,Cruz,11/27/14,085-86-9242,Male,Married,12/3/18,12/3/18,,12/9/18,12/9/18
+318075,Mrs,Victoria,N,Brooks,7/22/73,237-59-1783,Female,Married,11/30/18,12/3/18,12/3/18,12/5/18,12/7/18
+725726,Dr,Ethan,S,Stevens,11/19/84,278-16-4670,Male,Widowed,,12/3/18,12/7/18,,12/8/18
+527631,Mr,Russell,K,Ward,1/30/77,063-57-1885,Male,Divorced,11/30/18,12/3/18,,12/7/18,12/8/18
+845263,Mr,Jeremy,G,Burton,4/8/86,146-09-5004,Male,Separated,11/30/18,12/1/18,12/8/18,,12/9/18
+578895,Dr,Martha,E,Wright,5/12/82,973-47-8242,Female,Widowed,,,12/4/18,,

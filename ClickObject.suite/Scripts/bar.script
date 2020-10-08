@@ -1,0 +1,9 @@
+﻿
+
+on goo
+
+	log "YES"
+	
+	CaptureScreen (Name: "asdsd")
+	
+end goo

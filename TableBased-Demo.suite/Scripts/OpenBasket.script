@@ -1,0 +1,4 @@
+﻿click "BasketIcon"
+//Confirm that the page loads by waiting for the "shopping basket" text
+waitfor 20, Text: "Shopping Basket"
+Return Pass

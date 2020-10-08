@@ -1,19 +1,10 @@
 ﻿
 
+
+
 set myScriptData to (type:"excel", file:ResourcePath("WebFormData.xlsx"), name:"PatientList")
+
+
 put the records of myScriptData into Patients
 
-
-
-put the number of items of patients into max
-
-
-repeat max times
-	
-	
-	put item repeatindex() of Patients into patient
-	
-	log patient."first name"
-	log "--------------------------------------------------------------------------------------"
-	
-end repeat
+TypeText  (item 2 of  Patients)."date of birth"

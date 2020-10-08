@@ -1,0 +1,7 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-07-11 09:11:52.106 -0600,"Failure",0:00:00,1,0,1,"20170711_091152.106/LogFile.txt","","Image Not Found -- imagefound Error - Image Property List did not contain ""ImageName"" property",0
+2017-07-11 09:12:13.247 -0600,"Failure",0:00:00,1,0,1,"20170711_091213.247/LogFile.txt","","Image Not Found -- imagefound Error - Image Property List did not contain ""ImageName"" property",0
+2017-07-11 09:12:32.228 -0600,"Failure",0:00:00,1,0,1,"20170711_091232.228/LogFile.txt","","Image Not Found -- imagefound Error - Image Property List did not contain ""ImageName"" property",0
+2017-07-11 09:12:43.081 -0600,"Success",0:00:00,0,0,0,"20170711_091243.081/LogFile.txt","","",1
+2017-07-11 09:19:34.314 -0600,"Failure",0:00:00,2,0,1,"20170711_091934.314/LogFile.txt","","Image Not Found -- imagefound Error - Image Property List did not contain ""ImageName"" property",0
+2017-07-11 09:20:39.619 -0600,"Failure",0:00:00,1,0,0,"20170711_092039.619/LogFile.txt","","Script Error -- Number of Errors logged: 1",0

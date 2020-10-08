@@ -1,0 +1,11 @@
+﻿
+
+
+
+
+
+on SomethingOtherHandler
+
+	log "Some Handler from Eggplant Classes"
+	
+end SomethingOtherHandler

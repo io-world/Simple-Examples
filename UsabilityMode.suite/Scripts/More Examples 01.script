@@ -1,0 +1,26 @@
+﻿
+
+Click "Start"
+Click "Web Bowser Icon"
+WaitFor 3.5, "Refresh Icon"
+Click Image:"Magnifying Glass"
+
+//--Turn On Usability Mode 
+//--Turn On Usability Mode  (Delay to Check for Feedback)
+//--Turn on Usability Load Time Warning
+//-- Turn on Delay to check for Image Movement
+//--Turn on Usability Time between Forbidden Check
+set the usabilityMode to True
+set the usability_delayToCheckForFeedback to 1 second
+set the usability_LoadTimeWarning to 7 seconds
+set the usability_delayToCheckForImageMovement to 3 seconds 
+set the usability_timeBetweenForbiddenCheck to 2.5 seconds
+
+
+TypeText "www.eggplant.io"
+TypeText returnKey
+WaitFor 5.0, "Eggplant Logo"
+WaitFor 3.5, "Refresh Icon"
+
+//--Turn Off Usability Mode 
+set the usabilityMode to False

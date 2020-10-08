@@ -1,0 +1,34 @@
+﻿
+
+
+TypeText windowsKey & "r" 
+TypeText "Chrome.exe" , returnKey
+WaitFor 10, "Refresh Icon"
+TypeText controlKey & "l"
+TypeText "docs.google.com" , returnKey
+
+//----------------------------------------------------------------------
+
+Click "New Document"
+Click (Image:"Tools", WaitFor:7)
+Click (image:"Voice Typing", WaitFor:7)
+Click "Voice Logo"
+wait 3
+shell("say Hello Google Documents How are you")
+wait 1
+shell("say New line")
+wait 1
+shell("say New line")
+wait 3
+Click "Voice Logo Red"
+//----------------------------------------------------------------------
+
+
+put ReadText((536,224,1284,1023)) into TranslatedText
+log "what was translated" && line 1 of TranslatedText
+
+if (line 1 of TranslatedText = "Hello Google Documents How are you") then
+	log "text has been translated correctly"
+else
+	logwarning "text has NOT been translated correctly"
+end if

@@ -1,0 +1,14 @@
+﻿
+
+
+put new "PixelData"  with (ColorSquare:(57,11,57,16))into PD
+
+
+log (PD).MatrixPixel
+
+
+put (Color1:(55,55,55),Color2:(255,255,255)) into Defined_Color
+
+
+log  (PD).PixelMatch (color:(Defined_Color),tolerance:50) 
+

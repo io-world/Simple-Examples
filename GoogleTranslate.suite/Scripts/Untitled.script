@@ -1,0 +1,19 @@
+﻿
+
+set MYxCEL to (type:"excel", file:ResourcePath("Words.xlsx"), name:"Translate", writable: "yes") 
+
+
+
+put the records of MYxCEL into Data
+
+log Data.english
+
+
+
+
+
+put "testing123" into OutputxCel."hindi"
+
+add records OutputxCel to MYxCEL
+
+

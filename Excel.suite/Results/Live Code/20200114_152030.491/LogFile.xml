@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Live Code_script" package="Excel.suite" timestamp="2020-01-14 23:20:30 +0000"
+ tests="1"  failures="1" errors="1" time="0.367226">
+  <properties>
+   <property name="RunDate" value="2020-01-14 23:20:30 +0000"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Live Code.script" assertions="1" status="error"  time="0.356498">
+    <failure type="FAILURE" message="No Remote Connection typetext Error - Remote Connection Unavailable -- Execution Time 0:00:00 Live Code.script" />
+    <error type="Exception" message="Remote Connection Unavailable" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,15 @@
+﻿
+
+Click "TypeIN"
+TypeText controlkey & "a"
+TypeText deleteKey
+
+
+TypeText "Good Morning"
+Click "More Languages"
+
+
+
+click text:"latin",SearchRectangle:(328,309,1544,896)
+log ReadText(("TL","BR"),Language:"latin")
+

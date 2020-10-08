@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Main02_script" package="Data Driven Healthcare.suite" timestamp="2020-04-07 11:40:18.508 -0600"
+ tests="1"  failures="1" errors="0" time="0.615903">
+  <properties>
+   <property name="RunDate" value="2020-04-07 11:40:18.508 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Main02.script" assertions="1" status="failure"  time="0.611581">
+    <failure type="FAILURE" message="ZeroChunkIndex Zero is not a valid chunk number -- Execution Time 0:00:00 Main02.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

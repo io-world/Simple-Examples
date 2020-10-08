@@ -1,0 +1,9 @@
+﻿2020-08-06 08:20:02.441 -0600	START		Running upload_results.script
+2020-08-06 08:20:02.928 -0600	Log		Full Result path is: /Users/randyhesse/Documents/Simple_Examples/API Upload.suite/Results/SomeScript/20171016_133142.165/	24	on_upload_results	upload_results.script
+2020-08-06 08:20:02.931 -0600	Log		Full Result files are: ["Some Screen.png","LogFile.xml","LogFile.txt"]	25	on_upload_results	upload_results.script
+2020-08-06 08:20:02.964 -0600	Log		Number of files to be uploaded: 3	30	on_upload_results	upload_results.script
+2020-08-06 08:20:03.406 -0600	Log		{\n  "message": "file uploaded successfully.", \n  "result": "success"\n}\n	38	on_upload_results	upload_results.script
+2020-08-06 08:20:03.709 -0600	Log		{\n  "message": "file uploaded successfully.", \n  "result": "success"\n}\n	38	on_upload_results	upload_results.script
+2020-08-06 08:20:04.017 -0600	Log		{\n  "message": "file uploaded successfully.", \n  "result": "success"\n}\n	38	on_upload_results	upload_results.script
+2020-08-06 08:20:04.421 -0600	EndTestCase		(Duration:"1.967285", Errors:"0", Exceptions:"0", StartTime:"2020-08-06 08:20:02 -0600", Successes:"1", TestCase:"upload_results.script", Warnings:"0")
+2020-08-06 08:20:04.436 -0600	SUCCESS		Execution Time 0:00:01 upload_results.script

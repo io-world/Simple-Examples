@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="index_script" package="SearchRectangle.suite" timestamp="2019-06-04 15:22:53.077 -0600"
+ tests="1"  failures="0" errors="0" time="6.284636">
+  <properties>
+   <property name="RunDate" value="2019-06-04 15:22:53.077 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="index.script" assertions="1" status="success"  time="6.281815">
+  </testcase>
+ </testsuite>
+</testsuites>

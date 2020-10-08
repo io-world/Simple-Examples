@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.script",
+      "timestamp" : "2020-04-07 09:57:39.308 -0600"
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "4",
+      "timestamp" : "2020-04-07 09:57:39.565 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 6
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.544079\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-04-07 09:57:39 -0600\", Successes:\"1\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 09:57:39.866 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Untitled.script",
+      "timestamp" : "2020-04-07 09:57:39.888 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 09:57:39.315 -0600"
+}

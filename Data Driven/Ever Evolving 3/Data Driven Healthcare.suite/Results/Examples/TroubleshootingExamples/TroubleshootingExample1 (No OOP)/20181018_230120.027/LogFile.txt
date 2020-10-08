@@ -1,0 +1,12 @@
+﻿2018-10-18 23:01:20.028 -0600	START		Running Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2018-10-18 23:01:20.222 -0600	Log		333333	7	on_examples_troubleshootingexamples_troubleshootingexample1__no_oop_	Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2018-10-18 23:01:20.224 -0600	Log		Mrs	8	on_examples_troubleshootingexamples_troubleshootingexample1__no_oop_	Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2018-10-18 23:01:20.226 -0600	Log		Carrie	9	on_examples_troubleshootingexamples_troubleshootingexample1__no_oop_	Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2018-10-18 23:01:20.227 -0600	Log		Underwood	10	on_examples_troubleshootingexamples_troubleshootingexample1__no_oop_	Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2018-10-18 23:01:20.228 -0600	Log		3/16/14	11	on_examples_troubleshootingexamples_troubleshootingexample1__no_oop_	Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2018-10-18 23:01:20.230 -0600	Log		583-00-6387	12	on_examples_troubleshootingexamples_troubleshootingexample1__no_oop_	Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2018-10-18 23:01:20.231 -0600	Log		Female	13	on_examples_troubleshootingexamples_troubleshootingexample1__no_oop_	Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2018-10-18 23:01:20.232 -0600	Log		Married	14	on_examples_troubleshootingexamples_troubleshootingexample1__no_oop_	Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2018-10-18 23:01:20.233 -0600	Exception		Remote Connection Unavailable	17	on_examples_troubleshootingexamples_troubleshootingexample1__no_oop_	Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script
+2018-10-18 23:01:20.470 -0600	EndTestCase		(Duration:"0.440808", Errors:"1", Exceptions:"1", StartTime:"2018-10-18 23:01:20 -0600", Successes:"0", TestCase:"Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script", Warnings:"0")
+2018-10-18 23:01:20.490 -0600	FAILURE		No Remote Connection typetext Error - Remote Connection Unavailable -- Execution Time 0:00:00 Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script

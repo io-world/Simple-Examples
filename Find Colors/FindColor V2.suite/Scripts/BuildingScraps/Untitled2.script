@@ -1,0 +1,15 @@
+﻿
+
+
+put (1,2,3) into blah
+
+put (6,7,8) into blah2
+
+
+
+
+insert blah into x
+
+insert blah2 nested after  x
+
+log x

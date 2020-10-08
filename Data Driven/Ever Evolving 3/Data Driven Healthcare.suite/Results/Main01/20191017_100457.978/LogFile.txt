@@ -1,0 +1,9 @@
+﻿2019-10-17 10:04:57.981 -0700	START		Running Index.script
+2019-10-17 10:04:58.164 -0700	connect		Tutorial Connection:(null)	4	on_libraries_sutconnect	Libraries/SUTConnect.script
+2019-10-17 10:04:58.312 -0700	Log		You are Connect	13	on_libraries_sutconnect	Libraries/SUTConnect.script
+2019-10-17 10:04:58.314 -0700	Log		Connection Information(Availability:"Active", Bonjour:"False", ColorDepth:"32", Connected:"True", Name:"TutorialSUT", PortNum:"5900", Reverse:"False", ScreenSize:(427,640), ServerID:"TutorialSUT", Status:"Connected", Type:"vnc", Visible:"True")	14	on_libraries_sutconnect	Libraries/SUTConnect.script
+2019-10-17 10:04:58.329 -0700	runwithnewresults		Zero.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving 2/Data Driven Healthcare.suite/Results/States/Zero/20191017_100458.327/LogFile.txt)	5	on_index	Index.script
+2019-10-17 10:04:58.596 -0700	runwithnewresults		Login.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving 2/Data Driven Healthcare.suite/Results/Libraries/Login/20191017_100458.595/LogFile.txt)	14	on_index	Index.script
+2019-10-17 10:05:00.220 -0700	runwithnewresults		A.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving 2/Data Driven Healthcare.suite/Results/Test/A/20191017_100500.219/LogFile.txt)	16	on_index	Index.script
+2019-10-17 10:05:03.799 -0700	EndTestCase		(Duration:"5.816693", Errors:"2", Exceptions:"1", StartTime:"2019-10-17 10:04:57 -0700", Successes:"2", TestCase:"Index.script", Warnings:"1")
+2019-10-17 10:05:03.806 -0700	ABORTED		Execution Time 0:00:05 Index.script

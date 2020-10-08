@@ -1,0 +1,4 @@
+﻿2020-04-07 12:07:39.328 -0600	START		Running Main02.script
+2020-04-07 12:07:39.489 -0600	Log		GetAllList	16	on_main02	Main02.script
+2020-04-07 12:07:39.947 -0600	EndTestCase		(Duration:"0.6168", Errors:"0", Exceptions:"0", StartTime:"2020-04-07 12:07:39 -0600", Successes:"1", TestCase:"Main02.script", Warnings:"0")
+2020-04-07 12:07:39.972 -0600	SUCCESS		Execution Time 0:00:00 Main02.script

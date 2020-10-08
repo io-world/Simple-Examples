@@ -1,0 +1,8 @@
+﻿
+
+
+on SomethingHandler
+
+	log "Some Handler from Bacground Classes"
+	
+end SomethingHandler

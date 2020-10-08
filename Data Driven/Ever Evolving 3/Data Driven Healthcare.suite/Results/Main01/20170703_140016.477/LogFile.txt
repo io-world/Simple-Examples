@@ -1,0 +1,37 @@
+﻿2017-07-03 14:00:16.478 -0600	START		Running Index.script
+2017-07-03 14:00:16.576 -0600	connect		Tutorial Connection:(null)	4	on_libraries_sutconnect	Libraries/SUTConnect.script
+2017-07-03 14:00:16.577 -0600	Log		You are Connect	13	on_libraries_sutconnect	Libraries/SUTConnect.script
+2017-07-03 14:00:16.579 -0600	Log		Connection Information(Availability:"Active", Bonjour:"False", ColorDepth:"32", Connected:"True", Name:"Tutorial Connection", PortNum:"5900", Reverse:"False", ScreenSize:(427,640), ServerID:"TutorialSUT", Status:"Connected", Type:"vnc", Visible:"True")	14	on_libraries_sutconnect	Libraries/SUTConnect.script
+2017-07-03 14:00:16.583 -0600	runwithnewresults		Zero.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Experiment/dataDrivenHealthcare.suite/Results/States/Zero/20170703_140016.582/LogFile.txt)	11	on_index	Index.script
+2017-07-03 14:00:16.784 -0600	runwithnewresults		Login.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Experiment/dataDrivenHealthcare.suite/Results/Libraries/Login/20170703_140016.784/LogFile.txt)	15	on_index	Index.script
+2017-07-03 14:00:18.390 -0600	Log		code for Navigation for TestA 	6	on_test_a	Test/A.script
+2017-07-03 14:00:19.204 -0600	click	Test/A/Contacts	at (51, 600)	9	on_test_a	Test/A.script
+2017-07-03 14:00:19.253 -0600	imagefound	Test/A/Contacts/Contacts 01.png	found at (51, 600)	11	on_imagec	
+2017-07-03 14:00:19.255 -0600	Log		Image was found: Test/A/Contacts/Contacts 01.png	12	on_imagec	
+2017-07-03 14:00:21.364 -0600	imagefound	Test/A/Contacts/Contacts 02.png	Unable to Find Image Test/A/Contacts/Contacts 02.png	11	on_imagec	
+2017-07-03 14:00:21.366 -0600	LogWarning		Image was NOT found: Test/A/Contacts/Contacts 02.png	14	on_imagec	
+2017-07-03 14:00:21.494 -0600	imagefound	(TEXT:"Tap the buttons")	found at (95, 242)	11	on_textc	
+2017-07-03 14:00:21.495 -0600	Log		Text was found: Tap the buttons	12	on_textc	
+2017-07-03 14:00:21.675 -0600	click	Test/A/Favorites/Favorites 01	at (159, 601)	22	on_test_a	Test/A.script
+2017-07-03 14:00:25.081 -0600	imagefound	(TEXT:"plan")	Unable to Find Image (TEXT:"plan")	11	on_textc	
+2017-07-03 14:00:25.083 -0600	LogWarning		Text was NOT found: plan	14	on_textc	
+2017-07-03 14:00:25.104 -0600	Log		code for Navigation for TestB 	7	on_test_b	Test/B.script
+2017-07-03 14:00:25.269 -0600	click	Test/b/history	at (266, 600)	11	on_test_b	Test/B.script
+2017-07-03 14:00:30.413 -0600	imagefound	(TEXT:"Tap the buttons")	Unable to Find Image (TEXT:"Tap the buttons")	11	on_textc	
+2017-07-03 14:00:30.414 -0600	LogWarning		Text was NOT found: Tap the buttons	14	on_textc	
+2017-07-03 14:00:30.598 -0600	click	Test/b/downloads	at (376, 602)	22	on_test_b	Test/B.script
+2017-07-03 14:00:30.716 -0600	imagefound	(TEXT:"is a Lie")	found at (171, 211)	11	on_textc	
+2017-07-03 14:00:30.717 -0600	Log		Text was found: is a Lie	12	on_textc	
+2017-07-03 14:00:30.740 -0600	runwithnewresults		NewPatient.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Experiment/dataDrivenHealthcare.suite/Results/Test/NewPatient/20170703_140030.739/LogFile.txt)	20	on_index	Index.script
+2017-07-03 14:00:30.809 -0600	Log		code for Navigation for TestA 	6	on_test_a	Test/A.script
+2017-07-03 14:00:31.525 -0600	click	Test/A/Contacts	at (51, 600)	9	on_test_a	Test/A.script
+2017-07-03 14:00:31.567 -0600	imagefound	Test/A/Contacts/Contacts 01.png	found at (51, 600)	11	on_imagec	
+2017-07-03 14:00:31.568 -0600	Log		Image was found: Test/A/Contacts/Contacts 01.png	12	on_imagec	
+2017-07-03 14:00:33.675 -0600	imagefound	Test/A/Contacts/Contacts 02.png	Unable to Find Image Test/A/Contacts/Contacts 02.png	11	on_imagec	
+2017-07-03 14:00:33.677 -0600	LogWarning		Image was NOT found: Test/A/Contacts/Contacts 02.png	14	on_imagec	
+2017-07-03 14:00:33.801 -0600	imagefound	(TEXT:"Tap the buttons")	found at (95, 242)	11	on_textc	
+2017-07-03 14:00:33.802 -0600	Log		Text was found: Tap the buttons	12	on_textc	
+2017-07-03 14:00:33.968 -0600	click	Test/A/Favorites/Favorites 01	at (159, 601)	22	on_test_a	Test/A.script
+2017-07-03 14:00:36.215 -0600	Exception		Searching For Image: OCR Error: OCR operation was aborted	11	on_textc	
+2017-07-03 14:00:36.517 -0600	EndTestCase		(Duration:"20.037458", Errors:"1", Exceptions:"1", StartTime:"2017-07-03 14:00:16 -0600", Successes:"3", TestCase:"Index.script", Warnings:"4")
+2017-07-03 14:00:36.518 -0600	ABORTED		Execution Time 0:00:20 Index.script

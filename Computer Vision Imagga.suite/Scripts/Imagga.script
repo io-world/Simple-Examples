@@ -1,0 +1,19 @@
+﻿
+put suiteinfo().imagesFolder & "/header.png" into FullImagePath
+
+
+log FullImagePath
+
+
+put "acc_d5f7b792a3f7835" into api_key
+put "bea243448afd35d48ada582bd68f8a8d" into api_secret
+put "https://api.imagga.com/v2/uploads" into URL
+
+
+put JSONFormat (image: (open:(FullImagePath, "rb"))) into  requestbody
+put JSONFormat (api_key: api_key,api_secret:api_secret ) into  requestHeaders
+
+
+ImaggaAPI(httpMethod:"POST",url:URL,requestBodyFormat:"JSON (application/json)",requestBody:requestbody,requestHeaders:requestHeaders)
+
+log api()

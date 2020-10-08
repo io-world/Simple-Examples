@@ -1,0 +1,201 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Read2.script",
+      "timestamp" : "2019-05-23 10:04:33.426 -0600"
+    },
+    {
+      "handlerName" : "on_read2",
+      "message" : "at (28, 87)",
+      "identifier" : "imagelocation",
+      "image" : "Show",
+      "handlerLine" : 1,
+      "timestamp" : "2019-05-23 10:04:33.866 -0600",
+      "scriptName" : "Read2.script"
+    },
+    {
+      "handlerName" : "on_read2",
+      "message" : "at (28, 187)",
+      "timestamp" : "2019-05-23 10:04:33.878 -0600",
+      "identifier" : "moveto",
+      "scriptName" : "Read2.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_read2",
+      "message" : "at (28, 87)",
+      "identifier" : "imagelocation",
+      "image" : "Show",
+      "handlerLine" : 4,
+      "timestamp" : "2019-05-23 10:04:34.911 -0600",
+      "scriptName" : "Read2.script"
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(368,127,698,152)",
+      "timestamp" : "2019-05-23 10:04:35.035 -0600"
+    },
+    {
+      "handlerName" : "on_read2",
+      "message" : "System Architect",
+      "timestamp" : "2019-05-23 10:04:36.036 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Read2.script",
+      "handlerLine" : 13
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(368,154,698,179)",
+      "timestamp" : "2019-05-23 10:04:36.074 -0600"
+    },
+    {
+      "handlerName" : "on_read2",
+      "message" : "Accountant",
+      "timestamp" : "2019-05-23 10:04:37.078 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Read2.script",
+      "handlerLine" : 13
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(368,181,698,206)",
+      "timestamp" : "2019-05-23 10:04:37.129 -0600"
+    },
+    {
+      "handlerName" : "on_read2",
+      "message" : "Junior Technical Au",
+      "timestamp" : "2019-05-23 10:04:38.133 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Read2.script",
+      "handlerLine" : 13
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(368,208,698,233)",
+      "timestamp" : "2019-05-23 10:04:38.169 -0600"
+    },
+    {
+      "handlerName" : "on_read2",
+      "message" : "Senior Javascript D",
+      "timestamp" : "2019-05-23 10:04:39.170 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Read2.script",
+      "handlerLine" : 13
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(368,235,698,260)",
+      "timestamp" : "2019-05-23 10:04:39.204 -0600"
+    },
+    {
+      "handlerName" : "on_read2",
+      "message" : "Accountant",
+      "timestamp" : "2019-05-23 10:04:40.206 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Read2.script",
+      "handlerLine" : 13
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(368,262,698,287)",
+      "timestamp" : "2019-05-23 10:04:40.244 -0600"
+    },
+    {
+      "handlerName" : "on_read2",
+      "message" : "Integration Special!",
+      "timestamp" : "2019-05-23 10:04:41.249 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Read2.script",
+      "handlerLine" : 13
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(368,289,698,314)",
+      "timestamp" : "2019-05-23 10:04:41.279 -0600"
+    },
+    {
+      "handlerName" : "on_read2",
+      "message" : "Sales Assistant",
+      "timestamp" : "2019-05-23 10:04:42.283 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Read2.script",
+      "handlerLine" : 13
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(368,316,698,341)",
+      "timestamp" : "2019-05-23 10:04:42.318 -0600"
+    },
+    {
+      "handlerName" : "on_read2",
+      "message" : "Integration Special!",
+      "timestamp" : "2019-05-23 10:04:43.324 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Read2.script",
+      "handlerLine" : 13
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(368,343,698,368)",
+      "timestamp" : "2019-05-23 10:04:43.359 -0600"
+    },
+    {
+      "handlerName" : "on_read2",
+      "message" : "Javascript Develop*",
+      "timestamp" : "2019-05-23 10:04:44.361 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Read2.script",
+      "handlerLine" : 13
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(368,370,698,395)",
+      "timestamp" : "2019-05-23 10:04:44.412 -0600"
+    },
+    {
+      "handlerName" : "on_read2",
+      "message" : "Software Engineer",
+      "timestamp" : "2019-05-23 10:04:45.413 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Read2.script",
+      "handlerLine" : 13
+    },
+    {
+      "handlerName" : "on_read2",
+      "message" : "Could Not Find Positions Name",
+      "timestamp" : "2019-05-23 10:04:45.415 -0600",
+      "identifier" : "LogError",
+      "scriptName" : "Read2.script",
+      "handlerLine" : 17
+    },
+    {
+      "handlerName" : "on_read2",
+      "message" : "(368,370)",
+      "timestamp" : "2019-05-23 10:04:45.417 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Read2.script",
+      "handlerLine" : 26
+    },
+    {
+      "handlerName" : "on_read2",
+      "message" : "at (248, 380)",
+      "timestamp" : "2019-05-23 10:04:45.430 -0600",
+      "identifier" : "moveto",
+      "scriptName" : "Read2.script",
+      "handlerLine" : 27
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"12.217587\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2019-05-23 10:04:33 -0600\", Successes:\"0\", TestCase:\"Read2.script\", Warnings:\"0\")",
+      "timestamp" : "2019-05-23 10:04:45.645 -0600"
+    },
+    {
+      "message" : "Script Error Number of Errors logged: 1 -- Execution Time 0:00:12 Read2.script",
+      "timestamp" : "2019-05-23 10:04:46.112 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2019-05-23 10:04:33.427 -0600"
+}

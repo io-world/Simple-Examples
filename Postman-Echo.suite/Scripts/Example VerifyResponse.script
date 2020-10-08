@@ -1,0 +1,16 @@
+﻿Run "Example Post Json"
+
+
+put JSONValue(api().responseBody) into responseData
+
+log "Data from response body:" && responseData."data"
+
+
+
+if responseData."data"."hand" = "wave" then
+	LogSuccess "Hand was able to wave"
+else
+	LogWarning "We did not wave"
+end if
+
+assert that responseData."data"."hand" = "wave" with exception

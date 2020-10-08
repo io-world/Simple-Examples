@@ -1,0 +1,24 @@
+{
+  "entries" : [
+    {
+      "handlerName" : "on_states_report",
+      "message" : "Unable to locate script named: index",
+      "timestamp" : "2020-04-07 12:16:55.910 -0600",
+      "identifier" : "Exception",
+      "scriptName" : "States\/Report.script",
+      "handlerLine" : 1
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"2.485682\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-04-07 12:16:53 -0600\", Successes:\"12\", TestCase:\"Main01.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 12:16:56.446 -0600"
+    },
+    {
+      "message" : "Error Running Script Command scriptresults Error - Unable to locate script named: index -- Execution Time 0:00:02 Main01.script",
+      "timestamp" : "2020-04-07 12:16:56.524 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 12:16:55.912 -0600"
+}

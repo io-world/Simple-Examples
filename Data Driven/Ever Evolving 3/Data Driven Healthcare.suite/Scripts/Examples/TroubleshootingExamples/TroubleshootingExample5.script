@@ -1,0 +1,7 @@
+﻿
+
+
+set GD to a new "Modules/GlobalDefine"
+Run (GD).SetupCustomFile
+Run (GD).SetupEnvironment
+log (GD).GetPatient ("2")

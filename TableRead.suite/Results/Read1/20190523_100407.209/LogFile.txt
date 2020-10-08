@@ -1,0 +1,10 @@
+﻿2019-05-23 10:04:07.211 -0600	START		Running Read1.script
+2019-05-23 10:04:07.745 -0600	moveto	Show	at (109, 79)	1	on_read1	Read1.script
+2019-05-23 10:04:08.796 -0600	imagelocation	Show	at (28, 87)	2	on_read1	Read1.script
+2019-05-23 10:04:08.797 -0600	Log		(148,127,298,407)	5	on_read1	Read1.script
+2019-05-23 10:04:08.965 -0600	readtext		(148,127,298,407)
+2019-05-23 10:04:08.965 -0600	Log		Tiger Nixon\nJohn Winter\nAustin Cox\nCharles Kell\nAmanda Sa'\nBrielle Willis\nHerrod Chai\nRhona Davi<\nColleen Hur\nSonya Frost	6	on_read1	Read1.script
+2019-05-23 10:04:15.192 -0600	LogWarning		OCR Text read in search rect: Tiger Nixon\nJohn Winter\nAustin Cox\nCharles Kell\nAmanda Sa'\nBrielle Willis\nHerrod Chai\nRhona Davi<\nColleen Hur\nSonya Frost
+2019-05-23 10:04:18.385 -0600	Exception	(TEXT:"Garrett Winters")	No Text Found On Screen: "(TEXT:"Garrett Winters")"	9	on_read1	Read1.script
+2019-05-23 10:04:18.897 -0600	EndTestCase		(Duration:"11.683586", Errors:"1", Exceptions:"1", StartTime:"2019-05-23 10:04:07 -0600", Successes:"0", TestCase:"Read1.script", Warnings:"1")
+2019-05-23 10:04:18.900 -0600	ABORTED		Execution Time 0:00:11 Read1.script

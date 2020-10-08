@@ -1,0 +1,21 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Examples\/Examples\/Example4.script",
+      "timestamp" : "2020-04-07 12:56:47.420 -0600"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.510671\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-04-07 12:56:47 -0600\", Successes:\"0\", TestCase:\"Examples\/Examples\/Example4.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 12:56:47.932 -0600"
+    },
+    {
+      "message" : "STUnknownMessage ERROR: No Such Command: 'setupfiles' -- Execution Time 0:00:00 Examples\/Examples\/Example4.script",
+      "timestamp" : "2020-04-07 12:56:47.981 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 12:56:47.421 -0600"
+}

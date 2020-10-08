@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP)_script" package="Data Driven Healthcare.suite" timestamp="2018-10-18 23:01:20.027 -0600"
+ tests="1"  failures="1" errors="1" time="0.442895">
+  <properties>
+   <property name="RunDate" value="2018-10-18 23:01:20.027 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script" assertions="1" status="error"  time="0.440808">
+    <failure type="FAILURE" message="No Remote Connection typetext Error - Remote Connection Unavailable -- Execution Time 0:00:00 Examples/TroubleshootingExamples/TroubleshootingExample1 (No OOP).script" />
+    <error type="Exception" message="Remote Connection Unavailable" />
+  </testcase>
+ </testsuite>
+</testsuites>

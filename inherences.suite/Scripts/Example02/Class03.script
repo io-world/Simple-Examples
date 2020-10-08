@@ -1,0 +1,30 @@
+﻿
+
+Properties
+
+	propertyKey5:"value5",
+	propertyKey6:"value6"
+	
+end Properties
+
+on C3_Function1
+	
+	log "From Class03 Function 01"
+	
+end C3_Function1
+
+
+
+
+on C3_Function2
+	
+	log "From Class03 Function 02"
+	
+end C3_Function2
+
+
+on C3_Function3
+	
+	log "From Class03 Function 03"
+	
+end C3_Function3

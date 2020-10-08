@@ -1,0 +1,9 @@
+﻿2019-05-23 10:08:20.841 -0600	START		Running Read1.script
+2019-05-23 10:08:21.273 -0600	moveto	Show	at (109, 79)	1	on_read1	Read1.script
+2019-05-23 10:08:22.333 -0600	imagerectangle	Show	at (9,79,48,96)	2	on_read1	Read1.script
+2019-05-23 10:08:22.334 -0600	Log		(179,119,348,416)	5	on_read1	Read1.script
+2019-05-23 10:08:22.508 -0600	readtext		(179,119,348,416)
+2019-05-23 10:08:22.509 -0600	Log		Tiger Nixon\nJohn Winters\nAustin Cox\nCharles Kelly\nAmanda Satou\nBrielle Williamson\nHerrod Chandler\nRhona Davidson\nColleen Hurst\nSonya Frost	6	on_read1	Read1.script
+2019-05-23 10:08:23.984 -0600	moveto	(TEXT:"Rhona Davidson")	at (272, 328)	9	on_read1	Read1.script
+2019-05-23 10:08:24.234 -0600	EndTestCase		(Duration:"3.392126", Errors:"0", Exceptions:"0", StartTime:"2019-05-23 10:08:20 -0600", Successes:"1", TestCase:"Read1.script", Warnings:"0")
+2019-05-23 10:08:24.251 -0600	SUCCESS		Execution Time 0:00:03 Read1.script

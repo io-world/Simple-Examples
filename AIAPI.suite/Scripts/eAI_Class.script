@@ -1,4 +1,4 @@
-﻿put "https://eggplantai.testplant.com/auth" into URL
+﻿put "https://eggplantai.testplant.com/ai/auth" into URL
 put "randy.hesse@testplant.com" into username
 put DecodeText("0rxP&sS)b)")into password
 put "OpenEMR5-1v1" into ModelName
@@ -11,7 +11,7 @@ put "OpenEMR5-1v1" into ModelName
 
 eAI_API(httpMethod:"POST",url:URL & "?username="&username&"&password="&password)
 put  JSONValue(API().responseBody) into Output
-//log Output
+log Output
 
 
 //put Output.access_token

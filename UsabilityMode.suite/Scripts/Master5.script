@@ -5,17 +5,20 @@ Click "Web Bowser Icon"
 WaitFor 3.5, "Refresh Icon"
 Click Image:"Magnifying Glass"
 
-//--Turn On Usability Mode 
-set the usabilityMode to True
+
 
 TypeText "www.eggplant.io"
 TypeText returnKey
+
+//--Turn On Usability Mode 
+set the usabilityMode to True
+//--Turn on Usability Time between Forbidden Check
+set the usability_timeBetweenForbiddenCheck to 2.5 seconds
+
+
 WaitFor 5.0, "Eggplant Logo"
 WaitFor 3.5, "Refresh Icon"
 
 //--Turn Off Usability Mode 
 set the usabilityMode to False
-
-set the usability_timeBetweenForbiddenCheck to 2.5 seconds
-
 

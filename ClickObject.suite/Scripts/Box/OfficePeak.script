@@ -1,0 +1,17 @@
+﻿properties
+	returnParking:"RETURN -PARKING AUTO/MOTOR",
+	twoDay1ParkChild:"2-DAY 1-PARK 3-9",
+	threeDay1ParkChild:"3-DAY 1-PARK 3-9",
+	twoDay1ParkAdult:"2-DAY 1-PARK 10+",
+	threeDay1ParkAdult:"3-DAY 1-PARK 10+",
+	dl1DayRegChild:"DL 1-DAY PEAK 3-9",
+	dca1DayRegChild:"DCA 1-DAY PEAK 3-9",
+	oneDayParkHopperRegChild:"1D PARK HOPPER PEAK 3-9",
+	twoDayPhChild:"2-DAY PH 3-9",
+	threeDayPhChild:"3-DAY PH 3-9",
+	dl1DayRegAdult:"DL 1-DAY PEAK 10+",
+	dca1DayRegAdult:"DCA 1-DAY PEAK 10+",
+	oneDayParkHopperRegAdult:"1D PARK HOPPER PEAK 10+",
+	twoDayPhAdult:"2-DAY PH 10+",
+	threeDayPhAdult:"3-DAY PH 10+"
+end properties

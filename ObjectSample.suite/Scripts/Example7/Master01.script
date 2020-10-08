@@ -1,0 +1,18 @@
+﻿
+
+
+put new  "Example7/Hand" into E7H
+
+
+
+
+log E7H.hairColor
+
+
+
+log E7H.Information.Fruit
+
+log e7h.priority
+
+
+log E7H

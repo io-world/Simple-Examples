@@ -1,0 +1,30 @@
+﻿
+
+
+
+
+put ((3,3,3),(136,136,136),(255,255,255),(255,255,255),(255,255,255),(255,255,255),(219,219,219),(26,26,26),(79,79,79),(255,255,255),(255,255,255)) into MatrixPixel
+
+put (80,80,80) into CloseColor
+put 1 into tolerance
+
+put the number of items of MatrixPixel into PixelCount
+
+
+repeat PixelCount times
+	
+	put item repeatindex() of MatrixPixel into RGB
+	
+	repeat 3 times
+		put item repeatindex() of CloseColor is between (item repeatindex() of RGB +tolerance) and (item repeatindex() of RGB -tolerance) into toleranceList
+		if  toleranceList = True then
+			put True into PixelMatch
+		else
+			put False into PixelMatch
+			exit repeat
+		end if
+	end repeat
+	
+	log PixelMatch	
+end repeat
+

@@ -1,0 +1,20 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.script",
+      "timestamp" : "2020-04-07 10:05:14.994 -0600"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.499006\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-04-07 10:05:14 -0600\", Successes:\"0\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 10:05:15.496 -0600"
+    },
+    {
+      "identifier" : "FAILURE",
+      "message" : "STUnknownMessage ERROR: No Such Function: 'getusercount' -- Execution Time 0:00:00 Untitled.script",
+      "timestamp" : "2020-04-07 10:05:15.522 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 10:05:14.996 -0600"
+}

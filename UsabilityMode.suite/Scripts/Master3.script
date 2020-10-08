@@ -1,5 +1,6 @@
 ﻿//--Turn On Usability Mode 
 set the usabilityMode to True
+//-- Turn on Delay to check for Image Movement
 set the usability_delayToCheckForImageMovement to 3 seconds 
 
 

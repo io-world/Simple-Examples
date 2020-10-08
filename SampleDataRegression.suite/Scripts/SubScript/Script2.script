@@ -1,0 +1,15 @@
+﻿params  CSVData
+Log "Starting Script 2"
+// Do not touch the apove lines
+
+
+
+log CSVData."Medical Record Number"
+log CSVData."Social Security Number"
+
+
+
+
+(*  This is how you typetext
+typetext CSVData."Social Security Number"
+ *)

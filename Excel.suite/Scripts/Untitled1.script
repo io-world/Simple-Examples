@@ -1,0 +1,5 @@
+﻿
+set myScriptData to (type:"excel", file:ResourcePath("WebFormData2.xlsx"), name:"PatientList")
+
+
+log the rows of myScriptData

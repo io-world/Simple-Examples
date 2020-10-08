@@ -1,0 +1,48 @@
+﻿params (PictureRectangle)
+
+CaptureScreen (Name: ResourcePath() & "/InputPicture.png", Rectangle: PictureRectangle)
+
+
+put <<export GOPATH="/Users/randyhesse/go";>> into SetGoPath
+put <<cd /Users/randyhesse/Documents/Simple_Examples/facial_recognition.suite/Resources/ &&>> into SetDirectoryPath
+put <</usr/local/bin/go run>> into SetGoRunPath
+put <</Users/randyhesse/Documents/Simple_Examples/facial_recognition.suite/Resources/FaceR.go>> into SetExecutePath
+
+
+put "InputPicture.png" into InputName
+put "OutputPicture.png" into OutputName
+put <<">>&InputName&<<">> into InputFile
+put <<">>&OutputName&<<">> into outputFile
+
+
+put SetGoPath &&SetDirectoryPath && SetGoRunPath && SetExecutePath && InputFile && OutputFile into ShellCommand
+
+
+put shell(ShellCommand ,includeErrors:"YES") into ShellResults
+log ShellResults
+
+put the number of lines of ShellResults into LineCount
+
+repeat LineCount times
+	put line repeatindex() of ShellResults into ShellLine
+	if ShellLine contains "detected" then
+		split ShellLine by " "
+		put item 2 of  ShellLine into CaptureImageCoord
+		replace ")-(" with "," in CaptureImageCoord
+		put CaptureImageCoord as a list into CaptureImageCoord
+		try
+			put CaptureImageCoord +(item 1 of PictureRectangle,item 2 of PictureRectangle,item 1 of PictureRectangle,item 2 of PictureRectangle) into OffSet
+			CaptureScreen (Name: suiteinfo().imagesFolder & "/OutPut"&(repeatindex() -2), Rectangle: OffSet)
+			
+		catch
+			log "Could not Capture" && CaptureImageCoord
+		end try
+		
+	end if
+	
+end repeat
+
+
+
+Delete file ResourcePath() & "/InputPicture.png"
+move file ResourcePath() & "/OutputPicture.png" to suiteinfo().imagesFolder & "/"

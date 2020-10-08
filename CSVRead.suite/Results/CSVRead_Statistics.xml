@@ -1,13 +1,5 @@
 ﻿<?xml version="1.0"?>
 <statistics>
- <script name="index">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>10</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2016-11-01 22:00:46 -0400</FirstRun>
-  <LastRun>2016-11-02 08:15:35 -0400</LastRun>
-  <TotalTimeOnSuccess>3.757081</TotalTimeOnSuccess>
- </script>
  <script name="Read3">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>11</NumberOfRuns>
@@ -15,6 +7,14 @@
   <FirstRun>2016-11-01 22:35:42 -0400</FirstRun>
   <LastRun>2016-12-07 15:15:30 -0500</LastRun>
   <TotalTimeOnSuccess>10.298275</TotalTimeOnSuccess>
+ </script>
+ <script name="index">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>10</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-11-01 22:00:46 -0400</FirstRun>
+  <LastRun>2016-11-02 08:15:35 -0400</LastRun>
+  <TotalTimeOnSuccess>3.757081</TotalTimeOnSuccess>
  </script>
  <script name="Test">
   <LastStatus>Success</LastStatus>
@@ -55,6 +55,14 @@
   <FirstRun>2016-11-01 22:20:45 -0400</FirstRun>
   <LastRun>2016-11-01 22:23:37 -0400</LastRun>
   <TotalTimeOnSuccess>4.474194</TotalTimeOnSuccess>
+ </script>
+ <script name="Write3">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>22</NumberOfRuns>
+  <NumberOfFails>10</NumberOfFails>
+  <FirstRun>2020-03-11 21:33:00 -0500</FirstRun>
+  <LastRun>2020-03-11 23:16:50 -0500</LastRun>
+  <TotalTimeOnSuccess>12.389827</TotalTimeOnSuccess>
  </script>
  <script name="Write2">
   <LastStatus>Success</LastStatus>

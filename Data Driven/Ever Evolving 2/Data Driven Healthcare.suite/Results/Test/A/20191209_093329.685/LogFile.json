@@ -1,0 +1,63 @@
+{
+  "entries" : [
+    {
+      "handlerName" : "on_index",
+      "message" : "Running Test\/A.script",
+      "timestamp" : "2019-12-09 09:33:29.687 -0700",
+      "identifier" : "START",
+      "scriptName" : "Index.script",
+      "handlerLine" : 17
+    },
+    {
+      "handlerName" : "on_test_a",
+      "message" : "code for Navigation for TestA ",
+      "timestamp" : "2019-12-09 09:33:29.736 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Test\/A.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_test_a",
+      "message" : "at (53, 607)",
+      "identifier" : "click",
+      "image" : "Contacts\/Buttons\/Contacts",
+      "handlerLine" : 9,
+      "timestamp" : "2019-12-09 09:33:30.011 -0700",
+      "scriptName" : "Test\/A.script"
+    },
+    {
+      "handlerName" : "on_content",
+      "message" : "Unable to Find Image (TEXT:\"Contacts\/Buttons\/Contacts\/Blue\"). Text might be too low contrast to detect.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"Contacts\/Buttons\/Contacts\/Blue\")",
+      "handlerLine" : 24,
+      "timestamp" : "2019-12-09 09:33:31.389 -0700",
+      "scriptName" : ""
+    },
+    {
+      "handlerName" : "on_content",
+      "message" : "Text was NOT found: Contacts\/Buttons\/Contacts\/Blue",
+      "timestamp" : "2019-12-09 09:33:31.391 -0700",
+      "identifier" : "LogWarning",
+      "scriptName" : "",
+      "handlerLine" : 27
+    },
+    {
+      "handlerName" : "on_index",
+      "message" : "(Duration:\"2.400993\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2019-12-09 09:33:29 -0700\", Successes:\"0\", TestCase:\"Test\/A.script\", Warnings:\"1\")",
+      "timestamp" : "2019-12-09 09:33:32.089 -0700",
+      "identifier" : "EndTestCase",
+      "scriptName" : "Index.script",
+      "handlerLine" : 17
+    },
+    {
+      "handlerName" : "on_index",
+      "message" : "Execution Time 0:00:02 Test\/A.script",
+      "timestamp" : "2019-12-09 09:33:32.096 -0700",
+      "identifier" : "ABORTED",
+      "scriptName" : "Index.script",
+      "handlerLine" : 17
+    }
+  ],
+  "createdTimestamp" : "2019-12-09 09:33:29.687 -0700"
+}

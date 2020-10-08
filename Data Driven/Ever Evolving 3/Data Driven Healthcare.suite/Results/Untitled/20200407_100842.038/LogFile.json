@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.script",
+      "timestamp" : "2020-04-07 10:08:42.041 -0600"
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "{DateofBirth:\"6\/13\/06\", FirstName:\"Bruce\", Gender:\"Male\", LastName:\"Wayne\", MaritalStatus:\"Single\", MedicalRecordNumber:\"222222\", MiddleName:\"A\", Prefix:\"Mr\", SocialSecurityNumber:\"113-83-3798\"}",
+      "timestamp" : "2020-04-07 10:08:42.145 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "[\"Mr\",\"Mrs\",\"Ms\",\"Dr\",\"Dr\",\"Mr\",\"Dr\",\"Dr\",\"Mr\"]",
+      "timestamp" : "2020-04-07 10:08:42.149 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 11
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.394827\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-04-07 10:08:42 -0600\", Successes:\"1\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 10:08:42.437 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Untitled.script",
+      "timestamp" : "2020-04-07 10:08:42.462 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 10:08:42.042 -0600"
+}

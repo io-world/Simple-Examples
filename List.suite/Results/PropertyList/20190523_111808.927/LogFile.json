@@ -1,0 +1,44 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running PropertyList.script",
+      "timestamp" : "2019-05-23 11:18:08.929 -0600"
+    },
+    {
+      "handlerName" : "on_propertylist",
+      "message" : "1\/7\/1900",
+      "timestamp" : "2019-05-23 11:18:09.012 -0600",
+      "identifier" : "Log",
+      "scriptName" : "PropertyList.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_propertylist",
+      "message" : "john",
+      "timestamp" : "2019-05-23 11:18:09.013 -0600",
+      "identifier" : "Log",
+      "scriptName" : "PropertyList.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_propertylist",
+      "message" : "doe",
+      "timestamp" : "2019-05-23 11:18:09.015 -0600",
+      "identifier" : "Log",
+      "scriptName" : "PropertyList.script",
+      "handlerLine" : 8
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.396393\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-05-23 11:18:08 -0600\", Successes:\"1\", TestCase:\"PropertyList.script\", Warnings:\"0\")",
+      "timestamp" : "2019-05-23 11:18:09.327 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 PropertyList.script",
+      "timestamp" : "2019-05-23 11:18:09.342 -0600"
+    }
+  ],
+  "createdTimestamp" : "2019-05-23 11:18:08.930 -0600"
+}

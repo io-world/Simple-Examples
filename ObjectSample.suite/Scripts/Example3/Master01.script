@@ -1,0 +1,14 @@
+﻿
+put "HIM-VR-HIMChartCoding-AutoDoc Rule MODIFIED.JSON" into FileName
+
+put new  "Utilities/LoadFile" with (ResouceFile:FileName) into Patients
+
+
+
+repeat Patients.Count times
+	put Patients.Current (repeatindex()) into Patient
+	log "LastName:" && patient.LastName
+	log "Gender:" && patient.Gender
+	log "AdmitDate:" && patient.AdmitDate
+	log "------------------------------------------------------------"
+end repeat

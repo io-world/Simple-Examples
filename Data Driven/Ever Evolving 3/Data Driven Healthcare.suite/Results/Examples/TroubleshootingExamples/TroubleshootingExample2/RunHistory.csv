@@ -1,0 +1,5 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-07-03 14:03:00.530 -0600,"Success",0:00:00,0,0,0,"20170703_140300.530/LogFile.txt","","",1
+2017-07-03 14:03:16.615 -0600,"Success",0:00:00,0,0,0,"20170703_140316.615/LogFile.txt","","",1
+2017-07-03 14:03:56.753 -0600,"Success",0:00:00,0,0,0,"20170703_140356.753/LogFile.txt","","",1
+2017-07-03 14:04:08.280 -0600,"Success",0:00:00,0,0,0,"20170703_140408.280/LogFile.txt","","",1

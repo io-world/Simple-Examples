@@ -1,0 +1,16 @@
+﻿
+
+Click "Start"
+Click "Web Bowser Icon"
+WaitFor 3.5, "Refresh Icon"
+Click Image:"Magnifying Glass"
+
+
+TypeText "www.eggplant.io"
+TypeText returnKey
+WaitFor 5.0, "Eggplant Logo"
+WaitFor 3.5, "Refresh Icon"
+
+
+
+log suiteinfo()

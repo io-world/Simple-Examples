@@ -1,0 +1,53 @@
+{
+  "entries" : [
+    {
+      "handlerName" : "on_main01",
+      "message" : "Running Libraries\/Login.script",
+      "timestamp" : "2020-04-07 12:14:31.079 -0600",
+      "identifier" : "START",
+      "scriptName" : "Main01.script<SELECTION>",
+      "handlerLine" : 13
+    },
+    {
+      "handlerName" : "on_libraries_login",
+      "message" : "Nick",
+      "timestamp" : "2020-04-07 12:14:31.082 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Libraries\/Login.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_libraries_login",
+      "message" : "P@$$word",
+      "timestamp" : "2020-04-07 12:14:31.085 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Libraries\/Login.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_libraries_login",
+      "message" : "username",
+      "timestamp" : "2020-04-07 12:14:31.764 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "Libraries\/Login.script",
+      "handlerLine" : 13
+    },
+    {
+      "handlerName" : "on_main01",
+      "message" : "(Duration:\"1.474866\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-04-07 12:14:31 -0600\", Successes:\"1\", TestCase:\"Libraries\/Login.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 12:14:32.556 -0600",
+      "identifier" : "EndTestCase",
+      "scriptName" : "Main01.script<SELECTION>",
+      "handlerLine" : 13
+    },
+    {
+      "handlerName" : "on_main01",
+      "message" : "Execution Time 0:00:01 Libraries\/Login.script",
+      "timestamp" : "2020-04-07 12:14:32.586 -0600",
+      "identifier" : "SUCCESS",
+      "scriptName" : "Main01.script<SELECTION>",
+      "handlerLine" : 13
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 12:14:31.081 -0600"
+}

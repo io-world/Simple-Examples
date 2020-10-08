@@ -1,0 +1,13 @@
+﻿put new "PixelData"  with (ColorSquare:(567,359,590,370))into ITPairs
+
+
+
+put (239,32,0) into Defined_Color."Defined_Red"
+put (255,113,0) into Defined_Color."Defined_Orange"
+put (123,186,90) into Defined_Color."Defined_Green"
+put (255,207,0) into Defined_Color."Defined_Yellow"
+
+
+
+log  (ITPairs).PixelMatch (color:(Defined_Color),tolerance:0) 
+

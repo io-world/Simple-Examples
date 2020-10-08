@@ -1,0 +1,6 @@
+﻿properties 
+	name1:(text:"buttons",SearchRectangle:(59,186,231,280)),
+	name2: "real",
+	name3: "tap",
+	name4:(text:"Not a Real Phone",SearchRectangle:(5,186,231,280),TextDifference:2),
+end properties

@@ -1,0 +1,27 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Write3.script",
+      "timestamp" : "2020-03-11 21:36:12.365 -0500"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.743397\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-03-11 21:36:12 -0500\", Successes:\"0\", TestCase:\"Write3.script\", Warnings:\"0\")",
+      "timestamp" : "2020-03-11 21:36:13.110 -0500"
+    },
+    {
+      "message" : "SenseTalk Runtime Exception Invalid operands for addition: expected numbers, dates and\/or lists; got 'testing123' and '' -- Execution Time 0:00:00 Write3.script",
+      "timestamp" : "2020-03-11 21:36:13.635 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    },
+    {
+      "message" : "SenseTalk Runtime Exception Invalid operands for addition: expected numbers, dates and\/or lists; got 'testing123' and '' -- Execution Time 0:00:00 Write3.script",
+      "timestamp" : "2020-03-11 21:36:14.100 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error_Web.png"
+    }
+  ],
+  "createdTimestamp" : "2020-03-11 21:36:12.366 -0500"
+}

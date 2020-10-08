@@ -1,0 +1,20 @@
+﻿
+
+
+on Module1 CSVData
+	log "Starting Module1"
+	
+	
+	log CSVData."Created Date"
+	log CSVData."First Name"
+	
+end Module1
+
+
+on Module2 CSVData
+	log "Starting Module2"
+	
+	log CSVData."suffix"
+	log CSVData."First Name"
+	
+end Module2

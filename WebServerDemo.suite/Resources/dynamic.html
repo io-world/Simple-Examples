@@ -1,0 +1,12 @@
+<html>
+<body>
+<h1>Welcome To The SenseTalk Web</h1>
+<h3>Today is <?st the long date ?></h3>
+<h2>World Capitals</h2>
+<?st
+put csvValue(file (ResourcePath() & "/capitals.txt"), delimiter:"-", columnNames:("Name","Capital"), trimValues:Yes) into countries
+repeat with each country in countries ?>
+<p>The capital of <?st country's name ?> is <?st country's capital ?>
+<?st end repeat ?>
+</body>
+</html>

@@ -1,0 +1,20 @@
+﻿//http://theremin.music.uiowa.edu/MISpiano.html
+
+
+put ("C4 Natural","D4 Natural","E4 Natural","F4 Natural","G4 Natural","A4 Natural","B4 Natural") into CScale
+
+
+
+repeat 10 times
+	
+	
+	put any item of CScale into TheNote
+	put ResourcePath() & "/Notes/"&TheNote&".aiff" into KeyNotes
+	put "afplay"&& <<">>&KeyNotes &<<">>&& "-t 1" into ShellComand
+	log ShellComand
+	shell (ShellComand )
+	
+	
+	
+	
+end repeat

@@ -1,0 +1,12 @@
+﻿
+
+put <<go run ">>&ResourcePath("goMain.go")&<<">> into ShellCommand
+put <<">> &ResourcePath("out.txt")&<<">> into ShellOut
+
+
+
+put ShellCommand &&">>"&& ShellOut into CompleteShellCommand
+
+log CompleteShellCommand
+
+Shell(CompleteShellCommand)

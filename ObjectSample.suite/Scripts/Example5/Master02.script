@@ -1,0 +1,19 @@
+﻿
+
+put new  "Utilities/MoreHand"  into MH
+
+
+(MH).Baz
+
+log "---------------------------------"
+
+(MH).Spec ("foo")
+
+
+
+//-----------------------------------------------------------
+
+put new  "Utilities/MoreHand" with (new "Utilities/MoreHand2")  into MH
+
+
+(MH).Bar2

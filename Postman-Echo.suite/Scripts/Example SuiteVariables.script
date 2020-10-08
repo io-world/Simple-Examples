@@ -1,0 +1,21 @@
+﻿//Based onRun "Example Post Json"
+
+
+
+
+put JSONFormat({"Foot":"shake"}) into JsonData
+
+
+
+set the suitevariables to (JSONData:JsonData)
+set the suitevariables to (baseURL:"https://postman-echo.com/post")
+Run "Example UsingSuiteVaribles"
+
+
+
+
+
+put JSONValue(api().responseBody) into responseData
+
+log "Data from response body:" && responseData."data"
+

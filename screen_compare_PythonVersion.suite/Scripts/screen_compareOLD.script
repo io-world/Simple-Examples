@@ -1,0 +1,32 @@
+﻿params InputImage1, InputImage2,  OutputImage , OutputText
+
+(*
+
+delete file "/Users/randyhesse/Desktop/screen_compare.suite/Images/newimage.png"
+delete file "/Users/randyhesse/Desktop/screen_compare.suite/Resources/screen_compare_result.txt"
+
+*)
+
+//---------------------------------------------------------
+
+put suiteinfo().imagesFolder into LocalImagePath
+put ResourcePath() into LocalResoucePath
+
+
+
+put LocalResoucePath&"/screen_compare/screen_compare" into EXEPath
+put LocalImagePath&"/ScreenshotA.png" into ImagePath1
+put LocalImagePath&"/ScreenshotB.png" into ImagePath2
+put LocalImagePath&"/newimage.png" into OutputImagePath
+put LocalResoucePath&"/screen_compare_result.txt" into OutputTextPath
+
+
+
+//-----------------------------------------------------------------------------------------------------------------------
+
+put EXEPath &&"--input"&&ImagePath1&&"--input"&&ImagePath2&&"--output"&&OutputImagePath&&">"&&OutputTextPath into ShellRun
+log "Running Shell Command:" && ShellRun
+shell (ShellRun)
+
+
+

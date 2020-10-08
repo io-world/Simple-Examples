@@ -1,0 +1,25 @@
+﻿
+
+///----Load the Data
+
+
+put CSVValue(file ResourcePath("WebFormData6.csv")) into CSVData
+put the number of items of CSVData into MaxCount
+
+repeat MaxCount times
+	
+	
+	put item repeatindex() of CSVData into Single_CSVData
+	
+	log "Loading Data" & Single_CSVData
+	log "--------------------"
+	Run "SubScript/Script1" Single_CSVData
+	Run "SubScript/Script2" Single_CSVData
+	Run "SubScript/Script3" Single_CSVData
+	
+	log "**********************************************"
+end repeat
+
+
+
+Run "SubScript/Script4" CSVData

@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.script",
+      "timestamp" : "2020-04-07 09:59:12.148 -0600"
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "4",
+      "timestamp" : "2020-04-07 09:59:12.220 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 6
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.399467\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-04-07 09:59:12 -0600\", Successes:\"0\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 09:59:12.549 -0600"
+    },
+    {
+      "identifier" : "FAILURE",
+      "message" : "BadValue Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got 'ALL'. -- Execution Time 0:00:00 Untitled.script",
+      "timestamp" : "2020-04-07 09:59:12.574 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 09:59:12.149 -0600"
+}

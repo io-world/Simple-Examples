@@ -1,0 +1,89 @@
+{
+  "entries" : [
+    {
+      "handlerName" : "on_index",
+      "message" : "Running Test\/B.script",
+      "timestamp" : "2019-12-09 09:32:13.076 -0700",
+      "identifier" : "START",
+      "scriptName" : "Index.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_test_b",
+      "message" : "code for Navigation for TestB ",
+      "timestamp" : "2019-12-09 09:32:13.096 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Test\/B.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_test_b",
+      "message" : "at (265, 608)",
+      "identifier" : "click",
+      "image" : "History\/Buttons\/History",
+      "handlerLine" : 11,
+      "timestamp" : "2019-12-09 09:32:13.216 -0700",
+      "scriptName" : "Test\/B.script"
+    },
+    {
+      "handlerName" : "on_content",
+      "message" : "Unable to Find Image (TEXT:\"Tap the buttons\"). Text might be too low contrast to detect.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"Tap the buttons\")",
+      "handlerLine" : 24,
+      "timestamp" : "2019-12-09 09:32:18.475 -0700",
+      "scriptName" : ""
+    },
+    {
+      "handlerName" : "on_content",
+      "message" : "Text was NOT found: Tap the buttons",
+      "timestamp" : "2019-12-09 09:32:18.476 -0700",
+      "identifier" : "LogWarning",
+      "scriptName" : "",
+      "handlerLine" : 27
+    },
+    {
+      "handlerName" : "on_test_b",
+      "message" : "at (371, 608)",
+      "identifier" : "click",
+      "image" : "Downloads\/Buttons\/Downloads",
+      "handlerLine" : 22,
+      "timestamp" : "2019-12-09 09:32:18.617 -0700",
+      "scriptName" : "Test\/B.script"
+    },
+    {
+      "handlerName" : "on_content",
+      "message" : "found at (171, 211)",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"is a Lie\")",
+      "handlerLine" : 24,
+      "timestamp" : "2019-12-09 09:32:18.784 -0700",
+      "scriptName" : ""
+    },
+    {
+      "handlerName" : "on_content",
+      "message" : "Text was found: is a Lie",
+      "timestamp" : "2019-12-09 09:32:18.785 -0700",
+      "identifier" : "Log",
+      "scriptName" : "",
+      "handlerLine" : 25
+    },
+    {
+      "handlerName" : "on_index",
+      "message" : "(Duration:\"5.750278\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-12-09 09:32:13 -0700\", Successes:\"1\", TestCase:\"Test\/B.script\", Warnings:\"1\")",
+      "timestamp" : "2019-12-09 09:32:18.828 -0700",
+      "identifier" : "EndTestCase",
+      "scriptName" : "Index.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_index",
+      "message" : "Execution Time 0:00:05 Test\/B.script",
+      "timestamp" : "2019-12-09 09:32:18.866 -0700",
+      "identifier" : "SUCCESS",
+      "scriptName" : "Index.script",
+      "handlerLine" : 18
+    }
+  ],
+  "createdTimestamp" : "2019-12-09 09:32:13.077 -0700"
+}

@@ -1,0 +1,19 @@
+﻿
+
+//Connect "Windows 10 VMware"
+//Connect "Randy AWS SUT"
+
+
+if  ConnectionInfo().name = "Windows 10 VMware" then
+	put 1 into Image_Diff
+else if ConnectionInfo().name = "Randy AWS SUT" then
+	put 2 into Image_Diff
+end if
+
+
+insert myHelper into the finalSuites
+
+
+
+click "Chrome/Chrome"&Image_Diff
+

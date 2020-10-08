@@ -1,0 +1,43 @@
+﻿##___ Hey Martin
+## This is the Deault Master script , this can be imported from the right hand Book Icon
+
+
+
+
+
+// Master Script
+
+// Set up a list of the scripts to run
+Set myScripts to ("Script1","Script2", "Script3","Script4", "ScriptSubset/Script6")
+// Provide an email address to send results to
+
+// Create empty lists to store results
+set successes to ()
+set failures to ()
+
+// Run each script in the list, recording results
+Repeat with each item currentScript of myScripts
+	RunWithNewResults currentScript
+	Set currentResult to the result
+	
+	If currentResult's status is "success"
+		Insert currentScript after successes
+	else if currentResult's status is "Failure"
+		Insert currentScript after failures
+	End If
+End Repeat
+
+// Log Results
+Log "Successes:" && successes
+if failures is empty
+	Log "Failures:" && "None"
+	set subject to "Tests Passed"
+else
+	LogError "Failures:" && failures
+	set subject to "Tests Failed"
+end if
+
+// Construct email body
+Set body to "Test results from " & the date & comma & the time & colon & return & return & "Successes: " && successes & return & "Failures: "& failures
+
+// Email results

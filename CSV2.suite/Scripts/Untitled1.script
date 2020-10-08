@@ -1,0 +1,12 @@
+﻿
+
+set TheData to (type:"CSV", file:ResourcePath("blah.csv"), name:"Results",writable: "Yes")
+put "testing123" into newMember.Prefix
+add record newMember to TheData
+
+
+put empty into newMember
+
+
+put record of theData where prefix is "testing123" into existingMember
+put "testing456" into existingMember.Address

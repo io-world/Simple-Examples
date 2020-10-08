@@ -1,0 +1,4 @@
+﻿2017-11-01 19:12:01.724 -0600	START		Running Notes.script
+2017-11-01 19:12:01.839 -0600	Log		Patient	36	on_notes	Notes.script
+2017-11-01 19:12:02.146 -0600	EndTestCase		(Duration:"0.421006", Errors:"0", Exceptions:"0", StartTime:"2017-11-01 19:12:01 -0600", Successes:"1", TestCase:"Notes.script", Warnings:"0")
+2017-11-01 19:12:02.180 -0600	SUCCESS		Execution Time 0:00:00 Notes.script

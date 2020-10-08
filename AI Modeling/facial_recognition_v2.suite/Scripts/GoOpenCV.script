@@ -1,0 +1,61 @@
+﻿on classifier (PreTrainedModel)
+	put PreTrainedModel into my PreTrainedModel
+end classifier
+
+function LocaterRectangle (PictureRectangle...)
+	
+	
+	
+	CaptureScreen (Name: ResourcePath() & "/InputPicture.png", Rectangle: PictureRectangle)
+	
+	put <<export GOPATH="/Users/randyhesse/go";>> into SetGoPath
+	put <<cd ">> & ResourcePath() &"/"&<<"&&>> into SetDirectoryPath
+	put <</usr/local/bin/go run>> into SetGoRunPath
+	put <<">>&ResourcePath() &<</FaceR.go">> into SetExecutePath
+	put <<">>&my PreTrainedModel&<<">> into classifierFile
+	put "InputPicture.png" into InputName
+	put "OutputPicture.png" into OutputName
+	put <<">>&InputName&<<">> into InputFile
+	put <<">>&OutputName&<<">> into outputFile
+	
+	put SetGoPath &&SetDirectoryPath && SetGoRunPath && SetExecutePath &&classifierFile && InputFile && OutputFile into BuildShellCommand
+	
+	log BuildShellCommand
+	PauseScript
+	
+	//--------------------------------
+	
+	put shell(BuildShellCommand ,includeErrors:"YES") into ShellResults
+	//log ShellResults
+	put (the number of lines of ShellResults)-2 into LineCount
+	
+	repeat LineCount times
+		put line repeatindex()+2 of ShellResults into ShellLine
+		split ShellLine by " "
+		put item 2 of  ShellLine into CaptureImageCoord
+		replace ")-(" with "," in CaptureImageCoord
+		put CaptureImageCoord as a list into CaptureImageCoord
+		put CaptureImageCoord +(item 1 of PictureRectangle,item 2 of PictureRectangle,item 1 of PictureRectangle,item 2 of PictureRectangle) into OffSet
+		
+		insert OffSet nested into FoundClassifedRectangles
+		
+	end repeat
+	
+	//--------Clean UP
+	
+	Delete file ResourcePath() & "/InputPicture.png"
+	
+	try
+		move file ResourcePath() & "/OutputPicture.png" to suiteinfo().imagesFolder & "/"
+		
+	catch
+		delete file  suiteinfo().imagesFolder & "/OutputPicture.png"
+		move file ResourcePath() & "/OutputPicture.png" to suiteinfo().imagesFolder & "/"
+	end try
+	
+	if FoundClassifedRectangles = "FoundClassifedRectangles" then
+		put 0 into FoundClassifedRectangles
+	end if
+	
+	return FoundClassifedRectangles
+end LocaterRectangle

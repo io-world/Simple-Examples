@@ -1,0 +1,15 @@
+﻿
+
+
+
+
+put "spanish" into langg
+put "Good Evening" into phrase
+
+Click "Text"
+TypeText controlKey & "a"
+TypeText deleteKey
+TypeText phrase
+Click item 2 of EveryImageLocation("Arrow")
+click text:Langg,SearchRectangle:("LangTL","LangBR")
+log ReadText(("TL","BR"),language:langg)

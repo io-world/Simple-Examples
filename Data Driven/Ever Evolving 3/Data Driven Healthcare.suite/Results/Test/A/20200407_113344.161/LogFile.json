@@ -1,0 +1,63 @@
+{
+  "entries" : [
+    {
+      "handlerName" : "on_index",
+      "message" : "Running Test\/A.script",
+      "timestamp" : "2020-04-07 11:33:44.163 -0600",
+      "identifier" : "START",
+      "scriptName" : "Index.script",
+      "handlerLine" : 17
+    },
+    {
+      "handlerName" : "on_test_a",
+      "message" : "code for Navigation for TestA ",
+      "timestamp" : "2020-04-07 11:33:44.166 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Test\/A.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_test_a",
+      "message" : "at (53, 607)",
+      "identifier" : "click",
+      "image" : "Contacts\/Buttons\/Contacts",
+      "handlerLine" : 9,
+      "timestamp" : "2020-04-07 11:33:44.432 -0600",
+      "scriptName" : "Test\/A.script"
+    },
+    {
+      "handlerName" : "on_content",
+      "message" : "Unable to Find Image (TEXT:\"Contacts\/Buttons\/Contacts\/Blue\"). Text might be too low contrast to detect.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"Contacts\/Buttons\/Contacts\/Blue\")",
+      "handlerLine" : 24,
+      "timestamp" : "2020-04-07 11:33:45.899 -0600",
+      "scriptName" : ""
+    },
+    {
+      "handlerName" : "on_content",
+      "message" : "Text was NOT found: Contacts\/Buttons\/Contacts\/Blue",
+      "timestamp" : "2020-04-07 11:33:45.900 -0600",
+      "identifier" : "LogWarning",
+      "scriptName" : "",
+      "handlerLine" : 27
+    },
+    {
+      "handlerName" : "on_index",
+      "message" : "(Duration:\"3.128023\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-04-07 11:33:44 -0600\", Successes:\"0\", TestCase:\"Test\/A.script\", Warnings:\"1\")",
+      "timestamp" : "2020-04-07 11:33:47.293 -0600",
+      "identifier" : "EndTestCase",
+      "scriptName" : "Index.script",
+      "handlerLine" : 17
+    },
+    {
+      "handlerName" : "on_index",
+      "message" : "Execution Time 0:00:03 Test\/A.script",
+      "timestamp" : "2020-04-07 11:33:47.296 -0600",
+      "identifier" : "ABORTED",
+      "scriptName" : "Index.script",
+      "handlerLine" : 17
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 11:33:44.164 -0600"
+}

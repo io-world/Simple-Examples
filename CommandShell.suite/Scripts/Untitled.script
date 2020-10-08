@@ -1,0 +1,8 @@
+﻿
+
+
+
+put "ping 127.0.0.1" into CommandExecute
+shell "c:\windows\system32\cmd.exe",<< /c ">>&CommandExecute&<<" > C:/EggplantSecureOutput/RandyTest.txt>>
+wait 5
+log file ResourcePath("output.txt")

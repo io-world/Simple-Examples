@@ -1,0 +1,1 @@
+﻿2019-05-10 14:03:53.126 -0600	START		Running Master.script

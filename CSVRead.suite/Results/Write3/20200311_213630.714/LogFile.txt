@@ -1,0 +1,4 @@
+﻿2020-03-11 21:36:30.717 -0500	START		Running Write3.script
+2020-03-11 21:36:31.441 -0500	EndTestCase		(Duration:"0.722482", Errors:"1", Exceptions:"0", StartTime:"2020-03-11 21:36:30 -0500", Successes:"0", TestCase:"Write3.script", Warnings:"0")
+2020-03-11 21:36:31.661 -0500	FAILURE	Screen_Error.png	InvalidCommandOrRange Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters) -- Execution Time 0:00:00 Write3.script
+2020-03-11 21:36:32.127 -0500	FAILURE	Screen_Error_Web.png	InvalidCommandOrRange Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters) -- Execution Time 0:00:00 Write3.script

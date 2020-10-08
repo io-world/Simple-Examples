@@ -1,0 +1,20 @@
+# This script is designed to execute against a mobile device in your local environment or the TestPlant Automation Cloud.
+
+# Use the connection instructions provided with your Trial license request to connect one of those devices.
+
+# This script calls a series of eggplant Functional scripts to open Amazon search page, click on a some page elements, verify that the elements were found and then close the browser
+
+#  This feature is specific to a mobile device  
+
+EnvSetup 
+OpenAmazon
+SearchItem "harry potter" 
+# Adjust value in the quotes to see how you can do a search for different items, without changing the code in the script.
+HomeScreen
+HomeButton
+
+
+
+
+
+

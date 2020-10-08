@@ -1,0 +1,110 @@
+﻿
+
+on initialize
+log "Finding all the color"
+	//put (928,277,967,291) into ColorSquare
+	put my ColorSquare into ColorSquare
+	
+	put (item 3 of ColorSquare - item 1 of ColorSquare )+1 into ChangeX
+	put (item 4 of ColorSquare - item 2 of ColorSquare)+1  into ChangeY
+	put item (1,2) of ColorSquare into Point1
+	
+	repeat ChangeY times
+		repeat ChangeX times
+			put ColorAtLocation(Point1)  into RGB
+			insert (item 1 of RGB, item 2 of RGB, item 3 of RGB) nested after RGBMatrix
+			
+			
+			insert item 1 of RGB into AllRed
+			insert item 2 of RGB into AllGreen
+			insert item 3 of RGB into AllBlue
+			
+			
+			put Point1 +(0,1) into Point1
+		end repeat
+		put (item 1 of point1, item 2 of ColorSquare) into point1
+		put Point1 +(1,0) into Point1
+		
+		
+	end repeat
+	put RGBMatrix  into my MatrixPixel
+	put (AllRed,AllGreen,AllBlue) into my MatrixRGB
+	
+	log "calculating..."
+end initialize
+
+
+
+function AverageColor (Type)
+
+	put my MatrixRGB into MatrixRGB
+	insert average(item 1 of MatrixRGB) rounded -1 decimal places into averageColor
+	insert average(item 2 of MatrixRGB) rounded -1 decimal places into averageColor
+	insert average(item 3 of MatrixRGB) rounded -1 decimal places into averageColor
+	
+	if uppercase(Type) = "DEC" then
+		
+		put averageColor into averageColorReturn
+		
+	else if uppercase(Type) = "HEX" then
+		repeat 3 times
+			put  format("%x", item repeatindex() of averageColor) after last character in averageColorReturn
+			put uppercase(averageColorReturn) into averageColorReturn
+		end repeat
+	else
+		logwarning "NO valid Type: DEC or HEX"
+	end if
+	
+	return averageColorReturn
+end AverageColor
+
+
+
+
+function PixelMatch PixelMatchInfo
+	put my MatrixPixel into MatrixPixel
+	put PixelMatchInfo.color into CloseColor
+	put PixelMatchInfo.tolerance into tolerance
+	put the number of items of MatrixPixel into PixelCount
+	
+	log "Pixel Count is:" && PixelCount
+	repeat PixelCount times
+		
+		put item repeatindex() of MatrixPixel into RGB
+		
+		repeat 3 times
+			put item repeatindex() of CloseColor is between (item repeatindex() of RGB +tolerance) and (item repeatindex() of RGB -tolerance) into toleranceList
+			if  toleranceList = True then
+				put True into PixelMatch
+			else
+				put False into PixelMatch
+				exit repeat
+			end if
+		end repeat
+		
+		if (PixelMatch = true)	then
+			add 1 to countTrue
+		end if 
+		
+		
+		if the counter is a multiple of 8000 then
+			log "Still working on it..."
+		end if
+		
+		
+		
+	end repeat
+	
+	if (countTrue = "countTrue")	then
+		put 0 into countTrue
+	end if 
+	
+	
+	return countTrue
+end PixelMatch
+
+
+
+
+
+

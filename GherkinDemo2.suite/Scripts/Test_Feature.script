@@ -1,0 +1,23 @@
+﻿
+
+
+to handle I_navigate_to_Eggplant_STR environment
+
+	log "----In the Test_feature Script---"
+	
+	if environment = "QA" then
+		run "QA_Script"
+	else if environment = "UAT" then
+		run "UAT_Script"
+	else
+		logwarning "No environment Configured"
+	end if
+	
+	
+end I_navigate_to_Eggplant_STR
+
+
+
+to I_close_website 
+	log " From I close website"
+end I_close_website

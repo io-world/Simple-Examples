@@ -1,0 +1,8 @@
+﻿2019-08-13 13:36:38.256 -0600	START		Running index.script
+2019-08-13 13:36:40.451 -0600	imagefound	Google	Unable to Find Image Google	1	on_index	index.script
+2019-08-13 13:36:40.463 -0600	Log		Image is not on the Screen	4	on_index	index.script
+2019-08-13 13:36:40.464 -0600	Log		255,255,255	10	on_index	index.script
+2019-08-13 13:36:41.696 -0600	readtext		(192,122,390,395)
+2019-08-13 13:36:41.739 -0600	capturescreen	NewImageName.png	(100,100,700,400)	16	on_index	index.script
+2019-08-13 13:36:42.412 -0600	EndTestCase		(Duration:"4.153519", Errors:"0", Exceptions:"0", StartTime:"2019-08-13 13:36:38 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2019-08-13 13:36:42.428 -0600	SUCCESS		Execution Time 0:00:04 index.script

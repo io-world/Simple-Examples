@@ -1,0 +1,11 @@
+﻿2020-04-07 12:16:54.861 -0600	START		Running Test/NewPatient.script	18	on_main01	Main01.script
+2020-04-07 12:16:54.888 -0600	Log		444444	8	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:54.890 -0600	Log		Ms	9	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:54.892 -0600	Log		Wonder	10	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:54.895 -0600	Log		Woman	11	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:54.898 -0600	Log		4/24/03	12	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:54.900 -0600	Log		580-71-8520	13	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:54.903 -0600	Log		Female	14	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:54.905 -0600	Log		Divorced	15	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:54.908 -0600	EndTestCase		(Duration:"0.044439", Errors:"0", Exceptions:"0", StartTime:"2020-04-07 12:16:54 -0600", Successes:"1", TestCase:"Test/NewPatient.script", Warnings:"0")	18	on_main01	Main01.script
+2020-04-07 12:16:54.950 -0600	SUCCESS		Execution Time 0:00:00 Test/NewPatient.script	18	on_main01	Main01.script

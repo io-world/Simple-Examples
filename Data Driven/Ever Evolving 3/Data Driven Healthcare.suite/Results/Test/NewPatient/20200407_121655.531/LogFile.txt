@@ -1,0 +1,11 @@
+﻿2020-04-07 12:16:55.534 -0600	START		Running Test/NewPatient.script	18	on_main01	Main01.script
+2020-04-07 12:16:55.569 -0600	Log		999999	8	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:55.571 -0600	Log		Dr	9	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:55.572 -0600	Log		Mickey	10	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:55.574 -0600	Log		Mouse	11	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:55.575 -0600	Log		6/14/00	12	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:55.578 -0600	Log		984-56-3166	13	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:55.580 -0600	Log		Male	14	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:55.582 -0600	Log		Single	15	on_test_newpatient	Test/NewPatient.script
+2020-04-07 12:16:55.585 -0600	EndTestCase		(Duration:"0.050126", Errors:"0", Exceptions:"0", StartTime:"2020-04-07 12:16:55 -0600", Successes:"1", TestCase:"Test/NewPatient.script", Warnings:"0")	18	on_main01	Main01.script
+2020-04-07 12:16:55.646 -0600	SUCCESS		Execution Time 0:00:00 Test/NewPatient.script	18	on_main01	Main01.script

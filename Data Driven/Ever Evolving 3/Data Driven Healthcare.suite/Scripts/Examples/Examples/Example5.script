@@ -1,0 +1,17 @@
+﻿----------------DO Not Touch--------------------------------------
+set GD to a new "Modules/GlobalDefine"
+Run (GD).SetupCustomFile
+-------------------------------------------------------------------------
+
+
+repeat (GD).PatientCount times
+	
+	RunWithNewResults "Test/NewPatient" , (GD).GetPatient (2)
+	
+end repeat
+
+
+
+
+
+

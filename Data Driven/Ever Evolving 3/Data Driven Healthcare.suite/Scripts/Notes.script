@@ -1,0 +1,31 @@
+﻿(* 
+
+
+
+
+
+Examples Folders: examples and troubleshooting techniques
+_______________________________________________________________________
+Libraries Folder: individual workflow modules
+_______________________________________________________________________
+Modules Folder: 
+          GlobalDefine Class: Defines Files Locations, Patient Information
+          Verify Class: Check if Text or Images Exist.
+_______________________________________________________________________
+States:
+           Zero: Workflow related to setting the SUT into a Zero State (Known State)
+           Report: Workflow to send custom Reporting Information
+_______________________________________________________________________
+Test: Workflow of specific tests to perform.
+______________________________________________________________________
+INDEX: This is the most important File, This is where you Run the Script from.
+
+
+
+
+
+https://www.tutorialspoint.com/python/python_gui_programming.htm
+
+ *)
+
+

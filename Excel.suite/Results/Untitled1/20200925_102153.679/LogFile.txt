@@ -1,0 +1,4 @@
+﻿2020-09-25 10:21:53.686 -0600	START		Running Untitled1.script
+2020-09-25 10:21:53.872 -0600	Log		file,name,type\n/Users/randyhesse/Documents/Simple_Examples/Excel.suite/Resources/WebFormData2.xlsx,PatientList,excel\n	4	on_untitled1	Untitled1.script
+2020-09-25 10:21:55.471 -0600	EndTestCase		(Duration:"1.781365", Errors:"0", Exceptions:"0", StartTime:"2020-09-25 10:21:53 -0600", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2020-09-25 10:21:55.511 -0600	SUCCESS		Execution Time 0:00:01 Untitled1.script

@@ -1,0 +1,12 @@
+﻿
+
+on Foo
+
+	log "From Script 7 Foo to Run Script 1 and 2"
+	
+	run "Script1"
+	
+	
+	RunWithNewResults "Script2"
+	
+end Foo

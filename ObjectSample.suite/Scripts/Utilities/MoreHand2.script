@@ -1,0 +1,22 @@
+﻿
+
+
+
+on foo
+	log "From Foo MoreHand2"
+end foo
+
+
+on bar
+	log "From Bar MoreHand2"
+end bar
+
+on bar2
+	log "From Bar2 MoreHand2"
+end bar2
+
+on OtherReturn
+
+log (my Other) && "Append From MoreHand2"
+
+end OtherReturn

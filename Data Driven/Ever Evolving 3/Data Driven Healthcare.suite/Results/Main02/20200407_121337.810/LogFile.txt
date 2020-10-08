@@ -1,0 +1,7 @@
+﻿2020-04-07 12:13:37.812 -0600	START		Running Main02.script
+2020-04-07 12:13:38.022 -0600	Log		["Date of Birth","First Name","Gender","Last Name","Marital Status","Medical Record Number","Middle Name","Prefix","Social Security Number"]	16	on_main02	Main02.script
+2020-04-07 12:13:38.028 -0600	Log		["A","B","C","D","E","F","G","H","I","J"]	17	on_main02	Main02.script
+2020-04-07 12:13:38.055 -0600	Log		4	22	on_main02	Main02.script
+2020-04-07 12:13:38.061 -0600	Log		{Password:"P@$$word", Username:"Nick"}	24	on_main02	Main02.script
+2020-04-07 12:13:38.495 -0600	EndTestCase		(Duration:"0.681682", Errors:"0", Exceptions:"0", StartTime:"2020-04-07 12:13:37 -0600", Successes:"1", TestCase:"Main02.script", Warnings:"0")
+2020-04-07 12:13:38.516 -0600	SUCCESS		Execution Time 0:00:00 Main02.script

@@ -1,0 +1,15 @@
+{
+  "entries" : [
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"118.77976\", Errors:\"2\", Exceptions:\"0\", StartTime:\"2019-12-09 09:31:33 -0700\", Successes:\"26\", TestCase:\"Index.script\", Warnings:\"33\")",
+      "timestamp" : "2019-12-09 09:33:32.418 -0700"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:01:58 Index.script",
+      "timestamp" : "2019-12-09 09:33:32.425 -0700"
+    }
+  ],
+  "createdTimestamp" : "2019-12-09 09:33:32.419 -0700"
+}

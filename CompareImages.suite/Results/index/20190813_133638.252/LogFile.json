@@ -1,0 +1,59 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running index.script",
+      "timestamp" : "2019-08-13 13:36:38.256 -0600"
+    },
+    {
+      "handlerName" : "on_index",
+      "message" : "Unable to Find Image Google",
+      "identifier" : "imagefound",
+      "image" : "Google",
+      "handlerLine" : 1,
+      "timestamp" : "2019-08-13 13:36:40.451 -0600",
+      "scriptName" : "index.script"
+    },
+    {
+      "handlerName" : "on_index",
+      "message" : "Image is not on the Screen",
+      "timestamp" : "2019-08-13 13:36:40.463 -0600",
+      "identifier" : "Log",
+      "scriptName" : "index.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_index",
+      "message" : "255,255,255",
+      "timestamp" : "2019-08-13 13:36:40.464 -0600",
+      "identifier" : "Log",
+      "scriptName" : "index.script",
+      "handlerLine" : 10
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(192,122,390,395)",
+      "timestamp" : "2019-08-13 13:36:41.696 -0600"
+    },
+    {
+      "handlerName" : "on_index",
+      "message" : "(100,100,700,400)",
+      "identifier" : "capturescreen",
+      "image" : "NewImageName.png",
+      "handlerLine" : 16,
+      "timestamp" : "2019-08-13 13:36:41.739 -0600",
+      "scriptName" : "index.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"4.153519\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-08-13 13:36:38 -0600\", Successes:\"1\", TestCase:\"index.script\", Warnings:\"0\")",
+      "timestamp" : "2019-08-13 13:36:42.412 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:04 index.script",
+      "timestamp" : "2019-08-13 13:36:42.428 -0600"
+    }
+  ],
+  "createdTimestamp" : "2019-08-13 13:36:38.257 -0600"
+}

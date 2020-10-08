@@ -1,0 +1,9 @@
+﻿2019-05-10 14:06:39.804 -0600	START		Running Master.script
+2019-05-10 14:06:39.867 -0600	Log		EXEPath: /Users/randyhesse/Desktop/screen_compare.suite/Resources/screen_compare/screen_compare	21	on_screen_compare	screen_compare.script
+2019-05-10 14:06:39.868 -0600	Log		ImagePath1 /Users/randyhesse/Desktop/screen_compare.suite/Images/SM-G973u_call.png.png	22	on_screen_compare	screen_compare.script
+2019-05-10 14:06:39.869 -0600	Log		ImagePath2 /Users/randyhesse/Desktop/screen_compare.suite/Images/SM-G973u_call.png.png	23	on_screen_compare	screen_compare.script
+2019-05-10 14:06:39.871 -0600	Log		OutputImagePath /Users/randyhesse/Desktop/screen_compare.suite/Images/newimage2.png	24	on_screen_compare	screen_compare.script
+2019-05-10 14:06:39.872 -0600	Log		OutputTextPath /Users/randyhesse/Desktop/screen_compare.suite/Resources/newtext.txt	25	on_screen_compare	screen_compare.script
+2019-05-10 14:06:39.873 -0600	Log		Running Shell Command: /Users/randyhesse/Desktop/screen_compare.suite/Resources/screen_compare/screen_compare --input /Users/randyhesse/Desktop/screen_compare.suite/Images/SM-G973u_call.png.png --input /Users/randyhesse/Desktop/screen_compare.suite/Images/SM-G973u_call_2.png.png --output /Users/randyhesse/Desktop/screen_compare.suite/Images/newimage2.png > /Users/randyhesse/Desktop/screen_compare.suite/Resources/newtext.txt	26	on_screen_compare	screen_compare.script
+2019-05-10 14:06:40.094 -0600	EndTestCase		(Duration:"0.289778", Errors:"0", Exceptions:"0", StartTime:"2019-05-10 14:06:39 -0600", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2019-05-10 14:06:40.110 -0600	SUCCESS		Execution Time 0:00:00 Master.script

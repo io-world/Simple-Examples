@@ -1,0 +1,27 @@
+﻿
+
+
+on Foo
+
+
+	log "Script 5 Foo"
+	
+end Foo
+
+
+
+function Bar
+
+	log "Script 5 Bar"
+	
+	
+	return "Script 5 Bar Return"
+end Bar
+
+
+
+to Baz
+
+	log "Script 5 Baz"
+	
+end Baz

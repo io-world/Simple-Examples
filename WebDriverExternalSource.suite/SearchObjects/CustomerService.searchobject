@@ -1,0 +1,29 @@
+{
+  "ocrcapturestring" : "Customer Service",
+  "originalcapturelocation" : [
+    303,
+    146,
+    123,
+    30
+  ],
+  "createddate" : 1599833997.183286,
+  "lastmodifieddate" : 1599833997.1832871,
+  "name" : "CustomerService",
+  "testlocationdata" : [
+    {
+      "name" : "CustomerService.png",
+      "connectionname" : "Randy AWS SUT",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "Customer Service",
+      "type" : 1,
+      "connectionserverid" : "3.137.150.131",
+      "capturerect" : [
+        303,
+        146,
+        123,
+        30
+      ]
+    }
+  ]
+}

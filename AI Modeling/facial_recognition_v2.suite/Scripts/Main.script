@@ -1,0 +1,26 @@
+﻿//(MLAI).classifier("haarcascade_eye.xml")
+//(MLAI).classifier("haarcascade_fullbody.xml")
+//(MLAI).classifier("haarcascade_fullbody.xml")
+//--------------------------------------------------------------------
+
+
+put new "GoOpenCV" into MLAI
+
+(MLAI).classifier("haarcascade_eye.xml")
+//(MLAI).classifier("haarcascade_frontalface_default.xml")
+
+//RemoteScreenRectangle()
+put (MLAI).LocaterRectangle((323,271,1390,734)) into AllRectangles
+
+
+//---------------------------------------------------------------------------------------------------
+log AllRectangles
+put the number of items of AllRectangles into Max
+put suiteinfo().imagesFolder& "/" into ImagePathway
+repeat max times
+	
+	put item repeatindex() of AllRectangles into Class_Rectangles
+	put ImagePathway&repeatindex()&".png" into Image_Name
+	CaptureScreen (Name:Image_Name , Rectangle: Class_Rectangles)
+end repeat
+

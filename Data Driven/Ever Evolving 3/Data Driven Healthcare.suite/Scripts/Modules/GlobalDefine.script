@@ -1,0 +1,110 @@
+﻿-------------------DO Not Delete------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+-----------------------------------------Date: Jun 06 2017---------------------------------
+-------------------------------------------------------------------By: Randy Hesse--------
+--------------------------------------------------------------------------------------------------
+
+to initialize
+	put CSVValue(file ResourcePath("PatientInformation.csv")) into PIFile
+	put the number of items of PIFile into my PatientCount
+	put the number of Keys of item 1 of  PIFile into my ColumnCount
+	put Keys(item 1 of  PIFile) into my ColumnNames
+	put PIFile into my PIFile
+	
+	put CSVValue(file ResourcePath("EnvironmentConfig.csv")) into  ECFile
+	put the number of items of ECFile into my UserCount
+	put ECFile into My ECFile
+	
+end initialize
+
+
+
+on SetupCustomFile CSVFile
+	put file CSVFile into PIFile
+	put the number of items of PIFile into my PatientCount
+	put the number of Keys of item 1 of  PIFile into my ColumnCount
+	put Keys(item 1 of  PIFile) into my ColumnNames
+	put PIFile into my PIFile
+	
+end SetupCustomFile
+
+on SetupEnvironment CSVFile
+	put file CSVFile into  ECFile
+	put the number of items of ECFile into my UserCount
+	put ECFile into My ECFile
+end SetupEnvironment
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+to GetPatient LineNumber
+	if lowercase(LineNumber) ="all" then
+		return  my PIFile
+	else
+		return item LineNumber of  my PIFile 
+	end if
+end GetPatient
+
+to GetPatientRandom (PatientCount)
+	repeat PatientCount times
+		insert any item of my PIFile into PatientList
+	end repeat
+	return PatientList
+end GetPatientRandom
+
+
+function DataDump
+	return my PIFile &&"------------------"&& my ECFile
+end DataDump 
+
+
+function GetAll ColumnName
+	put my PIFile into PIFile
+	put my PatientCount into PatientCount
+	repeat PatientCount times
+		insert (item repeatindex() of PIFile).(ColumnName) into GetAllList
+	end repeat	
+	return GetAllList
+end GetAll
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+to GetUser LineNumber
+	put my ECFile into ECFIle	
+	return item LineNumber of  my ECFIle 
+end GetUser
+
+
+
+
+
+to TroubleShooting LineNumber
+	put file ResourcePath("PatientInformation.csv") into PIFile
+	put line (LineNumber) of PIFile into PatientRecord	-------------------------------
+	put the number of items of line 1 of PIFile into PatientDataCount
+	put line 1 of PIFile into AllValueNames	
+	-------------------------------
+	repeat PatientDataCount times		
+		put item repeatindex() of AllValueNames into ValueName
+		put item repeatindex() of PatientRecord into PatientValue
+		delete " " from ValueName
+		put PatientValue into  Patient.(ValueName)
+	end repeat	
+	-----------------------------------
+	put Patient into global Patient ///Added Line
+	return Patient 
+end TroubleShooting
+
+
+
+on Help
+
+	log <<"GetPatient" take in a number and spits out a Proertylist of Patient Information>>
+	
+	
+	
+	
+end Help

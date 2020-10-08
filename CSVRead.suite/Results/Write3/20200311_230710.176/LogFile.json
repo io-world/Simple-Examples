@@ -1,0 +1,27 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Write3.script",
+      "timestamp" : "2020-03-11 23:07:10.180 -0500"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.171864\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-03-11 23:07:10 -0500\", Successes:\"0\", TestCase:\"Write3.script\", Warnings:\"0\")",
+      "timestamp" : "2020-03-11 23:07:11.354 -0500"
+    },
+    {
+      "message" : "STTableError Table has no database connection info: (Last_Name:\"testing456\", ob... -- Execution Time 0:00:01 Write3.script",
+      "timestamp" : "2020-03-11 23:07:11.653 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    },
+    {
+      "message" : "STTableError Table has no database connection info: (Last_Name:\"testing456\", ob... -- Execution Time 0:00:01 Write3.script",
+      "timestamp" : "2020-03-11 23:07:12.164 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error_Web.png"
+    }
+  ],
+  "createdTimestamp" : "2020-03-11 23:07:10.182 -0500"
+}

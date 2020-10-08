@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="States/Zero_script" package="Data Driven Healthcare.suite" timestamp="2019-12-09 16:31:12 +0000"
+ tests="1"  failures="0" errors="0" time="0.198335">
+  <properties>
+   <property name="RunDate" value="2019-12-09 16:31:12 +0000"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="States/Zero.script" assertions="1" status="success"  time="0.195121">
+  </testcase>
+ </testsuite>
+</testsuites>

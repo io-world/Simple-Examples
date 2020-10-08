@@ -1,0 +1,15 @@
+﻿put new "PixelData"  with (ColorSquare:(270,129,302,137))into PD
+
+put (81,92,107) into Defined_Color."Color1"
+put (0,120,215) into Defined_Color."Color2"
+//put (255,255,255) into Defined_Color."Color3"
+
+
+
+
+put  (PD).PixelMatch (color:(Defined_Color),tolerance:0)  into Output
+log Output
+log (PD).AverageColor ("HEX")
+log (PD).AverageColor ("DEC")
+
+

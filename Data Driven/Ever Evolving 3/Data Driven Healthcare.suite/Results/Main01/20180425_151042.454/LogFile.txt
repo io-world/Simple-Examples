@@ -1,0 +1,10 @@
+﻿2018-04-25 15:10:42.455 -0600	START		Running Index.script
+2018-04-25 15:10:42.620 -0600	connect		Tutorial Connection:(null)	4	on_libraries_sutconnect	Libraries/SUTConnect.script
+2018-04-25 15:10:42.692 -0600	Log		You are Connect	13	on_libraries_sutconnect	Libraries/SUTConnect.script
+2018-04-25 15:10:42.694 -0600	Log		Connection Information(Availability:"Active", Bonjour:"False", ColorDepth:"32", Connected:"True", Name:"Tutorial Connection", PortNum:"5900", Reverse:"False", ScreenSize:(427,640), ServerID:"TutorialSUT", Status:"Connected", Type:"vnc", Visible:"True")	14	on_libraries_sutconnect	Libraries/SUTConnect.script
+2018-04-25 15:10:42.844 -0600	runwithnewresults		Zero.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving 2/Data Driven Healthcare.suite/Results/States/Zero/20180425_151042.843/LogFile.txt)	5	on_index	Index.script
+2018-04-25 15:10:43.095 -0600	runwithnewresults		Login.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving 2/Data Driven Healthcare.suite/Results/Libraries/Login/20180425_151043.094/LogFile.txt)	14	on_index	Index.script
+2018-04-25 15:10:44.697 -0600	runwithnewresults		A.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving 2/Data Driven Healthcare.suite/Results/Test/A/20180425_151044.697/LogFile.txt)	16	on_index	Index.script
+2018-04-25 15:10:53.006 -0600	runwithnewresults		B.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving 2/Data Driven Healthcare.suite/Results/Test/B/20180425_151053.005/LogFile.txt)	17	on_index	Index.script
+2018-04-25 15:10:57.028 -0600	EndTestCase		(Duration:"14.571596", Errors:"2", Exceptions:"0", StartTime:"2018-04-25 15:10:42 -0600", Successes:"3", TestCase:"Index.script", Warnings:"3")
+2018-04-25 15:10:57.029 -0600	ABORTED		Execution Time 0:00:14 Index.script

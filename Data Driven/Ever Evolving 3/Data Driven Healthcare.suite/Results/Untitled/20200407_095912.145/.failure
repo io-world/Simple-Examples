@@ -1,0 +1,1 @@
+2020-04-07 09:59:12.145 -0600,Failure,0:00:00,1,0,0,20200407_095912.145/LogFile.txt,"","BadValue -- Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got 'ALL'.",0

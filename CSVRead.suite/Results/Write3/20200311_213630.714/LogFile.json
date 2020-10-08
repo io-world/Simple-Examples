@@ -1,0 +1,27 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Write3.script",
+      "timestamp" : "2020-03-11 21:36:30.717 -0500"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.722482\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-03-11 21:36:30 -0500\", Successes:\"0\", TestCase:\"Write3.script\", Warnings:\"0\")",
+      "timestamp" : "2020-03-11 21:36:31.441 -0500"
+    },
+    {
+      "message" : "InvalidCommandOrRange Not a valid command, or incorrect types given for a range (not numbers, date\/times, or characters) -- Execution Time 0:00:00 Write3.script",
+      "timestamp" : "2020-03-11 21:36:31.661 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    },
+    {
+      "message" : "InvalidCommandOrRange Not a valid command, or incorrect types given for a range (not numbers, date\/times, or characters) -- Execution Time 0:00:00 Write3.script",
+      "timestamp" : "2020-03-11 21:36:32.127 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error_Web.png"
+    }
+  ],
+  "createdTimestamp" : "2020-03-11 21:36:30.718 -0500"
+}

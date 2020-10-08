@@ -1,0 +1,10 @@
+﻿
+put suiteinfo().imagesFolder & "/whatever.png" into IPath
+
+log IPath
+
+
+
+put URL  "https://www.sprint.com/content/dam/sprint/commerce/devices/apple/iphone_x/silver/devicenb_650x900.png"  into file (IPath)
+
+

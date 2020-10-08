@@ -2,10 +2,10 @@
 <statistics>
  <script name="ADT01">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>15</NumberOfRuns>
+  <NumberOfRuns>16</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2018-06-14 10:15:58 -0600</FirstRun>
-  <LastRun>2019-04-03 11:08:38 -0500</LastRun>
-  <TotalTimeOnSuccess>6.416969</TotalTimeOnSuccess>
+  <LastRun>Sep 11, 2019 at 3:04:12 PM</LastRun>
+  <TotalTimeOnSuccess>7.938904</TotalTimeOnSuccess>
  </script>
 </statistics>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Read1_script" package="TableRead.suite" timestamp="2019-05-23 10:07:50.981 -0600"
+ tests="1"  failures="0" errors="0" time="29.232890">
+  <properties>
+   <property name="RunDate" value="2019-05-23 10:07:50.981 -0600"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Read1.script" assertions="1" status="error"  time="29.230918">
+    <error type="Exception" message="No Text Found On Screen: &quot;(TEXT:&quot;Garrett Winters&quot;)&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

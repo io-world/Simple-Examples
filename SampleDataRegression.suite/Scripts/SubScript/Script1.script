@@ -1,0 +1,12 @@
+﻿params  CSVData
+Log "Starting Script 1"
+// Do not touch the apove lines
+
+
+
+log CSVData."suffix"
+log CSVData."First Name"
+
+(*  This is how you typetext
+typetext CSVData."First Name"
+ *)

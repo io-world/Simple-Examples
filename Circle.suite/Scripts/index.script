@@ -1,0 +1,14 @@
+﻿put (300,400)into Center
+put 0.1 into the remoteWorkInterval
+
+put "y=10x+5" into Formula //y=mx+b
+put 10 into NumberOfPoints
+put (0,0) into StartingPoint
+
+//-------------------------------------------------------
+
+
+
+
+
+

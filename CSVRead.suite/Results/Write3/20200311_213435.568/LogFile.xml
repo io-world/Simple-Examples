@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Write3_script" package="CSVRead.suite" timestamp="2020-03-12 02:34:35 +0000"
+ tests="1"  failures="2" errors="0" time="0.710350">
+  <properties>
+   <property name="RunDate" value="2020-03-12 02:34:35 +0000"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Write3.script" assertions="1" status="failure"  time="0.706787">
+    <failure type="FAILURE" message="STUnknownMessage ERROR: No Such Function: 'first_name' -- Execution Time 0:00:00 Write3.script" />
+    <failure type="FAILURE" message="STUnknownMessage ERROR: No Such Function: 'first_name' -- Execution Time 0:00:00 Write3.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

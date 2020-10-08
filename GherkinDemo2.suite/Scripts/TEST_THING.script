@@ -1,0 +1,10 @@
+﻿
+//run "Master" "UAT"
+
+
+//run "Master" "QA"
+
+
+RunFeature "Test_Feature",  "@QA"
+
+RunFeature "Test_Feature",  "@UAT"

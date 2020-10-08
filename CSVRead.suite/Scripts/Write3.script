@@ -1,0 +1,18 @@
+﻿
+set TheData to (type:"CSV", file:ResourcePath("WebFormData.CSV"), name:"Results",writable: "Yes")
+
+
+put  "testing123" into newMember.Prefix
+put  "testing789" into newMember.First_Name
+add record newMember to TheData
+
+
+
+
+
+
+
+delete record from thedata where Prefix is "testing123"
+put  "testing456" into newMember.Last_Name
+add record newMember to TheData
+

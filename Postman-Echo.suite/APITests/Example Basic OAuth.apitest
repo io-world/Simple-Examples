@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URLparameters</key>
+	<array>
+		<dict>
+			<key>checkedNumber</key>
+			<true/>
+			<key>param</key>
+			<string>oauth_consumer_key</string>
+			<key>showCheckedNumber</key>
+			<true/>
+			<key>value</key>
+			<string>RKCGzna7bv9YD57c</string>
+		</dict>
+		<dict>
+			<key>checkedNumber</key>
+			<true/>
+			<key>param</key>
+			<string>oauth_signature_method</string>
+			<key>showCheckedNumber</key>
+			<true/>
+			<key>value</key>
+			<string>HMAC-SHA1</string>
+		</dict>
+		<dict>
+			<key>checkedNumber</key>
+			<true/>
+			<key>param</key>
+			<string>oauth_timestamp</string>
+			<key>showCheckedNumber</key>
+			<true/>
+			<key>value</key>
+			<string>1594831471</string>
+		</dict>
+		<dict>
+			<key>checkedNumber</key>
+			<true/>
+			<key>param</key>
+			<string>oauth_nonce</string>
+			<key>showCheckedNumber</key>
+			<true/>
+			<key>value</key>
+			<string>6Xqayryx4HC</string>
+		</dict>
+		<dict>
+			<key>checkedNumber</key>
+			<true/>
+			<key>param</key>
+			<string>oauth_version</string>
+			<key>showCheckedNumber</key>
+			<true/>
+			<key>value</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+	<key>authenticationType</key>
+	<string>None</string>
+	<key>httpVerb</key>
+	<string>GET</string>
+	<key>oauth1Token</key>
+	<string>RKCGzna7bv9YD57c</string>
+	<key>password</key>
+	<string></string>
+	<key>requestBody</key>
+	<string>code=xWnkliVQJURqB2x1
+grant_type=authorization_code
+redirect_uri=https://www.getpostman.com/oauth2/callback
+client_id=abc123
+client_secret=ssh-secret</string>
+	<key>requestBodyFormat</key>
+	<string>Form Data</string>
+	<key>requestHeaders</key>
+	<string>&lt;![CDATA[]]&gt;</string>
+	<key>requests</key>
+	<string></string>
+	<key>testResults</key>
+	<string></string>
+	<key>testScript</key>
+	<string></string>
+	<key>url</key>
+	<string>https://postman-echo.com/oauth1?oauth_consumer_key=RKCGzna7bv9YD57c&amp;oauth_signature_method=HMAC-SHA1&amp;oauth_timestamp=1594831471&amp;oauth_nonce=6Xqayryx4HC&amp;oauth_version=1.0&amp;oauth_signature=UanGRpuvn64SueSMoAsBiub/Cpg=</string>
+	<key>userName</key>
+	<string></string>
+</dict>
+</plist>

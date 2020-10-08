@@ -1,0 +1,20 @@
+﻿
+
+Connect "Windows 10"
+
+
+
+put the WebDriver into Driver
+put RemoteScreenRectangle() into  Driver.WindowRectangle
+
+put "https://www.google.com/" into Driver.url 
+
+
+
+
+click webCssSelector:("#tsf > div:nth-child(2) > div > div.FPdoLc.VlcLAe > center > input.gNO89b")
+
+put FindElements(webCssSelector: "#tsf > div:nth-child(2) > div > div.FPdoLc.VlcLAe > center > input.gNO89b") into Element
+
+
+log ELement

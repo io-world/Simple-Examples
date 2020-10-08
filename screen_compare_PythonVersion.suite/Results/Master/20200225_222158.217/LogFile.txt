@@ -1,0 +1,9 @@
+﻿2020-02-25 22:21:58.220 -0700	START		Running Master.script
+2020-02-25 22:21:58.340 -0700	Log		EXEPath: /Users/randyhesse/Documents/Simple Examples/screen_compare_PythonVersion.suite/Resources/screen_compare/screen_compare	21	on_screen_compare	screen_compare.script
+2020-02-25 22:21:58.343 -0700	Log		ImagePath1 /Users/randyhesse/Documents/Simple Examples/screen_compare_PythonVersion.suite/Images/SM-G973u_call.png	22	on_screen_compare	screen_compare.script
+2020-02-25 22:21:58.344 -0700	Log		ImagePath2 /Users/randyhesse/Documents/Simple Examples/screen_compare_PythonVersion.suite/Images/SM-G973u_call.png	23	on_screen_compare	screen_compare.script
+2020-02-25 22:21:58.345 -0700	Log		OutputImagePath /Users/randyhesse/Documents/Simple Examples/screen_compare_PythonVersion.suite/Images/newimage3.png	24	on_screen_compare	screen_compare.script
+2020-02-25 22:21:58.347 -0700	Log		OutputTextPath /Users/randyhesse/Documents/Simple Examples/screen_compare_PythonVersion.suite/Resources/newtext.txt	25	on_screen_compare	screen_compare.script
+2020-02-25 22:21:58.348 -0700	Log		Running Shell Command: /Users/randyhesse/Documents/Simple Examples/screen_compare_PythonVersion.suite/Resources/screen_compare/screen_compare --input /Users/randyhesse/Documents/Simple Examples/screen_compare_PythonVersion.suite/Images/SM-G973u_call.png --input /Users/randyhesse/Documents/Simple Examples/screen_compare_PythonVersion.suite/Images/SM-G973u_call_2.png --output /Users/randyhesse/Documents/Simple Examples/screen_compare_PythonVersion.suite/Images/newimage3.png > /Users/randyhesse/Documents/Simple Examples/screen_compare_PythonVersion.suite/Resources/newtext.txt	26	on_screen_compare	screen_compare.script
+2020-02-25 22:21:58.690 -0700	EndTestCase		(Duration:"0.460245", Errors:"0", Exceptions:"0", StartTime:"2020-02-25 22:21:58 -0700", Successes:"1", TestCase:"Master.script", Warnings:"0")
+2020-02-25 22:21:58.717 -0700	SUCCESS		Execution Time 0:00:00 Master.script

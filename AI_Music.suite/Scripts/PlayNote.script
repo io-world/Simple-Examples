@@ -1,0 +1,8 @@
+﻿
+
+
+put ResourcePath() & "/Notes/B4 Natural.aiff" into KeyNotes
+
+put "afplay"&& <<">>&KeyNotes &<<">> into ShellComand
+log ShellComand
+shell (ShellComand && "-t 0.5")

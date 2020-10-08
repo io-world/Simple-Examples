@@ -1,0 +1,5 @@
+﻿2020-04-07 11:40:02.886 -0600	START		Running Main02.script
+2020-04-07 11:40:03.074 -0600	Log		10	4	on_main02	Main02.script
+2020-04-07 11:40:03.080 -0600	Log		{@"Date of Birth":"6/13/06", @"First Name":"Bruce", Gender:"Male", @"Last Name":"Wayne", @"Marital Status":"Single", @"Medical Record Number":"222222", @"Middle Name":"B", Prefix:"Mr", @"Social Security Number":"113-83-3798"}	10	on_main02	Main02.script
+2020-04-07 11:40:03.520 -0600	EndTestCase		(Duration:"0.63215", Errors:"0", Exceptions:"0", StartTime:"2020-04-07 11:40:02 -0600", Successes:"1", TestCase:"Main02.script", Warnings:"0")
+2020-04-07 11:40:03.542 -0600	SUCCESS		Execution Time 0:00:00 Main02.script

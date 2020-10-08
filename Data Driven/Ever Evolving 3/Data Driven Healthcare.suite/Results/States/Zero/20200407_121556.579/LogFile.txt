@@ -1,0 +1,5 @@
+﻿2020-04-07 12:15:56.582 -0600	START		Running States/Zero.script	5	on_main01	Main01.script<SELECTION>
+2020-04-07 12:15:56.588 -0600	Log		Initiate Zero State	4	on_states_zero	States/Zero.script
+2020-04-07 12:15:56.728 -0600	click	Contacts/Buttons/Contacts	at (53, 607)	5	on_states_zero	States/Zero.script
+2020-04-07 12:15:56.730 -0600	EndTestCase		(Duration:"0.146565", Errors:"0", Exceptions:"0", StartTime:"2020-04-07 12:15:56 -0600", Successes:"1", TestCase:"States/Zero.script", Warnings:"0")	5	on_main01	Main01.script<SELECTION>
+2020-04-07 12:15:56.762 -0600	SUCCESS		Execution Time 0:00:00 States/Zero.script	5	on_main01	Main01.script<SELECTION>

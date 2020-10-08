@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Live Code.script",
+      "timestamp" : "2020-01-14 15:20:49.350 -0800"
+    },
+    {
+      "handlerName" : "on_live_code",
+      "message" : "(@\"date of birth\":\"2014-03-16 12:00:00 -0700\", @\"first name\":\"Carrie\", gender:\"Female\", @\"last name\":\"Underwood\", @\"marital status\":\"Married\", @\"medical record number\":\"333333\", @\"middle name\":\"\", prefix:\"Mrs\", @\"social security number\":\"583-00-6387\")",
+      "timestamp" : "2020-01-14 15:20:49.411 -0800",
+      "identifier" : "Log",
+      "scriptName" : "Live Code.script",
+      "handlerLine" : 10
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.284631\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-01-14 15:20:49 -0800\", Successes:\"1\", TestCase:\"Live Code.script\", Warnings:\"0\")",
+      "timestamp" : "2020-01-14 15:20:49.636 -0800"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Live Code.script",
+      "timestamp" : "2020-01-14 15:20:49.658 -0800"
+    }
+  ],
+  "createdTimestamp" : "2020-01-14 15:20:49.351 -0800"
+}

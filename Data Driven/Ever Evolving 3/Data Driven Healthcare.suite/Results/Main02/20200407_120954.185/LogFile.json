@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Main02.script",
+      "timestamp" : "2020-04-07 12:09:54.188 -0600"
+    },
+    {
+      "handlerName" : "on_main02",
+      "message" : "[\"Mrs\",\"Mr\",\"Mrs\",\"Ms\",\"Dr\",\"Dr\",\"Mr\",\"Dr\",\"Dr\",\"Mr\"]",
+      "timestamp" : "2020-04-07 12:09:54.361 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Main02.script",
+      "handlerLine" : 16
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.596257\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-04-07 12:09:54 -0600\", Successes:\"1\", TestCase:\"Main02.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 12:09:54.786 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Main02.script",
+      "timestamp" : "2020-04-07 12:09:54.811 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 12:09:54.189 -0600"
+}

@@ -1,0 +1,8 @@
+﻿on initialize
+
+	put new "Example03/Class01"  into CS1
+	put new "Example03/Class02"  into CS2
+	
+	put CS2 into my CS2
+	
+end initialize

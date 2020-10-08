@@ -1,0 +1,7 @@
+﻿2017-07-11 09:12:43.082 -0600	START		Running Modules/Verify.script
+2017-07-11 09:12:43.152 -0600	Log		Test/A/Contacts/Contacts 01.png	2	on_content	Modules/Verify.script
+2017-07-11 09:12:43.153 -0600	Log		(Test/A/Contacts/Contacts 01,png)	5	on_content	Modules/Verify.script
+2017-07-11 09:12:43.206 -0600	imagefound	Test/A/Contacts/Contacts 01.png	found at (51, 600)	23	on_content	Modules/Verify.script
+2017-07-11 09:12:43.208 -0600	Log		Image was found: Test/A/Contacts/Contacts 01.png	24	on_content	Modules/Verify.script
+2017-07-11 09:12:43.414 -0600	EndTestCase		(Duration:"0.329966", Errors:"0", Exceptions:"0", StartTime:"2017-07-11 09:12:43 -0600", Successes:"1", TestCase:"Modules/Verify.script", Warnings:"0")
+2017-07-11 09:12:43.430 -0600	SUCCESS		Execution Time 0:00:00 Modules/Verify.script

@@ -1,0 +1,30 @@
+﻿
+Properties
+
+	propertyKey1:"value1",
+	propertyKey2:"value2"
+	
+end Properties
+
+
+on C1_Function1
+	
+	log "From Class01 Function 01"
+	
+end C1_Function1
+
+
+
+
+on C1_Function2
+	
+	log "From Class01 Function 02"
+	
+end C1_Function2
+
+
+on C1_Function3
+	
+	log "From Class01 Function 03"
+	
+end C1_Function3

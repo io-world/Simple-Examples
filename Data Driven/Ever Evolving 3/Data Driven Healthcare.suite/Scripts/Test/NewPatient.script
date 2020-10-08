@@ -1,0 +1,18 @@
+﻿params Patient
+
+//Use the Script to Create New Patient
+
+
+
+
+log  Patient."Medical Record Number"
+log  Patient.Prefix
+log  Patient."First Name"
+log  Patient."Last Name"
+log  Patient."Date of Birth"
+log  Patient."Social Security Number"
+log  Patient.Gender
+log  Patient."Marital Status"
+
+
+--typetext global Patient.MaritalStatus

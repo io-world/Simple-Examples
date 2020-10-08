@@ -1,0 +1,1 @@
+2020-03-11 21:33:07.654 -0500,Failure,0:00:00,1,0,0,20200311_213307.654/LogFile.txt,"","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'testing123' and ''",0

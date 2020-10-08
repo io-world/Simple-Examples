@@ -1,0 +1,13 @@
+﻿
+
+
+put new "Utilities/Patient" into Pat1
+put new "Utilities/Patient" into Pat2
+
+
+(Pat2).changesex ("Female")
+
+
+
+log Pat1
+log pat2

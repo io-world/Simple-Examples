@@ -1,0 +1,15 @@
+﻿
+
+
+
+
+put new  "Utilities/Squares"  into SearchSquares
+
+log SearchSquares.add (SearchSquares.srect1, SearchSquares.srect2)
+
+
+log SearchSquares.add2 
+
+
+put (50,50,50,50) into SearchSquares.srect5
+log SearchSquares.add3 

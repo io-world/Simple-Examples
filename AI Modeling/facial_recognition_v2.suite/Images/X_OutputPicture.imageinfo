@@ -1,0 +1,12 @@
+﻿{
+    HasAlpha = 1;
+    HotSpotX = "715.5";
+    HotSpotY = "361.5";
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = "-1";
+    OriginalLocationY = "-1";
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+}

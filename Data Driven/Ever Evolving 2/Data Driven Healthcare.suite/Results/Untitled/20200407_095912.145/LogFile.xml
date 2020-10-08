@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Untitled_script" package="Data Driven Healthcare.suite" timestamp="2020-04-07 09:59:12.145 -0600"
+ tests="1"  failures="1" errors="0" time="0.403520">
+  <properties>
+   <property name="RunDate" value="2020-04-07 09:59:12.145 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Untitled.script" assertions="1" status="failure"  time="0.399467">
+    <failure type="FAILURE" message="BadValue Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got 'ALL'. -- Execution Time 0:00:00 Untitled.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

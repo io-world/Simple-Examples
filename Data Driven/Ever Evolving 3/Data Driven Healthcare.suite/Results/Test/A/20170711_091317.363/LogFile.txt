@@ -1,0 +1,7 @@
+﻿2017-07-11 09:13:17.364 -0600	START		Running Test/A.script
+2017-07-11 09:13:17.418 -0600	Log		code for Navigation for TestA 	6	on_test_a	Test/A.script
+2017-07-11 09:13:17.570 -0600	click	Test/A/Contacts	at (51, 600)	9	on_test_a	Test/A.script
+2017-07-11 09:13:17.587 -0600	Log		The Content Name is: 	2	on_content	Modules/Verify.script
+2017-07-11 09:13:17.589 -0600	Exception		Image Property List did not contain "ImageName" property	16	on_content	Modules/Verify.script
+2017-07-11 09:13:17.771 -0600	EndTestCase		(Duration:"0.406168", Errors:"1", Exceptions:"1", StartTime:"2017-07-11 09:13:17 -0600", Successes:"0", TestCase:"Test/A.script", Warnings:"0")
+2017-07-11 09:13:17.843 -0600	FAILURE	Screen_Error.png	Image Not Found imagefound Error - Image Property List did not contain "ImageName" property -- Execution Time 0:00:00 Test/A.script

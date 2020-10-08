@@ -1,0 +1,16 @@
+﻿put ResourcePath("myTimings.csv") into filePath
+
+set serverURL to "https://siteconfidence.atlassian.net/rest/api/2/issue/" & the suiteVariables.issueIdOrKey & "/attachments"
+
+post multipart {
+	TopHeader:{"X-Atlassian-Token" : "no-check", Authorization: "Basic "&base64Encode("anne.foster@eggplant.io:" & the suiteVariables.token)},
+	fieldname:"file",
+	filename: filePath,
+	body: file filePath as data,
+} to URL serverURL
+
+put it into postresults
+log postresults
+
+
+///to Atlassian

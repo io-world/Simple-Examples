@@ -1,0 +1,29 @@
+﻿
+put suiteinfo().path & "/features/" into GherkinPath
+put GherkinPath & "Gherkin03" & ".feature" into NewFeature
+put ("Feature","Scenario","Given","When","Then") into GherkinTerms
+
+
+put {
+	Feature: "The Best Feature Ever",
+	Scenario: "Generate the Gherkin",
+	Given: "Giving It Away",
+	When: "When will it go",
+	Then: "All will be welcomed"
+} into GherkinDefinition
+
+
+open  file NewFeature
+repeat the number of items of GherkinTerms times
+	put item repeatindex() of GherkinTerms into Term
+	if repeatindex() <=2 then
+		put Term &":"&&GherkinDefinition.(Term) into FileWriteLine
+	else
+		put Term &&GherkinDefinition.(Term) into FileWriteLine
+	end if
+	write FileWriteLine to file NewFeature at eof
+	write newline to file NewFeature at eof
+	
+end repeat
+close file NewFeature
+

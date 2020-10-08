@@ -1,0 +1,13 @@
+﻿
+
+Put "Some Data From Master" into MasterData
+
+
+run "Script01" MasterData
+put the result into ReturnedData
+
+
+
+run "Script02" MasterData, ReturnedData
+
+

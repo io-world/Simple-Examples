@@ -1,0 +1,4 @@
+﻿2020-03-11 21:35:39.176 -0500	START		Running Write3.script
+2020-03-11 21:35:39.939 -0500	EndTestCase		(Duration:"0.761162", Errors:"1", Exceptions:"0", StartTime:"2020-03-11 21:35:39 -0500", Successes:"0", TestCase:"Write3.script", Warnings:"0")
+2020-03-11 21:35:40.250 -0500	FAILURE	Screen_Error.png	SenseTalk Runtime Exception Invalid operands for addition: expected numbers, dates and/or lists; got 'testing123' and '' -- Execution Time 0:00:00 Write3.script
+2020-03-11 21:35:40.839 -0500	FAILURE	Screen_Error_Web.png	SenseTalk Runtime Exception Invalid operands for addition: expected numbers, dates and/or lists; got 'testing123' and '' -- Execution Time 0:00:00 Write3.script

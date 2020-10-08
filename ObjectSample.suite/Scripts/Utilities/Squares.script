@@ -1,0 +1,30 @@
+﻿
+on initialize 
+	put (10,10,20,20) into my SRect1
+	put (20,20,30,30) into my SRect2
+	put (30,30,40,40) into my SRect3
+	put (40,40,50,50) into my SRect4
+end initialize
+
+
+function S_Srect4
+	return my SRect4 /// this is wrong
+	
+end S_Srect4
+
+function add var1,var2
+
+	return var1+var2
+	
+end add
+
+function add2 
+	return (my SRect1+my SRect2)
+	
+end add2
+
+
+function add3
+	return (my SRect5+my SRect1)
+	
+end add3

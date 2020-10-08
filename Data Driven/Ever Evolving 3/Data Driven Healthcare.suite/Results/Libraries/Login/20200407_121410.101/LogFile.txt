@@ -1,0 +1,6 @@
+﻿2020-04-07 12:14:10.104 -0600	START		Running Libraries/Login.script	13	on_main01	Main01.script
+2020-04-07 12:14:10.114 -0600	Log			4	on_libraries_login	Libraries/Login.script
+2020-04-07 12:14:10.117 -0600	Log			5	on_libraries_login	Libraries/Login.script
+2020-04-07 12:14:10.206 -0600	typetext		username	13	on_libraries_login	Libraries/Login.script
+2020-04-07 12:14:11.001 -0600	EndTestCase		(Duration:"0.895597", Errors:"0", Exceptions:"0", StartTime:"2020-04-07 12:14:10 -0600", Successes:"1", TestCase:"Libraries/Login.script", Warnings:"0")	13	on_main01	Main01.script
+2020-04-07 12:14:11.028 -0600	SUCCESS		Execution Time 0:00:00 Libraries/Login.script	13	on_main01	Main01.script

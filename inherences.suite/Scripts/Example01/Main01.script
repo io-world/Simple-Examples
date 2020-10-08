@@ -1,0 +1,9 @@
+﻿put new "Example01/Class01" with (new "Example01/Class02") into CS
+
+
+
+
+(CS).C2_Function1
+
+
+log CS

@@ -1,0 +1,18 @@
+﻿
+put <<export GOPATH="/Users/randyhesse/go";>> into varb
+
+
+put <<cd /Users/randyhesse/Documents/Simple_Examples/facial_recognition.suite/Resources/ && >> into CDVAR
+
+put <</Users/randyhesse/Documents/Simple_Examples/facial_recognition.suite/Resources/FaceR.go "Test.jpg" "output.jpg">> into var1
+
+put <</usr/local/bin/go run >> into vargo
+
+
+put (varb & CDVAR & vargo & var1 ) into varOUT
+
+
+log varOUT
+
+
+log shell(varOUT ,includeErrors:"YES")

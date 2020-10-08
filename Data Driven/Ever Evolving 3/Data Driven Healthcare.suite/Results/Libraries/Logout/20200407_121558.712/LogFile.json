@@ -1,0 +1,37 @@
+{
+  "entries" : [
+    {
+      "handlerName" : "on_main01",
+      "message" : "Running Libraries\/Logout.script",
+      "timestamp" : "2020-04-07 12:15:58.714 -0600",
+      "identifier" : "START",
+      "scriptName" : "Main01.script<SELECTION>",
+      "handlerLine" : 20
+    },
+    {
+      "handlerName" : "on_libraries_logout",
+      "message" : "running logout",
+      "timestamp" : "2020-04-07 12:15:58.735 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Libraries\/Logout.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_main01",
+      "message" : "(Duration:\"0.021968\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-04-07 12:15:58 -0600\", Successes:\"1\", TestCase:\"Libraries\/Logout.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 12:15:58.737 -0600",
+      "identifier" : "EndTestCase",
+      "scriptName" : "Main01.script<SELECTION>",
+      "handlerLine" : 20
+    },
+    {
+      "handlerName" : "on_main01",
+      "message" : "Execution Time 0:00:00 Libraries\/Logout.script",
+      "timestamp" : "2020-04-07 12:15:58.782 -0600",
+      "identifier" : "SUCCESS",
+      "scriptName" : "Main01.script<SELECTION>",
+      "handlerLine" : 20
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 12:15:58.715 -0600"
+}

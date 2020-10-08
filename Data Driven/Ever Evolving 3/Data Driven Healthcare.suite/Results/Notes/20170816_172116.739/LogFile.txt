@@ -1,0 +1,3 @@
+﻿2017-08-16 17:21:16.740 -0600	START		Running Notes.script
+2017-08-16 17:21:17.046 -0600	EndTestCase		(Duration:"0.304758", Errors:"0", Exceptions:"0", StartTime:"2017-08-16 17:21:16 -0600", Successes:"1", TestCase:"Notes.script", Warnings:"0")
+2017-08-16 17:21:17.063 -0600	SUCCESS		Execution Time 0:00:00 Notes.script

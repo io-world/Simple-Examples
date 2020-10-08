@@ -1,0 +1,20 @@
+﻿{
+    CaptureDate = "2019-05-29 19:34:48 +0000";
+    CaptureHost = "Randy AWS SUT";
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    HasAlpha = 1;
+    HotSpotX = 27;
+    HotSpotY = 30;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 89;
+    OriginalLocationY = 109;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    tags =     (
+    );
+}

@@ -1,0 +1,45 @@
+﻿put (1641,463,1708,525) into ColorSquare
+
+
+put (item 3 of ColorSquare - item 1 of ColorSquare )+1 into ChangeX
+put (item 4 of ColorSquare - item 2 of ColorSquare)+1  into ChangeY
+
+
+put item (1,2) of ColorSquare into Point1
+
+repeat ChangeY times
+	repeat ChangeX times
+		
+		
+		put ColorAtLocation(Point1) into RGB
+		insert item 1 of RGB into AllRed
+		insert item 2 of RGB into AllGreen
+		insert item 3 of RGB into AllBlue
+		put Point1 +(0,1) into Point1
+		
+		
+		//log RGB
+	end repeat
+	
+	put (item 1 of point1, item 2 of ColorSquare) into point1
+	put Point1 +(1,0) into Point1
+	
+	
+	
+end repeat
+
+insert average(AllRed) rounded -1 decimal places into averageColor
+insert average(AllGreen) rounded -1 decimal places into averageColor
+insert average( AllBlue) rounded -1 decimal places into averageColor
+
+
+log  "Decimal AverageColor:"&&averageColor
+repeat 3 times
+	put  format("%x", item repeatindex() of averageColor) after last character in HexColor
+end repeat
+log  "Decimal AverageColor:"&& uppercase(HexColor)
+
+
+
+
+

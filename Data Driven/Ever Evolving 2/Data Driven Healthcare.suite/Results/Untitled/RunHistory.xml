@@ -1,0 +1,255 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled">
+ <run>
+  <RunDate>2020-04-07 09:57:39.305 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.553940</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200407_095739.305/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 09:58:18.170 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>0.388354</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200407_095818.170/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 09:58:36.231 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.381987</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200407_095836.231/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 09:59:12.145 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.403520</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200407_095912.145/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>BadValue -- Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got &#x27;ALL&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 09:59:32.384 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.408971</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200407_095932.384/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 10:00:01.031 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.394147</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200407_100001.031/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 10:05:14.991 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.503488</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200407_100514.991/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;getusercount&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 10:05:27.062 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.421719</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200407_100527.062/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 10:05:32.085 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.420585</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200407_100532.085/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 10:08:42.038 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.398322</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200407_100842.038/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 11:23:56.209 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.355378</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200407_112356.209/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 11:24:02.851 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.370896</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200407_112402.851/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 11:24:08.260 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.401228</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200407_112408.260/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 11:24:37.438 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.394811</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200407_112437.438/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 11:25:15.390 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.371818</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200407_112515.390/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 11:25:25.586 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.363305</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200407_112525.586/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 11:26:05.444 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.358497</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200407_112605.444/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 11:26:12.415 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.500805</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200407_112612.415/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;reutrn&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 11:26:20.419 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.424981</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200407_112620.419/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 11:26:30.783 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.452757</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200407_112630.783/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-04-07 11:26:36.349 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>0.457995</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200407_112636.349/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

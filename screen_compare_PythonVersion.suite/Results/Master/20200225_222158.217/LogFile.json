@@ -1,0 +1,68 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Master.script",
+      "timestamp" : "2020-02-25 22:21:58.220 -0700"
+    },
+    {
+      "handlerName" : "on_screen_compare",
+      "message" : "EXEPath: \/Users\/randyhesse\/Documents\/Simple Examples\/screen_compare_PythonVersion.suite\/Resources\/screen_compare\/screen_compare",
+      "timestamp" : "2020-02-25 22:21:58.340 -0700",
+      "identifier" : "Log",
+      "scriptName" : "screen_compare.script",
+      "handlerLine" : 21
+    },
+    {
+      "handlerName" : "on_screen_compare",
+      "message" : "ImagePath1 \/Users\/randyhesse\/Documents\/Simple Examples\/screen_compare_PythonVersion.suite\/Images\/SM-G973u_call.png",
+      "timestamp" : "2020-02-25 22:21:58.343 -0700",
+      "identifier" : "Log",
+      "scriptName" : "screen_compare.script",
+      "handlerLine" : 22
+    },
+    {
+      "handlerName" : "on_screen_compare",
+      "message" : "ImagePath2 \/Users\/randyhesse\/Documents\/Simple Examples\/screen_compare_PythonVersion.suite\/Images\/SM-G973u_call.png",
+      "timestamp" : "2020-02-25 22:21:58.344 -0700",
+      "identifier" : "Log",
+      "scriptName" : "screen_compare.script",
+      "handlerLine" : 23
+    },
+    {
+      "handlerName" : "on_screen_compare",
+      "message" : "OutputImagePath \/Users\/randyhesse\/Documents\/Simple Examples\/screen_compare_PythonVersion.suite\/Images\/newimage3.png",
+      "timestamp" : "2020-02-25 22:21:58.345 -0700",
+      "identifier" : "Log",
+      "scriptName" : "screen_compare.script",
+      "handlerLine" : 24
+    },
+    {
+      "handlerName" : "on_screen_compare",
+      "message" : "OutputTextPath \/Users\/randyhesse\/Documents\/Simple Examples\/screen_compare_PythonVersion.suite\/Resources\/newtext.txt",
+      "timestamp" : "2020-02-25 22:21:58.347 -0700",
+      "identifier" : "Log",
+      "scriptName" : "screen_compare.script",
+      "handlerLine" : 25
+    },
+    {
+      "handlerName" : "on_screen_compare",
+      "message" : "Running Shell Command: \/Users\/randyhesse\/Documents\/Simple Examples\/screen_compare_PythonVersion.suite\/Resources\/screen_compare\/screen_compare --input \/Users\/randyhesse\/Documents\/Simple Examples\/screen_compare_PythonVersion.suite\/Images\/SM-G973u_call.png --input \/Users\/randyhesse\/Documents\/Simple Examples\/screen_compare_PythonVersion.suite\/Images\/SM-G973u_call_2.png --output \/Users\/randyhesse\/Documents\/Simple Examples\/screen_compare_PythonVersion.suite\/Images\/newimage3.png > \/Users\/randyhesse\/Documents\/Simple Examples\/screen_compare_PythonVersion.suite\/Resources\/newtext.txt",
+      "timestamp" : "2020-02-25 22:21:58.348 -0700",
+      "identifier" : "Log",
+      "scriptName" : "screen_compare.script",
+      "handlerLine" : 26
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.460245\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-02-25 22:21:58 -0700\", Successes:\"1\", TestCase:\"Master.script\", Warnings:\"0\")",
+      "timestamp" : "2020-02-25 22:21:58.690 -0700"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Master.script",
+      "timestamp" : "2020-02-25 22:21:58.717 -0700"
+    }
+  ],
+  "createdTimestamp" : "2020-02-25 22:21:58.229 -0700"
+}

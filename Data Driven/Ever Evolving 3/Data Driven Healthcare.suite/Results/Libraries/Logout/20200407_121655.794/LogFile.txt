@@ -1,0 +1,4 @@
+﻿2020-04-07 12:16:55.797 -0600	START		Running Libraries/Logout.script	20	on_main01	Main01.script
+2020-04-07 12:16:55.815 -0600	Log		running logout	1	on_libraries_logout	Libraries/Logout.script
+2020-04-07 12:16:55.817 -0600	EndTestCase		(Duration:"0.019066", Errors:"0", Exceptions:"0", StartTime:"2020-04-07 12:16:55 -0600", Successes:"1", TestCase:"Libraries/Logout.script", Warnings:"0")	20	on_main01	Main01.script
+2020-04-07 12:16:55.860 -0600	SUCCESS		Execution Time 0:00:00 Libraries/Logout.script	20	on_main01	Main01.script

@@ -1,0 +1,4 @@
+﻿2020-04-07 11:40:18.512 -0600	START		Running Main02.script
+2020-04-07 11:40:18.661 -0600	Log		10	4	on_main02	Main02.script
+2020-04-07 11:40:19.125 -0600	EndTestCase		(Duration:"0.611581", Errors:"1", Exceptions:"0", StartTime:"2020-04-07 11:40:18 -0600", Successes:"0", TestCase:"Main02.script", Warnings:"0")
+2020-04-07 11:40:19.181 -0600	FAILURE	Screen_Error.png	ZeroChunkIndex Zero is not a valid chunk number -- Execution Time 0:00:00 Main02.script

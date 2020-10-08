@@ -1,0 +1,100 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running index.script",
+      "timestamp" : "2020-10-07 10:19:57.838 -0600"
+    },
+    {
+      "handlerName" : "on_foo",
+      "message" : "10",
+      "timestamp" : "2020-10-07 10:19:57.902 -0600",
+      "identifier" : "Log",
+      "scriptName" : "index.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_foo",
+      "message" : "9",
+      "timestamp" : "2020-10-07 10:19:57.905 -0600",
+      "identifier" : "Log",
+      "scriptName" : "index.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_foo",
+      "message" : "8",
+      "timestamp" : "2020-10-07 10:19:58.028 -0600",
+      "identifier" : "Log",
+      "scriptName" : "index.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_foo",
+      "message" : "7",
+      "timestamp" : "2020-10-07 10:19:58.031 -0600",
+      "identifier" : "Log",
+      "scriptName" : "index.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_foo",
+      "message" : "6",
+      "timestamp" : "2020-10-07 10:19:58.034 -0600",
+      "identifier" : "Log",
+      "scriptName" : "index.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_foo",
+      "message" : "5",
+      "timestamp" : "2020-10-07 10:19:58.037 -0600",
+      "identifier" : "Log",
+      "scriptName" : "index.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_foo",
+      "message" : "4",
+      "timestamp" : "2020-10-07 10:19:58.040 -0600",
+      "identifier" : "Log",
+      "scriptName" : "index.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_foo",
+      "message" : "3",
+      "timestamp" : "2020-10-07 10:19:58.046 -0600",
+      "identifier" : "Log",
+      "scriptName" : "index.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_foo",
+      "message" : "2",
+      "timestamp" : "2020-10-07 10:19:58.050 -0600",
+      "identifier" : "Log",
+      "scriptName" : "index.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_foo",
+      "message" : "1",
+      "timestamp" : "2020-10-07 10:19:58.053 -0600",
+      "identifier" : "Log",
+      "scriptName" : "index.script",
+      "handlerLine" : 3
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.894457\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-10-07 10:19:57 -0600\", Successes:\"1\", TestCase:\"index.script\", Warnings:\"0\")",
+      "timestamp" : "2020-10-07 10:19:58.735 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 index.script",
+      "timestamp" : "2020-10-07 10:19:58.744 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-10-07 10:19:57.839 -0600"
+}

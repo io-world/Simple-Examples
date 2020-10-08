@@ -1,0 +1,17 @@
+﻿Properties
+
+	name:"Charlie Brown",
+	birthDate:"May 14, 1942",
+	hairColor: "brown",
+	numberOfSiblings:1,
+	helpers: ("Linus", "Lucy")
+	
+end properties
+
+
+on initialize
+
+	put (Fruit:"Banana",Address:"321 Main St") into My Information
+	add properties (time:"12:00", priority:"Normal") to me
+	
+end initialize

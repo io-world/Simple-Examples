@@ -1,0 +1,18 @@
+﻿//Based onRun "Example Post Json"
+
+
+
+
+
+put JSONFormat({"Foot":"shake"}) into requestbody
+
+
+
+
+Example_OverLoad(httpMethod:"POST",url:"https://postman-echo.com/post",requestBodyFormat:"JSON (application/json)",requestBody:requestbody)
+
+
+put JSONValue(api().responseBody) into responseBody
+
+log api().statusCode
+log responseBody.data

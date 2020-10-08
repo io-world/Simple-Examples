@@ -1,0 +1,8 @@
+﻿
+
+
+
+put ("asd","ddd","fff") into blah
+
+
+log the item number of "asd" within blah

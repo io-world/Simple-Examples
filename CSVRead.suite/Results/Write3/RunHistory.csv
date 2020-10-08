@@ -1,0 +1,23 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2020-03-12 02:33:00 +0000,"Failure",0:00:00,1,0,0,"20200311_213300.165/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'testing123' and ''",0
+2020-03-12 02:33:07 +0000,"Failure",0:00:00,1,0,0,"20200311_213307.654/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'testing123' and ''",0
+2020-03-12 02:34:35 +0000,"Failure",0:00:00,1,0,0,"20200311_213435.568/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'first_name'",0
+2020-03-12 02:35:39 +0000,"Failure",0:00:00,1,0,0,"20200311_213539.174/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'testing123' and ''",0
+2020-03-12 02:36:12 +0000,"Failure",0:00:00,1,0,0,"20200311_213612.363/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'testing123' and ''",0
+2020-03-12 02:36:30 +0000,"Failure",0:00:00,1,0,0,"20200311_213630.714/LogFile.txt","","InvalidCommandOrRange -- Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters)",0
+2020-03-12 02:36:37 +0000,"Success",0:00:00,0,0,0,"20200311_213637.667/LogFile.txt","","",1
+2020-03-12 02:39:07 +0000,"Failure",0:00:00,1,0,0,"20200311_213907.458/LogFile.txt","","STTableError -- Value can't become a database table: asdas",0
+2020-03-12 02:41:28 +0000,"Success",0:00:00,0,0,0,"20200311_214128.061/LogFile.txt","","",1
+2020-03-12 02:41:59 +0000,"Success",0:00:00,0,0,0,"20200311_214159.469/LogFile.txt","","",1
+2020-03-12 02:42:39 +0000,"Failure",0:00:00,1,0,0,"20200311_214239.426/LogFile.txt","","STTableError -- Table has no database connection info: (Last_Name:""testing456"", ob...",0
+2020-03-12 02:44:17 +0000,"Success",0:00:00,0,0,0,"20200311_214417.355/LogFile.txt","","",1
+2020-03-12 02:44:55 +0000,"Success",0:00:00,0,0,0,"20200311_214455.079/LogFile.txt","","",1
+2020-03-12 03:57:44 +0000,"Success",0:00:01,0,0,0,"20200311_225744.611/LogFile.txt","","",1
+2020-03-12 03:58:11 +0000,"Success",0:00:01,0,0,0,"20200311_225811.488/LogFile.txt","","",1
+2020-03-12 03:58:48 +0000,"Success",0:00:01,0,0,0,"20200311_225848.878/LogFile.txt","","",1
+2020-03-12 04:06:52 +0000,"Failure",0:00:01,1,0,0,"20200311_230652.910/LogFile.txt","","STTableError -- Table has no database connection info: (Last_Name:""testing456"", ob...",0
+2020-03-12 04:07:10 +0000,"Failure",0:00:01,1,0,0,"20200311_230710.176/LogFile.txt","","STTableError -- Table has no database connection info: (Last_Name:""testing456"", ob...",0
+2020-03-12 04:09:01 +0000,"Success",0:00:01,0,0,0,"20200311_230901.631/LogFile.txt","","",1
+2020-03-12 04:09:38 +0000,"Success",0:00:01,0,0,0,"20200311_230938.382/LogFile.txt","","",1
+2020-03-12 04:09:56 +0000,"Success",0:00:01,0,0,0,"20200311_230956.778/LogFile.txt","","",1
+2020-03-12 04:16:50 +0000,"Success",0:00:01,0,0,0,"20200311_231650.121/LogFile.txt","","",1

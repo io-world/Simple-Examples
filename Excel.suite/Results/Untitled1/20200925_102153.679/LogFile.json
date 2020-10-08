@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled1.script",
+      "timestamp" : "2020-09-25 10:21:53.686 -0600"
+    },
+    {
+      "handlerName" : "on_untitled1",
+      "message" : "file,name,type\\n\/Users\/randyhesse\/Documents\/Simple_Examples\/Excel.suite\/Resources\/WebFormData2.xlsx,PatientList,excel\\n",
+      "timestamp" : "2020-09-25 10:21:53.872 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Untitled1.script",
+      "handlerLine" : 4
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.781365\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-09-25 10:21:53 -0600\", Successes:\"1\", TestCase:\"Untitled1.script\", Warnings:\"0\")",
+      "timestamp" : "2020-09-25 10:21:55.471 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 Untitled1.script",
+      "timestamp" : "2020-09-25 10:21:55.511 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-09-25 10:21:53.688 -0600"
+}

@@ -1,0 +1,6 @@
+﻿2019-10-17 10:04:58.597 -0700	START		Running Libraries/Login.script	14	on_index	Index.script
+2019-10-17 10:04:58.601 -0700	Log		Nick	4	on_libraries_login	Libraries/Login.script
+2019-10-17 10:04:58.603 -0700	Log		P@$$word	5	on_libraries_login	Libraries/Login.script
+2019-10-17 10:04:59.320 -0700	typetext		username	13	on_libraries_login	Libraries/Login.script
+2019-10-17 10:05:00.118 -0700	EndTestCase		(Duration:"1.518995", Errors:"0", Exceptions:"0", StartTime:"2019-10-17 10:04:58 -0700", Successes:"1", TestCase:"Libraries/Login.script", Warnings:"0")	14	on_index	Index.script
+2019-10-17 10:05:00.137 -0700	SUCCESS		Execution Time 0:00:01 Libraries/Login.script	14	on_index	Index.script

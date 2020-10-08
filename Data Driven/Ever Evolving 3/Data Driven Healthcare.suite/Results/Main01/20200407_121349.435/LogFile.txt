@@ -1,0 +1,6 @@
+﻿2020-04-07 12:13:49.438 -0600	START		Running Main01.script
+2020-04-07 12:13:49.720 -0600	connect		Tutorial Connection:(null)	1	on_libraries_sutconnect	Libraries/SUTConnect.script
+2020-04-07 12:13:49.738 -0600	runwithnewresults		Zero.script (/Users/randyhesse/Documents/Simple Examples/Data Driven/Ever Evolving 3/Data Driven Healthcare.suite/Results/States/Zero/20200407_121349.736/LogFile.txt)	5	on_main01	Main01.script
+2020-04-07 12:13:50.050 -0600	Log			12	on_main01	Main01.script
+2020-04-07 12:13:50.479 -0600	EndTestCase		(Duration:"1.038273", Errors:"1", Exceptions:"0", StartTime:"2020-04-07 12:13:49 -0600", Successes:"1", TestCase:"Main01.script", Warnings:"0")
+2020-04-07 12:13:50.557 -0600	FAILURE	Screen_Error.png	STInvalidNumber Value is not a number: '' -- Execution Time 0:00:01 Main01.script

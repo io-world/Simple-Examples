@@ -1,0 +1,25 @@
+﻿
+
+
+put new "CSVClass" into CC
+
+(*
+(CC).OverWriteCSV True
+(CC).CreateCSV ("blah")
+(CC).DeleteCSV ("blah")
+put ("hello","welcome","what") into NewHeader
+(CC).CreateHeaders (NewHeader)
+*)
+
+(CC).SelectCSV ("blah")
+
+log (CC).GetHeaders
+
+
+put ("go","foo","into") into Data1
+(CC).DataIN (Data1)
+
+
+
+put ("go2","foo2","into3") into Data1
+(CC).DataIN (Data1)

@@ -1,0 +1,4 @@
+﻿2020-04-07 12:56:42.653 -0600	START		Running Untitled.script
+2020-04-07 12:56:42.865 -0600	Log		{@"Date of Birth":"6/13/06", @"First Name":"Bruce", Gender:"Male", @"Last Name":"Wayne", @"Marital Status":"Single", @"Medical Record Number":"222222", @"Middle Name":"B", Prefix:"Mr", @"Social Security Number":"113-83-3798"}	5	on_untitled	Untitled.script
+2020-04-07 12:56:43.307 -0600	EndTestCase		(Duration:"0.651854", Errors:"0", Exceptions:"0", StartTime:"2020-04-07 12:56:42 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2020-04-07 12:56:43.334 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

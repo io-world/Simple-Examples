@@ -1,0 +1,7 @@
+﻿//Go back to the home screen of the amazon application
+click "amazon_Header"
+waitfor 15, "HomeScreenIcon"
+//Clean up the test environment 
+killapp (global AppList.(global DeviceList.(global DeviceName)))
+return Pass
+

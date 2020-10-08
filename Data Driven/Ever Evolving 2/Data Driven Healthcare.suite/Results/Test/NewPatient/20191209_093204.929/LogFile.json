@@ -1,0 +1,93 @@
+{
+  "entries" : [
+    {
+      "handlerName" : "on_index",
+      "message" : "Running Test\/NewPatient.script",
+      "timestamp" : "2019-12-09 09:32:04.931 -0700",
+      "identifier" : "START",
+      "scriptName" : "Index.script",
+      "handlerLine" : 19
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "message" : "333333",
+      "timestamp" : "2019-12-09 09:32:04.977 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "message" : "Mrs",
+      "timestamp" : "2019-12-09 09:32:04.978 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 9
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "message" : "Carrie",
+      "timestamp" : "2019-12-09 09:32:04.980 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 10
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "message" : "Underwood",
+      "timestamp" : "2019-12-09 09:32:04.981 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 11
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "message" : "3\/16\/14",
+      "timestamp" : "2019-12-09 09:32:04.983 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "message" : "583-00-6387",
+      "timestamp" : "2019-12-09 09:32:04.984 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 13
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "message" : "Female",
+      "timestamp" : "2019-12-09 09:32:04.985 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 14
+    },
+    {
+      "handlerName" : "on_test_newpatient",
+      "message" : "Married",
+      "timestamp" : "2019-12-09 09:32:04.986 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Test\/NewPatient.script",
+      "handlerLine" : 15
+    },
+    {
+      "handlerName" : "on_index",
+      "message" : "(Duration:\"0.054811\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-12-09 09:32:04 -0700\", Successes:\"1\", TestCase:\"Test\/NewPatient.script\", Warnings:\"0\")",
+      "timestamp" : "2019-12-09 09:32:04.988 -0700",
+      "identifier" : "EndTestCase",
+      "scriptName" : "Index.script",
+      "handlerLine" : 19
+    },
+    {
+      "handlerName" : "on_index",
+      "message" : "Execution Time 0:00:00 Test\/NewPatient.script",
+      "timestamp" : "2019-12-09 09:32:05.048 -0700",
+      "identifier" : "SUCCESS",
+      "scriptName" : "Index.script",
+      "handlerLine" : 19
+    }
+  ],
+  "createdTimestamp" : "2019-12-09 09:32:04.932 -0700"
+}

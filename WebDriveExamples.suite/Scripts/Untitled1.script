@@ -1,0 +1,25 @@
+﻿put "https://www.ada.gov//" into URL
+
+//WebConnect "Windows10WebDriver"
+put the WebDriver into Driver
+put RemoteScreenRectangle() into  Driver.WindowRectangle
+put URL into Driver.url 
+
+
+put findelement(webCssSelector: "#Image2") into element
+log element
+
+
+put element.attribute("width") into element_width
+put element.attribute("alt") into element_alt
+
+log element_width
+
+log element_alt
+
+put element.Rectangle into element_rectangle
+put element.attribute("href") into element_link
+put element.cssProperty("font") into element_Font
+put element.cssProperty("color") into element_Color
+
+log element_Font

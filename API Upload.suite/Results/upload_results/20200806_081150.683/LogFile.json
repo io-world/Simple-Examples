@@ -1,0 +1,68 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running upload_results.script",
+      "timestamp" : "2020-08-06 08:11:50.686 -0600"
+    },
+    {
+      "handlerName" : "on_upload_results",
+      "message" : "Full Result path is: \/Users\/randyhesse\/Documents\/Simple_Examples\/API Upload.suite\/Results\/SomeScript\/20171016_133142.165\/",
+      "timestamp" : "2020-08-06 08:11:51.008 -0600",
+      "identifier" : "Log",
+      "scriptName" : "upload_results.script",
+      "handlerLine" : 24
+    },
+    {
+      "handlerName" : "on_upload_results",
+      "message" : "Full Result files are: [\"Some Screen.png\",\"LogFile.xml\",\"LogFile.txt\"]",
+      "timestamp" : "2020-08-06 08:11:51.016 -0600",
+      "identifier" : "Log",
+      "scriptName" : "upload_results.script",
+      "handlerLine" : 25
+    },
+    {
+      "handlerName" : "on_upload_results",
+      "message" : "Number of files to be uploaded: 3",
+      "timestamp" : "2020-08-06 08:11:51.036 -0600",
+      "identifier" : "Log",
+      "scriptName" : "upload_results.script",
+      "handlerLine" : 30
+    },
+    {
+      "handlerName" : "on_upload_results",
+      "message" : "{\\n  \"message\": \"file uploaded successfully.\", \\n  \"result\": \"success\"\\n}\\n",
+      "timestamp" : "2020-08-06 08:11:51.429 -0600",
+      "identifier" : "Log",
+      "scriptName" : "upload_results.script",
+      "handlerLine" : 38
+    },
+    {
+      "handlerName" : "on_upload_results",
+      "message" : "{\\n  \"message\": \"file uploaded successfully.\", \\n  \"result\": \"success\"\\n}\\n",
+      "timestamp" : "2020-08-06 08:11:51.664 -0600",
+      "identifier" : "Log",
+      "scriptName" : "upload_results.script",
+      "handlerLine" : 38
+    },
+    {
+      "handlerName" : "on_upload_results",
+      "message" : "{\\n  \"message\": \"file uploaded successfully.\", \\n  \"result\": \"success\"\\n}\\n",
+      "timestamp" : "2020-08-06 08:11:51.899 -0600",
+      "identifier" : "Log",
+      "scriptName" : "upload_results.script",
+      "handlerLine" : 38
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.514308\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-06 08:11:50 -0600\", Successes:\"1\", TestCase:\"upload_results.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-06 08:11:52.207 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 upload_results.script",
+      "timestamp" : "2020-08-06 08:11:52.224 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-08-06 08:11:50.693 -0600"
+}

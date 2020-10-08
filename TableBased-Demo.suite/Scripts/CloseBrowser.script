@@ -1,0 +1,6 @@
+# Quit the currently running Windows program
+typetext altkey,f4
+wait 2
+
+# Return pass to the Table or Feature that may call this script
+Return Pass

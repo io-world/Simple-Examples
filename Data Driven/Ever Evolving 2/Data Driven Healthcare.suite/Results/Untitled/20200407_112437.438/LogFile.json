@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.script",
+      "timestamp" : "2020-04-07 11:24:37.440 -0600"
+    },
+    {
+      "handlerName" : "function_buildpatient",
+      "message" : "333333,Mrs,Carrie,B,Underwood,3\/16\/14,583-00-6387,Female,Married",
+      "timestamp" : "2020-04-07 11:24:37.531 -0600",
+      "identifier" : "Log",
+      "scriptName" : "",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "{DateofBirth:\"3\/16\/14\", FirstName:\"Carrie\", Gender:\"Female\", LastName:\"Underwood\", MaritalStatus:\"Married\", MedicalRecordNumber:\"333333\", MiddleName:\"B\", Prefix:\"Mrs\", SocialSecurityNumber:\"583-00-6387\"}",
+      "timestamp" : "2020-04-07 11:24:37.536 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 6
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.391613\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-04-07 11:24:37 -0600\", Successes:\"1\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-07 11:24:37.833 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Untitled.script",
+      "timestamp" : "2020-04-07 11:24:37.858 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-04-07 11:24:37.441 -0600"
+}

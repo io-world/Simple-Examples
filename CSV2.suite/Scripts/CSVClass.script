@@ -1,0 +1,76 @@
+﻿on CreateCSV Filename
+	put Filename &".csv" into Filename
+	put ResourcePath() &"/"&Filename into FilePath
+	put the files of ResourcePath() into ResourceFiles
+	if  ResourceFiles contains  Filename  then
+		answer "A CSV already exist, what would you like to do?" with "Replace" or "Exit Build" title "A CSV already exist"
+		put IT into QuestionAnswered
+	end if
+	
+	if QuestionAnswered = "Exit Build" then
+		Log "You exited the build"
+		exit script
+	else
+		try
+			Delete file FilePath
+		end try
+		
+		Create file FilePath
+		log "Created:"&& FilePath
+	end if	
+	
+	put FilePath into my FilePath
+	
+end CreateCSV
+
+on DeleteCSV Filename
+	
+	if Filename is empty then
+		put FilePath into Filename
+	end if
+	
+	put Filename &".csv" into Filename
+	put ResourcePath() &"/"&Filename into FilePath
+	Delete file FilePath
+	log "Deleted:"&& FilePath
+end DeleteCSV
+
+
+on CreateHeaders HeaderList
+	put HeaderList as a string into HeaderList
+	delete "(" in HeaderList
+	delete ")" in HeaderList
+	open  file my FilePath
+	write HeaderList to file my FilePath
+	close   file my FilePath
+end CreateHeaders
+
+
+on SelectCSV Filename
+	put (type:"CSV", file:ResourcePath(Filename&".csv"), name:"Results",writable: "Yes") into  my TheResouce
+	put  keys(the record of my TheResouce) into GetHeaders
+	put the item number of "_pk_" within GetHeaders into IndexItemNumber
+	delete item IndexItemNumber of  GetHeaders
+	put GetHeaders into my GetHeaders
+end SelectCSV
+
+(*
+
+function GetHeaders
+	return GetHeaders
+end GetHeaders
+*)
+
+
+on DataIN ListIN
+	
+	put the number of items of my GetHeaders into HeaderCount
+	repeat HeaderCount times
+		
+		put item repeatindex() of ListIN into newMember.(item repeatindex() of my GetHeaders)
+		
+	end repeat
+	add record newMember to my TheResouce
+end DataIN
+
+

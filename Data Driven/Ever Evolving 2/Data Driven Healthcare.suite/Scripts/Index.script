@@ -9,6 +9,7 @@ End If
 
 ------------------------------------------------------------------------------------
 
+log (GD).GetUserCount 
 
 repeat (GD).GetUserCount times
 	RunWithNewResults "Libraries/Login" , (GD).GetUser (repeatindex()+1)

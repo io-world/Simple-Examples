@@ -1,0 +1,12 @@
+# This script is designed to execute against a Windows SUT in your local environment or the TestPlant Automation cloud.
+
+# Use the connection instructions provided with your Trial license request to connect one of those SUTs.
+
+# This script calls a series of eggplant Functional scripts to open an Amazon search page, click on a some page elements, verify that the elements were found, and then close the browser
+
+#  This feature is specific to a Windows Desktop
+
+OpenAmazonURL "chrome"
+// You can change the browser to iexplore to see the test run against Internet Explorer.
+OpenBasket
+CloseBrowser 

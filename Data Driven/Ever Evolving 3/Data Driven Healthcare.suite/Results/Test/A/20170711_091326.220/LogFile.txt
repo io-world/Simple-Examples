@@ -1,0 +1,18 @@
+﻿2017-07-11 09:13:26.221 -0600	START		Running Test/A.script
+2017-07-11 09:13:26.268 -0600	Log		code for Navigation for TestA 	6	on_test_a	Test/A.script
+2017-07-11 09:13:26.395 -0600	click	Test/A/Contacts	at (51, 600)	9	on_test_a	Test/A.script
+2017-07-11 09:13:26.413 -0600	Log		The Content Name is: Test/A/Contacts/Contacts 01.png	2	on_content	Modules/Verify.script
+2017-07-11 09:13:26.442 -0600	imagefound	Test/A/Contacts/Contacts 01.png	found at (51, 600)	22	on_content	Modules/Verify.script
+2017-07-11 09:13:26.444 -0600	Log		Image was found: Test/A/Contacts/Contacts 01.png	23	on_content	Modules/Verify.script
+2017-07-11 09:13:26.462 -0600	Log		The Content Name is: Test/A/Contacts/Contacts 02.png	2	on_content	Modules/Verify.script
+2017-07-11 09:13:28.557 -0600	imagefound	Test/A/Contacts/Contacts 02.png	Unable to Find Image Test/A/Contacts/Contacts 02.png	22	on_content	Modules/Verify.script
+2017-07-11 09:13:28.559 -0600	LogWarning		Image was NOT found: Test/A/Contacts/Contacts 02.png	25	on_content	Modules/Verify.script
+2017-07-11 09:13:28.563 -0600	Log		The Content Name is: Tap the buttons	2	on_content	Modules/Verify.script
+2017-07-11 09:13:29.923 -0600	imagefound	(TEXT:"Tap the buttons")	found at (95, 242)	16	on_content	Modules/Verify.script
+2017-07-11 09:13:29.924 -0600	Log		Text was found: Tap the buttons	17	on_content	Modules/Verify.script
+2017-07-11 09:13:30.107 -0600	click	Test/A/Favorites/Favorites 01	at (159, 601)	22	on_test_a	Test/A.script
+2017-07-11 09:13:30.113 -0600	Log		The Content Name is: plan	2	on_content	Modules/Verify.script
+2017-07-11 09:13:33.699 -0600	imagefound	(TEXT:"plan")	Unable to Find Image (TEXT:"plan")	16	on_content	Modules/Verify.script
+2017-07-11 09:13:33.700 -0600	LogWarning		Text was NOT found: plan	19	on_content	Modules/Verify.script
+2017-07-11 09:13:33.901 -0600	EndTestCase		(Duration:"7.678801", Errors:"0", Exceptions:"0", StartTime:"2017-07-11 09:13:26 -0600", Successes:"1", TestCase:"Test/A.script", Warnings:"2")
+2017-07-11 09:13:33.916 -0600	SUCCESS		Execution Time 0:00:07 Test/A.script

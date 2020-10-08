@@ -1,0 +1,10 @@
+﻿
+
+put "blue" into NC
+
+put 1 into var.(NC)
+
+
+add 1 to var.(NC)
+
+log var.blue

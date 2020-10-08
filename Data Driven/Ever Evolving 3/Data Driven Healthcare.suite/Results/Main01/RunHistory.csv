@@ -1,0 +1,14 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2017-07-03 13:59:40.979 -0600,"Failure",0:00:01,1,0,1,"20170703_135940.979/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Test/A/Contacts",0
+2017-08-16 16:27:30.164 -0600,"Success",0:07:30,0,0,0,"20170816_162730.164/LogFile.txt","","",1
+2017-11-01 18:56:43.259 -0600,"Success",0:00:00,0,0,0,"20171101_185643.259/LogFile.txt","","",1
+2017-11-01 18:58:11.099 -0600,"Success",0:08:19,0,0,0,"20171101_185811.099/LogFile.txt","","",1
+2019-10-17 17:04:57 +0000,"Aborted",0:00:05,1,0,0,"20191017_100457.978/LogFile.txt","","",0
+2019-12-09 16:26:50 +0000,"Failure",0:00:00,1,0,0,"20191209_092650.597/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'sut'",0
+2019-12-09 16:28:08 +0000,"Success",0:00:01,0,0,0,"20191209_092808.106/LogFile.txt","","",1
+2019-12-09 16:28:13 +0000,"Success",0:00:02,0,0,0,"20191209_092813.653/LogFile.txt","","",1
+2019-12-09 16:31:33 +0000,"Aborted",0:01:58,1,0,0,"20191209_093133.634/LogFile.txt","","",0
+2020-04-07 11:33:25.405 -0600,"Aborted",0:00:22,1,0,0,"20200407_113325.405/LogFile.txt","","",0
+2020-04-07 12:13:49.435 -0600,"Failure",0:00:01,1,0,0,"20200407_121349.435/LogFile.txt","","STInvalidNumber -- Value is not a number: ''",0
+2020-04-07 12:14:00.565 -0600,"Failure",0:00:12,1,0,1,"20200407_121400.565/LogFile.txt","","Error Running Script Command -- scriptresults Error - Unable to locate script named: index",0
+2020-04-07 12:16:53.957 -0600,"Failure",0:00:02,1,0,1,"20200407_121653.957/LogFile.txt","","Error Running Script Command -- scriptresults Error - Unable to locate script named: index",0

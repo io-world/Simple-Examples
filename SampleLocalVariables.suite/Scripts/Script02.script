@@ -1,0 +1,6 @@
+﻿params DataInput01, DataInput02
+
+
+log "From Script 02"
+log DataInput01
+log DataInput02

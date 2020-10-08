@@ -1,0 +1,17 @@
+﻿
+
+
+
+
+
+// Creates 20 Patients put them in WebFOrmData2.csv
+put "GeneratePatient" (20) into PatientList 
+CreateCSV "WebFormData2",PatientList
+
+
+
+
+//From WebFormData2 it will process the patient on the specfics days
+put "ProcessingMain" ("WebFormData2") into FinalPatientList
+CreateCSV "WebFormDataFinal",FinalPatientList
+// Creat the out put of all the patients

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Examples/Examples/Example4">
+ <run>
+  <RunDate>2020-04-07 12:56:47.416 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.515049</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200407_125647.416/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;setupfiles&#x27;</ErrorMessage>
+ </run>
+</runHistory>

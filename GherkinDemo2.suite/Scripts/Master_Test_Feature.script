@@ -1,0 +1,14 @@
+﻿params  input_environment
+
+
+
+
+if input_environment = "QA" then
+	RunFeature "Test_Feature",  "@QA"
+else if input_environment = "UAT" then
+	
+	RunFeature "Test_Feature",  "@UAT"
+else
+	log "NOPE"
+end if
+

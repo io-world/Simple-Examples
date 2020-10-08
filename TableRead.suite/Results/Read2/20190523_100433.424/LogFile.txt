@@ -1,0 +1,29 @@
+﻿2019-05-23 10:04:33.426 -0600	START		Running Read2.script
+2019-05-23 10:04:33.866 -0600	imagelocation	Show	at (28, 87)	1	on_read2	Read2.script
+2019-05-23 10:04:33.878 -0600	moveto		at (28, 187)	1	on_read2	Read2.script
+2019-05-23 10:04:34.911 -0600	imagelocation	Show	at (28, 87)	4	on_read2	Read2.script
+2019-05-23 10:04:35.035 -0600	readtext		(368,127,698,152)
+2019-05-23 10:04:36.036 -0600	Log		System Architect	13	on_read2	Read2.script
+2019-05-23 10:04:36.074 -0600	readtext		(368,154,698,179)
+2019-05-23 10:04:37.078 -0600	Log		Accountant	13	on_read2	Read2.script
+2019-05-23 10:04:37.129 -0600	readtext		(368,181,698,206)
+2019-05-23 10:04:38.133 -0600	Log		Junior Technical Au	13	on_read2	Read2.script
+2019-05-23 10:04:38.169 -0600	readtext		(368,208,698,233)
+2019-05-23 10:04:39.170 -0600	Log		Senior Javascript D	13	on_read2	Read2.script
+2019-05-23 10:04:39.204 -0600	readtext		(368,235,698,260)
+2019-05-23 10:04:40.206 -0600	Log		Accountant	13	on_read2	Read2.script
+2019-05-23 10:04:40.244 -0600	readtext		(368,262,698,287)
+2019-05-23 10:04:41.249 -0600	Log		Integration Special!	13	on_read2	Read2.script
+2019-05-23 10:04:41.279 -0600	readtext		(368,289,698,314)
+2019-05-23 10:04:42.283 -0600	Log		Sales Assistant	13	on_read2	Read2.script
+2019-05-23 10:04:42.318 -0600	readtext		(368,316,698,341)
+2019-05-23 10:04:43.324 -0600	Log		Integration Special!	13	on_read2	Read2.script
+2019-05-23 10:04:43.359 -0600	readtext		(368,343,698,368)
+2019-05-23 10:04:44.361 -0600	Log		Javascript Develop*	13	on_read2	Read2.script
+2019-05-23 10:04:44.412 -0600	readtext		(368,370,698,395)
+2019-05-23 10:04:45.413 -0600	Log		Software Engineer	13	on_read2	Read2.script
+2019-05-23 10:04:45.415 -0600	LogError		Could Not Find Positions Name	17	on_read2	Read2.script
+2019-05-23 10:04:45.417 -0600	Log		(368,370)	26	on_read2	Read2.script
+2019-05-23 10:04:45.430 -0600	moveto		at (248, 380)	27	on_read2	Read2.script
+2019-05-23 10:04:45.645 -0600	EndTestCase		(Duration:"12.217587", Errors:"1", Exceptions:"0", StartTime:"2019-05-23 10:04:33 -0600", Successes:"0", TestCase:"Read2.script", Warnings:"0")
+2019-05-23 10:04:46.112 -0600	FAILURE	Screen_Error.png	Script Error Number of Errors logged: 1 -- Execution Time 0:00:12 Read2.script

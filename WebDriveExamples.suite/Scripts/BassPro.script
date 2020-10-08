@@ -1,0 +1,38 @@
+﻿put "https://www.basspro.com/" into URL
+
+//WebConnect "Windows10WebDriver"
+put the WebDriver into Driver
+put RemoteScreenRectangle() into  Driver.WindowRectangle
+put URL into Driver.url 
+
+
+put findelement(webCssSelector: "#ci_espot__HeaderESpotTab3-Content > div > a") into element
+//log element
+
+
+put element.Rectangle into element_rectangle
+put element.attribute("href") into element_link
+put element.cssProperty("font") into element_Font
+put element.cssProperty("color") into element_Color
+
+log element_Font
+
+delete "," in element_Font
+delete " /" in element_Font
+split element_Font by " "
+delete "rgba" in element_Color
+delete ", 1" in element_Color
+put item 5 of element_Font into element_font_size
+
+
+if  element_font_size = "16px" then
+	logsuccess "Font Size is correct" && element_font_size
+else
+	logwarning "fontSize is wrong"
+end if
+
+if element_Color = "(255, 255, 255)" then 
+	LogSuccess "Font Color is correct" 
+else
+	logwarning "color is off" 
+end if

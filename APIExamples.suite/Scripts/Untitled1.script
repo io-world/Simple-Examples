@@ -1,0 +1,8 @@
+﻿
+
+put "hello" into var
+waitfor 4, text:var, SearchRectangle:(327,94,406,157)
+
+
+put "hello" into var
+waitfor 4, text:var , SearchRectangle:(327,94,406,157)

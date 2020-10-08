@@ -1,0 +1,9 @@
+﻿properties
+	boPeak:"BO PEAK",
+	boPeakMax:"BO PEAK MAX",
+	boReg:"BO REGULAR",
+	boRegMax:"BO REG MAX",
+	boValue:"BO VALUE",
+	boValueMax:(text:"BO VALUE MAX",SearchRectangle:(5,186,231,280),TextDifference:2)
+end properties
+

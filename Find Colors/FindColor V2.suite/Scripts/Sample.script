@@ -1,0 +1,34 @@
+﻿
+put new "PixelData"  with (ColorSquare:(288,266,427,403))into ITPairs
+put new "PixelData"  with (ColorSquare:(541,264,691,414))into ITLFlows
+put new "PixelData"  with (ColorSquare:(844,268,993,407))into Storage
+put new "PixelData"  with (ColorSquare:(1113,269,1262,408))into Hosts
+
+
+
+
+put (239,32,0) into Defined_Red
+put (255,113,0) into Defined_Orange
+put (123,186,90) into Defined_Green
+put (255,207,0) into Defined_Yellow
+
+log  (ITPairs).PixelMatch (color:(Defined_Red),tolerance:10) 
+log  (ITPairs).PixelMatch (color:(Defined_Orange),tolerance:10) 
+log  (ITPairs).PixelMatch (color:(Defined_Green),tolerance:10) 
+log  (ITPairs).PixelMatch (color:(Defined_Yellow),tolerance:10)
+
+log  (ITLFlows).PixelMatch (color:(Defined_Red),tolerance:10) 
+log  (ITLFlows).PixelMatch (color:(Defined_Orange),tolerance:10) 
+log  (ITLFlows).PixelMatch (color:(Defined_Green),tolerance:10) 
+log  (ITLFlows).PixelMatch (color:(Defined_Yellow),tolerance:10)
+
+log  (Storage).PixelMatch (color:(Defined_Red),tolerance:10) 
+log  (Storage).PixelMatch (color:(Defined_Orange),tolerance:10) 
+log  (Storage).PixelMatch (color:(Defined_Green),tolerance:10) 
+log  (Storage).PixelMatch (color:(Defined_Yellow),tolerance:10)
+
+
+log  (Hosts).PixelMatch (color:(Defined_Red),tolerance:10) 
+log  (Hosts).PixelMatch (color:(Defined_Orange),tolerance:10) 
+log  (Hosts).PixelMatch (color:(Defined_Green),tolerance:10) 
+log  (Hosts).PixelMatch (color:(Defined_Yellow),tolerance:10)

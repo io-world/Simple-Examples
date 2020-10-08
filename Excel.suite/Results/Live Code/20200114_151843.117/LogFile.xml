@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Live Code_script" package="Excel.suite" timestamp="2020-01-14 23:18:43 +0000"
+ tests="1"  failures="1" errors="0" time="0.758103">
+  <properties>
+   <property name="RunDate" value="2020-01-14 23:18:43 +0000"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Live Code.script" assertions="1" status="failure"  time="0.75318">
+    <failure type="FAILURE" message="STTableError Value can't become a database table: Worksheet(&quot;PatientList&quot;) of... -- Execution Time 0:00:00 Live Code.script" />
+  </testcase>
+ </testsuite>
+</testsuites>
