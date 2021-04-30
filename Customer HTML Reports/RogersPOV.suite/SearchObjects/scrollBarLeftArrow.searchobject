@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1615951620.6868238,
+  "ocrcapturestring" : "<",
+  "testlocationdata" : [
+    {
+      "name" : "scrollBarLeftArrow.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "<",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[8,5]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        0,
+        673,
+        66,
+        13
+      ]
+    }
+  ],
+  "createddate" : 1615951620.6868229,
+  "lastfoundlocation" : [
+    0,
+    673,
+    66,
+    13
+  ],
+  "originalcapturelocation" : [
+    0,
+    673,
+    66,
+    13
+  ],
+  "lastfounddate" : 1615998894.9061708,
+  "name" : "scrollBarLeftArrow"
+}

@@ -1,0 +1,24 @@
+﻿{
+    CaptureDate = "2021-03-17 05:20:50 +0000";
+    CaptureHost = Windows10;
+    CaptureScreenSize =     (
+        1024,
+        768
+    );
+    HasAlpha = 1;
+    HotSpotX = 35;
+    HotSpotY = 8;
+    ImageDescription = {length = 0, bytes = 0x};
+    ImageTolerance = 41;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 45;
+    OriginalLocationY = 356;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+    SearchObjectName = "Filter_SearchItems2";
+    tags =     (
+    );
+}

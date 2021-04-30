@@ -11,8 +11,8 @@ put keys of ClickOCR into OCRKeys
 insert "Text" before item 1 of OCRKeys
 delete item 4 of OCRKeys
 
-//log ClickOCR
-//log OCRKeys
+log ClickOCR
+log OCRKeys
 
 
 
@@ -22,7 +22,7 @@ repeat max times
 	put item repeatindex() of OCRKeys into key1
 	put clickOCR.(key1)into PROP.(key1)
 	
-	//log PROP
+	log PROP
 	//click PROP
 	
 	(*if ImageFound(PROP) then

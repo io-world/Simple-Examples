@@ -1,0 +1,17 @@
+﻿
+
+
+put "https://www.ada.gov//" into URL
+
+
+put the WebDriver into Driver
+
+put URL into Driver.url 
+
+//---
+set the WebDriver's url to "https://www.chase.com"
+//------
+put "https://www.chase.com" into the WebDriver's url 
+
+
+put "https://www.chase.com" into (the WebDriver).url 

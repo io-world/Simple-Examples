@@ -1,0 +1,21 @@
+﻿{
+    CaptureDate = "2021-03-03 22:13:37 +0000";
+    CaptureHost = Windows10;
+    CaptureScreenSize =     (
+        1024,
+        768
+    );
+    HasAlpha = 1;
+    HotSpotX = 43;
+    HotSpotY = 26;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 206;
+    OriginalLocationY = 559;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = "RSP_SpeedtestGo/RSP_SpeedtestGo_leftHalf";
+    tags =     (
+    );
+}

@@ -1,0 +1,27 @@
+﻿
+
+
+
+
+put "/Users/ranhesse/Documents/Simple_Examples/Customer HTML Reports/Sample Suite.suite/Results/Workflow01/20210301_194416.595/logfile.json" into LogPath
+put "index.html" into ReportName
+put "table.html" into Tablename
+put "Eggplant" into CompanyName
+put "Boulder, CO" into Location
+put "Randy Hesse" into Author
+put "Randy.hesse@keysight.com" into email
+put "(303) 555-0614" into TelephoneNumber
+put "/Users/ranhesse/Documents/Simple_Examples/Customer HTML Reports/NewReport" into NewLocation
+//---------------
+
+
+put new  "Utilities/BuildReports" into BR
+(BR).DefineLocation NewLocation
+(BR).DefineLogs LogPath
+(BR).BasicInfo CompanyName,Location,Author,email,TelephoneNumber
+
+(BR).BuildStatistics
+
+(BR).BuildFramework
+(BR).HTMLTable Tablename
+(BR).HTMLReport ReportName

@@ -1,0 +1,15 @@
+﻿{
+    EPVersionNumber = 2101270001;
+    Schedules =     (
+    );
+    ScriptMetaData =     {
+    };
+    SuiteEncodedTextKey = "9=8;W3P@/[dZ8;j$";
+    helpedSuitesInfo =     (
+    );
+    helperSuitesInfo =     (
+                {
+            filePath = "/Users/danielso/Documents/EPF Suites/Reporting.suite";
+        }
+    );
+}

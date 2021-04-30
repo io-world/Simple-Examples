@@ -1,0 +1,8 @@
+﻿2021-04-22 10:21:37.103 -0600	START		Running OpenWebPage.script
+2021-04-22 10:21:37.176 -0600	typetext		[windowsKey]r	1	on_openwebpage	OpenWebPage.script
+2021-04-22 10:21:38.024 -0600	typetext		chrome.exe[returnKey]	2	on_openwebpage	OpenWebPage.script
+2021-04-22 10:21:41.177 -0600	waitfor	Refresh Icon	found at (85, 51)	3	on_openwebpage	OpenWebPage.script
+2021-04-22 10:21:41.201 -0600	typetext		[controlKey]l	4	on_openwebpage	OpenWebPage.script
+2021-04-22 10:21:42.092 -0600	typetext		www.amazon.com[enter]	6	on_openwebpage	OpenWebPage.script
+2021-04-22 10:21:42.174 -0600	EndTestCase		(Duration:"5.07006", Errors:"0", Exceptions:"0", StartTime:"2021-04-22 10:21:37 -0600", Successes:"1", TestCase:"OpenWebPage.script", Warnings:"0")
+2021-04-22 10:21:42.181 -0600	SUCCESS		Execution Time 0:00:05 OpenWebPage.script

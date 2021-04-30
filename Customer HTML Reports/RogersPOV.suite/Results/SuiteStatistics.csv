@@ -1,0 +1,6 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+twoSUTconnections,Success,3,0,2021-02-08 10:21:01 -0700,2021-02-08 10:30:13 -0700,0:00:32
+LTEhandover,Success,4,2,2021-03-16 21:42:00 -0600,2021-03-17 15:54:30 -0600,0:26:23
+repeatLoop,Success,1,0,2021-02-10 09:11:34 -0700,2021-02-10 09:11:34 -0700,0:00:00
+errorReporting,Success,3,1,2021-03-03 15:07:28 -0700,2021-03-04 09:18:35 -0700,0:02:14
+MainTestCase,Failure,13,7,2021-04-15 10:55:31 -0600,2021-04-26 09:56:59 -0600,0:00:20

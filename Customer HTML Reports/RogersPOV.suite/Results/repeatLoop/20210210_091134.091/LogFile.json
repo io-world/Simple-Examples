@@ -1,0 +1,20 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running repeatLoop.script",
+      "timestamp" : "2021-02-10 09:11:34.093 -0700"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.394615\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-02-10 09:11:34 -0700\", Successes:\"1\", TestCase:\"repeatLoop.script\", Warnings:\"0\")",
+      "timestamp" : "2021-02-10 09:11:34.492 -0700"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 repeatLoop.script",
+      "timestamp" : "2021-02-10 09:11:34.505 -0700"
+    }
+  ],
+  "createdTimestamp" : "2021-02-10 09:11:34.095 -0700"
+}

@@ -1,0 +1,23 @@
+﻿2021-03-17 11:30:55.938 -0600	START		Running LTEhandover.script
+2021-03-17 11:30:56.271 -0600	typetext		[windowsKey]r	6	on_ltehandover	LTEhandover.script
+2021-03-17 11:30:58.855 -0600	typetext		C:\Users\eggplantTest\Desktop\LTE Handover.ods[returnKey]	7	on_ltehandover	LTEhandover.script
+2021-03-17 11:31:03.735 -0600	waitfor	LTEHandover_SheetOpen	found at (46, 11)	8	on_ltehandover	LTEhandover.script
+2021-03-17 11:31:03.747 -0600	typetext		[homeKey]	11	on_ltehandover	LTEhandover.script
+2021-03-17 11:31:03.755 -0600	set		SEARCHRECTANGLE = [[0,384],[1024,768]]	14	on_ltehandover	LTEhandover.script
+2021-03-17 11:31:13.682 -0600	everyimagelocation	(TEXT:"Messaging -")	found 3 images	15	on_ltehandover	LTEhandover.script
+2021-03-17 11:31:13.770 -0600	click		at (314, 698)	16	on_ltehandover	LTEhandover.script
+2021-03-17 11:31:13.772 -0600	set		SEARCHRECTANGLE = []	17	on_ltehandover	LTEhandover.script
+2021-03-17 11:31:21.518 -0600	imagefound	autoFilterButton	Unable to Find Image autoFilterButton	24	on_ltehandover	LTEhandover.script
+2021-03-17 11:31:22.312 -0600	click	ColumnA_FilterSelection	at (148, 179)	27	on_ltehandover	LTEhandover.script
+2021-03-17 11:31:25.008 -0600	imagefound	Filter_UncheckAll	found at (47, 550)	30	on_ltehandover	LTEhandover.script
+2021-03-17 11:31:25.917 -0600	click	Filter_UncheckAll	at (47, 550)	31	on_ltehandover	LTEhandover.script
+2021-03-17 11:31:57.532 -0600	click	Filter_SearchTopRow	at (80, 398)	32	on_ltehandover	LTEhandover.script
+2021-03-17 11:32:58.810 -0600	set		SEARCHRECTANGLE = ["Filter_SearchArea_TL","Filter_SearchArea_BR"]	34	on_ltehandover	LTEhandover.script
+2021-03-17 11:33:11.933 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	35	on_ltehandover	LTEhandover.script
+2021-03-17 11:33:11.950 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 11:33:23.227 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 11:33:23.245 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 11:33:34.665 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 11:33:34.685 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 11:33:37.947 -0600	EndTestCase		(Duration:"162.007132", Errors:"1", Exceptions:"0", StartTime:"2021-03-17 11:30:55 -0600", Successes:"0", TestCase:"LTEhandover.script", Warnings:"0")
+2021-03-17 11:33:37.950 -0600	ABORTED		Execution Time 0:02:42 LTEhandover.script

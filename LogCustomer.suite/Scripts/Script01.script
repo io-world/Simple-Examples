@@ -1,0 +1,13 @@
+﻿TypeText windowsKey &"r"
+TypeText "chrome.exe", returnKey
+WaitFor 8.0, "RefreshIcon"
+TypeText controlKey &"l"
+TypeText "www.amazon.com" , returnkey
+WaitFor 8.0, "amazonLogo"
+WaitFor 8.0, "RefreshIcon"
+Click "Magnifying Glass"
+TypeText "Flashlight", returnkey
+Click (Image:"Light", WaitFor:3.9)
+wait 5
+CaptureScreen (Name: "AmazonBuy Page")
+TypeText controlKey & F4

@@ -1,4 +1,0 @@
-﻿2018-07-25 12:44:04.645 -0600	START		Running Run eAI Model.script
-2018-07-25 12:44:04.967 -0600	Log		A valid token must be passed.	17	on_run_eai_model	Run eAI Model.script
-2018-07-25 12:44:05.420 -0600	EndTestCase		(Duration:"0.773193", Errors:"1", Exceptions:"0", StartTime:"2018-07-25 12:44:04 -0600", Successes:"0", TestCase:"Run eAI Model.script", Warnings:"0")
-2018-07-25 12:44:05.435 -0600	FAILURE		SRUN_InvalidValueExpr Unable to take value of expression 'A valid token must be passed.' (reason: (null)) -- Execution Time 0:00:00 Run eAI Model.script

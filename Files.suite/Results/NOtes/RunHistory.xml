@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="NOtes">
+ <run>
+  <RunDate>2021-02-12 08:21:31.087 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.232333</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210212_082131.087/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;readtexd&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-02-12 08:21:39.166 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.478871</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210212_082139.166/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-02-12 08:22:02.326 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.364138</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210212_082202.326/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-02-12 08:22:37.720 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.393380</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210212_082237.720/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

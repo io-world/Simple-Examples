@@ -1,0 +1,7 @@
+﻿
+
+
+
+
+put FindElements(webXPath: "//a[@href]") into ElementList
+log ElementList

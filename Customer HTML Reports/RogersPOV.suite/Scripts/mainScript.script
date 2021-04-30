@@ -1,0 +1,84 @@
+﻿
+
+
+
+(*to outputTestResults tcResult
+	put ResourcePath("testResults.csv") into theFile
+	open file theFile
+	write tcResult.testcase && "," && tcResult.successes && "," && tcResult.errors && "," && tcResult.exceptions && "," && tcResult.starttime && "," && tcResult.duration && return to file theFile at eof
+	close file theFile
+end outputTestResults*)
+
+(*to logTimeDateStart
+	put ResourcePath("testResults.csv") into theFile
+	open file theFile
+	
+	//write the start date and time to output file
+	write "The Test Suite started running at " && the date && the time && return && return to file theFile
+	
+	//add column headers
+	write "Test Case Name" && "," && "Run Success" && "," && "Run Error" && "," && "Run Exception" && "," && "Run Time" && "," && "Run Duration" && return to file theFile at eof
+	
+	close file theFile
+end logTimeDateStart*)
+
+to placeCall
+	BeginTestCase "placeCall"
+	
+	//this would have your test case steps
+	wait 5
+	If the time > 12 then ------------------- this would be where you set criteria for pass or fail
+		LogSuccess "This test case passes"
+	Else
+		LogWarning "This test case fails"
+	End if
+	EndTestCase "placeCall"
+	
+	set global placeCall to the result
+	HTMLreport.addToHTMLreport global resultsFile, global placeCall
+	
+end placeCall
+
+to speedTest
+	BeginTestCase "speedTest"
+	
+	//this would have your test case steps
+	wait 5
+	If the time > 12 then ------------------- this would be where you set criteria for pass or fail
+		LogSuccess "This test case passes"
+	Else
+		LogWarning "This test case fails"
+	End if
+	EndTestCase "speedTest"
+	
+	set global speedTest to the result
+	HTMLreport.addToHTMLreport global resultsFile, global speedTest
+end speedTest
+
+to handoverSession
+	BeginTestCase "handoverSession"
+	
+	//this would have your test case steps
+	wait 5
+	If the time > 12 then ------------------- this would be where you set criteria for pass or fail
+		LogSuccess "This test case passes"
+	Else
+		LogWarning "This test case fails"
+	End if
+	EndTestCase "handoverSession"
+	
+	set global handoverSession to the result
+	HTMLreport.addToHTMLreport global resultsFile, global handoverSession
+end handoverSession
+
+(*to logTimeDateEnd
+	put ResourcePath("testResults.csv") into theFile
+	open file theFile
+	
+	//write the start date and time to output file
+	write "The Test Suite complete at " && the date && the time to file theFile at eof
+	
+	close file theFile
+end logTimeDateEnd*)
+
+

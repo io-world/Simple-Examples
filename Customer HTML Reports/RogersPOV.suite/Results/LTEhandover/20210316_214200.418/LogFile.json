@@ -1,0 +1,21 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running LTEhandover.script",
+      "timestamp" : "2021-03-16 21:42:00.421 -0600"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.0008\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-03-16 21:42:00 -0600\", Successes:\"0\", TestCase:\"LTEhandover.script\", Warnings:\"0\")",
+      "timestamp" : "2021-03-16 21:42:00.425 -0600"
+    },
+    {
+      "message" : "SenseTalk Compiler Exception in ltehandover:\\nSyntax Error at line 5: Syntax Error - can't understand \"eggplant\" at character 14 -- Execution Time 0:00:00 LTEhandover.script",
+      "timestamp" : "2021-03-16 21:42:01.221 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2021-03-16 21:42:00.423 -0600"
+}

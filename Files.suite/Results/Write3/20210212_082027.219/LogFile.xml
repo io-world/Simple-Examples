@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Write3_script" package="Files.suite" timestamp="2021-02-12 08:20:27.219 -0700"
+ tests="1"  failures="0" errors="0" time="0.208176">
+  <properties>
+   <property name="RunDate" value="2021-02-12 08:20:27.219 -0700"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Write3.script" assertions="1" status="success"  time="0.205433">
+  </testcase>
+ </testsuite>
+</testsuites>

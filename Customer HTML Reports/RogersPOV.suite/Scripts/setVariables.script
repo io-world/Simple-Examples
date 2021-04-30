@@ -1,0 +1,18 @@
+﻿
+
+set Variables to Workbook(ResourcePath("setGlobalVariables.xlsx"))
+set myVariables to Variables.Worksheet("InitialVariables")
+set VariableList to cellRange("B") of myVariables
+
+put the first item of VariableList into global Build
+put the second item of VariableList into global Device
+put the third item of VariableList into global AccountName
+put the fourth item of VariableList into global Password
+put the fifth item of VariableList into global Lab
+
+log global Build
+log global Device
+log global AccountName
+log global Password
+log global Lab
+

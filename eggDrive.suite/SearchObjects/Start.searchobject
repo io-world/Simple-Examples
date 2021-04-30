@@ -1,0 +1,98 @@
+{
+  "lastmodifieddate" : 1617296510.4807839,
+  "ocrcapturestring" : "☆",
+  "testlocationdata" : [
+    {
+      "connectionserverid" : "TutorialSUT",
+      "sutinfo" : {
+        "Type" : "Testplant Tutorial"
+      },
+      "connectionname" : "TutorialSUT",
+      "connectionportnum" : 3389,
+      "domelements" : [
+        {
+          "elementType" : "Button",
+          "elementName" : "ContactsButton",
+          "elementLocation" : "{{9, 578}, {93, 62}}",
+          "elementScale" : 1
+        },
+        {
+          "elementType" : "Button",
+          "elementName" : "FavoritesButton",
+          "elementLocation" : "{{111, 578}, {93, 62}}",
+          "elementScale" : 1
+        },
+        {
+          "elementType" : "Button",
+          "elementName" : "HistoryButton",
+          "elementLocation" : "{{222, 578}, {93, 62}}",
+          "elementScale" : 1
+        },
+        {
+          "elementType" : "Button",
+          "elementName" : "DownloadsButton",
+          "elementLocation" : "{{327, 578}, {93, 62}}",
+          "elementScale" : 1
+        },
+        {
+          "elementType" : "Checkpoint",
+          "elementName" : "Wifi Indicator",
+          "elementLocation" : "{{4, 3}, {82, 22}}",
+          "elementScale" : 1
+        },
+        {
+          "elementType" : "Checkpoint",
+          "elementName" : "Clock",
+          "elementLocation" : "{{174, 4}, {78, 20}}",
+          "elementScale" : 1
+        },
+        {
+          "elementType" : "Checkpoint",
+          "elementName" : "Battery Indicator",
+          "elementLocation" : "{{382, 3}, {42, 24}}",
+          "elementScale" : 1
+        },
+        {
+          "elementType" : "Checkpoint",
+          "elementName" : "Screen Text",
+          "elementLocation" : "{{12, 198}, {326, 60}}",
+          "elementScale" : 1
+        }
+      ],
+      "capturedocrtext" : "☆",
+      "connectiontype" : "RDP",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[25,20]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "name" : "Star.png",
+      "capturerect" : [
+        131,
+        582,
+        50,
+        40
+      ]
+    }
+  ],
+  "createddate" : 1617296294.8490682,
+  "lastfoundlocation" : [
+    131,
+    582,
+    50,
+    40
+  ],
+  "originalcapturelocation" : [
+    131,
+    582,
+    50,
+    40
+  ],
+  "lastfounddate" : 1617296515.2721491,
+  "name" : "Start"
+}

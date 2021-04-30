@@ -1,0 +1,12 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2021-03-16 21:42:00.418 -0600,"Failure",0:00:00,1,0,0,"20210316_214200.418/LogFile.txt","","SenseTalk Compiler Exception -- in ltehandover:\nSyntax Error at line 5: Syntax Error - can't understand ""eggplant"" at character 14",0
+2021-03-16 21:44:03.470 -0600,"Failure",0:00:00,1,0,0,"20210316_214403.470/LogFile.txt","","SenseTalk Compiler Exception -- in ltehandover:\nSyntax Error at line 5: Syntax Error - can't understand ""eggplant"" at character 14",0
+2021-03-17 11:30:55.934 -0600,"Aborted",0:02:42,1,0,0,"20210317_113055.934/LogFile.txt","","",0
+2021-03-17 11:36:58.543 -0600,"Aborted",0:16:24,1,0,0,"20210317_113658.543/LogFile.txt","","",0
+2021-03-17 13:22:45.444 -0600,"Aborted",0:16:19,1,0,0,"20210317_132245.444/LogFile.txt","","",0
+2021-03-17 13:42:58.868 -0600,"Aborted",0:01:10,1,0,1,"20210317_134258.868/LogFile.txt","","",0
+2021-03-17 13:45:32.723 -0600,"Success",0:29:45,0,0,0,"20210317_134532.723/LogFile.txt","","",1
+2021-03-17 15:17:04.987 -0600,"Aborted",0:21:52,1,0,0,"20210317_151704.987/LogFile.txt","","",0
+2021-03-17 15:54:30.095 -0600,"Success",0:23:01,0,0,0,"20210317_155430.095/LogFile.txt","","",1
+2021-03-24 08:31:09.476 -0600,"Aborted",0:00:37,1,0,0,"20210324_083109.476/LogFile.txt","","",0
+2021-03-24 08:32:11.433 -0600,"Aborted",0:00:20,1,0,0,"20210324_083211.433/LogFile.txt","","",0

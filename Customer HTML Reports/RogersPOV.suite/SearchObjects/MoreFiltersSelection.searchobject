@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1615956381.7387838,
+  "ocrcapturestring" : "ore Filters",
+  "testlocationdata" : [
+    {
+      "name" : "MoreFiltersSelection.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "ore Filters",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_69",
+        "HotSpot" : "[50,6]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        317,
+        154,
+        101,
+        13
+      ]
+    }
+  ],
+  "createddate" : 1615956381.7387829,
+  "lastfoundlocation" : [
+    317,
+    154,
+    101,
+    13
+  ],
+  "originalcapturelocation" : [
+    317,
+    154,
+    101,
+    13
+  ],
+  "lastfounddate" : 1615957053.257411,
+  "name" : "MoreFiltersSelection"
+}

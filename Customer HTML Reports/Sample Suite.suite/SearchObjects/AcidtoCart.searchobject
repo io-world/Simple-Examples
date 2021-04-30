@@ -1,0 +1,48 @@
+{
+  "lastmodifieddate" : 1614631402.242348,
+  "ocrcapturestring" : "Acid to Cart",
+  "testlocationdata" : [
+    {
+      "connectionserverid" : "3.17.204.192",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "Randy AWS Server",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "Acid to Cart",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_66",
+        "HotSpot" : "[47,11]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "name" : "AcidtoCart.png",
+      "capturerect" : [
+        1536,
+        599,
+        95,
+        22
+      ]
+    }
+  ],
+  "createddate" : 1614631358.2026949,
+  "lastfoundlocation" : [
+    1499,
+    648,
+    77,
+    15
+  ],
+  "originalcapturelocation" : [
+    1536,
+    599,
+    95,
+    22
+  ],
+  "lastfounddate" : 1618263604.4621139,
+  "name" : "AcidtoCart"
+}

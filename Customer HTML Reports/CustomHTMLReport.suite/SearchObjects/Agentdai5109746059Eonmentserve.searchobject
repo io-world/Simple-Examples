@@ -1,0 +1,49 @@
+{
+  "lastmodifieddate" : 1616082597.9095469,
+  "ocrcapturestring" : "Agent (dai-5.1.0 - 9746059E onment server ronment",
+  "testlocationdata" : [
+    {
+      "connectionserverid" : "18.188.4.44",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "Randy AWS SUT",
+      "connectionportnum" : 3389,
+      "deleted" : true,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "Agent (dai-5.1.0 - 9746059E onment server ronment",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_73",
+        "HotSpot" : "[72,69]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "name" : "Agentdai5109746059Eonmentserve.png",
+      "capturerect" : [
+        231,
+        67,
+        145,
+        138
+      ]
+    }
+  ],
+  "createddate" : 1616082056.680095,
+  "lastfoundlocation" : [
+    231,
+    67,
+    145,
+    138
+  ],
+  "originalcapturelocation" : [
+    231,
+    67,
+    145,
+    138
+  ],
+  "lastfounddate" : 1616082057.5141029,
+  "name" : "Agentdai5109746059Eonmentserve"
+}

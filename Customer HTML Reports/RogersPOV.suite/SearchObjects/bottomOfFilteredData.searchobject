@@ -1,0 +1,45 @@
+{
+  "lastmodifieddate" : 1615999251.557267,
+  "testlocationdata" : [
+    {
+      "name" : "bottomOfFilteredData.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[21,30]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        26,
+        508,
+        43,
+        61
+      ]
+    }
+  ],
+  "createddate" : 1615999251.557267,
+  "lastfoundlocation" : [
+    26,
+    508,
+    43,
+    61
+  ],
+  "originalcapturelocation" : [
+    26,
+    508,
+    43,
+    61
+  ],
+  "lastfounddate" : 1616019442.5572381,
+  "name" : "bottomOfFilteredData"
+}

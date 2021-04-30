@@ -1,0 +1,10 @@
+﻿# Take the device set in Feature or Table and establish a connection
+
+params DeviceName
+connect DeviceName
+
+#show the SUT window so that the rest of the test actions can be viewed
+Show remote
+
+# Return pass to the Table or Feature that may call this script
+return Pass

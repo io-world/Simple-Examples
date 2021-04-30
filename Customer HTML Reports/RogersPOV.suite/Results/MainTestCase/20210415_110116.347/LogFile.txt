@@ -1,0 +1,4 @@
+﻿2021-04-15 11:01:16.350 -0600	START		Running MainTestCase.script
+2021-04-15 11:01:31.383 -0600	Exception		Unable to locate script named: placeCall	4	on_outputtestresults	mainScript.script
+2021-04-15 11:01:32.044 -0600	EndTestCase		(Duration:"15.69274", Errors:"1", Exceptions:"1", StartTime:"2021-04-15 11:01:16 -0600", Successes:"0", TestCase:"MainTestCase.script", Warnings:"0")
+2021-04-15 11:01:33.595 -0600	FAILURE	Screen_Error.png	Error Running Script Command scriptresults Error - Unable to locate script named: placeCall -- Execution Time 0:00:15 MainTestCase.script

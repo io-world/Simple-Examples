@@ -1,5 +1,0 @@
-﻿2018-07-25 12:42:29.222 -0600	START		Running Run eAI Model.script
-2018-07-25 12:42:29.282 -0600	Log		bearer eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1MzI1NDc2ODYsImlhdCI6MTUzMjU0NDA4NiwiaXNzIjoiZWdncGxhbnRhaS5jb20iLCJ1c2VyIjp7InVzZXJuYW1lIjoicmFuZHkuaGVzc2VAdGVzdHBsYW50LmNvbSJ9fQ.PdUOSwpFncVu_wDwjf9xiJ_-aCpQlokZDztKW0LVfi8	7	on_run_eai_model	Run eAI Model.script
-2018-07-25 12:42:29.284 -0600	Log		{\n  "group": "randy@hesse@testplant.com",\n  "modelName": "me"\n}	13	on_run_eai_model	Run eAI Model.script
-2018-07-25 12:42:29.977 -0600	EndTestCase		(Duration:"0.753897", Errors:"0", Exceptions:"0", StartTime:"2018-07-25 12:42:29 -0600", Successes:"1", TestCase:"Run eAI Model.script", Warnings:"0")
-2018-07-25 12:42:29.996 -0600	SUCCESS		Execution Time 0:00:00 Run eAI Model.script

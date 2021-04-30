@@ -1,0 +1,5 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2021-04-22 10:23:13.688 -0600,"Success",0:00:11,0,0,0,"20210422_102313.688/LogFile.txt","","",1
+2021-04-22 10:27:16.083 -0600,"Success",0:00:04,0,0,0,"20210422_102716.083/LogFile.txt","","",1
+2021-04-22 10:27:37.033 -0600,"Failure",0:00:11,1,0,2,"20210422_102737.033/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Refresh Icon"" within 0.50 seconds",0
+2021-04-22 10:28:50.544 -0600,"Failure",0:00:09,1,1,2,"20210422_102850.544/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Refresh Icon"" within 0.50 seconds",0

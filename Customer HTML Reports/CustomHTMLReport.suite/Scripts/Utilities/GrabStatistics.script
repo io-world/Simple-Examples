@@ -1,0 +1,24 @@
+﻿
+
+params logFolderPath
+
+
+put logFolderPath & "/logfile.json" into LogFile
+put JSONValue(file LogFile) into JData
+put JData.entries into Reportentries
+
+put the number of items of Reportentries into EntiresCount
+repeat EntiresCount times
+	
+	put item repeatindex() of Reportentries into SingleEntry
+	put  "_"& lowercase(SingleEntry.identifier)   into identifier
+	add 1  to ReportStats.(identifier)
+	add 1 to TotalSteps
+end repeat
+
+
+
+put ReportStats into scriptstatistics.ReportStats
+put TotalSteps into scriptstatistics.TotalSteps
+
+return scriptstatistics

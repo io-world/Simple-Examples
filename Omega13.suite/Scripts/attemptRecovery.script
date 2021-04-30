@@ -1,3 +1,9 @@
-﻿log "Chrome errored out, restarting Chrome"
-TypeText windowsKey & "r"
-TypeText "chrome.exe", returnkey
+﻿params  theException, theCommand, theParams
+
+
+logwarning "Chrome errored out, restarting Chrome"
+
+log  theException, theCommand, theParams
+wait 5
+
+

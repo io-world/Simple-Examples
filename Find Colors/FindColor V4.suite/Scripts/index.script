@@ -1,0 +1,30 @@
+﻿
+
+
+
+put new "PixelData"  into PXD
+(PXD)."DefineColorArea" (706,300,754,311)
+log (PXD).MatrixPixel
+//log (PXD).PixelCount 
+//Log  (PXD).AverageColor ("DEC")
+
+log (PXD).ColorCount
+
+
+
+put [231,203,214]into Defined_Color."Color1"
+put [255,174,206] into Defined_Color."Color2"
+put (239,199,0) into Defined_Color."Color3"
+put (82,190,49) into Defined_Color."Color4"
+put 0 into Defined_tolerance
+
+
+
+(PXD)."DefineColorAndTolerance" (Defined_Color,Defined_tolerance)
+
+
+
+
+log  (PXD).PixelMatch
+
+

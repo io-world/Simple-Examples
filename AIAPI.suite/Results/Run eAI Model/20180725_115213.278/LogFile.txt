@@ -1,3 +1,0 @@
-﻿2018-07-25 11:52:13.279 -0600	START		Running Run eAI Model.script
-2018-07-25 11:52:13.722 -0600	EndTestCase		(Duration:"0.441328", Errors:"1", Exceptions:"0", StartTime:"2018-07-25 11:52:13 -0600", Successes:"0", TestCase:"Run eAI Model.script", Warnings:"0")
-2018-07-25 11:52:13.761 -0600	FAILURE		STUnknownMessage ERROR: No Such Command: 'epm_api' -- Execution Time 0:00:00 Run eAI Model.script

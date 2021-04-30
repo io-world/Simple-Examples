@@ -1,0 +1,18 @@
+﻿
+set the colorFormat to "HTML"
+
+put [[255,174,206],[255,174,206],[255,174,206],[255,174,206],[255,174,206],[255,174,206],[255,174,206],[255,174,206],[255,174,206],[255,174,206],[255,174,206],[255,174,206],[255,174,206],[255,174,206],[255,174,206],[255,174,206],[255,203,8],[255,203,8],[255,203,8],[255,203,8],[255,203,8]] into MatrixPixel
+//ut my MatrixPixel into MatrixPixel
+put the number of items of MatrixPixel into PixelCount
+repeat PixelCount times
+	put item repeatindex() of MatrixPixel into PixelColor
+	
+	put uppercase(format("%02x", item 1 of PixelColor) & format("%02x", item 2 of PixelColor) & format("%02x", item 3 of PixelColor)) into HexColor
+	
+	log HexColor
+	//add 1 to ColorList.(HexColor)
+	
+end repeat
+
+LOG ColorList
+

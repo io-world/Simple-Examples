@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1612804833.830184,
+  "ocrcapturestring" : "New tab",
+  "testlocationdata" : [
+    {
+      "name" : "MicrosoftEdgeLoaded\/MicrosoftEdgeLoaded_newtab.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "New tab",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_71",
+        "HotSpot" : "[35,9]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        182,
+        16,
+        74,
+        19
+      ]
+    }
+  ],
+  "createddate" : 1612804833.830184,
+  "lastfoundlocation" : [
+    55,
+    7,
+    74,
+    19
+  ],
+  "originalcapturelocation" : [
+    182,
+    16,
+    74,
+    19
+  ],
+  "lastfounddate" : 1619470750.7007051,
+  "name" : "MicrosoftEdgeLoaded\/MicrosoftEdgeLoaded_newtab"
+}

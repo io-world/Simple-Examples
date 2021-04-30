@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Find1">
+ <run>
+  <RunDate>2021-02-04 13:23:09.435 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>5.606988</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210204_132309.435/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- imagelocation Error - Unable To Find Image &quot;(TEXT:&quot;11&quot;)&quot;. Text not found.  Restricted Search Rectangle ((8,473),(50,1080))
+</ErrorMessage>
+ </run>
+</runHistory>

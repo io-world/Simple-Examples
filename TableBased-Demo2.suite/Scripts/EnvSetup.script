@@ -1,0 +1,19 @@
+//Store the name of the device. This is the name speciifed in the Name column of the connection list. 
+put connectioninfo().Name into global DeviceName
+
+//Set a variable which defines if the device is iOS or Android
+set global DeviceList to (iPhone_6s_DEV03:"iOS", iPad_Air_DEV01:"iOS", iPad_Air_DEV02:"iOS", Galaxy_S8_DEV04:"Android", Galaxy_S7_DEV05:"Android", "iPhone_7_Dev06": "iOS")
+
+//Set a variable which defines the applicaiton name on iOS and Android
+set global AppList to (iOS:"Amazon", Android: "com.amazon.mShop.android.shopping")
+PressHomeButton
+//Kill the applicaiton for the device. 
+killapp (global AppList.(global DeviceList.(global DeviceName)))
+wait 2
+setDeviceOrientation Portrait
+
+//Tell eggPlant to only search for images which have the device name in their name, to speed up the execution. 
+set DeviceList to (iPhone_6s_DEV03:"iPhone", iPad_Air_DEV01:"iPad", iPad_Air_DEV02:"iPad", Galaxy_S8_DEV04:"S8", Galaxy_S7_DEV05:"S8", iPhone_7_Dev06:"iPhone")
+set the collectionfilter to (Name: DeviceList.(global DeviceName))
+
+return Pass

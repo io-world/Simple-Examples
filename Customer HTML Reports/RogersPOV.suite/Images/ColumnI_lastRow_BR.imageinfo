@@ -1,0 +1,21 @@
+﻿{
+    CaptureDate = "2021-03-17 16:48:00 +0000";
+    CaptureHost = Windows10;
+    CaptureScreenSize =     (
+        1024,
+        768
+    );
+    HasAlpha = 1;
+    HotSpotX = 208;
+    HotSpotY = 16;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 26;
+    OriginalLocationY = 508;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = "ColumnI_lastRow_BR";
+    tags =     (
+    );
+}

@@ -1,0 +1,18 @@
+﻿
+
+log readtext(781,688)
+
+
+
+log ReadText(728,696,1299,720)
+
+
+log "715,325,1334,717"
+
+
+
+if ImageFound("image.png") then
+	log asdasd
+Else
+	log blah
+End if

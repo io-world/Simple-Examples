@@ -1,0 +1,29 @@
+﻿
+
+
+
+
+put "/Users/ranhesse/Documents/Simple_Examples/Customer HTML Reports/Sample Suite.suite/Results/Workflow01/20210301_194416.595" into LogPath
+put "/Users/ranhesse/Desktop/Sample/" into HTMLLocation
+put "indexer.html" into ReportName
+put "tabler.html" into Tablename
+
+
+
+if folder HTMLLocation exists then
+	logwarning "Deleting:"&& Tablename
+	delete folder HTMLLocation
+end if
+
+
+//---------------
+put  "Utilities/GrabStatistics" (LogPath) into Statistics
+//------
+put new "Utilities/BuildTable" into UBT
+(UBT).BuildHTML (Tablename, LogPath,HTMLLocation)
+put (UBT).HTMLTable into StepTable
+//-------
+"Utilities/BuildReport".BuildHTML (ReportName,StepTable, Statistics, HTMLLocation)
+
+
+copy file ResourcePath("CompanyLogo.jpg") to HTMLLocation

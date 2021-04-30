@@ -1,0 +1,14 @@
+﻿2021-03-03 15:59:42.183 -0700	START		Running errorReporting.script
+2021-03-03 15:59:42.410 -0700	typetext		[windowsKey]r	4	on_errorreporting	errorReporting.script
+2021-03-03 15:59:45.183 -0700	typetext		C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe[returnKey]	5	on_errorreporting	errorReporting.script
+2021-03-03 15:59:46.487 -0700	waitfor	MicrosoftEdgeLoaded	found at (559, 25)	7	on_errorreporting	errorReporting.script
+2021-03-03 15:59:47.213 -0700	typetext		[windowsKey][upArrow]	5	on_navigatetowebpage	navigateToWebpage.script
+2021-03-03 15:59:49.831 -0700	click	URLfield	at (765, 59)	6	on_navigatetowebpage	navigateToWebpage.script
+2021-03-03 15:59:51.856 -0700	typetext		[controlKey]a	7	on_navigatetowebpage	navigateToWebpage.script
+2021-03-03 15:59:53.876 -0700	typetext		[backspace]	8	on_navigatetowebpage	navigateToWebpage.script
+2021-03-03 15:59:56.699 -0700	typetext		https://www.rogers.com/customer/support/article/internet-speedtest	9	on_navigatetowebpage	navigateToWebpage.script
+2021-03-03 15:59:58.715 -0700	typetext		[return]	10	on_navigatetowebpage	navigateToWebpage.script
+2021-03-03 16:00:08.743 -0700	typetext		[windowsKey][leftArrow]	10	on_errorreporting	errorReporting.script
+2021-03-03 16:00:08.744 -0700	Log		Writing to file	12	on_errorreporting	errorReporting.script
+2021-03-03 16:00:14.444 -0700	EndTestCase		(Duration:"32.260689", Errors:"1", Exceptions:"0", StartTime:"2021-03-03 15:59:42 -0700", Successes:"0", TestCase:"errorReporting.script", Warnings:"0")
+2021-03-03 16:00:14.447 -0700	ABORTED		Execution Time 0:00:32 errorReporting.script

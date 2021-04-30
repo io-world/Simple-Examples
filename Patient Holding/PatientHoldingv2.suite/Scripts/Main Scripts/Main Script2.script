@@ -5,7 +5,7 @@
 
 
 
-put "GeneratePatientAPI" (20) into PatientList // THe API is not longer working I have not found a better API to replace it 
+put "GeneratePatient" (20) into PatientList // THe API is not longer working I have not found a better API to replace it 
 CreateCSV "WebFormData2",PatientList
 
 

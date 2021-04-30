@@ -1,0 +1,41 @@
+{
+  "ocrcapturestring" : "c",
+  "originalcapturelocation" : [
+    64,
+    31,
+    22,
+    20
+  ],
+  "createddate" : 1619108452.07495,
+  "lastmodifieddate" : 1619108452.0749512,
+  "name" : "Refresh Icon",
+  "testlocationdata" : [
+    {
+      "connectionserverid" : "18.216.104.231",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "Randy AWS SUT",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "c",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Adaptive to Image",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_30",
+        "HotSpot" : "[11,10]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "name" : "Refresh Icon.png",
+      "capturerect" : [
+        64,
+        31,
+        22,
+        20
+      ]
+    }
+  ]
+}

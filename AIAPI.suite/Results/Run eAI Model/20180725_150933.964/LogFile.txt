@@ -1,4 +1,0 @@
-﻿2018-07-25 15:09:33.965 -0600	START		Running Run eAI Model.script
-2018-07-25 15:09:34.294 -0600	Log		A valid token must be passed.	17	on_run_eai_model	Run eAI Model.script
-2018-07-25 15:09:34.557 -0600	EndTestCase		(Duration:"0.589821", Errors:"0", Exceptions:"0", StartTime:"2018-07-25 15:09:33 -0600", Successes:"1", TestCase:"Run eAI Model.script", Warnings:"0")
-2018-07-25 15:09:34.571 -0600	SUCCESS		Execution Time 0:00:00 Run eAI Model.script

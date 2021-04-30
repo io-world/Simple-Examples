@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="index">
+ <run>
+  <RunDate>2021-04-22 10:23:13.688 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.440822</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210422_102313.688/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-04-22 10:27:16.083 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.651961</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210422_102716.083/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-04-22 10:27:37.033 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>11.542037</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210422_102737.033/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Refresh Icon&quot; within 0.50 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-04-22 10:28:50.544 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>9.340598</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210422_102850.544/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Refresh Icon&quot; within 0.50 seconds</ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1614811755.865607,
+  "ocrcapturestring" : "t) UPLOAL",
+  "testlocationdata" : [
+    {
+      "name" : "RSP_Upload_TL.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "t) UPLOAL",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_26",
+        "HotSpot" : "[-3,13]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        253,
+        542,
+        49,
+        13
+      ]
+    }
+  ],
+  "createddate" : 1614811755.865607,
+  "lastfoundlocation" : [
+    252,
+    542,
+    49,
+    13
+  ],
+  "originalcapturelocation" : [
+    253,
+    542,
+    49,
+    13
+  ],
+  "lastfounddate" : 1614811773.154881,
+  "name" : "RSP_Upload_TL"
+}

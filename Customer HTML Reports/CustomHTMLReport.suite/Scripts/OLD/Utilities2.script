@@ -1,0 +1,15 @@
+﻿
+
+on BuiltHtmlResults SuitePath
+
+	put  folders of (SuitePath & "/Results/") into FolderList
+	put SuitePath &".HTMLRport" into HTMLPath
+	delete ".suite" in HTMLPath
+	create folder HTMLPath
+	
+	log FolderList
+	
+	
+	
+	
+end BuiltHtmlResults

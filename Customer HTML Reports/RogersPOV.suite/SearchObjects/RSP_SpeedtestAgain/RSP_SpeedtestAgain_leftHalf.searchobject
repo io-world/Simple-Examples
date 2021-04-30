@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1614809735.600713,
+  "ocrcapturestring" : "AGAIN",
+  "testlocationdata" : [
+    {
+      "name" : "RSP_SpeedtestAgain\/RSP_SpeedtestAgain_leftHalf.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "AGAIN",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_65",
+        "HotSpot" : "[20,12]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        230,
+        688,
+        40,
+        24
+      ]
+    }
+  ],
+  "createddate" : 1614809735.6007118,
+  "lastfoundlocation" : [
+    229,
+    688,
+    40,
+    24
+  ],
+  "originalcapturelocation" : [
+    230,
+    688,
+    40,
+    24
+  ],
+  "lastfounddate" : 1614874957.314065,
+  "name" : "RSP_SpeedtestAgain\/RSP_SpeedtestAgain_leftHalf"
+}

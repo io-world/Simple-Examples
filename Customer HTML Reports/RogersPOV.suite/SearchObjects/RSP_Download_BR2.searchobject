@@ -1,0 +1,45 @@
+{
+  "lastmodifieddate" : 1614814015.7319789,
+  "testlocationdata" : [
+    {
+      "name" : "RSP_Download_BR.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[66,41]",
+        "CropRectangle" : "[2,2,18,16]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        248,
+        460,
+        16,
+        14
+      ]
+    }
+  ],
+  "createddate" : 1614814015.7319779,
+  "lastfoundlocation" : [
+    56,
+    566,
+    16,
+    14
+  ],
+  "originalcapturelocation" : [
+    248,
+    460,
+    16,
+    14
+  ],
+  "lastfounddate" : 1619468612.1524081,
+  "name" : "RSP_Download_BR2"
+}

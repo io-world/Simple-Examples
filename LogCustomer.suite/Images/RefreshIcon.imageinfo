@@ -1,0 +1,21 @@
+﻿{
+    CaptureDate = "2021-01-20 20:04:39 +0000";
+    CaptureHost = "Randy AWS SUT";
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    HasAlpha = 1;
+    HotSpotX = 12;
+    HotSpotY = 14;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 73;
+    OriginalLocationY = 38;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = RefreshIcon;
+    tags =     (
+    );
+}

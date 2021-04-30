@@ -1,0 +1,14 @@
+﻿
+put Worksheet (ResourcePath("WebFormData.xlsx"), "PatientList") into WSheet
+put WSheet.cellrange() into Data
+
+
+
+put item 3 of item 3 of Data into var
+
+
+if var is empty then
+	log "this is blank"
+end if
+
+

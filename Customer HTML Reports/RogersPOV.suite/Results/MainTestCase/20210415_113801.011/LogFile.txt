@@ -1,0 +1,12 @@
+﻿2021-04-15 11:38:01.014 -0600	START		Running MainTestCase.script
+2021-04-15 11:38:01.062 -0600	BeginTestCase		placeCall	2	on_placecall	mainScript.script
+2021-04-15 11:38:06.066 -0600	LogSuccess		This test case passes	7	on_placecall	mainScript.script
+2021-04-15 11:38:06.069 -0600	EndTestCase		(Duration:"5.006706", Errors:"0", Exceptions:"0", StartTime:"2021-04-15 11:38:01 -0600", Successes:"1", TestCase:"placeCall", Warnings:"0")	11	on_placecall	mainScript.script
+2021-04-15 11:38:06.084 -0600	BeginTestCase		speedTest	2	on_speedtest	mainScript.script
+2021-04-15 11:38:11.086 -0600	LogSuccess		This test case passes	7	on_speedtest	mainScript.script
+2021-04-15 11:38:11.089 -0600	EndTestCase		(Duration:"5.005296", Errors:"0", Exceptions:"0", StartTime:"2021-04-15 11:38:06 -0600", Successes:"1", TestCase:"speedTest", Warnings:"0")	11	on_speedtest	mainScript.script
+2021-04-15 11:38:11.109 -0600	BeginTestCase		handoverSession	2	on_handoversession	mainScript.script
+2021-04-15 11:38:16.114 -0600	LogSuccess		This test case passes	7	on_handoversession	mainScript.script
+2021-04-15 11:38:16.118 -0600	EndTestCase		(Duration:"5.008436", Errors:"0", Exceptions:"0", StartTime:"2021-04-15 11:38:11 -0600", Successes:"1", TestCase:"handoverSession", Warnings:"0")	11	on_handoversession	mainScript.script
+2021-04-15 11:38:16.765 -0600	EndTestCase		(Duration:"15.750606", Errors:"0", Exceptions:"0", StartTime:"2021-04-15 11:38:01 -0600", Successes:"3", TestCase:"MainTestCase.script", Warnings:"0")
+2021-04-15 11:38:16.833 -0600	SUCCESS		Execution Time 0:00:15 MainTestCase.script

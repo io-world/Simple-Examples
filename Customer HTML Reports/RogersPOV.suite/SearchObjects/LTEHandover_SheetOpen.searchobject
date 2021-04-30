@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1615951990.3486741,
+  "ocrcapturestring" : "LTE Han dove",
+  "testlocationdata" : [
+    {
+      "name" : "LTEHandover_SheetOpen.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "LTE Han dove",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_73",
+        "HotSpot" : "[46,9]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        0,
+        2,
+        92,
+        19
+      ]
+    }
+  ],
+  "createddate" : 1615951990.3486729,
+  "lastfoundlocation" : [
+    0,
+    2,
+    92,
+    19
+  ],
+  "originalcapturelocation" : [
+    0,
+    2,
+    92,
+    19
+  ],
+  "lastfounddate" : 1616596339.1546612,
+  "name" : "LTEHandover_SheetOpen"
+}

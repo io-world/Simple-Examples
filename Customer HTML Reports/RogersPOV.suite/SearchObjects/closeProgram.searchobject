@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1619470097.259011,
+  "ocrcapturestring" : "X",
+  "testlocationdata" : [
+    {
+      "name" : "closeProgram.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Linux_SUT",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "X",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[19,19]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.127",
+      "capturerect" : [
+        984,
+        26,
+        38,
+        39
+      ]
+    }
+  ],
+  "createddate" : 1619470097.2590098,
+  "lastfoundlocation" : [
+    984,
+    26,
+    38,
+    39
+  ],
+  "originalcapturelocation" : [
+    984,
+    26,
+    38,
+    39
+  ],
+  "lastfounddate" : 1619470801.4997849,
+  "name" : "closeProgram"
+}

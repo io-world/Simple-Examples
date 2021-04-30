@@ -1,0 +1,73 @@
+{
+  "lastmodifieddate" : 1619468477.0654831,
+  "ocrcapturestring" : "Open",
+  "testlocationdata" : [
+    {
+      "name" : "OpenProgram\/OpenProgram.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "Open",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_73",
+        "HotSpot" : "[31,8]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        402,
+        348,
+        63,
+        17
+      ]
+    },
+    {
+      "name" : "OpenProgram\/OpenProgram_new.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "Open",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_73",
+        "HotSpot" : "[31,8]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        454,
+        601,
+        32,
+        16
+      ]
+    }
+  ],
+  "createddate" : 1612804519.9564118,
+  "lastfoundlocation" : [
+    454,
+    601,
+    32,
+    16
+  ],
+  "originalcapturelocation" : [
+    402,
+    348,
+    63,
+    17
+  ],
+  "lastfounddate" : 1619470809.7387519,
+  "name" : "OpenProgram"
+}

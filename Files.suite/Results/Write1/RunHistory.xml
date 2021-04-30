@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Write1">
+ <run>
+  <RunDate>2021-02-12 08:16:47.105 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.198968</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210212_081647.105/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STFileAccessException -- Unable to open file /Users/randyhesse/Desktop/TestRead as requested</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-02-12 08:16:59.957 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.180322</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210212_081659.957/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-02-12 08:17:19.278 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.177434</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210212_081719.278/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

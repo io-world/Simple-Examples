@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="MainTestCase_script" package="RogersPOV.suite" timestamp="2021-04-15 11:23:25.485 -0600"
+ tests="4"  failures="0" errors="0" time="45.720642">
+  <properties>
+   <property name="RunDate" value="2021-04-15 11:23:25.485 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="placeCall" assertions="0" status="success"  time="15.002256">
+  </testcase>
+  <testcase name="speedTest" assertions="0" status="success"  time="15.006782">
+  </testcase>
+  <testcase name="handoverSession" assertions="0" status="success"  time="15.006341">
+  </testcase>
+  <testcase name="MainTestCase.script" assertions="1" status="success"  time="45.716979">
+  </testcase>
+ </testsuite>
+</testsuites>

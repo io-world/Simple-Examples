@@ -1,0 +1,8 @@
+﻿2021-04-22 10:23:13.690 -0600	START		Running index.script
+2021-04-22 10:23:13.796 -0600	typetext		[windowsKey]r	1	on_openwebpage	OpenWebPage.script
+2021-04-22 10:23:14.643 -0600	typetext		chrome.exe[returnKey]	2	on_openwebpage	OpenWebPage.script
+2021-04-22 10:23:24.093 -0600	waitfor	Refresh Icon	found at (700, 280)	1	on_overridecommand	/Applications/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2021-04-22 10:23:24.131 -0600	typetext		[controlKey]l	4	on_openwebpage	OpenWebPage.script
+2021-04-22 10:23:25.022 -0600	typetext		www.amazon.com[returnKey]	6	on_openwebpage	OpenWebPage.script
+2021-04-22 10:23:25.130 -0600	EndTestCase		(Duration:"11.437752", Errors:"0", Exceptions:"0", StartTime:"2021-04-22 10:23:13 -0600", Successes:"1", TestCase:"index.script", Warnings:"0")
+2021-04-22 10:23:25.152 -0600	SUCCESS		Execution Time 0:00:11 index.script

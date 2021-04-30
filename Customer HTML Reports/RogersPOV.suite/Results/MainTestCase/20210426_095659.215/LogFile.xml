@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="MainTestCase_script" package="RogersPOV.suite" timestamp="2021-04-26 09:56:59.215 -0600"
+ tests="1"  failures="1" errors="0" time="0.011925">
+  <properties>
+   <property name="RunDate" value="2021-04-26 09:56:59.215 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="MainTestCase.script" assertions="1" status="failure"  time="0.002744">
+    <failure type="FAILURE" message="SenseTalk Compiler Exception in maintestcase:\nSyntax Error at line 20: Syntax Error - can't understand &quot;Windows&quot; at character 31 -- Execution Time 0:00:00 MainTestCase.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

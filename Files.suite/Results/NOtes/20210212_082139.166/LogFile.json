@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running NOtes.script",
+      "timestamp" : "2021-02-12 08:21:39.168 -0700"
+    },
+    {
+      "handlerName" : "on_notes",
+      "message" : "(790,350)",
+      "timestamp" : "2021-02-12 08:21:39.447 -0700",
+      "identifier" : "readtext",
+      "scriptName" : "NOtes.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_notes",
+      "message" : "Champion Men's Jogger",
+      "timestamp" : "2021-02-12 08:21:39.448 -0700",
+      "identifier" : "Log",
+      "scriptName" : "NOtes.script",
+      "handlerLine" : 3
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.47626\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-02-12 08:21:39 -0700\", Successes:\"1\", TestCase:\"NOtes.script\", Warnings:\"0\")",
+      "timestamp" : "2021-02-12 08:21:39.645 -0700"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 NOtes.script",
+      "timestamp" : "2021-02-12 08:21:39.660 -0700"
+    }
+  ],
+  "createdTimestamp" : "2021-02-12 08:21:39.169 -0700"
+}

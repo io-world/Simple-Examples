@@ -1,0 +1,2259 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running LTEhandover.script",
+      "timestamp" : "2021-03-17 15:17:04.990 -0600"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2021-03-17 15:17:05.421 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "C:\\Users\\eggplantTest\\Desktop\\LTE Handover.ods[returnKey]",
+      "timestamp" : "2021-03-17 15:17:08.025 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "found at (46, 11)",
+      "identifier" : "waitfor",
+      "image" : "LTEHandover_SheetOpen",
+      "handlerLine" : 8,
+      "timestamp" : "2021-03-17 15:17:12.619 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[homeKey]",
+      "timestamp" : "2021-03-17 15:17:12.634 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 11
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "SEARCHRECTANGLE = [[0,384],[1024,768]]",
+      "timestamp" : "2021-03-17 15:17:12.640 -0600",
+      "identifier" : "set",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 14
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "found 3 images",
+      "identifier" : "everyimagelocation",
+      "image" : "(TEXT:\"Messaging -\")",
+      "handlerLine" : 15,
+      "timestamp" : "2021-03-17 15:17:19.742 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (314, 698)",
+      "timestamp" : "2021-03-17 15:17:19.834 -0600",
+      "identifier" : "click",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 16
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "SEARCHRECTANGLE = []",
+      "timestamp" : "2021-03-17 15:17:19.836 -0600",
+      "identifier" : "set",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 17
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "8\/28\/2020 09:22",
+      "timestamp" : "2021-03-17 15:17:19.837 -0600",
+      "identifier" : "Log",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 25
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "found at (790, 58)",
+      "identifier" : "imagefound",
+      "image" : "autoFilterButton",
+      "handlerLine" : 28,
+      "timestamp" : "2021-03-17 15:17:22.429 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (790, 58)",
+      "identifier" : "click",
+      "image" : "autoFilterButton",
+      "handlerLine" : 29,
+      "timestamp" : "2021-03-17 15:17:23.221 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (148, 179)",
+      "identifier" : "click",
+      "image" : "ColumnA_FilterSelection",
+      "handlerLine" : 31,
+      "timestamp" : "2021-03-17 15:17:25.997 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "found at (47, 550)",
+      "identifier" : "imagefound",
+      "image" : "Filter_UncheckAll",
+      "handlerLine" : 34,
+      "timestamp" : "2021-03-17 15:17:28.633 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (80, 364)",
+      "identifier" : "click",
+      "image" : "Filter_SearchItems",
+      "handlerLine" : 35,
+      "timestamp" : "2021-03-17 15:17:32.399 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "8\/28\/2020 09:22",
+      "timestamp" : "2021-03-17 15:17:34.592 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 36
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (50, 548)",
+      "identifier" : "click",
+      "image" : "Filter_uncheckSelection",
+      "handlerLine" : 37,
+      "timestamp" : "2021-03-17 15:17:37.102 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (70, 396)",
+      "identifier" : "click",
+      "image" : "Filter_SearchTopRow",
+      "handlerLine" : 38,
+      "timestamp" : "2021-03-17 15:17:39.831 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "SEARCHRECTANGLE = [\"Filter_SearchArea_TL\",\"Filter_SearchArea_BR\"]",
+      "timestamp" : "2021-03-17 15:17:43.358 -0600",
+      "identifier" : "set",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 40
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 41,
+      "timestamp" : "2021-03-17 15:17:51.671 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:17:51.688 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:18:02.132 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:18:02.152 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:18:12.629 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:18:12.646 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:18:23.490 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:18:23.509 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:18:34.386 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:18:34.405 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:18:45.291 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:18:45.308 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:18:56.986 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:18:57.007 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:19:07.576 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:19:07.595 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:19:18.221 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:19:18.239 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:19:28.473 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:19:28.492 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:19:38.959 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:19:38.976 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:19:49.650 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:19:49.668 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:20:00.131 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:20:00.150 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:20:10.700 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:20:10.720 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:20:20.902 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:20:20.922 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:20:31.670 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:20:31.689 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:20:42.765 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:20:42.785 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:20:53.656 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:20:53.674 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:21:04.815 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:21:04.833 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:21:15.703 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:21:15.721 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:21:26.326 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:21:26.345 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:21:37.422 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:21:37.442 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:21:48.027 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:21:48.046 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:21:59.104 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:21:59.122 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:22:10.344 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:22:10.363 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:22:21.684 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:22:21.705 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:22:32.796 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:22:32.815 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:22:43.783 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:22:43.801 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:22:55.707 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:22:55.728 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:23:06.861 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:23:06.880 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:23:17.979 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:23:18.000 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:23:29.745 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:23:29.767 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:23:40.669 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:23:40.691 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:23:51.874 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:23:51.894 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:24:02.714 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:24:02.734 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:24:14.100 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:24:14.117 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:24:24.725 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:24:24.745 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:24:35.458 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:24:35.477 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:24:46.422 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:24:46.442 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:24:57.538 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:24:57.557 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:25:08.254 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:25:08.272 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:25:19.351 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:25:19.370 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:25:30.086 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:25:30.105 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:25:40.979 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:25:40.997 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:29.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:25:51.379 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:25:51.397 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 42
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "found at (119, 524)",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:29.000\")",
+      "handlerLine" : 43,
+      "timestamp" : "2021-03-17 15:25:54.134 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 45,
+      "timestamp" : "2021-03-17 15:26:02.086 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:26:02.813 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:26:04.831 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:26:14.849 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:26:16.447 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:26:18.461 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:26:28.568 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:26:30.271 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:26:32.283 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:26:43.011 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:26:44.661 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:26:46.676 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:26:57.688 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:26:59.111 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:27:01.128 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:27:12.540 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:27:14.148 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:27:16.166 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:27:30.108 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:27:31.596 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:27:33.612 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:27:46.503 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:27:48.093 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:27:50.106 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:28:02.872 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:28:04.408 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:28:06.425 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:28:19.767 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:28:21.210 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:28:23.228 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:28:35.620 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:28:37.150 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:28:39.168 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:28:52.822 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:28:54.355 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:28:56.372 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:29:10.763 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:29:12.285 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:29:14.302 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:29:27.509 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:29:28.954 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:29:30.970 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:29:45.227 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:29:46.709 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:29:48.725 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:30:03.297 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:30:04.734 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:30:06.747 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:30:19.869 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:30:21.518 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:30:23.534 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:30:36.753 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:30:38.243 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:30:40.260 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:30:54.072 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:30:55.496 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:30:57.513 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:31:10.614 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:31:12.149 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:31:14.162 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:31:27.264 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:31:28.752 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:31:30.767 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:31:43.821 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:31:45.363 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:31:47.380 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:32:00.814 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:32:01.972 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:32:03.987 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:32:17.134 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:32:18.687 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:32:20.703 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:32:33.692 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:32:35.236 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:32:37.249 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:32:50.254 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:32:51.793 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:32:53.810 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:33:07.148 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:33:08.856 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:33:10.871 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:33:24.049 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:33:25.843 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:33:27.862 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:33:40.543 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:33:42.040 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:33:44.054 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:33:56.651 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:33:58.189 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:34:00.205 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:34:12.975 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:34:14.508 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:34:16.522 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:34:29.779 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:34:31.369 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:34:33.386 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:34:46.860 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:34:48.395 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:34:50.409 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:35:03.690 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:35:05.127 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:35:07.145 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:35:20.216 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:35:21.757 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:35:23.771 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:35:36.152 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:35:37.913 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:35:39.928 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:35:52.970 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:35:54.503 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:35:56.522 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:36:10.710 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:36:12.187 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:36:14.202 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image (TEXT:\"8\/28\/2020 09:22:43.000\"). Text not found.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:36:27.722 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 46,
+      "timestamp" : "2021-03-17 15:36:29.271 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[downArrow]",
+      "timestamp" : "2021-03-17 15:36:31.289 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 47
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "found at (118, 524)",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"8\/28\/2020 09:22:43.000\")",
+      "handlerLine" : 48,
+      "timestamp" : "2021-03-17 15:36:34.251 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (51, 524)",
+      "identifier" : "click",
+      "image" : "Filter_bottomRowSelection",
+      "handlerLine" : 49,
+      "timestamp" : "2021-03-17 15:36:35.680 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "SEARCHRECTANGLE = []",
+      "timestamp" : "2021-03-17 15:36:35.681 -0600",
+      "identifier" : "set",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 50
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (78, 590)",
+      "identifier" : "click",
+      "image" : "OKbutton",
+      "handlerLine" : 54,
+      "timestamp" : "2021-03-17 15:36:39.446 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[controlKey]f",
+      "timestamp" : "2021-03-17 15:36:41.471 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 57
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "8\/28\/2020 09:22:29.000[return]",
+      "timestamp" : "2021-03-17 15:36:43.766 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 58
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (26, 687)",
+      "identifier" : "click",
+      "image" : "closeFindWindow",
+      "handlerLine" : 59,
+      "timestamp" : "2021-03-17 15:36:46.496 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "SEARCHRECTANGLE = [[0,0],[512,384]]",
+      "timestamp" : "2021-03-17 15:36:46.508 -0600",
+      "identifier" : "set",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 61
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image ColumnH_farthestLeft",
+      "identifier" : "imagefound",
+      "image" : "ColumnH_farthestLeft",
+      "handlerLine" : 62,
+      "timestamp" : "2021-03-17 15:36:54.369 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[rightArrow]",
+      "timestamp" : "2021-03-17 15:36:54.382 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 63
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image ColumnH_farthestLeft",
+      "identifier" : "imagefound",
+      "image" : "ColumnH_farthestLeft",
+      "handlerLine" : 64,
+      "timestamp" : "2021-03-17 15:37:02.326 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[rightArrow]",
+      "timestamp" : "2021-03-17 15:37:02.340 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 63
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image ColumnH_farthestLeft",
+      "identifier" : "imagefound",
+      "image" : "ColumnH_farthestLeft",
+      "handlerLine" : 64,
+      "timestamp" : "2021-03-17 15:37:10.619 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[rightArrow]",
+      "timestamp" : "2021-03-17 15:37:10.632 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 63
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image ColumnH_farthestLeft",
+      "identifier" : "imagefound",
+      "image" : "ColumnH_farthestLeft",
+      "handlerLine" : 64,
+      "timestamp" : "2021-03-17 15:37:18.788 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[rightArrow]",
+      "timestamp" : "2021-03-17 15:37:18.801 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 63
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image ColumnH_farthestLeft",
+      "identifier" : "imagefound",
+      "image" : "ColumnH_farthestLeft",
+      "handlerLine" : 64,
+      "timestamp" : "2021-03-17 15:37:26.860 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[rightArrow]",
+      "timestamp" : "2021-03-17 15:37:26.874 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 63
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image ColumnH_farthestLeft",
+      "identifier" : "imagefound",
+      "image" : "ColumnH_farthestLeft",
+      "handlerLine" : 64,
+      "timestamp" : "2021-03-17 15:37:35.073 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[rightArrow]",
+      "timestamp" : "2021-03-17 15:37:35.086 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 63
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image ColumnH_farthestLeft",
+      "identifier" : "imagefound",
+      "image" : "ColumnH_farthestLeft",
+      "handlerLine" : 64,
+      "timestamp" : "2021-03-17 15:37:43.195 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[rightArrow]",
+      "timestamp" : "2021-03-17 15:37:43.210 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 63
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image ColumnH_farthestLeft",
+      "identifier" : "imagefound",
+      "image" : "ColumnH_farthestLeft",
+      "handlerLine" : 64,
+      "timestamp" : "2021-03-17 15:37:50.859 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[rightArrow]",
+      "timestamp" : "2021-03-17 15:37:50.873 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 63
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image ColumnH_farthestLeft",
+      "identifier" : "imagefound",
+      "image" : "ColumnH_farthestLeft",
+      "handlerLine" : 64,
+      "timestamp" : "2021-03-17 15:37:58.970 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[rightArrow]",
+      "timestamp" : "2021-03-17 15:37:58.983 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 63
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image ColumnH_farthestLeft",
+      "identifier" : "imagefound",
+      "image" : "ColumnH_farthestLeft",
+      "handlerLine" : 64,
+      "timestamp" : "2021-03-17 15:38:07.159 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[rightArrow]",
+      "timestamp" : "2021-03-17 15:38:07.171 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 63
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image ColumnH_farthestLeft",
+      "identifier" : "imagefound",
+      "image" : "ColumnH_farthestLeft",
+      "handlerLine" : 64,
+      "timestamp" : "2021-03-17 15:38:15.357 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[rightArrow]",
+      "timestamp" : "2021-03-17 15:38:15.370 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 63
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image ColumnH_farthestLeft",
+      "identifier" : "imagefound",
+      "image" : "ColumnH_farthestLeft",
+      "handlerLine" : 64,
+      "timestamp" : "2021-03-17 15:38:23.492 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[rightArrow]",
+      "timestamp" : "2021-03-17 15:38:23.506 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 63
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "Unable to Find Image ColumnH_farthestLeft",
+      "identifier" : "imagefound",
+      "image" : "ColumnH_farthestLeft",
+      "handlerLine" : 64,
+      "timestamp" : "2021-03-17 15:38:31.515 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[rightArrow]",
+      "timestamp" : "2021-03-17 15:38:31.530 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 63
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "found at (64, 178)",
+      "identifier" : "imagefound",
+      "image" : "ColumnH_farthestLeft",
+      "handlerLine" : 64,
+      "timestamp" : "2021-03-17 15:38:34.187 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1312.251266\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-03-17 15:17:04 -0600\", Successes:\"0\", TestCase:\"LTEhandover.script\", Warnings:\"0\")",
+      "timestamp" : "2021-03-17 15:38:57.243 -0600"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:21:52 LTEhandover.script",
+      "timestamp" : "2021-03-17 15:38:57.245 -0600"
+    }
+  ],
+  "createdTimestamp" : "2021-03-17 15:17:04.991 -0600"
+}

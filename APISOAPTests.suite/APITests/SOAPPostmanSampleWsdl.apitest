@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URLparameters</key>
+	<array>
+		<dict>
+			<key>checked</key>
+			<true/>
+			<key>param</key>
+			<string>wsdl</string>
+			<key>parameterTypeKey</key>
+			<string>UrlParameter</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>authenticationType</key>
+	<string>None</string>
+	<key>httpVerb</key>
+	<string>POST</string>
+	<key>oauth1Token</key>
+	<string></string>
+	<key>password</key>
+	<string></string>
+	<key>requestBody</key>
+	<string>&lt;soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:hs="http://www.holidaywebservice.com/HolidayService_v2/"&gt; &lt;soapenv:Body&gt; &lt;hs:GetHolidaysAvailable&gt; &lt;hs:countryCode&gt;UnitedStates&lt;/hs:countryCode&gt; &lt;/hs:GetHolidaysAvailable&gt; &lt;/soapenv:Body&gt;&lt;/soapenv:Envelope&gt;</string>
+	<key>requestBodyFormat</key>
+	<string>XML (text/xml)</string>
+	<key>requestHeaders</key>
+	<string>&lt;![CDATA[]]&gt;</string>
+	<key>requests</key>
+	<string></string>
+	<key>testResults</key>
+	<string></string>
+	<key>testScript</key>
+	<string>assert that api().responseBody contains "NEW-YEARS-DAY-ACTUAL"</string>
+	<key>url</key>
+	<string>http://www.holidaywebservice.com//HolidayService_v2/HolidayService2.asmx?wsdl</string>
+	<key>userName</key>
+	<string></string>
+</dict>
+</plist>

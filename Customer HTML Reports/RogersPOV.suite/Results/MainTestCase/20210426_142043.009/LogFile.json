@@ -1,0 +1,425 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running MainTestCase.script",
+      "timestamp" : "2021-04-26 14:20:43.013 -0600"
+    },
+    {
+      "handlerName" : "on_setvariables",
+      "message" : "[\"23.4.2.2\"]",
+      "timestamp" : "2021-04-26 14:20:43.075 -0600",
+      "identifier" : "Log",
+      "scriptName" : "setVariables.script",
+      "handlerLine" : 13
+    },
+    {
+      "handlerName" : "on_setvariables",
+      "message" : "[\"Samsung Galaxy\"]",
+      "timestamp" : "2021-04-26 14:20:43.077 -0600",
+      "identifier" : "Log",
+      "scriptName" : "setVariables.script",
+      "handlerLine" : 14
+    },
+    {
+      "handlerName" : "on_setvariables",
+      "message" : "[\"Megha\"]",
+      "timestamp" : "2021-04-26 14:20:43.079 -0600",
+      "identifier" : "Log",
+      "scriptName" : "setVariables.script",
+      "handlerLine" : 15
+    },
+    {
+      "handlerName" : "on_setvariables",
+      "message" : "[\"Pass123\"]",
+      "timestamp" : "2021-04-26 14:20:43.081 -0600",
+      "identifier" : "Log",
+      "scriptName" : "setVariables.script",
+      "handlerLine" : 16
+    },
+    {
+      "handlerName" : "on_setvariables",
+      "message" : "[\"G12\"]",
+      "timestamp" : "2021-04-26 14:20:43.083 -0600",
+      "identifier" : "Log",
+      "scriptName" : "setVariables.script",
+      "handlerLine" : 17
+    },
+    {
+      "handlerName" : "on_twosutconnections",
+      "message" : "Windows10:(null)",
+      "timestamp" : "2021-04-26 14:20:43.094 -0600",
+      "identifier" : "connect",
+      "scriptName" : "twoSUTconnections.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_twosutconnections",
+      "message" : "at (171, 1004)",
+      "identifier" : "click",
+      "image" : "windowsSearch",
+      "handlerLine" : 7,
+      "timestamp" : "2021-04-26 14:20:45.060 -0600",
+      "scriptName" : "twoSUTconnections.script"
+    },
+    {
+      "handlerName" : "on_twosutconnections",
+      "message" : "microsoft edge",
+      "timestamp" : "2021-04-26 14:20:47.236 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "twoSUTconnections.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_twosutconnections",
+      "message" : "at (485, 609)",
+      "identifier" : "click",
+      "image" : "OpenProgram",
+      "handlerLine" : 9,
+      "timestamp" : "2021-04-26 14:21:19.384 -0600",
+      "scriptName" : "twoSUTconnections.script"
+    },
+    {
+      "handlerName" : "on_twosutconnections",
+      "message" : "found at (90, 16)",
+      "identifier" : "waitfor",
+      "image" : "MicrosoftEdgeLoaded",
+      "handlerLine" : 10,
+      "timestamp" : "2021-04-26 14:21:28.122 -0600",
+      "scriptName" : "twoSUTconnections.script"
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[windowsKey][upArrow]",
+      "timestamp" : "2021-04-26 14:21:28.154 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "at (256, 50)",
+      "identifier" : "click",
+      "image" : "URLfield",
+      "handlerLine" : 6,
+      "timestamp" : "2021-04-26 14:21:30.608 -0600",
+      "scriptName" : "navigateToWebpage.script"
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[controlKey]a",
+      "timestamp" : "2021-04-26 14:21:32.635 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[backspace]",
+      "timestamp" : "2021-04-26 14:21:34.651 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "www.amazon.com",
+      "timestamp" : "2021-04-26 14:21:36.826 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 9
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[return]",
+      "timestamp" : "2021-04-26 14:21:38.842 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 10
+    },
+    {
+      "handlerName" : "on_twosutconnections",
+      "message" : "Linux_SUT:(null)",
+      "timestamp" : "2021-04-26 14:21:48.849 -0600",
+      "identifier" : "connect",
+      "scriptName" : "twoSUTconnections.script",
+      "handlerLine" : 16
+    },
+    {
+      "handlerName" : "on_twosutconnections",
+      "message" : "at (38, 15)",
+      "identifier" : "click",
+      "image" : "ApplicationsBtn",
+      "handlerLine" : 19,
+      "timestamp" : "2021-04-26 14:21:49.359 -0600",
+      "scriptName" : "twoSUTconnections.script"
+    },
+    {
+      "handlerName" : "on_twosutconnections",
+      "message" : "at (226, 81)",
+      "identifier" : "click",
+      "image" : "FirefoxIcon",
+      "handlerLine" : 20,
+      "timestamp" : "2021-04-26 14:21:51.897 -0600",
+      "scriptName" : "twoSUTconnections.script"
+    },
+    {
+      "handlerName" : "on_twosutconnections",
+      "message" : "found at (569, 46)",
+      "identifier" : "waitfor",
+      "image" : "MozillaFirefoxLoaded",
+      "handlerLine" : 21,
+      "timestamp" : "2021-04-26 14:22:05.448 -0600",
+      "scriptName" : "twoSUTconnections.script"
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[windowsKey][upArrow]",
+      "timestamp" : "2021-04-26 14:22:05.478 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "at (226, 118)",
+      "identifier" : "click",
+      "image" : "URLfield",
+      "handlerLine" : 6,
+      "timestamp" : "2021-04-26 14:22:08.295 -0600",
+      "scriptName" : "navigateToWebpage.script"
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[controlKey]a",
+      "timestamp" : "2021-04-26 14:22:10.322 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[backspace]",
+      "timestamp" : "2021-04-26 14:22:12.336 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "wikipedia.org",
+      "timestamp" : "2021-04-26 14:22:14.507 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 9
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[return]",
+      "timestamp" : "2021-04-26 14:22:16.525 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 10
+    },
+    {
+      "handlerName" : "on_twosutconnections",
+      "message" : "Windows10:(null)",
+      "timestamp" : "2021-04-26 14:22:26.534 -0600",
+      "identifier" : "connect",
+      "scriptName" : "twoSUTconnections.script",
+      "handlerLine" : 25
+    },
+    {
+      "handlerName" : "on_placecall",
+      "message" : "placeCall",
+      "timestamp" : "2021-04-26 14:22:26.596 -0600",
+      "identifier" : "BeginTestCase",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_placecall",
+      "message" : "This test case passes",
+      "timestamp" : "2021-04-26 14:22:31.601 -0600",
+      "identifier" : "LogSuccess",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_placecall",
+      "message" : "(Duration:\"5.007717\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-04-26 14:22:26 -0600\", Successes:\"1\", TestCase:\"placeCall\", Warnings:\"0\")",
+      "timestamp" : "2021-04-26 14:22:31.604 -0600",
+      "identifier" : "EndTestCase",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 11
+    },
+    {
+      "handlerName" : "on_speedtest",
+      "message" : "speedTest",
+      "timestamp" : "2021-04-26 14:22:31.627 -0600",
+      "identifier" : "BeginTestCase",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_speedtest",
+      "message" : "This test case passes",
+      "timestamp" : "2021-04-26 14:22:36.633 -0600",
+      "identifier" : "LogSuccess",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_speedtest",
+      "message" : "(Duration:\"5.008774\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-04-26 14:22:31 -0600\", Successes:\"1\", TestCase:\"speedTest\", Warnings:\"0\")",
+      "timestamp" : "2021-04-26 14:22:36.636 -0600",
+      "identifier" : "EndTestCase",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 11
+    },
+    {
+      "handlerName" : "on_handoversession",
+      "message" : "handoverSession",
+      "timestamp" : "2021-04-26 14:22:36.675 -0600",
+      "identifier" : "BeginTestCase",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_handoversession",
+      "message" : "This test case passes",
+      "timestamp" : "2021-04-26 14:22:41.682 -0600",
+      "identifier" : "LogSuccess",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_handoversession",
+      "message" : "(Duration:\"5.010197\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-04-26 14:22:36 -0600\", Successes:\"1\", TestCase:\"handoverSession\", Warnings:\"0\")",
+      "timestamp" : "2021-04-26 14:22:41.686 -0600",
+      "identifier" : "EndTestCase",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 11
+    },
+    {
+      "handlerName" : "on_twosutconnections",
+      "message" : "Windows10:(null)",
+      "timestamp" : "2021-04-26 14:22:41.739 -0600",
+      "identifier" : "connect",
+      "scriptName" : "twoSUTconnections.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_twosutconnections",
+      "message" : "at (171, 1004)",
+      "identifier" : "click",
+      "image" : "windowsSearch",
+      "handlerLine" : 7,
+      "timestamp" : "2021-04-26 14:22:43.488 -0600",
+      "scriptName" : "twoSUTconnections.script"
+    },
+    {
+      "handlerName" : "on_twosutconnections",
+      "message" : "microsoft edge",
+      "timestamp" : "2021-04-26 14:22:45.659 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "twoSUTconnections.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_twosutconnections",
+      "message" : "at (485, 609)",
+      "identifier" : "click",
+      "image" : "OpenProgram",
+      "handlerLine" : 9,
+      "timestamp" : "2021-04-26 14:22:49.057 -0600",
+      "scriptName" : "twoSUTconnections.script"
+    },
+    {
+      "handlerName" : "on_twosutconnections",
+      "message" : "found at (90, 16)",
+      "identifier" : "waitfor",
+      "image" : "MicrosoftEdgeLoaded",
+      "handlerLine" : 10,
+      "timestamp" : "2021-04-26 14:22:50.477 -0600",
+      "scriptName" : "twoSUTconnections.script"
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[windowsKey][upArrow]",
+      "timestamp" : "2021-04-26 14:22:51.083 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "at (256, 50)",
+      "identifier" : "click",
+      "image" : "URLfield",
+      "handlerLine" : 6,
+      "timestamp" : "2021-04-26 14:22:53.960 -0600",
+      "scriptName" : "navigateToWebpage.script"
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[controlKey]a",
+      "timestamp" : "2021-04-26 14:22:55.986 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[backspace]",
+      "timestamp" : "2021-04-26 14:22:58.000 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "www.amazon.com",
+      "timestamp" : "2021-04-26 14:23:00.173 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 9
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[return]",
+      "timestamp" : "2021-04-26 14:23:02.189 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 10
+    },
+    {
+      "handlerName" : "on_twosutconnections",
+      "message" : "Linux_SUT:(null)",
+      "timestamp" : "2021-04-26 14:23:12.195 -0600",
+      "identifier" : "connect",
+      "scriptName" : "twoSUTconnections.script",
+      "handlerLine" : 16
+    },
+    {
+      "handlerName" : "on_twosutconnections",
+      "message" : "at (38, 15)",
+      "identifier" : "click",
+      "image" : "ApplicationsBtn",
+      "handlerLine" : 19,
+      "timestamp" : "2021-04-26 14:23:12.631 -0600",
+      "scriptName" : "twoSUTconnections.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"162.222159\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-04-26 14:20:43 -0600\", Successes:\"3\", TestCase:\"MainTestCase.script\", Warnings:\"0\")",
+      "timestamp" : "2021-04-26 14:23:25.237 -0600"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:02:42 MainTestCase.script",
+      "timestamp" : "2021-04-26 14:23:25.240 -0600"
+    }
+  ],
+  "createdTimestamp" : "2021-04-26 14:20:43.014 -0600"
+}

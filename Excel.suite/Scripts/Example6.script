@@ -1,11 +1,10 @@
 ﻿
 
 set myScriptData to (type:"excel", file:ResourcePath("WebFormData.xlsx"), name:"PatientList")
+put the records of myScriptData into  Patients
+log  (item 1 of Patients)."date of birth"
 
-//log myScriptData
 
-
-put the records of myScriptData into Patients
 
 log (item 3 of Patients)."last name"
 

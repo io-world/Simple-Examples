@@ -1,0 +1,5 @@
+﻿2021-02-12 08:21:39.168 -0700	START		Running NOtes.script
+2021-02-12 08:21:39.447 -0700	readtext		(790,350)	3	on_notes	NOtes.script
+2021-02-12 08:21:39.448 -0700	Log		Champion Men's Jogger	3	on_notes	NOtes.script
+2021-02-12 08:21:39.645 -0700	EndTestCase		(Duration:"0.47626", Errors:"0", Exceptions:"0", StartTime:"2021-02-12 08:21:39 -0700", Successes:"1", TestCase:"NOtes.script", Warnings:"0")
+2021-02-12 08:21:39.660 -0700	SUCCESS		Execution Time 0:00:00 NOtes.script

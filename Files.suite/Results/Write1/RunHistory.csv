@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2021-02-12 08:16:47.105 -0700,"Failure",0:00:00,1,0,0,"20210212_081647.105/LogFile.txt","","STFileAccessException -- Unable to open file /Users/randyhesse/Desktop/TestRead as requested",0
+2021-02-12 08:16:59.957 -0700,"Success",0:00:00,0,0,0,"20210212_081659.957/LogFile.txt","","",1
+2021-02-12 08:17:19.278 -0700,"Success",0:00:00,0,0,0,"20210212_081719.278/LogFile.txt","","",1

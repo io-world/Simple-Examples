@@ -1,0 +1,48 @@
+﻿{
+    EPVersionNumber = 2010241818;
+    Schedules =     (
+    );
+    ScriptMetaData =     {
+        CloseBrowser =         {
+            TableScriptUserActionDefaultExpectedValue = Pass;
+            TableScriptUserActionType = Verify;
+        };
+        ConnectDevice =         {
+            TableScriptUserActionDefaultExpectedValue = Pass;
+            TableScriptUserActionType = Verify;
+        };
+        EnvSetup =         {
+            TableScriptUserActionDefaultExpectedValue = Pass;
+            TableScriptUserActionType = Verify;
+        };
+        HomeButton =         {
+            TableScriptUserActionDefaultExpectedValue = pass;
+            TableScriptUserActionType = Verify;
+        };
+        HomeScreen =         {
+            TableScriptUserActionDefaultExpectedValue = Pass;
+            TableScriptUserActionType = Verify;
+        };
+        OpenAmazon =         {
+            TableScriptUserActionDefaultExpectedValue = Pass;
+            TableScriptUserActionType = Verify;
+        };
+        OpenAmazonURL =         {
+            TableScriptUserActionDefaultExpectedValue = Pass;
+            TableScriptUserActionType = Verify;
+        };
+        OpenBasket =         {
+            TableScriptUserActionDefaultExpectedValue = Pass;
+            TableScriptUserActionType = Verify;
+        };
+        SearchItem =         {
+            TableScriptUserActionDefaultExpectedValue = Pass;
+            TableScriptUserActionType = Verify;
+        };
+    };
+    SuiteEncodedTextKey = "++)#zDU[BxMIdz]v";
+    helpedSuitesInfo =     (
+    );
+    helperSuitesInfo =     (
+    );
+}

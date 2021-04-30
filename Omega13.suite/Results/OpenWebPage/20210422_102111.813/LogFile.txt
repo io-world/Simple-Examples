@@ -1,0 +1,6 @@
+﻿2021-04-22 10:21:11.815 -0600	START		Running OpenWebPage.script
+2021-04-22 10:21:11.886 -0600	typetext		[windowsKey]r	1	on_openwebpage	OpenWebPage.script
+2021-04-22 10:21:12.731 -0600	typetext		chrome.exe[returnKey]	2	on_openwebpage	OpenWebPage.script
+2021-04-22 10:21:13.462 -0600	typetext		[controlKey]l	3	on_openwebpage	OpenWebPage.script
+2021-04-22 10:21:21.170 -0600	EndTestCase		(Duration:"9.354408", Errors:"1", Exceptions:"0", StartTime:"2021-04-22 10:21:11 -0600", Successes:"0", TestCase:"OpenWebPage.script", Warnings:"0")
+2021-04-22 10:21:21.172 -0600	ABORTED		Execution Time 0:00:09 OpenWebPage.script

@@ -5,8 +5,8 @@ Connect "Windows 10"
 
 
 put the WebDriver into Driver
-put RemoteScreenRectangle() into  Driver.WindowRectangle
 
+put "max" into webdriver.windowsize
 put "https://www.google.com/" into Driver.url 
 
 

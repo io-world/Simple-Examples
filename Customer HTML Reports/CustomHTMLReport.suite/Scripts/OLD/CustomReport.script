@@ -1,0 +1,11 @@
+﻿
+
+
+//RunWithNewResults "Workflow01"
+//put (the result).LogFile into LogFile
+
+put "/Users/ranhesse/Documents/Simple_Examples/CustomHTMLReport.suite/Results/Workflow01/20210301_134759.471/LogFile.txt" into LogFile
+replace "logfile.txt" with "logfile.json" in LogFile
+
+
+log file LogFile

@@ -1,0 +1,11 @@
+﻿
+
+params webpage
+
+TypeText windowsKey, upArrow
+Click {Image:"URLfield", WaitFor:20}
+TypeText ControlKey,"a"
+TypeText Backspace
+TypeText webpage
+TypeText Return
+Wait 10

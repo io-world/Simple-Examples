@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="errorReporting_script" package="RogersPOV.suite" timestamp="2021-03-03 16:03:32.974 -0700"
+ tests="1"  failures="1" errors="1" time="66.528446">
+  <properties>
+   <property name="RunDate" value="2021-03-03 16:03:32.974 -0700"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="errorReporting.script" assertions="1" status="error"  time="66.525536">
+    <failure type="FAILURE" message="File Not Found imagefound Error - Could Not Open Image: RSP_testagain -- Execution Time 0:01:06 errorReporting.script" />
+    <error type="Exception" message="Could Not Open Image: RSP_testagain" />
+  </testcase>
+ </testsuite>
+</testsuites>

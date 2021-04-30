@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1616002523.0675092,
+  "ocrcapturestring" : "Save Document?",
+  "testlocationdata" : [
+    {
+      "name" : "SaveDocumentPopup.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "Save Document?",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_73",
+        "HotSpot" : "[54,9]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        314,
+        289,
+        108,
+        19
+      ]
+    }
+  ],
+  "createddate" : 1616002523.067508,
+  "lastfoundlocation" : [
+    314,
+    289,
+    108,
+    19
+  ],
+  "originalcapturelocation" : [
+    314,
+    289,
+    108,
+    19
+  ],
+  "lastfounddate" : 1616019448.2687001,
+  "name" : "SaveDocumentPopup"
+}

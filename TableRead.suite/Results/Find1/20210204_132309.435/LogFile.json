@@ -1,0 +1,63 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Find1.script",
+      "timestamp" : "2021-02-04 13:23:09.438 -0700"
+    },
+    {
+      "handlerName" : "on_find1",
+      "message" : "at (28, 432)",
+      "identifier" : "imagelocation",
+      "image" : "Show",
+      "handlerLine" : 1,
+      "timestamp" : "2021-02-04 13:23:09.841 -0700",
+      "scriptName" : "Find1.script"
+    },
+    {
+      "handlerName" : "on_find1",
+      "message" : "(8,473,50,1080)",
+      "timestamp" : "2021-02-04 13:23:09.870 -0700",
+      "identifier" : "readtext",
+      "scriptName" : "Find1.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_find1",
+      "message" : "(18,442,1408,467)",
+      "timestamp" : "2021-02-04 13:23:09.881 -0700",
+      "identifier" : "readtext",
+      "scriptName" : "Find1.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_find1",
+      "message" : "Unable to Find Text: 11 -- AutoUpdate engaged",
+      "timestamp" : "2021-02-04 13:23:13.524 -0700",
+      "identifier" : "LogWarning",
+      "scriptName" : "Find1.script",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_find1",
+      "message" : "Unable To Find Image \"(TEXT:\"11\")\". Text not found.",
+      "identifier" : "Exception",
+      "image" : "(TEXT:\"11\")",
+      "handlerLine" : 18,
+      "timestamp" : "2021-02-04 13:23:14.913 -0700",
+      "scriptName" : "Find1.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"5.60346\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-02-04 13:23:09 -0700\", Successes:\"0\", TestCase:\"Find1.script\", Warnings:\"1\")",
+      "timestamp" : "2021-02-04 13:23:15.043 -0700"
+    },
+    {
+      "message" : "Image Not Found imagelocation Error - Unable To Find Image \"(TEXT:\"11\")\". Text not found.  Restricted Search Rectangle ((8,473),(50,1080))\\n -- Execution Time 0:00:05 Find1.script",
+      "timestamp" : "2021-02-04 13:23:15.112 -0700",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2021-02-04 13:23:09.439 -0700"
+}

@@ -1,0 +1,13 @@
+﻿
+set  DAIServer to"https://eval50.dai.eggplant.cloud"
+set  DAIusername to "John.Doe@eggplant.io"
+set  DAIpassword to "XXXXX"
+
+
+
+put new "API_Class"  into AC
+
+(AC)."GrabModelFromDAI" (DAIServer,DAIusername,DAIpassword)
+put (AC)."GetModelJson" into OriginalDAIModel
+
+log OriginalDAIModel.id

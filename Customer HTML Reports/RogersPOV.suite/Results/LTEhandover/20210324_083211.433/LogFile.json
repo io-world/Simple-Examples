@@ -1,0 +1,94 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running LTEhandover.script",
+      "timestamp" : "2021-03-24 08:32:11.436 -0600"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2021-03-24 08:32:11.525 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "C:\\Users\\eggplantTest\\Desktop\\LTE Handover.ods[returnKey]",
+      "timestamp" : "2021-03-24 08:32:14.136 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "found at (46, 11)",
+      "identifier" : "waitfor",
+      "image" : "LTEHandover_SheetOpen",
+      "handlerLine" : 8,
+      "timestamp" : "2021-03-24 08:32:19.156 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "[homeKey]",
+      "timestamp" : "2021-03-24 08:32:19.171 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 11
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "SEARCHRECTANGLE = [[0,384],[1024,768]]",
+      "timestamp" : "2021-03-24 08:32:19.178 -0600",
+      "identifier" : "set",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 14
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "found 3 images",
+      "identifier" : "everyimagelocation",
+      "image" : "(TEXT:\"Messaging -\")",
+      "handlerLine" : 15,
+      "timestamp" : "2021-03-24 08:32:29.050 -0600",
+      "scriptName" : "LTEhandover.script"
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "at (314, 698)",
+      "timestamp" : "2021-03-24 08:32:29.138 -0600",
+      "identifier" : "click",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 16
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "SEARCHRECTANGLE = []",
+      "timestamp" : "2021-03-24 08:32:29.140 -0600",
+      "identifier" : "set",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 17
+    },
+    {
+      "handlerName" : "on_ltehandover",
+      "message" : "8\/28\/2020 09:22",
+      "timestamp" : "2021-03-24 08:32:29.140 -0600",
+      "identifier" : "Log",
+      "scriptName" : "LTEhandover.script",
+      "handlerLine" : 25
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"20.070426\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-03-24 08:32:11 -0600\", Successes:\"0\", TestCase:\"LTEhandover.script\", Warnings:\"0\")",
+      "timestamp" : "2021-03-24 08:32:31.508 -0600"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:00:20 LTEhandover.script",
+      "timestamp" : "2021-03-24 08:32:31.510 -0600"
+    }
+  ],
+  "createdTimestamp" : "2021-03-24 08:32:11.437 -0600"
+}

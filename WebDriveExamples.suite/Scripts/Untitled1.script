@@ -4,6 +4,7 @@
 put the WebDriver into Driver
 put RemoteScreenRectangle() into  Driver.WindowRectangle
 put URL into Driver.url 
+//put "max" into webdriver.windowsize
 
 
 put findelement(webCssSelector: "#Image2") into element

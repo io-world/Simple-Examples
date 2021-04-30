@@ -1,0 +1,2 @@
+﻿Run "Example Get"
+log api().responseBody

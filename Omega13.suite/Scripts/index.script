@@ -1,6 +1,6 @@
 ﻿
 Start using Omega13
 
-openWebPage
+run "openWebPage"
 
 Stop using Omega13

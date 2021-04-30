@@ -1,0 +1,7 @@
+﻿2021-04-15 11:18:44.351 -0600	START		Running MainTestCase.script
+2021-04-15 11:18:44.402 -0600	BeginTestCase		placeCall	2	on_placecall	mainScript.script
+2021-04-15 11:18:59.409 -0600	EndTestCase		(Duration:"15.006543", Errors:"0", Exceptions:"0", StartTime:"2021-04-15 11:18:44 -0600", Successes:"0", TestCase:"placeCall", Warnings:"0")	6	on_placecall	mainScript.script
+2021-04-15 11:18:59.429 -0600	BeginTestCase		speedTest	2	on_speedtest	mainScript.script
+2021-04-15 11:19:14.436 -0600	EndTestCase		(Duration:"15.007111", Errors:"0", Exceptions:"0", StartTime:"2021-04-15 11:18:59 -0600", Successes:"0", TestCase:"speedTest", Warnings:"0")	6	on_speedtest	mainScript.script
+2021-04-15 11:19:15.086 -0600	EndTestCase		(Duration:"30.733859", Errors:"1", Exceptions:"0", StartTime:"2021-04-15 11:18:44 -0600", Successes:"0", TestCase:"MainTestCase.script", Warnings:"0")
+2021-04-15 11:19:16.683 -0600	FAILURE	Screen_Error.png	BadValue Bad value for Object expression.  Looking for an object or script identifier, got 'Attenuators'. -- Execution Time 0:00:30 MainTestCase.script

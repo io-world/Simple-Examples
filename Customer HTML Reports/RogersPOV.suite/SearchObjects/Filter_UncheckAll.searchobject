@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1615957942.3202729,
+  "ocrcapturestring" : "Haii",
+  "testlocationdata" : [
+    {
+      "name" : "Filter_UncheckAll.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "Haii",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_73",
+        "HotSpot" : "[7,9]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        40,
+        541,
+        34,
+        17
+      ]
+    }
+  ],
+  "createddate" : 1615957942.320272,
+  "lastfoundlocation" : [
+    40,
+    541,
+    34,
+    17
+  ],
+  "originalcapturelocation" : [
+    40,
+    541,
+    34,
+    17
+  ],
+  "lastfounddate" : 1616018093.7680721,
+  "name" : "Filter_UncheckAll"
+}

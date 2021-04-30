@@ -1,0 +1,13 @@
+﻿# this is a place to try different scripting ideas
+# to execute your commands,  use either the "Play" button (big green arrow above) or "Play selected" button (green arrow pointing to a selection next ot the "Play" button)
+
+
+
+# if you have a connection to a SUT, uncomment this section and play with it to see what it does
+
+(* put connectioninfo().ScreenSize into ScreenSize
+
+set the searchrectangle to (0,0,item 1 of ScreenSize, 0.2 * item 2 of ScreenSize)
+
+wait 10
+*)

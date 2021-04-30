@@ -1,0 +1,11 @@
+﻿2021-04-06 10:35:46.306 -0600	START		Running Untitled.script
+2021-04-06 10:35:46.374 -0600	Log		{EnableAggressiveTextExtraction:"True", SearchRectangle:[0,0,500,500], Text:"Buttons", ValidCharacters:"*", ValidWords:"*", WaitFor:"1"}	14	on_untitled	Untitled.script
+2021-04-06 10:35:46.377 -0600	Log		["Text","EnableAggressiveTextExtraction","SearchRectangle","ValidCharacters","ValidWords","WaitFor"]	15	on_untitled	Untitled.script
+2021-04-06 10:35:46.382 -0600	Log		{Text:"Buttons"}	25	on_untitled	Untitled.script
+2021-04-06 10:35:46.385 -0600	Log		{EnableAggressiveTextExtraction:"True", Text:"Buttons"}	25	on_untitled	Untitled.script
+2021-04-06 10:35:46.387 -0600	Log		{EnableAggressiveTextExtraction:"True", SearchRectangle:[0,0,500,500], Text:"Buttons"}	25	on_untitled	Untitled.script
+2021-04-06 10:35:46.389 -0600	Log		{EnableAggressiveTextExtraction:"True", SearchRectangle:[0,0,500,500], Text:"Buttons", ValidCharacters:"*"}	25	on_untitled	Untitled.script
+2021-04-06 10:35:46.392 -0600	Log		{EnableAggressiveTextExtraction:"True", SearchRectangle:[0,0,500,500], Text:"Buttons", ValidCharacters:"*", ValidWords:"*"}	25	on_untitled	Untitled.script
+2021-04-06 10:35:46.396 -0600	Log		{EnableAggressiveTextExtraction:"True", SearchRectangle:[0,0,500,500], Text:"Buttons", ValidCharacters:"*", ValidWords:"*", WaitFor:"1"}	25	on_untitled	Untitled.script
+2021-04-06 10:35:46.664 -0600	EndTestCase		(Duration:"0.357253", Errors:"0", Exceptions:"0", StartTime:"2021-04-06 10:35:46 -0600", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2021-04-06 10:35:46.670 -0600	SUCCESS		Execution Time 0:00:00 Untitled.script

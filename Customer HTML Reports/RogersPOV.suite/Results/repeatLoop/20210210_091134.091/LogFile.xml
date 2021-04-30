@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="repeatLoop_script" package="RogersPOV.suite" timestamp="2021-02-10 09:11:34.091 -0700"
+ tests="1"  failures="0" errors="0" time="0.398727">
+  <properties>
+   <property name="RunDate" value="2021-02-10 09:11:34.091 -0700"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="repeatLoop.script" assertions="1" status="success"  time="0.394615">
+  </testcase>
+ </testsuite>
+</testsuites>

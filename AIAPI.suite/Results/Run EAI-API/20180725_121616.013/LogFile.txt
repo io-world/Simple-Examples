@@ -1,3 +1,0 @@
-﻿2018-07-25 12:16:16.015 -0600	START		Running Run EAI.apitest
-2018-07-25 12:16:16.793 -0600	EndTestCase		(Duration:"0.7769", Errors:"0", Exceptions:"0", StartTime:"2018-07-25 12:16:16 -0600", Successes:"1", TestCase:"Run EAI.apitest", Warnings:"0")
-2018-07-25 12:16:16.809 -0600	SUCCESS		Execution Time 0:00:00 Run EAI.apitest

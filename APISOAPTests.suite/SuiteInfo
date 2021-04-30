@@ -1,0 +1,19 @@
+﻿{
+    EPVersionNumber = 2010191721;
+    Schedules =     (
+    );
+    ScriptMetaData =     {
+    };
+    SuiteEncodedTextKey = "Rk5vGM'meOaW/<?'";
+    SuiteVariables = "{\n bar3:@\"\"\n}";
+    helpedSuitesInfo =     (
+                {
+            filePath = "TestProjects/ePF/CornerStoneWorkingCopy/Jeannette/eggPlantTestSuites/API_FullFeatureTests.suite";
+        },
+                {
+            filePath = "SVN-TestPlant-Tests/EggplantTests/trunk/Jeannette/eggPlantTestSuites/API_FullFeatureTests.suite";
+        }
+    );
+    helperSuitesInfo =     (
+    );
+}

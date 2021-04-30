@@ -1,0 +1,73 @@
+{
+  "lastmodifieddate" : 1619470309.366044,
+  "ocrcapturestring" : "GO",
+  "testlocationdata" : [
+    {
+      "name" : "speedtestGO\/speedtestGO_2.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "GO",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[36,21]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        478,
+        372,
+        73,
+        43
+      ]
+    },
+    {
+      "name" : "speedtestGO\/speedtestGO_2_new.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "GO",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_70",
+        "HotSpot" : "[36,21]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        216,
+        314,
+        78,
+        38
+      ]
+    }
+  ],
+  "createddate" : 1612973678.6170321,
+  "lastfoundlocation" : [
+    216,
+    347,
+    78,
+    38
+  ],
+  "originalcapturelocation" : [
+    478,
+    372,
+    73,
+    43
+  ],
+  "lastfounddate" : 1619471071.737319,
+  "name" : "speedtestGO\/speedtestGO_2"
+}

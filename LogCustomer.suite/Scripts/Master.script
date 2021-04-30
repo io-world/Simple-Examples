@@ -1,0 +1,12 @@
+﻿
+
+
+RunWithNewResults "Script01"
+put the result into ScriptResult
+
+put {Duration:12.342647, Errors:0, Exceptions:0, LogFile:"/Users/ranhesse/Documents/Simple_Examples/LogCustomer.suite/Results/Script01/20210120_132552.661/LogFile.txt", ReturnValue:"", RunDate:"2021-01-20 13:25:52.661 -0700", Status:"Success", Successes:1, Warnings:0} into ScriptResult
+
+
+
+
+log ScriptResult

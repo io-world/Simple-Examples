@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Untitled_script" package="OCR Multi Search.suite" timestamp="2021-04-06 10:35:46.303 -0600"
+ tests="1"  failures="0" errors="0" time="0.360624">
+  <properties>
+   <property name="RunDate" value="2021-04-06 10:35:46.303 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Untitled.script" assertions="1" status="success"  time="0.357253">
+  </testcase>
+ </testsuite>
+</testsuites>

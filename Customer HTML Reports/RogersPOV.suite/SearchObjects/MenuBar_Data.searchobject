@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1615955770.9005351,
+  "ocrcapturestring" : "Data a—s",
+  "testlocationdata" : [
+    {
+      "name" : "MenuBar_Data.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "Data a—s",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_73",
+        "HotSpot" : "[23,17]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        299,
+        24,
+        47,
+        35
+      ]
+    }
+  ],
+  "createddate" : 1615955770.9005342,
+  "lastfoundlocation" : [
+    299,
+    24,
+    47,
+    35
+  ],
+  "originalcapturelocation" : [
+    299,
+    24,
+    47,
+    35
+  ],
+  "lastfounddate" : 1615957050.5872769,
+  "name" : "MenuBar_Data"
+}

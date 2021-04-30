@@ -12,4 +12,16 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
+ <run>
+  <RunDate>2020-11-30 14:14:00.230 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.526854</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201130_141400.230/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
 </runHistory>

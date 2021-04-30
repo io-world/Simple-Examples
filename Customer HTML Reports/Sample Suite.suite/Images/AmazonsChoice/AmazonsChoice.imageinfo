@@ -1,0 +1,24 @@
+﻿{
+    CaptureDate = "2021-03-01 20:42:15 +0000";
+    CaptureHost = "Randy AWS Server";
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    CropRectangle = "3,3,102,17";
+    HasAlpha = 1;
+    HotSpotX = 58;
+    HotSpotY = 11;
+    ImageDescription = {length = 0, bytes = 0x};
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 502;
+    OriginalLocationY = 842;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+    SearchObjectName = AmazonsChoice;
+    tags =     (
+    );
+}

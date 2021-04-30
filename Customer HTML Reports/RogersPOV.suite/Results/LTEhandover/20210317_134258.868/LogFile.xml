@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="LTEhandover_script" package="RogersPOV.suite" timestamp="2021-03-17 13:42:58.868 -0600"
+ tests="1"  failures="0" errors="0" time="70.246713">
+  <properties>
+   <property name="RunDate" value="2021-03-17 13:42:58.868 -0600"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="LTEhandover.script" assertions="1" status="error"  time="70.243383">
+    <error type="Exception" message="Searching For Image: OCR Error: OCR operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1615955876.293864,
+  "ocrcapturestring" : "Name",
+  "testlocationdata" : [
+    {
+      "name" : "DefineRange_NameFIeld.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "Name",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_69",
+        "HotSpot" : "[51,26]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        455,
+        227,
+        35,
+        13
+      ]
+    }
+  ],
+  "createddate" : 1615955876.2938631,
+  "lastfoundlocation" : [
+    455,
+    227,
+    35,
+    13
+  ],
+  "originalcapturelocation" : [
+    455,
+    227,
+    35,
+    13
+  ],
+  "lastfounddate" : 1615956237.013993,
+  "name" : "DefineRange_NameFIeld"
+}

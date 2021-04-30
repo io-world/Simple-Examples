@@ -70,7 +70,8 @@ function PixelMatch PixelMatchInfo
 	put the number of items of MatrixPixel into PixelCount
 	put the number of items of CloseColorName into CloseColorCount
 	log "Pixel Count is:" && PixelCount
-	
+	log CloseColorList
+	log CloseColorName
 	
 	repeat PixelCount times
 		

@@ -1,0 +1,37 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running MainTestCase.script",
+      "timestamp" : "2021-04-15 11:16:50.052 -0600"
+    },
+    {
+      "handlerName" : "on_placecall",
+      "message" : "placeCall",
+      "timestamp" : "2021-04-15 11:16:50.099 -0600",
+      "identifier" : "BeginTestCase",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_placecall",
+      "message" : "(Duration:\"15.012214\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-04-15 11:16:50 -0600\", Successes:\"0\", TestCase:\"placeCall\", Warnings:\"0\")",
+      "timestamp" : "2021-04-15 11:17:05.111 -0600",
+      "identifier" : "EndTestCase",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 6
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"15.738427\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-04-15 11:16:50 -0600\", Successes:\"0\", TestCase:\"MainTestCase.script\", Warnings:\"0\")",
+      "timestamp" : "2021-04-15 11:17:05.792 -0600"
+    },
+    {
+      "message" : "STFileAccessException Unable to open file \/theFile as requested -- Execution Time 0:00:15 MainTestCase.script",
+      "timestamp" : "2021-04-15 11:17:07.399 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2021-04-15 11:16:50.053 -0600"
+}

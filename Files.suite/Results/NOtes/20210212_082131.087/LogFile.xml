@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="NOtes_script" package="Files.suite" timestamp="2021-02-12 08:21:31.087 -0700"
+ tests="1"  failures="1" errors="0" time="0.232333">
+  <properties>
+   <property name="RunDate" value="2021-02-12 08:21:31.087 -0700"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="NOtes.script" assertions="1" status="failure"  time="0.229124">
+    <failure type="FAILURE" message="STUnknownMessage ERROR: No Such Function: 'readtexd' -- Execution Time 0:00:00 NOtes.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

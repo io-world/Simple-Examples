@@ -1,0 +1,8 @@
+﻿params MyBrowser //Pass in the browser, chrome or iexplore, you want to run against
+typetext windowskey,"r" //Open up the run window using a Windows shortcut
+waitfor 20, "RunWindowLogo"
+typetext MyBrowser && "www.amazon.co.uk"
+typetext return
+moveto (1,1)
+waitforall 50, "Refresh", "BasketIcon"
+return Pass

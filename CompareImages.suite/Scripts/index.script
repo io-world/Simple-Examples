@@ -6,11 +6,11 @@ end if
 
 
 
-put ColorAtLocation(255,200) into BC
-log BC
+put ColorAtLocation(354,142) into BC
 
 
-put ReadText(((192,122,390,395)), contrast:on,ContrastColor: BC,saveimagefile:("/Users/randyhesse/Desktop/test.png"))
+
+put ReadText((86,134,664,165), dpi:1000,contrast:on,ContrastColor: BC,saveimagefile:("/Users/ranhesse/Desktop/test.png"))
 
 
 CaptureScreen (name:SuiteInfo().ImagesFolder&slash&"NewImageName",Rectangle: (100,100,700,400))

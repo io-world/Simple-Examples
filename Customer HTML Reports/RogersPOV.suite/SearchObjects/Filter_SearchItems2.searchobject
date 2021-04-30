@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1616014789.776701,
+  "ocrcapturestring" : "Search items...",
+  "testlocationdata" : [
+    {
+      "name" : "Filter_SearchItems.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "Search items...",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : 41,
+        "HotSpot" : "[35,8]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        45,
+        356,
+        77,
+        13
+      ]
+    }
+  ],
+  "createddate" : 1616014789.7767,
+  "lastfoundlocation" : [
+    45,
+    356,
+    77,
+    13
+  ],
+  "originalcapturelocation" : [
+    45,
+    356,
+    77,
+    13
+  ],
+  "lastfounddate" : 1616018095.2125239,
+  "name" : "Filter_SearchItems2"
+}

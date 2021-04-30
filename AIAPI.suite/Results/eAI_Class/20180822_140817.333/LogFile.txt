@@ -1,6 +1,0 @@
-﻿2018-08-22 14:08:17.335 -0600	START		Running eAI_Class.script
-2018-08-22 14:08:17.385 -0600	LogWarning		Validation Warning: Empty request body.	12	on_eai_class	eAI_Class.script
-2018-08-22 14:08:18.153 -0600	LogWarning		Validation Warning: Empty request body.	24	on_eai_class	eAI_Class.script
-2018-08-22 14:08:18.324 -0600	Log		<!DOCTYPE html>\n<html>\n<head>\n  <style type="text/css">\n  body { text-align:center;font-family:helvetica,arial;font-size:22px;\n    color:#888;margin:20px}\n  #c {margin:0 auto;width:500px;text-align:left}\n  </style>\n</head>\n<body>\n  <h2>Sinatra doesn&rsquo;t know this ditty.</h2>\n  <img src='http://eggplantai.testplant.com/api/__sinatra__/404.png'>\n  <div id="c">\n    Try this:\n    <pre># in RestApi.rb\nclass RestApi\n  post &#x27;&#x2F;run&#x2F;&#x27; do\n    &quot;Hello World&quot;\n  end\nend\n</pre>\n  </div>\n</body>\n</html>\n	27	on_eai_class	eAI_Class.script
-2018-08-22 14:08:19.038 -0600	EndTestCase		(Duration:"1.702239", Errors:"0", Exceptions:"0", StartTime:"2018-08-22 14:08:17 -0600", Successes:"1", TestCase:"eAI_Class.script", Warnings:"2")
-2018-08-22 14:08:19.055 -0600	SUCCESS		Execution Time 0:00:01 eAI_Class.script

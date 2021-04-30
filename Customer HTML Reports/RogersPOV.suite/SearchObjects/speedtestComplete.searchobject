@@ -1,0 +1,46 @@
+{
+  "lastmodifieddate" : 1612978977.172256,
+  "testlocationdata" : [
+    {
+      "name" : "speedtestComplete.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "deleted" : true,
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[19,14]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        641,
+        153,
+        39,
+        28
+      ]
+    }
+  ],
+  "createddate" : 1612972569.900708,
+  "lastfoundlocation" : [
+    641,
+    153,
+    39,
+    28
+  ],
+  "originalcapturelocation" : [
+    641,
+    153,
+    39,
+    28
+  ],
+  "lastfounddate" : 1612978971.2027879,
+  "name" : "speedtestComplete"
+}

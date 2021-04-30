@@ -1,0 +1,11 @@
+﻿put "/Users/ranhesse/Desktop/TestRead.csv"  into MyFileVar
+open  file MyFileVar
+
+
+
+put (OrderNUmber:"123456",Invoicenumber:"3333") into OutPutData
+
+put OutPutData into MyWrite
+write return to file MyFileVar at eof
+write MyWrite to file MyFileVar
+close file MyFileVar

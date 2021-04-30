@@ -1,0 +1,73 @@
+{
+  "lastmodifieddate" : 1615998360.2067561,
+  "ocrcapturestring" : "1 H",
+  "testlocationdata" : [
+    {
+      "name" : "ColumnH_farthestLeft.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "1 H",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[53,17]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        4,
+        153,
+        106,
+        34
+      ]
+    },
+    {
+      "name" : "ColumnH_farthestLeft.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "1 H",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_73",
+        "HotSpot" : "[60,25]",
+        "CropRectangle" : "[0,0,94,32]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        4,
+        153,
+        94,
+        32
+      ]
+    }
+  ],
+  "createddate" : 1615955133.52039,
+  "lastfoundlocation" : [
+    4,
+    153,
+    94,
+    32
+  ],
+  "originalcapturelocation" : [
+    4,
+    153,
+    106,
+    34
+  ],
+  "lastfounddate" : 1616019356.558471,
+  "name" : "ColumnH_farthestLeft"
+}

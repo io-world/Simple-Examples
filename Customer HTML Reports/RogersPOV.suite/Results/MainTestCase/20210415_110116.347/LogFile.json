@@ -1,0 +1,29 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running MainTestCase.script",
+      "timestamp" : "2021-04-15 11:01:16.350 -0600"
+    },
+    {
+      "handlerName" : "on_outputtestresults",
+      "message" : "Unable to locate script named: placeCall",
+      "timestamp" : "2021-04-15 11:01:31.383 -0600",
+      "identifier" : "Exception",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 4
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"15.69274\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-04-15 11:01:16 -0600\", Successes:\"0\", TestCase:\"MainTestCase.script\", Warnings:\"0\")",
+      "timestamp" : "2021-04-15 11:01:32.044 -0600"
+    },
+    {
+      "message" : "Error Running Script Command scriptresults Error - Unable to locate script named: placeCall -- Execution Time 0:00:15 MainTestCase.script",
+      "timestamp" : "2021-04-15 11:01:33.595 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2021-04-15 11:01:16.351 -0600"
+}

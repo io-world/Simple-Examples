@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1616002566.300056,
+  "ocrcapturestring" : "Save",
+  "testlocationdata" : [
+    {
+      "name" : "SaveButton.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "Save",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_65",
+        "HotSpot" : "[22,8]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        449,
+        405,
+        44,
+        16
+      ]
+    }
+  ],
+  "createddate" : 1616002566.300056,
+  "lastfoundlocation" : [
+    449,
+    405,
+    44,
+    16
+  ],
+  "originalcapturelocation" : [
+    449,
+    405,
+    44,
+    16
+  ],
+  "lastfounddate" : 1616019449.704983,
+  "name" : "SaveButton"
+}

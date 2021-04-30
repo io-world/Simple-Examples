@@ -1,0 +1,84 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.script",
+      "timestamp" : "2021-04-06 10:35:46.306 -0600"
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "{EnableAggressiveTextExtraction:\"True\", SearchRectangle:[0,0,500,500], Text:\"Buttons\", ValidCharacters:\"*\", ValidWords:\"*\", WaitFor:\"1\"}",
+      "timestamp" : "2021-04-06 10:35:46.374 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 14
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "[\"Text\",\"EnableAggressiveTextExtraction\",\"SearchRectangle\",\"ValidCharacters\",\"ValidWords\",\"WaitFor\"]",
+      "timestamp" : "2021-04-06 10:35:46.377 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 15
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "{Text:\"Buttons\"}",
+      "timestamp" : "2021-04-06 10:35:46.382 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 25
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "{EnableAggressiveTextExtraction:\"True\", Text:\"Buttons\"}",
+      "timestamp" : "2021-04-06 10:35:46.385 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 25
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "{EnableAggressiveTextExtraction:\"True\", SearchRectangle:[0,0,500,500], Text:\"Buttons\"}",
+      "timestamp" : "2021-04-06 10:35:46.387 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 25
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "{EnableAggressiveTextExtraction:\"True\", SearchRectangle:[0,0,500,500], Text:\"Buttons\", ValidCharacters:\"*\"}",
+      "timestamp" : "2021-04-06 10:35:46.389 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 25
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "{EnableAggressiveTextExtraction:\"True\", SearchRectangle:[0,0,500,500], Text:\"Buttons\", ValidCharacters:\"*\", ValidWords:\"*\"}",
+      "timestamp" : "2021-04-06 10:35:46.392 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 25
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "{EnableAggressiveTextExtraction:\"True\", SearchRectangle:[0,0,500,500], Text:\"Buttons\", ValidCharacters:\"*\", ValidWords:\"*\", WaitFor:\"1\"}",
+      "timestamp" : "2021-04-06 10:35:46.396 -0600",
+      "identifier" : "Log",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 25
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.357253\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-04-06 10:35:46 -0600\", Successes:\"1\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+      "timestamp" : "2021-04-06 10:35:46.664 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Untitled.script",
+      "timestamp" : "2021-04-06 10:35:46.670 -0600"
+    }
+  ],
+  "createdTimestamp" : "2021-04-06 10:35:46.307 -0600"
+}

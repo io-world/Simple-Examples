@@ -1,0 +1,1 @@
+2021-03-26 07:55:05.709 -0600,Failure,0:00:00,1,0,0,20210326_075505.709/LogFile.txt,"","NSInvalidArgumentException -- *** -[__NSCFConstantString stringByAppendingString:]: nil argument",0

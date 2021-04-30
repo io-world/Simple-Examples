@@ -1,0 +1,321 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Read3.script",
+      "timestamp" : "2021-02-04 13:23:21.465 -0700"
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "at (28, 432)",
+      "identifier" : "imagelocation",
+      "image" : "Show",
+      "handlerLine" : 1,
+      "timestamp" : "2021-02-04 13:23:21.958 -0700",
+      "scriptName" : "Read3.script"
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "at (128, 432)",
+      "timestamp" : "2021-02-04 13:23:21.971 -0700",
+      "identifier" : "moveto",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "at (28, 87)",
+      "identifier" : "imagelocation",
+      "image" : "Show",
+      "handlerLine" : 4,
+      "timestamp" : "2021-02-04 13:23:22.700 -0700",
+      "scriptName" : "Read3.script"
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "at (28, 87)",
+      "identifier" : "imagelocation",
+      "image" : "Show",
+      "handlerLine" : 5,
+      "timestamp" : "2021-02-04 13:23:23.184 -0700",
+      "scriptName" : "Read3.script"
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "(8,127,78,397)",
+      "timestamp" : "2021-02-04 13:23:23.266 -0700",
+      "identifier" : "readtext",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "1\\n2\\n3\\n4\\n5\\n6\\n7\\n8\\n9\\n10",
+      "timestamp" : "2021-02-04 13:23:23.267 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "at (15, 139)",
+      "identifier" : "imagelocation",
+      "image" : "(TEXT:\"1\")",
+      "handlerLine" : 16,
+      "timestamp" : "2021-02-04 13:23:23.731 -0700",
+      "scriptName" : "Read3.script"
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "(155,129,315,149)",
+      "timestamp" : "2021-02-04 13:23:23.752 -0700",
+      "identifier" : "readtext",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 19
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "Tiger Nixon",
+      "timestamp" : "2021-02-04 13:23:23.753 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 20
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "at (15, 166)",
+      "identifier" : "imagelocation",
+      "image" : "(TEXT:\"2\")",
+      "handlerLine" : 16,
+      "timestamp" : "2021-02-04 13:23:24.280 -0700",
+      "scriptName" : "Read3.script"
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "(155,156,315,176)",
+      "timestamp" : "2021-02-04 13:23:24.303 -0700",
+      "identifier" : "readtext",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 19
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "John Winters",
+      "timestamp" : "2021-02-04 13:23:24.305 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 20
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "at (15, 193)",
+      "identifier" : "imagelocation",
+      "image" : "(TEXT:\"3\")",
+      "handlerLine" : 16,
+      "timestamp" : "2021-02-04 13:23:24.824 -0700",
+      "scriptName" : "Read3.script"
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "(155,183,315,203)",
+      "timestamp" : "2021-02-04 13:23:24.843 -0700",
+      "identifier" : "readtext",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 19
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "Austin Cox",
+      "timestamp" : "2021-02-04 13:23:24.845 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 20
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "at (15, 220)",
+      "identifier" : "imagelocation",
+      "image" : "(TEXT:\"4\")",
+      "handlerLine" : 16,
+      "timestamp" : "2021-02-04 13:23:25.219 -0700",
+      "scriptName" : "Read3.script"
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "(155,210,315,230)",
+      "timestamp" : "2021-02-04 13:23:25.241 -0700",
+      "identifier" : "readtext",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 19
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "Charles Kelly",
+      "timestamp" : "2021-02-04 13:23:25.242 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 20
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "at (15, 247)",
+      "identifier" : "imagelocation",
+      "image" : "(TEXT:\"5\")",
+      "handlerLine" : 16,
+      "timestamp" : "2021-02-04 13:23:25.768 -0700",
+      "scriptName" : "Read3.script"
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "(155,237,315,257)",
+      "timestamp" : "2021-02-04 13:23:25.798 -0700",
+      "identifier" : "readtext",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 19
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "Amanda Satou",
+      "timestamp" : "2021-02-04 13:23:25.799 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 20
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "at (15, 274)",
+      "identifier" : "imagelocation",
+      "image" : "(TEXT:\"6\")",
+      "handlerLine" : 16,
+      "timestamp" : "2021-02-04 13:23:26.307 -0700",
+      "scriptName" : "Read3.script"
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "(155,264,315,284)",
+      "timestamp" : "2021-02-04 13:23:26.332 -0700",
+      "identifier" : "readtext",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 19
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "Brielle Williams",
+      "timestamp" : "2021-02-04 13:23:26.333 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 20
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "at (16, 301)",
+      "identifier" : "imagelocation",
+      "image" : "(TEXT:\"7\")",
+      "handlerLine" : 16,
+      "timestamp" : "2021-02-04 13:23:26.851 -0700",
+      "scriptName" : "Read3.script"
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "(156,291,316,311)",
+      "timestamp" : "2021-02-04 13:23:26.938 -0700",
+      "identifier" : "readtext",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 19
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "Herrod Chandk",
+      "timestamp" : "2021-02-04 13:23:26.939 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 20
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "at (15, 328)",
+      "identifier" : "imagelocation",
+      "image" : "(TEXT:\"8\")",
+      "handlerLine" : 16,
+      "timestamp" : "2021-02-04 13:23:27.215 -0700",
+      "scriptName" : "Read3.script"
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "(155,318,315,338)",
+      "timestamp" : "2021-02-04 13:23:27.246 -0700",
+      "identifier" : "readtext",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 19
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "Rhona Davidsc",
+      "timestamp" : "2021-02-04 13:23:27.247 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 20
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "at (15, 355)",
+      "identifier" : "imagelocation",
+      "image" : "(TEXT:\"9\")",
+      "handlerLine" : 16,
+      "timestamp" : "2021-02-04 13:23:27.759 -0700",
+      "scriptName" : "Read3.script"
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "(155,345,315,365)",
+      "timestamp" : "2021-02-04 13:23:27.786 -0700",
+      "identifier" : "readtext",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 19
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "Colleen Hurst",
+      "timestamp" : "2021-02-04 13:23:27.787 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 20
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "at (20, 382)",
+      "identifier" : "imagelocation",
+      "image" : "(TEXT:\"10\")",
+      "handlerLine" : 16,
+      "timestamp" : "2021-02-04 13:23:28.304 -0700",
+      "scriptName" : "Read3.script"
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "(160,372,320,392)",
+      "timestamp" : "2021-02-04 13:23:28.328 -0700",
+      "identifier" : "readtext",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 19
+    },
+    {
+      "handlerName" : "on_read3",
+      "message" : "Sonya Frost",
+      "timestamp" : "2021-02-04 13:23:28.329 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Read3.script",
+      "handlerLine" : 20
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"6.989243\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-02-04 13:23:21 -0700\", Successes:\"1\", TestCase:\"Read3.script\", Warnings:\"0\")",
+      "timestamp" : "2021-02-04 13:23:28.455 -0700"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:06 Read3.script",
+      "timestamp" : "2021-02-04 13:23:28.498 -0700"
+    }
+  ],
+  "createdTimestamp" : "2021-02-04 13:23:21.466 -0700"
+}

@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1615955845.296427,
+  "ocrcapturestring" : "Define Database Range",
+  "testlocationdata" : [
+    {
+      "name" : "DefineRange_PopupOpen.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "Define Database Range",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_73",
+        "HotSpot" : "[66,8]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        456,
+        193,
+        132,
+        16
+      ]
+    }
+  ],
+  "createddate" : 1615955845.2964261,
+  "lastfoundlocation" : [
+    456,
+    193,
+    132,
+    16
+  ],
+  "originalcapturelocation" : [
+    456,
+    193,
+    132,
+    16
+  ],
+  "lastfounddate" : 1615956234.9778271,
+  "name" : "DefineRange_PopupOpen"
+}

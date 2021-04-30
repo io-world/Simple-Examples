@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1616015043.0317779,
+  "ocrcapturestring" : "® All",
+  "testlocationdata" : [
+    {
+      "name" : "Filter_uncheckSelection.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "® All",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[9,8]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        41,
+        540,
+        36,
+        19
+      ]
+    }
+  ],
+  "createddate" : 1616015043.0317769,
+  "lastfoundlocation" : [
+    41,
+    540,
+    36,
+    19
+  ],
+  "originalcapturelocation" : [
+    41,
+    540,
+    36,
+    19
+  ],
+  "lastfounddate" : 1616018100.1797009,
+  "name" : "Filter_uncheckSelection"
+}

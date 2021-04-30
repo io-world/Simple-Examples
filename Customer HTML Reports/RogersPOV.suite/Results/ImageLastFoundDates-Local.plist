@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Acolumn_visible.png</key>
+	<string>2021-03-17 03:30 +0000</string>
+	<key>ApplicationsBtn.png</key>
+	<string>2021-04-26 20:59 +0000</string>
+	<key>ColumnA_FilterSelection.png</key>
+	<string>2021-03-24 14:31 +0000</string>
+	<key>ColumnH_BR.png</key>
+	<string>2021-03-17 22:15 +0000</string>
+	<key>ColumnH_TL.png</key>
+	<string>2021-03-17 22:15 +0000</string>
+	<key>ColumnH_farthestLeft.png</key>
+	<string>2021-03-17 22:15 +0000</string>
+	<key>ColumnH_lastRow_BR.png</key>
+	<string>2021-03-17 22:17 +0000</string>
+	<key>ColumnH_lastRow_TL.png</key>
+	<string>2021-03-17 22:17 +0000</string>
+	<key>ColumnI_BR.png</key>
+	<string>2021-03-17 22:15 +0000</string>
+	<key>ColumnI_TL.png</key>
+	<string>2021-03-17 22:15 +0000</string>
+	<key>ColumnI_lastRow_BR.png</key>
+	<string>2021-03-17 22:17 +0000</string>
+	<key>ColumnI_lastRow_TL.png</key>
+	<string>2021-03-17 22:17 +0000</string>
+	<key>ColumnO_BR.png</key>
+	<string>2021-03-17 22:17 +0000</string>
+	<key>ColumnO_TL.png</key>
+	<string>2021-03-17 22:17 +0000</string>
+	<key>ColumnO_lastRow_BR.png</key>
+	<string>2021-03-17 16:50 +0000</string>
+	<key>ColumnO_lastRow_TL.png</key>
+	<string>2021-03-17 16:50 +0000</string>
+	<key>DefineRange_AddButton.png</key>
+	<string>2021-03-17 04:44 +0000</string>
+	<key>DefineRange_NameFIeld.png</key>
+	<string>2021-03-17 04:43 +0000</string>
+	<key>DefineRange_PopupOpen.png</key>
+	<string>2021-03-17 04:43 +0000</string>
+	<key>DefineRange_Selection.png</key>
+	<string>2021-03-17 04:43 +0000</string>
+	<key>Filter_SearchArea_BR.png</key>
+	<string>2021-03-17 15:23 +0000</string>
+	<key>Filter_SearchArea_TL.png</key>
+	<string>2021-03-17 15:23 +0000</string>
+	<key>Filter_SearchItems.png</key>
+	<string>2021-03-17 21:54 +0000</string>
+	<key>Filter_SearchTopRow.png</key>
+	<string>2021-03-17 21:55 +0000</string>
+	<key>Filter_UncheckAll.png</key>
+	<string>2021-03-17 21:54 +0000</string>
+	<key>Filter_bottomRowSelection/Filter_bottomRowSelection_noCheck.png</key>
+	<string>2021-03-17 22:03 +0000</string>
+	<key>Filter_bottomRowSelection/Filter_bottomRowSelection_withCheck.png</key>
+	<string>2021-03-17 22:13 +0000</string>
+	<key>Filter_bottomRowSelection/Filter_bottomRowSelection_withCheck_2.png</key>
+	<string>2021-03-17 20:58 +0000</string>
+	<key>Filter_uncheckSelection.png</key>
+	<string>2021-03-17 21:55 +0000</string>
+	<key>FirefoxIcon/FirefoxIcon.png</key>
+	<string>2021-04-26 20:59 +0000</string>
+	<key>FirefoxURLfield/URLfield_Edge_Windows.png</key>
+	<string>2021-02-08 17:17 +0000</string>
+	<key>LTEHandover_SheetOpen.png</key>
+	<string>2021-03-24 14:32 +0000</string>
+	<key>MenuBar_Data.png</key>
+	<string>2021-03-17 04:57 +0000</string>
+	<key>MicrosoftEdgeLoaded/MicrosoftEdgeLoaded_name.png</key>
+	<string>2021-02-08 17:19 +0000</string>
+	<key>MicrosoftEdgeLoaded/MicrosoftEdgeLoaded_newtab.png</key>
+	<string>2021-04-26 20:59 +0000</string>
+	<key>MoreFiltersSelection.png</key>
+	<string>2021-03-17 04:57 +0000</string>
+	<key>MozillaFirefoxLoaded.png</key>
+	<string>2021-04-26 20:59 +0000</string>
+	<key>OKbutton/OKbutton_1.png</key>
+	<string>2021-03-17 22:14 +0000</string>
+	<key>OKbutton/OKbutton_2.png</key>
+	<string>2021-03-17 15:48 +0000</string>
+	<key>OpenProgram/OpenProgram.png</key>
+	<string>2021-02-08 17:30 +0000</string>
+	<key>OpenProgram/OpenProgram_new.png</key>
+	<string>2021-04-26 21:00 +0000</string>
+	<key>RSP_Download_BR.png</key>
+	<string>2021-04-26 20:23 +0000</string>
+	<key>RSP_Download_TL.png</key>
+	<string>2021-03-17 15:14 +0000</string>
+	<key>RSP_Jitter_BR.png</key>
+	<string>2021-03-04 16:21 +0000</string>
+	<key>RSP_Jitter_TL.png</key>
+	<string>2021-03-04 16:21 +0000</string>
+	<key>RSP_Ping_BR.png</key>
+	<string>2021-03-04 16:21 +0000</string>
+	<key>RSP_Ping_TL.png</key>
+	<string>2021-03-04 16:21 +0000</string>
+	<key>RSP_SpeedtestAgain/RSP_SpeedtestAgain_leftHalf.png</key>
+	<string>2021-03-04 16:22 +0000</string>
+	<key>RSP_SpeedtestAgain/RSP_SpeedtestAgain_maximized.png</key>
+	<string>2021-03-03 22:10 +0000</string>
+	<key>RSP_SpeedtestGo/RSP_SpeedtestGo_leftHalf.png</key>
+	<string>2021-03-04 16:19 +0000</string>
+	<key>RSP_SpeedtestGo/RSP_SpeedtestGo_maximized.png</key>
+	<string>2021-03-03 22:09 +0000</string>
+	<key>RSP_Upload_BR/RSP_Upload_BR.png</key>
+	<string>2021-03-04 16:20 +0000</string>
+	<key>RSP_Upload_BR/RSP_Upload_BR_new.png</key>
+	<string>2021-03-04 16:22 +0000</string>
+	<key>RSP_Upload_BR/RSP_Upload_BR_new2.png</key>
+	<string>2021-03-04 16:22 +0000</string>
+	<key>RSP_Upload_TL/RSP_Upload_TL.png</key>
+	<string>2021-03-04 16:19 +0000</string>
+	<key>RSP_Upload_TL/RSP_Upload_TL_new.png</key>
+	<string>2021-03-04 16:21 +0000</string>
+	<key>RSP_Upload_TL/RSP_Upload_TL_new2.png</key>
+	<string>2021-03-04 16:22 +0000</string>
+	<key>Row4_Visible.png</key>
+	<string>2021-03-17 04:23 +0000</string>
+	<key>SaveButton.png</key>
+	<string>2021-03-17 22:17 +0000</string>
+	<key>SaveDocumentPopup.png</key>
+	<string>2021-03-17 22:17 +0000</string>
+	<key>StandardFilterSelection.png</key>
+	<string>2021-03-17 04:57 +0000</string>
+	<key>StandardFilter_FirstFieldSelection.png</key>
+	<string>2021-03-17 04:57 +0000</string>
+	<key>StandardFilter_GreaterThanEqual.png</key>
+	<string>2021-03-17 04:58 +0000</string>
+	<key>StandardFilter_LessThanEqual.png</key>
+	<string>2021-03-17 04:58 +0000</string>
+	<key>StandardFilter_PopupOpen.png</key>
+	<string>2021-03-17 04:57 +0000</string>
+	<key>StandardFilter_SecondFieldSelection.png</key>
+	<string>2021-03-17 04:55 +0000</string>
+	<key>StandardFilter_SecondFilterOption.png</key>
+	<string>2021-03-17 04:58 +0000</string>
+	<key>URLfield/URLfield_Edge_Windows.png</key>
+	<string>2021-04-26 20:59 +0000</string>
+	<key>URLfield/URLfield_Firefox_Linux.png</key>
+	<string>2021-04-26 20:59 +0000</string>
+	<key>YesBtn.png</key>
+	<string>2021-04-26 21:04 +0000</string>
+	<key>autoFilterButton.png</key>
+	<string>2021-03-17 21:54 +0000</string>
+	<key>bottomOfFilteredData.png</key>
+	<string>2021-03-17 22:17 +0000</string>
+	<key>closeFindWindow.png</key>
+	<string>2021-03-17 22:14 +0000</string>
+	<key>closeProgram.png</key>
+	<string>2021-04-26 21:00 +0000</string>
+	<key>closeWindow.png</key>
+	<string>2021-02-10 19:09 +0000</string>
+	<key>deleteHistory.png</key>
+	<string>2021-04-26 21:04 +0000</string>
+	<key>download_BR.png</key>
+	<string>2021-02-10 17:41 +0000</string>
+	<key>download_TL.png</key>
+	<string>2021-02-10 17:41 +0000</string>
+	<key>farLeftColumn/farLeftColumn_highlighted.png</key>
+	<string>2021-03-17 16:36 +0000</string>
+	<key>farLeftColumn/farLeftColumn_unhighlighted.png</key>
+	<string>2021-03-17 22:16 +0000</string>
+	<key>filteredColumnAtBottom/filteredColumnAtBottom_1.png</key>
+	<string>2021-03-17 16:23 +0000</string>
+	<key>filteredColumnAtBottom/filteredColumnAtBottom_2.png</key>
+	<string>2021-03-17 16:37 +0000</string>
+	<key>historyDownload_BR.png</key>
+	<string>2021-04-26 21:04 +0000</string>
+	<key>historyDownload_TL.png</key>
+	<string>2021-04-26 21:04 +0000</string>
+	<key>historyPing_BR.png</key>
+	<string>2021-04-26 21:04 +0000</string>
+	<key>historyPing_TL.png</key>
+	<string>2021-04-26 21:04 +0000</string>
+	<key>historyUpload_BR.png</key>
+	<string>2021-04-26 21:04 +0000</string>
+	<key>historyUpload_TL.png</key>
+	<string>2021-04-26 21:04 +0000</string>
+	<key>lastRowAboveScroll.png</key>
+	<string>2021-03-17 04:24 +0000</string>
+	<key>ping_BR.png</key>
+	<string>2021-02-10 17:41 +0000</string>
+	<key>ping_TL.png</key>
+	<string>2021-02-10 17:41 +0000</string>
+	<key>resultsHistory/resultsHistory.png</key>
+	<string>2021-02-24 20:00 +0000</string>
+	<key>resultsHistory/resultsHistory_2.png</key>
+	<string>2021-04-26 21:04 +0000</string>
+	<key>scrollBarLeftArrow.png</key>
+	<string>2021-03-17 16:34 +0000</string>
+	<key>speedtestGO/speedtestGO_1.png</key>
+	<string>2021-02-24 19:58 +0000</string>
+	<key>speedtestGO/speedtestGO_2.png</key>
+	<string>2021-02-24 20:00 +0000</string>
+	<key>speedtestGO/speedtestGO_2_new.png</key>
+	<string>2021-04-26 21:04 +0000</string>
+	<key>speedtestHistory.png</key>
+	<string>2021-04-26 21:04 +0000</string>
+	<key>speedtestReturnArrow/speedtestReturnArrow_1.png</key>
+	<string>2021-02-24 20:00 +0000</string>
+	<key>speedtestReturnArrow/speedtestReturnArrow_2.png</key>
+	<string>2021-04-26 21:04 +0000</string>
+	<key>upload_BR.png</key>
+	<string>2021-02-10 17:41 +0000</string>
+	<key>upload_TL.png</key>
+	<string>2021-02-10 17:41 +0000</string>
+	<key>windowsSearch.png</key>
+	<string>2021-04-26 21:00 +0000</string>
+</dict>
+</plist>

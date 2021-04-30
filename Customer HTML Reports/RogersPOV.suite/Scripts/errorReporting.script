@@ -1,0 +1,36 @@
+﻿
+
+
+TypeText windowsKey & "r"
+TypeText "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe", returnKey
+
+WaitFor 30.0, "MicrosoftEdgeLoaded"
+navigateToWebpage "https://www.rogers.com/customer/support/article/internet-speedtest"
+
+TypeText windowsKey, leftArrow
+
+log "Writing to file"
+put ResourcePath("speedtest.csv") into theFile
+open file theFile
+write "Ping Results" &","& "Download Results" &","& "Jitter Results" &","& "Upload Results" to file theFile
+
+Click "RSP_SpeedtestGo"
+Wait 5
+
+repeat 2 times
+	Wait until ImageFound("RSP_SpeedtestAgain")
+	Click "RSP_SpeedtestAgain"
+	
+	put ReadText("RSP_Ping_TL","RSP_Ping_BR", validCharacters:[1,2,3,4,5,6,7,8,9,0,"."]) into pingResults
+	log pingResults
+	put ReadText("RSP_Download_TL","RSP_Download_BR", contrast:on, contrastcolor:"#797979",contrasttolerance:99, validCharacters:[1,2,3,4,5,6,7,8,9,0,"."]) into downloadResults
+	log downloadResults
+	put ReadText("RSP_Jitter_TL","RSP_Jitter_BR", validCharacters:[1,2,3,4,5,6,7,8,9,0,"."]) into jitterResults
+	log jitterResults
+	put ReadText("RSP_Upload_TL","RSP_Upload_BR",contrast:on, contrastcolor:"#797979",contrasttolerance:99, validCharacters:[1,2,3,4,5,6,7,8,9,0,"."]) into uploadResults
+	log uploadResults
+	write return & pingResults &","& downloadResults &","& jitterResults &","& uploadResults to file theFile at eof
+	
+end repeat
+
+close file theFile

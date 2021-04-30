@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running OpenWebPage.script",
+      "timestamp" : "2021-04-22 10:22:14.097 -0600"
+    },
+    {
+      "handlerName" : "on_openwebpage",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2021-04-22 10:22:14.164 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "OpenWebPage.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_openwebpage",
+      "message" : "chrome.exe[returnKey]",
+      "timestamp" : "2021-04-22 10:22:15.009 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "OpenWebPage.script",
+      "handlerLine" : 2
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"8.493716\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-04-22 10:22:14 -0600\", Successes:\"0\", TestCase:\"OpenWebPage.script\", Warnings:\"0\")",
+      "timestamp" : "2021-04-22 10:22:22.592 -0600"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:00:08 OpenWebPage.script",
+      "timestamp" : "2021-04-22 10:22:22.594 -0600"
+    }
+  ],
+  "createdTimestamp" : "2021-04-22 10:22:14.098 -0600"
+}

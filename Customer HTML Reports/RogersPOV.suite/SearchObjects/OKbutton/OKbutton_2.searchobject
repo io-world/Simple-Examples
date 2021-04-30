@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1616000608.31514,
+  "ocrcapturestring" : "OK",
+  "testlocationdata" : [
+    {
+      "name" : "OKbutton\/OKbutton_2.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "OK",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[37,9]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        47,
+        586,
+        75,
+        18
+      ]
+    }
+  ],
+  "createddate" : 1615994084.8709159,
+  "lastfoundlocation" : [
+    47,
+    586,
+    75,
+    18
+  ],
+  "originalcapturelocation" : [
+    47,
+    586,
+    75,
+    18
+  ],
+  "lastfounddate" : 1615996119.3213749,
+  "name" : "OKbutton\/OKbutton_2"
+}

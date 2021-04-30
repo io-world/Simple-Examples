@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="testing_script" package="RogersPOV.suite" timestamp="2021-02-08 10:19:50.727 -0700"
+ tests="1"  failures="0" errors="0" time="21.140716">
+  <properties>
+   <property name="RunDate" value="2021-02-08 10:19:50.727 -0700"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="testing.script" assertions="1" status="failure"  time="21.136069">
+    <failure type="FAILURE" message="See main script" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,21 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running MainTestCase.script",
+      "timestamp" : "2021-04-15 10:58:45.109 -0600"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"15.651044\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-04-15 10:58:45 -0600\", Successes:\"0\", TestCase:\"MainTestCase.script\", Warnings:\"0\")",
+      "timestamp" : "2021-04-15 10:59:00.761 -0600"
+    },
+    {
+      "message" : "STInvalidDate Value is not a date: '' -- Execution Time 0:00:15 MainTestCase.script",
+      "timestamp" : "2021-04-15 10:59:02.493 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2021-04-15 10:58:45.110 -0600"
+}

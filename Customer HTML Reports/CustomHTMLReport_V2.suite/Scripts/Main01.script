@@ -1,0 +1,19 @@
+﻿
+
+
+
+
+
+put "/Users/ranhesse/Documents/Simple_Examples/Customer HTML Reports/Sample Suite.suite/Results/Workflow01/20210301_194416.595/" into LogPath
+
+
+put new  "Utilities/BuildReports" into BR
+
+
+
+
+(BR).DefineLogs LogPath
+(BR).GrabStatistics
+
+
+log (BR).scriptstatistics

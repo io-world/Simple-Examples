@@ -1,0 +1,203 @@
+﻿on DefineLocation NewLocation
+	if folder NewLocation exists then
+		LogWarning "Overwritting Folder"
+		
+		delete folder NewLocation
+	end if
+	
+	put NewLocation into my  FolderLocation
+end DefineLocation
+
+on DefineLogs logFolderPath
+	put logFolderPath  into SuiteName
+	split SuiteName by "/"
+	put item -4 of SuiteName into my SuiteName
+	put JSONValue(file (logFolderPath&"/LogFile.json")) into my JSONLog 
+end DefineLogs
+
+on BuildFramework
+	put my FolderLocation into FolderLocation
+	create folder  FolderLocation
+	copy file ResourcePath("CompanyLogo.png") to FolderLocation
+end BuildFramework
+
+
+on BuildStatistics
+	me.GrabStatistics
+	me.HTMLStatistics
+end BuildStatistics
+
+on GrabStatistics 
+	put (my JSONLog).entries into Reportentries
+	put (my JSONLog).createdTimestamp into createdTimestamp
+	put (item 1 of ((my JSONLog).entries)).message into ScriptName
+	//------------------------------------------------------------------------
+	
+	
+	//------------------------------------------------------------------------
+	//------------------------------------------------------------------------
+	put (capturescreen:0, click:0,  log:0, typetext:0, waitfor:0) into KeyCommands
+	put the number of items of Reportentries into EntiresCount
+	repeat EntiresCount times	
+		put item repeatindex() of Reportentries into SingleEntry
+		put  lowercase(SingleEntry.identifier)   into identifier
+		add 1  to KeyCommands.(identifier)
+		add 1 to TotalSteps
+	end repeat
+	//-------------------------------------------
+	//-------------------------------------------
+	
+	split ScriptName by space
+	put item 2 of ScriptName into (my scriptstatistics).scriptname
+	split createdTimestamp by space
+	put item 1 of createdTimestamp  into (my scriptstatistics).date
+	put item 2 of createdTimestamp && item 3 of createdTimestamp into (my scriptstatistics).time
+	
+	
+	put my SuiteName into (my scriptstatistics).Suitename
+	put KeyCommands into (my scriptstatistics).ReportStats
+	put TotalSteps into (my scriptstatistics).TotalSteps
+	
+	//insert scriptstatistics into my scriptstatistics
+	
+end GrabStatistics
+
+on BasicInfo CompanyName,Location,Author,email,TelephoneNumber
+	put CompanyName into (my scriptstatistics).CompanyName
+	put Location into (my scriptstatistics).Location
+	put Author into (my scriptstatistics).Author
+	put email into (my scriptstatistics).email
+	put TelephoneNumber into (my scriptstatistics).TelephoneNumber
+	
+	
+end BasicInfo
+
+
+on MoveResultContents JsonPath,NewReportPath
+	put files of JsonPath into ResultFilesNames
+	put  the number of items of  ResultFilesNames into FileCount
+	repeat FileCount times
+		put item repeatindex() of ResultFilesNames into TheFileName
+		if TheFileName contains ".png" then
+			copy file JsonPath &"/"& TheFileName to NewReportPath
+		end if
+		
+	end repeat
+	
+	
+end MoveResultContents
+
+//----------------------------------------------------------------------------------------
+on HTMLStatistics
+	put my scriptstatistics into scriptstatistics
+	put scriptstatistics.ReportStats into ReportStats
+	put scriptstatistics.TotalSteps into TotalSteps
+	
+	put keys(ReportStats) into KeysReportsStats
+	put the number of items of KeysReportsStats into ItemCount
+	repeat ItemCount times
+		put item repeatindex() of KeysReportsStats into KeyRS
+		put (ReportStats).(KeyRS) into NumberofTimes
+		put (NumberofTimes / TotalSteps)*100 into  percentage
+		//---------------
+		if percentage <= 20
+			put "20" into PercentageBar
+		else
+			put percentage into PercentageBar
+		end if
+		
+		put <<
+	<p> >>&KeyRS&" ("&NumberofTimes&")"<< </p>
+	<div class="w3-light-grey w3-round-xlarge w3-small">
+	<div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:>>&PercentageBar&<<%"> >>&(characters 1 to 5 of percentage)&<< %</div>
+	</div> >>after HTML.statistics
+	end repeat
+	put HTML.statistics into my HTML.statistics
+end HTMLStatistics
+
+
+
+
+on HTMLTable PageName
+	put file ResourcePath("TableHeader.html") after HTMLData
+	put me.HTMLTableBody after HTMLData
+	put file ResourcePath("TableFooter.html") after HTMLData
+	
+	put my  FolderLocation &"/"& (PageName) into  HTMLFile
+	create file HTMLFile
+	open file HTMLFile
+	write  HTMLData  to file HTMLFile
+	close file HTMLFile
+end HTMLTable
+
+function HTMLTableBody
+	put (my JSONLog).entries into Reportentries
+	
+	put the number of items of Reportentries into EntriesCount
+	put << <div class="divTableCell">Steps</div> >> after  HTMLTable
+	put << <div class="divTableCell"> Message</div> >> after  HTMLTable
+	put << <div class="divTableCell"> Image</div> >> after  HTMLTable
+	put << <div class="divTableCell"> Text</div> >> after  HTMLTable
+	put << <div class="divTableCell"> Timestamp</div> >> after  HTMLTable
+	
+	repeat EntriesCount times
+		put << <div class="divTableRow"> >> after  HTMLTable
+		put return after  HTMLTable
+		
+		put item repeatindex() of Reportentries into SingleLine
+		
+		put << <div class="divTableCell"> >>&repeatindex()&"</div>" after  HTMLTable
+		put << <div class="divTableCell"> >>&SingleLine."identifier"&"</div>" after  HTMLTable
+		if SingleLine."identifier" = "capturescreen"
+			put << <a href=">>&SingleLine."image"&<< "> >>&SingleLine."image"&"</a>" into ImageLink
+			put << <div class="divTableCell"> >>&ImageLink&"</div>" after  HTMLTable
+		else
+			put << <div class="divTableCell"> >>&SingleLine."image"&"</div>" after  HTMLTable
+		end if
+		put << <div class="divTableCell"> >>&SingleLine."message"&"</div>" after  HTMLTable
+		put << <div class="divTableCell"> >>&SingleLine."timestamp"&"</div>" after  HTMLTable
+		
+		
+		put return after  HTMLTable
+		put "</div>" after  HTMLTable
+		put return after  HTMLTable
+		put return after  HTMLTable
+	end repeat
+	
+	
+	put HTMLTable into my HTMLTable
+	return HTMLTable
+end HTMLTableBody
+
+
+
+on HTMLReport PageName
+
+	put my scriptstatistics into scriptstatistics
+	
+	
+	put file ResourcePath("Report.html") into HTMLData
+	replace "html.name" with scriptstatistics.Author in HTMLData
+	replace "html.CompanyName" with scriptstatistics.CompanyName in HTMLData
+	replace "html.location" with scriptstatistics.location in HTMLData
+	replace "html.email" with scriptstatistics.email in HTMLData
+	replace "html.telephone" with scriptstatistics.TelephoneNumber in HTMLData
+	replace "html.steptable" with my HTMLTable in HTMLData
+	replace "html.statistics" with my HTML.statistics in HTMLData
+	replace "html.suitename" with scriptstatistics.Suitename in HTMLData
+	replace "html.scriptname" with scriptstatistics.scriptname in HTMLData
+	replace "html.createtimestamp.date" with scriptstatistics.date in HTMLData
+	replace "html.createtimestamp.time" with scriptstatistics.time in HTMLData
+	
+	
+	put my  FolderLocation &"/"& (PageName) into  HTMLFile
+	create file HTMLFile
+	open file HTMLFile
+	write  HTMLData  to file HTMLFile
+	close file HTMLFile
+	
+	
+end HTMLReport
+
+
+

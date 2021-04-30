@@ -1,45 +1,5 @@
-﻿<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <statistics>
- <script name="Example Write 2">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>8</NumberOfRuns>
-  <NumberOfFails>1</NumberOfFails>
-  <FirstRun>2017-08-29 09:57:11 -0600</FirstRun>
-  <LastRun>2017-08-29 10:27:55 -0600</LastRun>
-  <TotalTimeOnSuccess>1.477820</TotalTimeOnSuccess>
- </script>
- <script name="Example6">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2017-10-16 09:14:53 -0600</FirstRun>
-  <LastRun>2017-10-16 09:14:53 -0600</LastRun>
-  <TotalTimeOnSuccess>0.360613</TotalTimeOnSuccess>
- </script>
- <script name="Example1">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>21</NumberOfRuns>
-  <NumberOfFails>2</NumberOfFails>
-  <FirstRun>2017-04-11 13:55:32 -0600</FirstRun>
-  <LastRun>2017-06-06 08:29:48 -0600</LastRun>
-  <TotalTimeOnSuccess>13.834280</TotalTimeOnSuccess>
- </script>
- <script name="Example Write 1">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>16</NumberOfRuns>
-  <NumberOfFails>3</NumberOfFails>
-  <FirstRun>2017-08-26 16:30:31 -0600</FirstRun>
-  <LastRun>2018-10-10 16:02:35 -0400</LastRun>
-  <TotalTimeOnSuccess>8.103000</TotalTimeOnSuccess>
- </script>
- <script name="Example2">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>13</NumberOfRuns>
-  <NumberOfFails>2</NumberOfFails>
-  <FirstRun>2017-04-12 09:33:51 -0600</FirstRun>
-  <LastRun>2019-01-23 13:11:36 -0700</LastRun>
-  <TotalTimeOnSuccess>17.796104</TotalTimeOnSuccess>
- </script>
  <script name="Untitled1">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>4</NumberOfRuns>
@@ -47,6 +7,14 @@
   <FirstRun>2020-09-25 10:19:57 -0600</FirstRun>
   <LastRun>2020-09-25 10:24:01 -0600</LastRun>
   <TotalTimeOnSuccess>6.792031</TotalTimeOnSuccess>
+ </script>
+ <script name="Example0 Customer Write Log">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>24</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2017-08-26 16:36:29 -0600</FirstRun>
+  <LastRun>2017-09-14 15:56:11 -0700</LastRun>
+  <TotalTimeOnSuccess>49.525757</TotalTimeOnSuccess>
  </script>
  <script name="Ohter Examples">
   <LastStatus>Success</LastStatus>
@@ -56,21 +24,61 @@
   <LastRun>2017-06-06 08:29:43 -0600</LastRun>
   <TotalTimeOnSuccess>4.116465</TotalTimeOnSuccess>
  </script>
- <script name="Example3">
+ <script name="Example6">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2021-03-26 07:55:05 -0600</FirstRun>
+  <LastRun>2021-03-26 07:55:05 -0600</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Example02">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>14</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2017-04-12 09:33:51 -0600</FirstRun>
+  <LastRun>2020-11-30 14:14:00 -0700</LastRun>
+  <TotalTimeOnSuccess>18.322958</TotalTimeOnSuccess>
+ </script>
+ <script name="Example04">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>28</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2017-04-12 10:33:16 -0600</FirstRun>
+  <LastRun>2017-07-05 13:12:17 -0600</LastRun>
+  <TotalTimeOnSuccess>72.823211</TotalTimeOnSuccess>
+ </script>
+ <script name="Example06">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-10-16 09:14:53 -0600</FirstRun>
+  <LastRun>2017-10-16 09:14:53 -0600</LastRun>
+  <TotalTimeOnSuccess>0.360613</TotalTimeOnSuccess>
+ </script>
+ <script name="Example0 Write 3">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2018-10-18 23:05:25 -0600</FirstRun>
+  <LastRun>2018-10-18 23:08:51 -0600</LastRun>
+  <TotalTimeOnSuccess>2.185832</TotalTimeOnSuccess>
+ </script>
+ <script name="Example0 Write 1">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>16</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2017-04-12 09:35:46 -0600</FirstRun>
-  <LastRun>2017-04-12 10:47:34 -0600</LastRun>
-  <TotalTimeOnSuccess>45.496558</TotalTimeOnSuccess>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2017-08-26 16:30:31 -0600</FirstRun>
+  <LastRun>2018-10-10 16:02:35 -0400</LastRun>
+  <TotalTimeOnSuccess>8.103000</TotalTimeOnSuccess>
  </script>
- <script name="Example Customer Write Log">
+ <script name="Example0Base put Worksheet (ResourcePath(WebFormData.xlsx), PatientList) into WSheet put WSheet.cellrange() into Data  log Data">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>24</NumberOfRuns>
-  <NumberOfFails>2</NumberOfFails>
-  <FirstRun>2017-08-26 16:36:29 -0600</FirstRun>
-  <LastRun>2017-09-14 15:56:11 -0700</LastRun>
-  <TotalTimeOnSuccess>49.525757</TotalTimeOnSuccess>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2020-11-30 14:14:45 -0700</FirstRun>
+  <LastRun>2020-11-30 14:16:52 -0700</LastRun>
+  <TotalTimeOnSuccess>3.035367</TotalTimeOnSuccess>
  </script>
  <script name="Live Code">
   <LastStatus>Success</LastStatus>
@@ -80,23 +88,7 @@
   <LastRun>2020-01-14 15:21:55 -0800</LastRun>
   <TotalTimeOnSuccess>6.420812</TotalTimeOnSuccess>
  </script>
- <script name="Example Write 3">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>6</NumberOfRuns>
-  <NumberOfFails>1</NumberOfFails>
-  <FirstRun>2018-10-18 23:05:25 -0600</FirstRun>
-  <LastRun>2018-10-18 23:08:51 -0600</LastRun>
-  <TotalTimeOnSuccess>2.185832</TotalTimeOnSuccess>
- </script>
- <script name="Example4">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>28</NumberOfRuns>
-  <NumberOfFails>3</NumberOfFails>
-  <FirstRun>2017-04-12 10:33:16 -0600</FirstRun>
-  <LastRun>2017-07-05 13:12:17 -0600</LastRun>
-  <TotalTimeOnSuccess>72.823211</TotalTimeOnSuccess>
- </script>
- <script name="Example">
+ <script name="Example0">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>27</NumberOfRuns>
   <NumberOfFails>3</NumberOfFails>
@@ -104,12 +96,36 @@
   <LastRun>2017-06-06 08:30:02 -0600</LastRun>
   <TotalTimeOnSuccess>18.799952</TotalTimeOnSuccess>
  </script>
- <script name="Example5">
+ <script name="Example01">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>22</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2017-04-11 13:55:32 -0600</FirstRun>
+  <LastRun>2020-11-30 14:13:56 -0700</LastRun>
+  <TotalTimeOnSuccess>14.226168</TotalTimeOnSuccess>
+ </script>
+ <script name="Example03">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>16</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2017-04-12 09:35:46 -0600</FirstRun>
+  <LastRun>2017-04-12 10:47:34 -0600</LastRun>
+  <TotalTimeOnSuccess>45.496558</TotalTimeOnSuccess>
+ </script>
+ <script name="Example05">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>17</NumberOfRuns>
   <NumberOfFails>2</NumberOfFails>
   <FirstRun>2017-05-23 15:50:24 -0600</FirstRun>
   <LastRun>2017-09-12 09:50:08 -0600</LastRun>
   <TotalTimeOnSuccess>3.991108</TotalTimeOnSuccess>
+ </script>
+ <script name="Example0 Write 2">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2017-08-29 09:57:11 -0600</FirstRun>
+  <LastRun>2017-08-29 10:27:55 -0600</LastRun>
+  <TotalTimeOnSuccess>1.477820</TotalTimeOnSuccess>
  </script>
 </statistics>

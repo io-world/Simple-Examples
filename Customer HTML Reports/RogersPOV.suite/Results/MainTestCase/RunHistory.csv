@@ -1,0 +1,15 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2021-04-15 10:55:31.441 -0600,"Failure",0:00:15,1,0,0,"20210415_105531.441/LogFile.txt","","STInvalidDate -- Value is not a date: ''",0
+2021-04-15 10:58:45.106 -0600,"Failure",0:00:15,1,0,0,"20210415_105845.106/LogFile.txt","","STInvalidDate -- Value is not a date: ''",0
+2021-04-15 11:01:16.347 -0600,"Failure",0:00:15,1,0,1,"20210415_110116.347/LogFile.txt","","Error Running Script Command -- scriptresults Error - Unable to locate script named: placeCall",0
+2021-04-15 11:03:02.772 -0600,"Failure",0:00:15,1,0,1,"20210415_110302.772/LogFile.txt","","Error Running Script Command -- scriptresults Error - Unable to locate script named: mainscript.placeCall",0
+2021-04-15 11:16:50.050 -0600,"Failure",0:00:15,1,0,0,"20210415_111650.050/LogFile.txt","","STFileAccessException -- Unable to open file /theFile as requested",0
+2021-04-15 11:18:44.348 -0600,"Failure",0:00:30,1,0,0,"20210415_111844.348/LogFile.txt","","BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'Attenuators'.",0
+2021-04-15 11:23:25.485 -0600,"Success",0:00:45,0,0,0,"20210415_112325.485/LogFile.txt","","",1
+2021-04-15 11:33:32.851 -0600,"Success",0:00:15,0,0,0,"20210415_113332.851/LogFile.txt","","",3
+2021-04-15 11:38:01.011 -0600,"Success",0:00:15,0,0,0,"20210415_113801.011/LogFile.txt","","",3
+2021-04-15 11:38:43.098 -0600,"Success",0:00:15,0,0,0,"20210415_113843.098/LogFile.txt","","",3
+2021-04-15 11:41:17.912 -0600,"Success",0:00:15,0,0,0,"20210415_114117.912/LogFile.txt","","",3
+2021-04-15 11:56:47.657 -0600,"Success",0:00:15,0,0,0,"20210415_115647.657/LogFile.txt","","",3
+2021-04-26 09:56:59.215 -0600,"Failure",0:00:00,1,0,0,"20210426_095659.215/LogFile.txt","","SenseTalk Compiler Exception -- in maintestcase:\nSyntax Error at line 20: Syntax Error - can't understand ""Windows"" at character 31",0
+2021-04-26 14:20:43.009 -0600,"Aborted",0:02:42,1,0,0,"20210426_142043.009/LogFile.txt","","",3

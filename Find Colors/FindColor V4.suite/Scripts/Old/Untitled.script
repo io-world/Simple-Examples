@@ -1,0 +1,15 @@
+﻿
+
+
+
+put new "PixelData"  with (ColorSquare:((969,949,892,872)))into ITPairs
+log ((ITPairs).MatrixPixel)
+
+
+
+put (49,24,99) into Defined_Color."Defined_Blue"
+
+
+log  (ITPairs).PixelMatch (color:(Defined_Color),tolerance:10) 
+
+

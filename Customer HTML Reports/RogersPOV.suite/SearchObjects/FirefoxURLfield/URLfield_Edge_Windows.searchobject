@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1612804666.6569691,
+  "ocrcapturestring" : "o",
+  "testlocationdata" : [
+    {
+      "name" : "FirefoxURLfield\/URLfield_Edge_Windows.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "o",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[388,16]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        273,
+        49,
+        22,
+        22
+      ]
+    }
+  ],
+  "createddate" : 1612804666.6569691,
+  "lastfoundlocation" : [
+    106,
+    40,
+    22,
+    22
+  ],
+  "originalcapturelocation" : [
+    273,
+    49,
+    22,
+    22
+  ],
+  "lastfounddate" : 1619470752.9571819,
+  "name" : "FirefoxURLfield\/URLfield_Edge_Windows"
+}

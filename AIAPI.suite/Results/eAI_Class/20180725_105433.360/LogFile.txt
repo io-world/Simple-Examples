@@ -1,5 +1,0 @@
-﻿2018-07-25 10:54:33.361 -0600	START		Running eAI_Class.script
-2018-07-25 10:54:33.425 -0600	LogError		Validation Error: Failed to parse JSON request body. JSON text did not start with array or object and option to allow fragments not set.. requestbody	15	on_eai_class	eAI_Class.script
-2018-07-25 10:54:33.794 -0600	EndTestCase		(Duration:"0.431555", Errors:"2", Exceptions:"0", StartTime:"2018-07-25 10:54:33 -0600", Successes:"0", TestCase:"eAI_Class.script", Warnings:"0")
-2018-07-25 10:54:34.412 -0600	FAILURE	Screen_Error.png	Validation Error: The Api Test could not be executed due to validation errors. -- Execution Time 0:00:00 eAI_Class.script
-2018-07-25 10:54:35.117 -0600	FAILURE	Screen_Error_Web.png	Validation Error: The Api Test could not be executed due to validation errors. -- Execution Time 0:00:00 eAI_Class.script

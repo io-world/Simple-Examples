@@ -1,6 +1,6 @@
 ﻿
 
-put (645,460,729,491) into SR
+put (534,211,576,250) into SR
 
 put (item 3 of Sr - item 1 of SR)+1 into XLength
 put (item 4 of Sr - item 2 of SR)+1 into YLength
@@ -11,7 +11,7 @@ put (item 1 of SR , item 2 of SR) into StartPointReset
 repeat YLength times
 	repeat XLength times
 		
-		log StartPoint && ColorAtLocation(StartPoint)
+		insert (Location:StartPoint,Color:ColorAtLocation(StartPoint)) into ColorGrid
 		
 		put (1,0) + StartPoint into StartPoint
 	end repeat
@@ -19,3 +19,5 @@ repeat YLength times
 	put item 1 of StartPointReset into item 1 of StartPoint
 	put (0,1) + StartPoint into StartPoint
 end repeat
+
+log ColorGrid

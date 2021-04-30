@@ -1,0 +1,180 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running testing.script",
+      "timestamp" : "2021-02-08 10:30:13.935 -0700"
+    },
+    {
+      "handlerName" : "on_testing",
+      "message" : "Windows10:(null)",
+      "timestamp" : "2021-02-08 10:30:13.987 -0700",
+      "identifier" : "connect",
+      "scriptName" : "testing.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_testing",
+      "message" : "at (171, 748)",
+      "identifier" : "click",
+      "image" : "windowsSearch",
+      "handlerLine" : 7,
+      "timestamp" : "2021-02-08 10:30:15.553 -0700",
+      "scriptName" : "testing.script"
+    },
+    {
+      "handlerName" : "on_testing",
+      "message" : "microsoft edge",
+      "timestamp" : "2021-02-08 10:30:16.727 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "testing.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_testing",
+      "message" : "at (433, 356)",
+      "identifier" : "click",
+      "image" : "OpenProgram",
+      "handlerLine" : 9,
+      "timestamp" : "2021-02-08 10:30:18.550 -0700",
+      "scriptName" : "testing.script"
+    },
+    {
+      "handlerName" : "on_testing",
+      "message" : "found at (217, 25)",
+      "identifier" : "waitfor",
+      "image" : "MicrosoftEdgeLoaded",
+      "handlerLine" : 10,
+      "timestamp" : "2021-02-08 10:30:20.142 -0700",
+      "scriptName" : "testing.script"
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "at (661, 65)",
+      "identifier" : "click",
+      "image" : "URLfield",
+      "handlerLine" : 5,
+      "timestamp" : "2021-02-08 10:30:20.440 -0700",
+      "scriptName" : "navigateToWebpage.script"
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[controlKey]a",
+      "timestamp" : "2021-02-08 10:30:21.463 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[backspace]",
+      "timestamp" : "2021-02-08 10:30:22.478 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "www.amazon.com",
+      "timestamp" : "2021-02-08 10:30:23.661 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[return]",
+      "timestamp" : "2021-02-08 10:30:24.678 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 9
+    },
+    {
+      "handlerName" : "on_testing",
+      "message" : "Linux_SUT:(null)",
+      "timestamp" : "2021-02-08 10:30:34.681 -0700",
+      "identifier" : "connect",
+      "scriptName" : "testing.script",
+      "handlerLine" : 16
+    },
+    {
+      "handlerName" : "on_testing",
+      "message" : "at (38, 15)",
+      "identifier" : "click",
+      "image" : "ApplicationsBtn",
+      "handlerLine" : 19,
+      "timestamp" : "2021-02-08 10:30:35.072 -0700",
+      "scriptName" : "testing.script"
+    },
+    {
+      "handlerName" : "on_testing",
+      "message" : "at (226, 81)",
+      "identifier" : "click",
+      "image" : "FirefoxIcon",
+      "handlerLine" : 20,
+      "timestamp" : "2021-02-08 10:30:36.455 -0700",
+      "scriptName" : "testing.script"
+    },
+    {
+      "handlerName" : "on_testing",
+      "message" : "found at (584, 46)",
+      "identifier" : "waitfor",
+      "image" : "MozillaFirefoxLoaded",
+      "handlerLine" : 21,
+      "timestamp" : "2021-02-08 10:30:41.399 -0700",
+      "scriptName" : "testing.script"
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "at (576, 119)",
+      "identifier" : "click",
+      "image" : "URLfield",
+      "handlerLine" : 5,
+      "timestamp" : "2021-02-08 10:30:42.612 -0700",
+      "scriptName" : "navigateToWebpage.script"
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[controlKey]a",
+      "timestamp" : "2021-02-08 10:30:43.639 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[backspace]",
+      "timestamp" : "2021-02-08 10:30:44.653 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "wikipedia.org",
+      "timestamp" : "2021-02-08 10:30:45.815 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[return]",
+      "timestamp" : "2021-02-08 10:30:46.829 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 9
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"43.304334\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-02-08 10:30:13 -0700\", Successes:\"1\", TestCase:\"testing.script\", Warnings:\"0\")",
+      "timestamp" : "2021-02-08 10:30:57.240 -0700"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:43 testing.script",
+      "timestamp" : "2021-02-08 10:30:57.253 -0700"
+    }
+  ],
+  "createdTimestamp" : "2021-02-08 10:30:13.936 -0700"
+}

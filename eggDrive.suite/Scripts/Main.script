@@ -1,0 +1,8 @@
+﻿Click "Chrome"
+
+
+log suiteinfo()
+Click "Start"
+
+
+connect (name:"Tutorial SUT",port:"3389")

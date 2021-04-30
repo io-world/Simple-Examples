@@ -1,0 +1,4 @@
+﻿//Find the Amazon app and verify it has opened
+click (text: "Amazon")
+waitfor 5, "amazon_Header"
+return Pass

@@ -1,0 +1,52 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running NOtes.script",
+      "timestamp" : "2021-02-12 08:22:37.722 -0700"
+    },
+    {
+      "handlerName" : "on_notes",
+      "message" : "(781,688)",
+      "timestamp" : "2021-02-12 08:22:37.883 -0700",
+      "identifier" : "readtext",
+      "scriptName" : "NOtes.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_notes",
+      "message" : "• Drawstring closure",
+      "timestamp" : "2021-02-12 08:22:37.884 -0700",
+      "identifier" : "Log",
+      "scriptName" : "NOtes.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_notes",
+      "message" : "(728,696,1299,720)",
+      "timestamp" : "2021-02-12 08:22:37.951 -0700",
+      "identifier" : "readtext",
+      "scriptName" : "NOtes.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_notes",
+      "message" : "Cotton jersey pants with Sport Comfort waistband are perfect year-round warm-ups",
+      "timestamp" : "2021-02-12 08:22:37.952 -0700",
+      "identifier" : "Log",
+      "scriptName" : "NOtes.script",
+      "handlerLine" : 7
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.390431\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-02-12 08:22:37 -0700\", Successes:\"1\", TestCase:\"NOtes.script\", Warnings:\"0\")",
+      "timestamp" : "2021-02-12 08:22:38.114 -0700"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 NOtes.script",
+      "timestamp" : "2021-02-12 08:22:38.126 -0700"
+    }
+  ],
+  "createdTimestamp" : "2021-02-12 08:22:37.723 -0700"
+}

@@ -1,0 +1,15 @@
+﻿
+
+
+
+
+put 16 into x
+
+put 1 into y
+
+
+
+
+put y /x into v
+
+log v * 100

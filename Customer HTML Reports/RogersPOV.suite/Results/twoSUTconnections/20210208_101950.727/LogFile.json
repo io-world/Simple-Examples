@@ -1,0 +1,54 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running testing.script",
+      "timestamp" : "2021-02-08 10:19:50.729 -0700"
+    },
+    {
+      "handlerName" : "on_testing",
+      "message" : "Windows10:(null)",
+      "timestamp" : "2021-02-08 10:19:50.824 -0700",
+      "identifier" : "connect",
+      "scriptName" : "testing.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_testing",
+      "message" : "at (171, 748)",
+      "identifier" : "click",
+      "image" : "windowsSearch",
+      "handlerLine" : 5,
+      "timestamp" : "2021-02-08 10:19:52.528 -0700",
+      "scriptName" : "testing.script"
+    },
+    {
+      "handlerName" : "on_testing",
+      "message" : "microsoft edge",
+      "timestamp" : "2021-02-08 10:19:53.700 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "testing.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_testing",
+      "message" : "at (433, 356)",
+      "identifier" : "click",
+      "image" : "OpenProgram",
+      "handlerLine" : 7,
+      "timestamp" : "2021-02-08 10:19:56.516 -0700",
+      "scriptName" : "testing.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"21.136069\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-02-08 10:19:50 -0700\", Successes:\"0\", TestCase:\"testing.script\", Warnings:\"0\")",
+      "timestamp" : "2021-02-08 10:20:11.870 -0700"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:00:21 testing.script",
+      "timestamp" : "2021-02-08 10:20:11.872 -0700"
+    }
+  ],
+  "createdTimestamp" : "2021-02-08 10:19:50.731 -0700"
+}

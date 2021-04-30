@@ -1,0 +1,22 @@
+﻿{
+    CaptureDate = "2021-02-08 17:17:07 +0000";
+    CaptureHost = Windows10;
+    CaptureScreenSize =     (
+        1024,
+        768
+    );
+    HasAlpha = 1;
+    HotSpotX = 150;
+    HotSpotY = 10;
+    ImageDescription = {length = 0, bytes = 0x};
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 273;
+    OriginalLocationY = 49;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = "FirefoxURLfield/URLfield_Edge_Windows";
+    tags =     (
+    );
+}

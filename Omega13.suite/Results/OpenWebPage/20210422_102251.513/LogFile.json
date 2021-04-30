@@ -1,0 +1,61 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running OpenWebPage.script",
+      "timestamp" : "2021-04-22 10:22:51.516 -0600"
+    },
+    {
+      "handlerName" : "on_openwebpage",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2021-04-22 10:22:51.586 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "OpenWebPage.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_openwebpage",
+      "message" : "chrome.exe[returnKey]",
+      "timestamp" : "2021-04-22 10:22:52.434 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "OpenWebPage.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_openwebpage",
+      "message" : "found at (700, 280)",
+      "identifier" : "waitfor",
+      "image" : "Refresh Icon",
+      "handlerLine" : 3,
+      "timestamp" : "2021-04-22 10:22:57.149 -0600",
+      "scriptName" : "OpenWebPage.script"
+    },
+    {
+      "handlerName" : "on_openwebpage",
+      "message" : "[controlKey]l",
+      "timestamp" : "2021-04-22 10:22:57.174 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "OpenWebPage.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_openwebpage",
+      "message" : "www.amazon.com[returnKey]",
+      "timestamp" : "2021-04-22 10:22:58.072 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "OpenWebPage.script",
+      "handlerLine" : 6
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"6.639301\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-04-22 10:22:51 -0600\", Successes:\"1\", TestCase:\"OpenWebPage.script\", Warnings:\"0\")",
+      "timestamp" : "2021-04-22 10:22:58.156 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:06 OpenWebPage.script",
+      "timestamp" : "2021-04-22 10:22:58.163 -0600"
+    }
+  ],
+  "createdTimestamp" : "2021-04-22 10:22:51.517 -0600"
+}

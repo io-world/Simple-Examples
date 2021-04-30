@@ -1,0 +1,21 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running MainTestCase.script",
+      "timestamp" : "2021-04-26 09:56:59.219 -0600"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.002744\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-04-26 09:56:59 -0600\", Successes:\"0\", TestCase:\"MainTestCase.script\", Warnings:\"0\")",
+      "timestamp" : "2021-04-26 09:56:59.229 -0600"
+    },
+    {
+      "message" : "SenseTalk Compiler Exception in maintestcase:\\nSyntax Error at line 20: Syntax Error - can't understand \"Windows\" at character 31 -- Execution Time 0:00:00 MainTestCase.script",
+      "timestamp" : "2021-04-26 09:57:01.033 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2021-04-26 09:56:59.224 -0600"
+}

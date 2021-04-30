@@ -1,0 +1,10 @@
+﻿
+
+
+insert (a:1,b:2) nested  var
+
+
+insert (c:1,d:2)  nested after var
+
+
+log var

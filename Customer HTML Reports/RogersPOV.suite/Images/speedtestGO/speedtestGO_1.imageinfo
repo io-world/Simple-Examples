@@ -1,0 +1,25 @@
+﻿{
+    CaptureDate = "2021-02-10 15:53:27 +0000";
+    CaptureHost = Windows10;
+    CaptureScreenSize =     (
+        1024,
+        768
+    );
+    HasAlpha = 1;
+    HotSpotX = 44;
+    HotSpotY = 21;
+    IgnoreColor =     (
+        "#0B0B1B"
+    );
+    ImageDescription = {length = 0, bytes = 0x};
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 468;
+    OriginalLocationY = 349;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = speedtestGO;
+    tags =     (
+    );
+}

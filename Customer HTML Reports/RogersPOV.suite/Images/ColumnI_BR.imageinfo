@@ -1,0 +1,24 @@
+﻿{
+    CaptureDate = "2021-03-17 04:29:15 +0000";
+    CaptureHost = Windows10;
+    CaptureScreenSize =     (
+        1024,
+        768
+    );
+    CropRectangle = "7,0,75,13";
+    HasAlpha = 1;
+    HotSpotX = 92;
+    HotSpotY = 50;
+    ImageDescription = {length = 0, bytes = 0x};
+    ImageTolerance = 100;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 155;
+    OriginalLocationY = 155;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = "ColumnI_BR";
+    tags =     (
+    );
+}

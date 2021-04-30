@@ -1,0 +1,33 @@
+﻿
+
+
+
+HTMLreport.getOutputFile ------------------------------------------ Create HTML report file
+
+//mainScript.logTimeDateStart ----------------------------------- Log date and time before test
+mainScript.placeCall ---------------------------------------------- Voice call
+mainScript.speedTest -------------------------------------------- Speedtest
+mainScript.handoverSession ----------------------------------- Handover session
+//mainScript.logTimeDateEnd ------------------------------------ Log date and time at the end
+
+
+
+
+
+
+
+
+
+
+
+twoSUTconnections
+repeatLoop.collectSpeedtestData
+
+testing "RogersPOV"
+
+//testing "RogersPOV"
+
+
+
+
+

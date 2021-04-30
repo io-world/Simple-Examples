@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Example0Base
+put Worksheet (ResourcePath(WebFormData.xlsx), PatientList) into WSheet
+put WSheet.cellrange() into Data
+
+log Data">
+ <run>
+  <RunDate>2020-11-30 14:14:45.841 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.525779</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201130_141445.841/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-30 14:15:27.850 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.519676</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201130_141527.850/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-30 14:15:53.843 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.461809</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201130_141553.843/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-30 14:16:27.832 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.526345</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201130_141627.832/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-30 14:16:36.075 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.481498</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201130_141636.075/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-30 14:16:52.320 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>0.520260</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201130_141652.320/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

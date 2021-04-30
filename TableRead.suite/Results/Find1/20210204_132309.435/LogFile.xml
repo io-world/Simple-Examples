@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Find1_script" package="TableRead.suite" timestamp="2021-02-04 13:23:09.435 -0700"
+ tests="1"  failures="1" errors="1" time="5.606988">
+  <properties>
+   <property name="RunDate" value="2021-02-04 13:23:09.435 -0700"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Find1.script" assertions="1" status="error"  time="5.60346">
+    <failure type="FAILURE" message="Image Not Found imagelocation Error - Unable To Find Image &quot;(TEXT:&quot;11&quot;)&quot;. Text not found.  Restricted Search Rectangle ((8,473),(50,1080))\n -- Execution Time 0:00:05 Find1.script" />
+    <error type="Exception" message="Unable To Find Image &quot;(TEXT:&quot;11&quot;)&quot;. Text not found." />
+  </testcase>
+ </testsuite>
+</testsuites>

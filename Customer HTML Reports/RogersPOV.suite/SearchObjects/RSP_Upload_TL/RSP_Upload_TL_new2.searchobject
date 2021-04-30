@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1614874926.2773139,
+  "ocrcapturestring" : "3",
+  "testlocationdata" : [
+    {
+      "name" : "RSP_Upload_TL\/RSP_Upload_TL_new2.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "3",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[5,12]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        250,
+        531,
+        17,
+        15
+      ]
+    }
+  ],
+  "createddate" : 1614874926.2773139,
+  "lastfoundlocation" : [
+    250,
+    531,
+    17,
+    15
+  ],
+  "originalcapturelocation" : [
+    250,
+    531,
+    17,
+    15
+  ],
+  "lastfounddate" : 1614874929.1839671,
+  "name" : "RSP_Upload_TL\/RSP_Upload_TL_new2"
+}

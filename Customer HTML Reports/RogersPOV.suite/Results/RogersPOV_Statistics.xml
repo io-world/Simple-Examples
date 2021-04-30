@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="twoSUTconnections">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2021-02-08 10:21:01 -0700</FirstRun>
+  <LastRun>2021-02-08 10:30:13 -0700</LastRun>
+  <TotalTimeOnSuccess>97.445858</TotalTimeOnSuccess>
+ </script>
+ <script name="LTEhandover">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2021-03-16 21:42:00 -0600</FirstRun>
+  <LastRun>2021-03-17 15:54:30 -0600</LastRun>
+  <TotalTimeOnSuccess>3166.824221</TotalTimeOnSuccess>
+ </script>
+ <script name="repeatLoop">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2021-02-10 09:11:34 -0700</FirstRun>
+  <LastRun>2021-02-10 09:11:34 -0700</LastRun>
+  <TotalTimeOnSuccess>0.398727</TotalTimeOnSuccess>
+ </script>
+ <script name="errorReporting">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2021-03-03 15:07:28 -0700</FirstRun>
+  <LastRun>2021-03-04 09:18:35 -0700</LastRun>
+  <TotalTimeOnSuccess>269.495281</TotalTimeOnSuccess>
+ </script>
+ <script name="MainTestCase">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>13</NumberOfRuns>
+  <NumberOfFails>7</NumberOfFails>
+  <FirstRun>2021-04-15 10:55:31 -0600</FirstRun>
+  <LastRun>2021-04-26 09:56:59 -0600</LastRun>
+  <TotalTimeOnSuccess>124.793059</TotalTimeOnSuccess>
+ </script>
+</statistics>

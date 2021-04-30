@@ -1,0 +1,2 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2021-02-04 13:23:09.435 -0700,"Failure",0:00:05,1,1,1,"20210204_132309.435/LogFile.txt","","Image Not Found -- imagelocation Error - Unable To Find Image ""(TEXT:""11"")"". Text not found.  Restricted Search Rectangle ((8,473),(50,1080))\n",0

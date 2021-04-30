@@ -1,0 +1,86 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running index.script",
+      "timestamp" : "2021-04-22 10:28:50.546 -0600"
+    },
+    {
+      "handlerName" : "on_openwebpage",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2021-04-22 10:28:50.641 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "OpenWebPage.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_openwebpage",
+      "message" : "chrome.exe[returnKey]",
+      "timestamp" : "2021-04-22 10:28:51.483 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "OpenWebPage.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_overridecommand",
+      "message" : "Unable To Find Any Image On Screen \"Refresh Icon\" within 0.50 seconds",
+      "identifier" : "Exception",
+      "image" : "Refresh Icon",
+      "handlerLine" : 1,
+      "timestamp" : "2021-04-22 10:28:54.674 -0600",
+      "scriptName" : "\/Applications\/Eggplant.app\/Contents\/Resources\/EggplantCommon.suite\/Scripts\/Omega13.script"
+    },
+    {
+      "handlerName" : "function_attemptrecovery",
+      "message" : "Chrome errored out, restarting Chrome",
+      "timestamp" : "2021-04-22 10:28:54.753 -0600",
+      "identifier" : "LogWarning",
+      "scriptName" : "attemptRecovery.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "function_attemptrecovery",
+      "message" : "Runtime Error at line 1: Image Not Found - waitfor Error - Unable To Find Any Image On Screen \"Refresh Icon\" within 0.50 seconds",
+      "timestamp" : "2021-04-22 10:28:54.754 -0600",
+      "identifier" : "Log",
+      "scriptName" : "attemptRecovery.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "function_attemptrecovery",
+      "message" : "waitfor",
+      "timestamp" : "2021-04-22 10:28:54.755 -0600",
+      "identifier" : "Log",
+      "scriptName" : "attemptRecovery.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "function_attemptrecovery",
+      "message" : "[0.5,\"Refresh Icon\"]",
+      "timestamp" : "2021-04-22 10:28:54.756 -0600",
+      "identifier" : "Log",
+      "scriptName" : "attemptRecovery.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_overridecommand",
+      "message" : "Image Not Found - waitfor Error - Unable To Find Any Image On Screen \"Refresh Icon\" within 0.50 seconds",
+      "timestamp" : "2021-04-22 10:28:59.760 -0600",
+      "identifier" : "Throw",
+      "scriptName" : "\/Applications\/Eggplant.app\/Contents\/Resources\/EggplantCommon.suite\/Scripts\/Omega13.script",
+      "handlerLine" : 20
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"9.337617\", Errors:\"1\", Exceptions:\"2\", StartTime:\"2021-04-22 10:28:50 -0600\", Successes:\"0\", TestCase:\"index.script\", Warnings:\"1\")",
+      "timestamp" : "2021-04-22 10:28:59.885 -0600"
+    },
+    {
+      "message" : "Image Not Found waitfor Error - Unable To Find Any Image On Screen \"Refresh Icon\" within 0.50 seconds -- Execution Time 0:00:09 index.script",
+      "timestamp" : "2021-04-22 10:29:00.036 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2021-04-22 10:28:50.547 -0600"
+}

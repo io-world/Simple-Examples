@@ -1,0 +1,9 @@
+﻿
+
+
+repeat 10 times
+	RunWithNewResults "Workflow01"
+	
+	RunWithNewResults "Workflow02"
+	
+end repeat

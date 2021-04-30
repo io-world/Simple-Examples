@@ -1,0 +1,23 @@
+﻿{
+    CaptureDate = "2021-01-29 18:13:49 +0000";
+    CaptureHost = "Linux_SUT";
+    CaptureScreenSize =     (
+        1024,
+        768
+    );
+    HasAlpha = 1;
+    HotSpotX = 18;
+    HotSpotY = 20;
+    ImageDescription = {length = 0, bytes = 0x};
+    ImageTolerance = 75;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 208;
+    OriginalLocationY = 105;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = FirefoxIcon3;
+    tags =     (
+    );
+}

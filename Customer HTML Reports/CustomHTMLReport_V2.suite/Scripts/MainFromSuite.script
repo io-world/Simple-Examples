@@ -1,0 +1,15 @@
+﻿put "/Users/randallhesse/Documents/Simple_Examples/Customer HTML Reports/RogersPOV.suite/" into SuitePath
+//put "/Users/ranhesse/desktop/Alaska Week 2.suite"  into SuitePath
+//put "/Users/ranhesse/desktop/Calculator.suite" into SuitePath
+
+
+put "Eggplant" into CompanyName
+put "Boulder, CO" into Location
+put "Randy Hesse" into Author
+put "Randy.hesse@keysight.com" into email
+put "(303) 555-0614" into TelephoneNumber
+//---------------------------------------------------------------------
+//--------------------------------------------------------------------- 
+
+
+Run "Utilities/BuildHTML" SuitePath,CompanyName,Location,Author,email,TelephoneNumber

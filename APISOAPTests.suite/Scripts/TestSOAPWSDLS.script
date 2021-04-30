@@ -1,0 +1,37 @@
+﻿log "------------------------------------------------------------------------------------"
+log "                                 Feature #12052"
+log "                               API: SOAP Support "
+log "-------------------------------------------------------------------------------------"
+
+BeginTestCase "SOAP API Tests"
+//WSDL tests from eggPlant Performance wiki
+put SOAPCdyneIp2geoWsdl() into wsdlTest
+put api().url
+assert that api().responseBody contains "ws.cdyne.com" with error
+
+(*put SOAPCalculatorWsdl() into wsdlTest --endpoint stopped working
+put api().url
+assert that wsdlTest.responseBody contains "www.parasoft.com/wsdl/calculator" with error*)
+
+put SOAPDocusignWsdl() into wsdlTest
+assert that wsdlTest.responseBody contains "www.docusign.net" with error
+
+(*put SOAPGlobalWeatherWsdl() into wsdlTest
+assert that wsdlTest.responseBody contains "GetWeatherSOAPIn" with warning*)
+
+put SOAPSciencesoftWsdl() into wsdlTest
+assert that api().responseBody contains "SOAPlatexResult" with error
+
+(*put SOAPSorianaWsdl() into wsdlTest
+assert that api().responseBody contains "http://www.sci-grupo.com.mx" with error
+
+put SOAPStockquoteWsdl() into wsdlTest
+put wsdlTest.url
+assert that wsdlTest.responseBody contains "Get Stock quote for a company Symbol" with warning
+
+put SOAPThomasbayerWsdl() into wsdlTest
+assert that api().responseBody contains "BLZService" with error
+*)
+
+EndTestCase "SOAP API Tests"
+

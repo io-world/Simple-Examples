@@ -1,0 +1,192 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running errorReporting.script",
+      "timestamp" : "2021-03-03 16:03:32.976 -0700"
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2021-03-03 16:03:33.205 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "errorReporting.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe[returnKey]",
+      "timestamp" : "2021-03-03 16:03:35.971 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "errorReporting.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "found at (50, 25)",
+      "identifier" : "waitfor",
+      "image" : "MicrosoftEdgeLoaded",
+      "handlerLine" : 7,
+      "timestamp" : "2021-03-03 16:03:37.586 -0700",
+      "scriptName" : "errorReporting.script"
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[windowsKey][upArrow]",
+      "timestamp" : "2021-03-03 16:03:37.997 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "at (256, 50)",
+      "identifier" : "click",
+      "image" : "URLfield",
+      "handlerLine" : 6,
+      "timestamp" : "2021-03-03 16:03:40.148 -0700",
+      "scriptName" : "navigateToWebpage.script"
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[controlKey]a",
+      "timestamp" : "2021-03-03 16:03:42.171 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[backspace]",
+      "timestamp" : "2021-03-03 16:03:44.187 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "https:\/\/www.rogers.com\/customer\/support\/article\/internet-speedtest",
+      "timestamp" : "2021-03-03 16:03:47.019 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 9
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[return]",
+      "timestamp" : "2021-03-03 16:03:49.034 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 10
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "[windowsKey][leftArrow]",
+      "timestamp" : "2021-03-03 16:03:59.065 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "errorReporting.script",
+      "handlerLine" : 10
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "Writing to file",
+      "timestamp" : "2021-03-03 16:03:59.066 -0700",
+      "identifier" : "Log",
+      "scriptName" : "errorReporting.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "at (249, 585)",
+      "identifier" : "click",
+      "image" : "RSP_SpeedtestGo",
+      "handlerLine" : 17,
+      "timestamp" : "2021-03-03 16:04:01.695 -0700",
+      "scriptName" : "errorReporting.script"
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "Unable to Find Image RSP_SpeedtestAgain",
+      "identifier" : "imagefound",
+      "image" : "RSP_SpeedtestAgain",
+      "handlerLine" : 21,
+      "timestamp" : "2021-03-03 16:04:16.340 -0700",
+      "scriptName" : "errorReporting.script"
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "Unable to Find Image RSP_SpeedtestAgain",
+      "identifier" : "imagefound",
+      "image" : "RSP_SpeedtestAgain",
+      "handlerLine" : 21,
+      "timestamp" : "2021-03-03 16:04:20.968 -0700",
+      "scriptName" : "errorReporting.script"
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "Unable to Find Image RSP_SpeedtestAgain",
+      "identifier" : "imagefound",
+      "image" : "RSP_SpeedtestAgain",
+      "handlerLine" : 21,
+      "timestamp" : "2021-03-03 16:04:25.611 -0700",
+      "scriptName" : "errorReporting.script"
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "Unable to Find Image RSP_SpeedtestAgain",
+      "identifier" : "imagefound",
+      "image" : "RSP_SpeedtestAgain",
+      "handlerLine" : 21,
+      "timestamp" : "2021-03-03 16:04:29.614 -0700",
+      "scriptName" : "errorReporting.script"
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "Unable to Find Image RSP_SpeedtestAgain",
+      "identifier" : "imagefound",
+      "image" : "RSP_SpeedtestAgain",
+      "handlerLine" : 21,
+      "timestamp" : "2021-03-03 16:04:33.340 -0700",
+      "scriptName" : "errorReporting.script"
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "Unable to Find Image RSP_SpeedtestAgain",
+      "identifier" : "imagefound",
+      "image" : "RSP_SpeedtestAgain",
+      "handlerLine" : 21,
+      "timestamp" : "2021-03-03 16:04:36.897 -0700",
+      "scriptName" : "errorReporting.script"
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "found at (249, 700)",
+      "identifier" : "imagefound",
+      "image" : "RSP_SpeedtestAgain",
+      "handlerLine" : 21,
+      "timestamp" : "2021-03-03 16:04:38.383 -0700",
+      "scriptName" : "errorReporting.script"
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "Could Not Open Image: RSP_testagain",
+      "identifier" : "Exception",
+      "image" : "RSP_testagain",
+      "handlerLine" : 23,
+      "timestamp" : "2021-03-03 16:04:38.390 -0700",
+      "scriptName" : "errorReporting.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"66.525536\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2021-03-03 16:03:32 -0700\", Successes:\"0\", TestCase:\"errorReporting.script\", Warnings:\"0\")",
+      "timestamp" : "2021-03-03 16:04:39.503 -0700"
+    },
+    {
+      "message" : "File Not Found imagefound Error - Could Not Open Image: RSP_testagain -- Execution Time 0:01:06 errorReporting.script",
+      "timestamp" : "2021-03-03 16:04:40.008 -0700",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2021-03-03 16:03:32.977 -0700"
+}

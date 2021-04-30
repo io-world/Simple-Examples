@@ -1,0 +1,73 @@
+{
+  "lastmodifieddate" : 1619470528.3177171,
+  "ocrcapturestring" : "Yes",
+  "testlocationdata" : [
+    {
+      "name" : "YesBtn.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "Yes",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_52",
+        "HotSpot" : "[40,11]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        548,
+        376,
+        80,
+        22
+      ]
+    },
+    {
+      "name" : "YesBtn.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "Yes",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "  1.2",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_55",
+        "HotSpot" : "[48,13]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        548,
+        376,
+        96,
+        26
+      ]
+    }
+  ],
+  "createddate" : 1612979213.1500421,
+  "lastfoundlocation" : [
+    297,
+    342,
+    96,
+    26
+  ],
+  "originalcapturelocation" : [
+    548,
+    376,
+    80,
+    22
+  ],
+  "lastfounddate" : 1619471084.210753,
+  "name" : "YesBtn"
+}

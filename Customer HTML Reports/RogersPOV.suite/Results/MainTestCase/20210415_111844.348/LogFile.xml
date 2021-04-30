@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="MainTestCase_script" package="RogersPOV.suite" timestamp="2021-04-15 11:18:44.348 -0600"
+ tests="3"  failures="1" errors="0" time="30.736827">
+  <properties>
+   <property name="RunDate" value="2021-04-15 11:18:44.348 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="placeCall" assertions="0" status="success"  time="15.006543">
+  </testcase>
+  <testcase name="speedTest" assertions="0" status="success"  time="15.007111">
+  </testcase>
+  <testcase name="MainTestCase.script" assertions="1" status="failure"  time="30.733859">
+    <failure type="FAILURE" message="BadValue Bad value for Object expression.  Looking for an object or script identifier, got 'Attenuators'. -- Execution Time 0:00:30 MainTestCase.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1615996942.9734831,
+  "ocrcapturestring" : "0",
+  "testlocationdata" : [
+    {
+      "name" : "ColumnO_BR.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "0",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[92,497]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        803,
+        153,
+        81,
+        15
+      ]
+    }
+  ],
+  "createddate" : 1615996931.5561252,
+  "lastfoundlocation" : [
+    803,
+    153,
+    81,
+    15
+  ],
+  "originalcapturelocation" : [
+    803,
+    153,
+    81,
+    15
+  ],
+  "lastfounddate" : 1615997026.565454,
+  "name" : "OKbutton\/ColumnO_BR"
+}

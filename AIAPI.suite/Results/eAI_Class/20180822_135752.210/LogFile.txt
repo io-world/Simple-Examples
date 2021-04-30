@@ -1,5 +1,0 @@
-﻿2018-08-22 13:57:52.212 -0600	START		Running eAI_Class.script
-2018-08-22 13:57:52.263 -0600	LogWarning		Validation Warning: Empty request body.	18	on_eai_class	eAI_Class.script
-2018-08-22 13:57:53.016 -0600	Log		(access_token:"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1MzQ5NzE0NjUsImlhdCI6MTUzNDk2Nzg2NSwiaXNzIjoiZWdncGxhbnRhaS5jb20iLCJ1c2VyIjp7InVzZXJuYW1lIjoicmFuZHkuaGVzc2VAdGVzdHBsYW50LmNvbSJ9fQ.OZye_tGWIXh3rWgu0QOaCmDjDIfpOW6HviUnUornEFg", expires_in:"3600", token_type:"bearer")	20	on_eai_class	eAI_Class.script
-2018-08-22 13:57:53.736 -0600	EndTestCase		(Duration:"1.521727", Errors:"1", Exceptions:"0", StartTime:"2018-08-22 13:57:52 -0600", Successes:"0", TestCase:"eAI_Class.script", Warnings:"1")
-2018-08-22 13:57:53.816 -0600	FAILURE	Screen_Error.png	NSInvalidArgumentException -[__NSArrayM length]: unrecognized selector sent to instance 0x604002a58390 -- Execution Time 0:00:01 eAI_Class.script

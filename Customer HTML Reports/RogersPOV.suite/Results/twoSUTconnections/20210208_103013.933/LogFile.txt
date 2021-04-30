@@ -1,0 +1,22 @@
+﻿2021-02-08 10:30:13.935 -0700	START		Running testing.script
+2021-02-08 10:30:13.987 -0700	connect		Windows10:(null)	4	on_testing	testing.script
+2021-02-08 10:30:15.553 -0700	click	windowsSearch	at (171, 748)	7	on_testing	testing.script
+2021-02-08 10:30:16.727 -0700	typetext		microsoft edge	8	on_testing	testing.script
+2021-02-08 10:30:18.550 -0700	click	OpenProgram	at (433, 356)	9	on_testing	testing.script
+2021-02-08 10:30:20.142 -0700	waitfor	MicrosoftEdgeLoaded	found at (217, 25)	10	on_testing	testing.script
+2021-02-08 10:30:20.440 -0700	click	URLfield	at (661, 65)	5	on_navigatetowebpage	navigateToWebpage.script
+2021-02-08 10:30:21.463 -0700	typetext		[controlKey]a	6	on_navigatetowebpage	navigateToWebpage.script
+2021-02-08 10:30:22.478 -0700	typetext		[backspace]	7	on_navigatetowebpage	navigateToWebpage.script
+2021-02-08 10:30:23.661 -0700	typetext		www.amazon.com	8	on_navigatetowebpage	navigateToWebpage.script
+2021-02-08 10:30:24.678 -0700	typetext		[return]	9	on_navigatetowebpage	navigateToWebpage.script
+2021-02-08 10:30:34.681 -0700	connect		Linux_SUT:(null)	16	on_testing	testing.script
+2021-02-08 10:30:35.072 -0700	click	ApplicationsBtn	at (38, 15)	19	on_testing	testing.script
+2021-02-08 10:30:36.455 -0700	click	FirefoxIcon	at (226, 81)	20	on_testing	testing.script
+2021-02-08 10:30:41.399 -0700	waitfor	MozillaFirefoxLoaded	found at (584, 46)	21	on_testing	testing.script
+2021-02-08 10:30:42.612 -0700	click	URLfield	at (576, 119)	5	on_navigatetowebpage	navigateToWebpage.script
+2021-02-08 10:30:43.639 -0700	typetext		[controlKey]a	6	on_navigatetowebpage	navigateToWebpage.script
+2021-02-08 10:30:44.653 -0700	typetext		[backspace]	7	on_navigatetowebpage	navigateToWebpage.script
+2021-02-08 10:30:45.815 -0700	typetext		wikipedia.org	8	on_navigatetowebpage	navigateToWebpage.script
+2021-02-08 10:30:46.829 -0700	typetext		[return]	9	on_navigatetowebpage	navigateToWebpage.script
+2021-02-08 10:30:57.240 -0700	EndTestCase		(Duration:"43.304334", Errors:"0", Exceptions:"0", StartTime:"2021-02-08 10:30:13 -0700", Successes:"1", TestCase:"testing.script", Warnings:"0")
+2021-02-08 10:30:57.253 -0700	SUCCESS		Execution Time 0:00:43 testing.script

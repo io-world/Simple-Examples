@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="UTF-8" ?>
 <statistics>
  <script name="Write2">
   <LastStatus>Success</LastStatus>
@@ -10,11 +10,11 @@
  </script>
  <script name="Write1">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>20</NumberOfRuns>
-  <NumberOfFails>11</NumberOfFails>
+  <NumberOfRuns>23</NumberOfRuns>
+  <NumberOfFails>12</NumberOfFails>
   <FirstRun>2016-11-07 13:13:40 -0700</FirstRun>
-  <LastRun>2017-03-30 09:54:18 -0600</LastRun>
-  <TotalTimeOnSuccess>1.486563</TotalTimeOnSuccess>
+  <LastRun>2021-02-12 08:17:19 -0700</LastRun>
+  <TotalTimeOnSuccess>1.844319</TotalTimeOnSuccess>
  </script>
  <script name="Index">
   <LastStatus>Success</LastStatus>
@@ -32,6 +32,14 @@
   <LastRun>2016-11-01 21:55:19 -0400</LastRun>
   <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
  </script>
+ <script name="Write3">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2021-02-12 08:18:53 -0700</FirstRun>
+  <LastRun>2021-02-12 08:20:27 -0700</LastRun>
+  <TotalTimeOnSuccess>0.877288</TotalTimeOnSuccess>
+ </script>
  <script name="List">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>5</NumberOfRuns>
@@ -39,6 +47,14 @@
   <FirstRun>2017-03-09 14:03:51 -0600</FirstRun>
   <LastRun>2017-08-26 16:27:44 -0600</LastRun>
   <TotalTimeOnSuccess>1.129889</TotalTimeOnSuccess>
+ </script>
+ <script name="NOtes">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2021-02-12 08:21:31 -0700</FirstRun>
+  <LastRun>2021-02-12 08:22:37 -0700</LastRun>
+  <TotalTimeOnSuccess>1.236389</TotalTimeOnSuccess>
  </script>
  <script name="Loop1">
   <LastStatus>Success</LastStatus>

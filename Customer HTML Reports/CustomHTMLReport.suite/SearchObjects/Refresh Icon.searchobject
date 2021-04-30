@@ -1,0 +1,49 @@
+{
+  "lastmodifieddate" : 1614653073.2329311,
+  "ocrcapturestring" : "c",
+  "testlocationdata" : [
+    {
+      "connectionserverid" : "3.17.204.192",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "Randy AWS Server",
+      "connectionportnum" : 3389,
+      "deleted" : true,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "c",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[140,14]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "name" : "Refresh Icon.png",
+      "capturerect" : [
+        70,
+        38,
+        42,
+        31
+      ]
+    }
+  ],
+  "createddate" : 1614630994.1378078,
+  "lastfoundlocation" : [
+    75,
+    39,
+    23,
+    23
+  ],
+  "originalcapturelocation" : [
+    70,
+    38,
+    42,
+    31
+  ],
+  "lastfounddate" : 1614631681.023097,
+  "name" : "Refresh Icon"
+}

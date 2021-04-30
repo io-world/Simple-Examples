@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1616009983.42468,
+  "ocrcapturestring" : "PlAii",
+  "testlocationdata" : [
+    {
+      "name" : "Filter_bottomRowSelection\/Filter_bottomRowSelection_withCheck_2.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "PlAii",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_73",
+        "HotSpot" : "[10,-16]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        41,
+        541,
+        36,
+        14
+      ]
+    }
+  ],
+  "createddate" : 1616009983.42468,
+  "lastfoundlocation" : [
+    41,
+    541,
+    36,
+    14
+  ],
+  "originalcapturelocation" : [
+    41,
+    541,
+    36,
+    14
+  ],
+  "lastfounddate" : 1616014722.838212,
+  "name" : "Filter_bottomRowSelection\/Filter_bottomRowSelection_withCheck_2"
+}

@@ -1,0 +1,8 @@
+﻿2020-10-22 09:52:31.886 -0600	START		Running ADT01.script
+2020-10-22 09:52:32.070 -0600	Log		ADT^A01	21	on_adt01	ADT01.script
+2020-10-22 09:52:32.073 -0600	Log		DUCK^DONALD^D	22	on_adt01	ADT01.script
+2020-10-22 09:52:32.077 -0600	Log		19241010	23	on_adt01	ADT01.script
+2020-10-22 09:52:32.083 -0600	Log		M	24	on_adt01	ADT01.script
+2020-10-22 09:52:32.088 -0600	Log		111 DUCK ST^^FOWL^CA^999990000^^M	25	on_adt01	ADT01.script
+2020-10-22 09:52:33.235 -0600	EndTestCase		(Duration:"1.329552", Errors:"0", Exceptions:"0", StartTime:"2020-10-22 09:52:31 -0600", Successes:"1", TestCase:"ADT01.script", Warnings:"0")
+2020-10-22 09:52:33.254 -0600	SUCCESS		Execution Time 0:00:01 ADT01.script

@@ -1,0 +1,41 @@
+﻿# To inspect the images listed in these handlers in the Image panel by choosing the camera icon on the top left-hand panel 
+
+to handle I_enter_the_amazon_URL_on_STR
+	params MyBrowser
+	typetext windowskey,"r"
+	waitfor 20, "RunWindowLogo"
+	typetext MyBrowser && "www.amazon.co.uk"
+	typetext return
+	moveto (1,1)
+end I_enter_the_amazon_URL_on_STR
+
+to handle I_should_see_the_amazon_home_page
+	waitforall 50, "Refresh", "BasketIcon"
+end I_should_see_the_amazon_home_page
+
+
+to handle I_click_the_basket_icon
+	click "BasketIcon"
+end I_click_the_basket_icon
+
+to handle I_should_see_the_shopping_page
+	waitfor 20, Text: "Shopping Basket" 
+	# Confirm that the page loads by waiting for the Shopping Basket image
+end I_should_see_the_shopping_page
+
+to handle I_close_the_browser
+	typetext altkey,f4
+	wait 2
+end I_close_the_browser
+
+to handle The_test_should_pass
+	Log "We just ran a Gherkin test on desktop"
+end The_test_should_pass
+
+to handle I_am_connected_to_a_device
+	if connectioninfo().status is "connected"
+		show remote
+		--return pass
+	end if
+	
+end I_am_connected_to_a_device

@@ -1,7 +1,7 @@
-﻿put "/Users/randyhesse/Desktop/TestRead"  into MyFileVar
+﻿put "/Users/ranhesse/Desktop/TestRead.txt"  into MyFileVar
 open  file MyFileVar
 
-put "GIO NOW" into MyWrite
+put "THis is something Else" into MyWrite
 write return to file MyFileVar at eof
 write MyWrite to file MyFileVar
 close file MyFileVar

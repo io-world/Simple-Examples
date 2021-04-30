@@ -1,0 +1,61 @@
+﻿params SuitePath,CompanyName,Location,Author,email,TelephoneNumber
+
+put new  "Utilities/BuildReports" into BR
+
+
+(BR).BasicInfo CompanyName,Location,Author,email,TelephoneNumber
+put "index.html" into ReportName
+put "table.html" into Tablename
+//---------------------------------------------------------------------
+put SuitePath & "/Results" into ResultFolderPath
+
+
+put  folders of ResultFolderPath  into ScriptList
+
+
+put the number of items of ScriptList into ScriptCount
+
+repeat ScriptCount times
+	put item repeatindex() of ScriptList into ScriptName
+	put folders of  (ResultFolderPath &"/"&ScriptName) into ResultList
+	put the number of items of ResultList into ResultCount
+	repeat ResultCount times
+		put item repeatindex() of ResultList into ResultPath
+		insert ResultFolderPath &"/"&ScriptName &"/"& ResultPath   into SuiteLogJsonPaths
+	end repeat
+end repeat
+//----------------------------------------------------------------------------------------------------------------------------------------
+put SuiteLogJsonPaths into SuiteImagePath
+//----------------------------------------------------------------------------------------------------------------------------------------
+//----------------------------------------------------------------------------------------------------------------------------------------
+put the number of items of  SuiteLogJsonPaths into JsonCount
+repeat JsonCount times
+	
+	put  item repeatindex() of SuiteLogJsonPaths into JsonPath
+	put JsonPath into NewReportPath
+	replace "Results" with "HTMLResults" in NewReportPath
+	
+	try
+		(BR).DefineLocation NewReportPath
+		(BR).DefineLogs JsonPath
+		(BR).BuildStatistics
+		(BR).BuildFramework
+		(BR).HTMLTable Tablename
+		(BR).HTMLReport ReportName
+		(BR).MoveResultContents JsonPath,NewReportPath
+	end try
+	
+	
+end repeat
+
+//----------------------------------------------------------------------------------------------------------------------------------------
+//----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+

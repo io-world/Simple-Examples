@@ -1,0 +1,21 @@
+Medical Record Number,Suffix,First Name,Middle Name,Last Name,Date of Birth,Social Security Number,Gender,Marital Status,Created Date,Coding Date,Billing Date,Claims Date,Charge Capture Date
+530167,Mr,James,L,Prime,5/3/72,599-51-2755,Male,Single,,10/30/20,,11/1/20,11/1/20
+862717,Mrs,Optimus,V,SquarePants,4/6/82,567-01-7397,Female,Married,10/24/20,,10/25/20,10/28/20,10/28/20
+93793,Mrs,SpongeBob,W,Prime,3/13/75,069-54-2019,Male,Single,Completed,Completed,,10/29/20,
+587555,Ms,SpongeBob,W,Mouse,12/10/11,037-88-0287,Male,Single,10/24/20,10/27/20,10/28/20,,10/30/20
+517172,Ms,Optimus,V,Prime,2/5/73,716-39-7177,Female,Divorced,Not Completed,10/25/20,10/26/20,10/28/20,
+946429,Ms,Darth,A,Mouse,5/22/84,885-47-6286,Female,Domestic,10/23/20,,10/26/20,11/1/20,
+318198,Ms,Bruce,L,Mouse,8/23/71,466-30-2868,Male,Divorced,,10/26/20,10/30/20,,10/31/20
+658516,Mrs,Carrie,K,Bond,11/29/12,633-79-5039,Male,Domestic,,,,,10/31/20
+703081,Ms,Mickey,I,Wayne,1/15/78,088-11-2340,Female,Widowed,,10/24/20,10/25/20,,11/1/20
+525526,Mr,Carrie,W,Wayne,1/27/73,946-58-2056,Male,Domestic,,10/26/20,,10/30/20,
+797576,Mr,Darth,P,SquarePants,12/8/10,156-63-6668,Female,Domestic,10/28/20,10/29/20,,10/30/20,
+47701,Mr,Homer,Y,Vader,9/1/09,032-71-2489,Male,Single,10/29/20,10/30/20,10/30/20,10/31/20,
+736249,Mrs,SpongeBob,X,Wayne,1/5/13,058-45-7174,Male,Married,10/23/20,10/24/20,,10/27/20,10/30/20
+845620,Dr,Wonder,Y,Underwood,4/4/11,449-43-2841,Male,Domestic,10/23/20,,10/24/20,,
+619781,Mr,Bruce,B,Bond,6/14/72,335-14-6144,Male,Divorced,10/23/20,10/23/20,,,
+106643,Ms,Optimus,E,Wayne,5/28/95,648-73-6255,Female,Divorced,,10/24/20,10/26/20,,
+284882,Mr,Homer,Q,Prime,11/3/11,129-44-8942,Female,Separated,Completed,10/23/20,10/27/20,10/27/20,10/28/20
+128940,Dr,Darth,C,Woman,9/13/77,888-98-0061,Male,Separated,10/23/20,10/24/20,10/24/20,10/28/20,10/30/20
+441572,Dr,Carrie,G,Simpson,10/9/91,364-49-5601,Female,Married,10/24/20,10/26/20,10/29/20,10/30/20,11/1/20
+32734,Ms,Darth,K,Bond,4/4/04,195-90-6456,Male,Domestic,Completed,10/25/20,,,

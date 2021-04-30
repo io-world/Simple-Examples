@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1619470408.350282,
+  "ocrcapturestring" : "RESULT HISTORY",
+  "testlocationdata" : [
+    {
+      "name" : "resultsHistory\/resultsHistory.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "RESULT HISTORY",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_63",
+        "HotSpot" : "[69,9]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        354,
+        353,
+        138,
+        18
+      ]
+    }
+  ],
+  "createddate" : 1612979041.2992458,
+  "lastfoundlocation" : [
+    354,
+    353,
+    138,
+    18
+  ],
+  "originalcapturelocation" : [
+    354,
+    353,
+    138,
+    18
+  ],
+  "lastfounddate" : 1614196821.1772928,
+  "name" : "resultsHistory"
+}

@@ -1,0 +1,31 @@
+﻿
+
+
+put "/Users/ranhesse/Documents/Simple_Examples/Customer HTML Reports/Sample Suite.suite/Results/Workflow01/20210301_194416.595" into LogPath
+put "index.html" into ReportName
+put "table.html" into Tablename
+put "/Users/ranhesse/Documents/Simple_Examples/Customer HTML Reports/NewReport" into NewLocation
+//---------------
+
+if folder NewLocation exists then
+	LogWarning "Overwritting Folder"
+	
+	delete folder NewLocation
+end if
+
+
+
+
+put  "Utilities/GrabStatistics" (LogPath) into Statistics
+put new "Utilities/BuildTable" into UBT
+
+(UBT).BuildHTML (Tablename, LogPath,NewLocation)
+put (UBT).HTMLTable into StepTable
+
+
+
+
+
+"Utilities/BuildReport".BuildHTML (ReportName,StepTable, Statistics,NewLocation)
+put "/Users/ranhesse/Documents/Simple_Examples/Customer HTML Reports/NewReport" into NewLocation
+copy file ResourcePath("CompanyLogo.jpg") to NewLocation

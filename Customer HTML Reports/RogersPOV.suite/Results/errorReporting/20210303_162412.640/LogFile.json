@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running errorReporting.script",
+      "timestamp" : "2021-03-03 16:24:12.643 -0700"
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2021-03-03 16:24:12.826 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "errorReporting.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe[returnKey]",
+      "timestamp" : "2021-03-03 16:24:15.566 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "errorReporting.script",
+      "handlerLine" : 5
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"5.603653\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-03-03 16:24:12 -0700\", Successes:\"0\", TestCase:\"errorReporting.script\", Warnings:\"0\")",
+      "timestamp" : "2021-03-03 16:24:18.248 -0700"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:00:05 errorReporting.script",
+      "timestamp" : "2021-03-03 16:24:18.251 -0700"
+    }
+  ],
+  "createdTimestamp" : "2021-03-03 16:24:12.644 -0700"
+}

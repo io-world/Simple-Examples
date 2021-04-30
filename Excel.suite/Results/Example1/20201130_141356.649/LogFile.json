@@ -1,0 +1,100 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Example1.script",
+      "timestamp" : "2020-11-30 14:13:56.654 -0700"
+    },
+    {
+      "handlerName" : "on_example1",
+      "message" : "[\"Prefix\",\"First Name\",\"Middle Name\",\"Last Name\",\"Medical Record Number\",\"Date of Birth\",\"Social Security Number\",\"Gender\",\"Marital Status\"]",
+      "timestamp" : "2020-11-30 14:13:56.730 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example1.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_example1",
+      "message" : "[\"Mr\",\"Bruce\",\"\",\"Wayne\",222222,\"2006-06-13 12:00:00 -0600\",\"113-83-3798\",\"Male\",\"Single\"]",
+      "timestamp" : "2020-11-30 14:13:56.734 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example1.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_example1",
+      "message" : "[\"Mrs\",\"Carrie\",\"\",\"Underwood\",333333,\"2014-03-16 12:00:00 -0600\",\"583-00-6387\",\"Female\",\"Married\"]",
+      "timestamp" : "2020-11-30 14:13:56.737 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example1.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_example1",
+      "message" : "[\"Ms\",\"Wonder\",\"\",\"Woman\",444444,\"2003-04-24 12:00:00 -0600\",\"580-71-8520\",\"Female\",\"Divorced\"]",
+      "timestamp" : "2020-11-30 14:13:56.741 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example1.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_example1",
+      "message" : "[\"Dr\",\"Darth\",\"\",\"Vader\",555555,\"1987-12-23 12:00:00 -0700\",\"744-85-1232\",\"Male\",\"Widowed\"]",
+      "timestamp" : "2020-11-30 14:13:56.744 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example1.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_example1",
+      "message" : "[\"Dr\",\"James\",\"\",\"Bond\",666666,\"1981-07-30 12:00:00 -0600\",\"973-13-0224\",\"Male\",\"Single\"]",
+      "timestamp" : "2020-11-30 14:13:56.748 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example1.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_example1",
+      "message" : "[\"Mr\",\"Homer\",\"\",\"Simpson\",777777,\"1980-09-01 12:00:00 -0600\",\"557-31-0655\",\"Male\",\"Married\"]",
+      "timestamp" : "2020-11-30 14:13:56.751 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example1.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_example1",
+      "message" : "[\"Dr\",\"Optimus\",\"\",\"Prime\",888888,\"1985-09-19 12:00:00 -0600\",\"521-26-0727\",\"Other\",\"Divorced\"]",
+      "timestamp" : "2020-11-30 14:13:56.755 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example1.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_example1",
+      "message" : "[\"Dr\",\"Mickey\",\"\",\"Mouse\",999999,\"2000-06-14 12:00:00 -0600\",\"984-56-3166\",\"Male\",\"Single\"]",
+      "timestamp" : "2020-11-30 14:13:56.766 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example1.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_example1",
+      "message" : "[\"Mr\",\"SpongeBob\",\"\",\"SquarePants\",101010,\"2000-06-14 12:00:00 -0600\",\"984-56-3166\",\"Male\",\"Single\"]",
+      "timestamp" : "2020-11-30 14:13:56.770 -0700",
+      "identifier" : "Log",
+      "scriptName" : "Example1.script",
+      "handlerLine" : 12
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.378819\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-11-30 14:13:56 -0700\", Successes:\"1\", TestCase:\"Example1.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-30 14:13:57.042 -0700"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Example1.script",
+      "timestamp" : "2020-11-30 14:13:57.060 -0700"
+    }
+  ],
+  "createdTimestamp" : "2020-11-30 14:13:56.662 -0700"
+}

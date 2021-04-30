@@ -1,0 +1,28 @@
+﻿
+
+// Make a connection to my SUT named Windows 10
+Connect "Windows10"
+
+// Launch Microsoft Edge and open Amazon
+Click "windowsSearch"
+TypeText "microsoft edge"
+Click "OpenProgram"
+WaitFor 30.0, "MicrosoftEdgeLoaded"
+navigateToWebpage "www.amazon.com"
+TypeText altKey, f4
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Make a connection to my SUT named Linux_SUT
+Connect "Linux_SUT"
+
+// Launch Firefox and open Wikipedia
+Click "ApplicationsBtn"
+Click "FirefoxIcon"
+WaitFor 30.0, "MozillaFirefoxLoaded"
+navigateToWebpage "wikipedia.org"
+Click "closeProgram"
+
+
+
+Connect "Windows10"

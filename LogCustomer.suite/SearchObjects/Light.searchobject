@@ -1,0 +1,48 @@
+{
+  "lastmodifieddate" : 1611173266.32617,
+  "ocrcapturestring" : "pts*",
+  "testlocationdata" : [
+    {
+      "connectionserverid" : "18.188.4.44",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "Randy AWS SUT",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "pts*",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[138,70]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "name" : "Light.png",
+      "capturerect" : [
+        1097,
+        740,
+        277,
+        141
+      ]
+    }
+  ],
+  "createddate" : 1611173266.32617,
+  "lastfoundlocation" : [
+    1097,
+    740,
+    277,
+    141
+  ],
+  "originalcapturelocation" : [
+    1097,
+    740,
+    277,
+    141
+  ],
+  "lastfounddate" : 1611174359.734123,
+  "name" : "Light"
+}

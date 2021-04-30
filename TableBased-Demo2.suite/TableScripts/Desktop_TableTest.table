@@ -1,0 +1,8 @@
+<?xml version="1.0"?><TableScript xmlns="http://www.testplant.com/xmlns/TableScript/2014">
+<Lines>
+<Line><Action>ConnectDevice</Action><Arguments>"Windows_7_1"</Arguments><ExpectedValueExpression>Pass</ExpectedValueExpression><Comment>Change the SUT to Windows 10 to see the test run on Windows 10 too</Comment></Line>
+<Line><Action>OpenAmazonURL</Action><Arguments>chrome</Arguments><ExpectedValueExpression>Pass</ExpectedValueExpression><Comment>Change the browser to iexplore to see the test run agaisnt Internet Explorer.</Comment></Line>
+<Line><Action>OpenBasket</Action><Arguments></Arguments><ExpectedValueExpression>Pass</ExpectedValueExpression><Comment></Comment></Line>
+<Line><Action>CloseBrowser</Action><Arguments></Arguments><ExpectedValueExpression>Pass</ExpectedValueExpression><Comment></Comment></Line>
+</Lines>
+</TableScript>

@@ -1,0 +1,3 @@
+﻿2021-02-12 08:21:31.089 -0700	START		Running NOtes.script
+2021-02-12 08:21:31.320 -0700	EndTestCase		(Duration:"0.229124", Errors:"1", Exceptions:"0", StartTime:"2021-02-12 08:21:31 -0700", Successes:"0", TestCase:"NOtes.script", Warnings:"0")
+2021-02-12 08:21:31.473 -0700	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Function: 'readtexd' -- Execution Time 0:00:00 NOtes.script

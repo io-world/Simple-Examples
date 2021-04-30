@@ -1,0 +1,92 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running MainTestCase.script",
+      "timestamp" : "2021-04-15 11:33:32.854 -0600"
+    },
+    {
+      "handlerName" : "on_placecall",
+      "message" : "placeCall",
+      "timestamp" : "2021-04-15 11:33:32.899 -0600",
+      "identifier" : "BeginTestCase",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_placecall",
+      "message" : "This test case passes",
+      "timestamp" : "2021-04-15 11:33:37.904 -0600",
+      "identifier" : "LogSuccess",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_placecall",
+      "message" : "(Duration:\"5.008833\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-04-15 11:33:32 -0600\", Successes:\"1\", TestCase:\"placeCall\", Warnings:\"0\")",
+      "timestamp" : "2021-04-15 11:33:37.908 -0600",
+      "identifier" : "EndTestCase",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 11
+    },
+    {
+      "handlerName" : "on_speedtest",
+      "message" : "speedTest",
+      "timestamp" : "2021-04-15 11:33:37.937 -0600",
+      "identifier" : "BeginTestCase",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_speedtest",
+      "message" : "This test case passes",
+      "timestamp" : "2021-04-15 11:33:42.943 -0600",
+      "identifier" : "LogSuccess",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_speedtest",
+      "message" : "(Duration:\"5.008064\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-04-15 11:33:37 -0600\", Successes:\"1\", TestCase:\"speedTest\", Warnings:\"0\")",
+      "timestamp" : "2021-04-15 11:33:42.946 -0600",
+      "identifier" : "EndTestCase",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 11
+    },
+    {
+      "handlerName" : "on_handoversession",
+      "message" : "handoverSession",
+      "timestamp" : "2021-04-15 11:33:42.972 -0600",
+      "identifier" : "BeginTestCase",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_handoversession",
+      "message" : "This test case passes",
+      "timestamp" : "2021-04-15 11:33:47.978 -0600",
+      "identifier" : "LogSuccess",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_handoversession",
+      "message" : "(Duration:\"5.0087\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-04-15 11:33:42 -0600\", Successes:\"1\", TestCase:\"handoverSession\", Warnings:\"0\")",
+      "timestamp" : "2021-04-15 11:33:47.981 -0600",
+      "identifier" : "EndTestCase",
+      "scriptName" : "mainScript.script",
+      "handlerLine" : 11
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"15.781434\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-04-15 11:33:32 -0600\", Successes:\"3\", TestCase:\"MainTestCase.script\", Warnings:\"0\")",
+      "timestamp" : "2021-04-15 11:33:48.637 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:15 MainTestCase.script",
+      "timestamp" : "2021-04-15 11:33:48.705 -0600"
+    }
+  ],
+  "createdTimestamp" : "2021-04-15 11:33:32.855 -0600"
+}

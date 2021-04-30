@@ -1,0 +1,62 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running index.script",
+      "timestamp" : "2021-04-22 10:27:37.035 -0600"
+    },
+    {
+      "handlerName" : "on_openwebpage",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2021-04-22 10:27:37.128 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "OpenWebPage.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_openwebpage",
+      "message" : "chrome.exe[returnKey]",
+      "timestamp" : "2021-04-22 10:27:37.971 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "OpenWebPage.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_overridecommand",
+      "message" : "Unable To Find Any Image On Screen \"Refresh Icon\" within 0.50 seconds",
+      "identifier" : "Exception",
+      "image" : "Refresh Icon",
+      "handlerLine" : 1,
+      "timestamp" : "2021-04-22 10:27:43.355 -0600",
+      "scriptName" : "\/Applications\/Eggplant.app\/Contents\/Resources\/EggplantCommon.suite\/Scripts\/Omega13.script"
+    },
+    {
+      "handlerName" : "function_attemptrecovery",
+      "message" : "Chrome errored out, restarting Chrome",
+      "timestamp" : "2021-04-22 10:27:43.434 -0600",
+      "identifier" : "Log",
+      "scriptName" : "attemptRecovery.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_overridecommand",
+      "message" : "Image Not Found - waitfor Error - Unable To Find Any Image On Screen \"Refresh Icon\" within 0.50 seconds",
+      "timestamp" : "2021-04-22 10:27:48.439 -0600",
+      "identifier" : "Throw",
+      "scriptName" : "\/Applications\/Eggplant.app\/Contents\/Resources\/EggplantCommon.suite\/Scripts\/Omega13.script",
+      "handlerLine" : 20
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"11.539355\", Errors:\"1\", Exceptions:\"2\", StartTime:\"2021-04-22 10:27:37 -0600\", Successes:\"0\", TestCase:\"index.script\", Warnings:\"0\")",
+      "timestamp" : "2021-04-22 10:27:48.576 -0600"
+    },
+    {
+      "message" : "Image Not Found waitfor Error - Unable To Find Any Image On Screen \"Refresh Icon\" within 0.50 seconds -- Execution Time 0:00:11 index.script",
+      "timestamp" : "2021-04-22 10:27:48.708 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2021-04-22 10:27:37.036 -0600"
+}

@@ -39,7 +39,7 @@ Content-Type:application/x-www-form-urlencoded
 	<key>testScript</key>
 	<string></string>
 	<key>url</key>
-	<string>https://eggplantai.testplant.com/api/run</string>
+	<string>https://testplant.dai.eggplant.cloud/ai/auth</string>
 	<key>userName</key>
 	<string>randy.hesse@testplant.com</string>
 </dict>

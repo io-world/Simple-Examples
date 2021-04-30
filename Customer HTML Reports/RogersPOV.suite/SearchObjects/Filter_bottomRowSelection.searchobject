@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1615993278.2043118,
+  "ocrcapturestring" : "□ ah",
+  "testlocationdata" : [
+    {
+      "name" : "Filter_bottomRowSelection\/Filter_bottomRowSelection_noCheck.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "“1 All",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[11,-16]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        39,
+        540,
+        37,
+        19
+      ]
+    }
+  ],
+  "createddate" : 1615993151.9676549,
+  "lastfoundlocation" : [
+    39,
+    540,
+    37,
+    15
+  ],
+  "originalcapturelocation" : [
+    39,
+    540,
+    37,
+    19
+  ],
+  "lastfounddate" : 1615995451.1878982,
+  "name" : "Filter_bottomRowSelection"
+}

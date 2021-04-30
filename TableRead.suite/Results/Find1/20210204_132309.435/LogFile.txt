@@ -1,0 +1,8 @@
+﻿2021-02-04 13:23:09.438 -0700	START		Running Find1.script
+2021-02-04 13:23:09.841 -0700	imagelocation	Show	at (28, 432)	1	on_find1	Find1.script
+2021-02-04 13:23:09.870 -0700	readtext		(8,473,50,1080)	8	on_find1	Find1.script
+2021-02-04 13:23:09.881 -0700	readtext		(18,442,1408,467)	12	on_find1	Find1.script
+2021-02-04 13:23:13.524 -0700	LogWarning		Unable to Find Text: 11 -- AutoUpdate engaged	18	on_find1	Find1.script
+2021-02-04 13:23:14.913 -0700	Exception	(TEXT:"11")	Unable To Find Image "(TEXT:"11")". Text not found.	18	on_find1	Find1.script
+2021-02-04 13:23:15.043 -0700	EndTestCase		(Duration:"5.60346", Errors:"1", Exceptions:"1", StartTime:"2021-02-04 13:23:09 -0700", Successes:"0", TestCase:"Find1.script", Warnings:"1")
+2021-02-04 13:23:15.112 -0700	FAILURE	Screen_Error.png	Image Not Found imagelocation Error - Unable To Find Image "(TEXT:"11")". Text not found.  Restricted Search Rectangle ((8,473),(50,1080))\n -- Execution Time 0:00:05 Find1.script

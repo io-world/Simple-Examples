@@ -1,0 +1,49 @@
+{
+  "lastmodifieddate" : 1614653073.220922,
+  "ocrcapturestring" : "Amazon's Choice",
+  "testlocationdata" : [
+    {
+      "connectionserverid" : "3.17.204.192",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "Randy AWS Server",
+      "connectionportnum" : 3389,
+      "deleted" : true,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "Amazon's",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_73",
+        "HotSpot" : "[58,11]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "name" : "AmazonsChoice.png",
+      "capturerect" : [
+        502,
+        842,
+        117,
+        22
+      ]
+    }
+  ],
+  "createddate" : 1614631338.872232,
+  "lastfoundlocation" : [
+    505,
+    479,
+    99,
+    14
+  ],
+  "originalcapturelocation" : [
+    502,
+    842,
+    117,
+    22
+  ],
+  "lastfounddate" : 1614631684.3131871,
+  "name" : "AmazonsChoice"
+}

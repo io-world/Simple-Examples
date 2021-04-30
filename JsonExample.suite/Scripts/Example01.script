@@ -1,0 +1,22 @@
+﻿
+
+put URL "https://jsonplaceholder.typicode.com/todos/" into URLData
+
+put JSONValue(URLData) into TodoData
+log TodoData
+
+
+put  CSVFormat(TodoData) into file ResourcePath ("datafile.csv")
+
+
+log (item 5 of TodoData).title
+
+
+put the number of items of  TodoData  into Max
+
+
+repeat max times
+	log item repeatindex() of TodoData
+	
+	
+end repeat

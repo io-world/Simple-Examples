@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="MainTestCase_script" package="RogersPOV.suite" timestamp="2021-04-15 11:16:50.050 -0600"
+ tests="2"  failures="1" errors="0" time="15.741457">
+  <properties>
+   <property name="RunDate" value="2021-04-15 11:16:50.050 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="placeCall" assertions="0" status="success"  time="15.012214">
+  </testcase>
+  <testcase name="MainTestCase.script" assertions="1" status="failure"  time="15.738427">
+    <failure type="FAILURE" message="STFileAccessException Unable to open file /theFile as requested -- Execution Time 0:00:15 MainTestCase.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

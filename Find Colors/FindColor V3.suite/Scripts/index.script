@@ -1,7 +1,7 @@
 ﻿
 
 
-put new "PixelData"  with (ColorSquare:(335,231,477,259))into ITPairs
+put new "PixelData"  with (ColorSquare:(1090,250,1100,260))into ITPairs
 //log (ITPairs).MatrixPixel
 
 
@@ -12,7 +12,7 @@ put  (ITPairs).PixelCount into PixelCount
 
 log PixelCount
 
-put (239,32,0) into Defined_Color."Defined_Red"
+put (240,90,70)  into Defined_Color."Defined_Red"
 put (255,113,0) into Defined_Color."Defined_Orange"
 put (123,186,90) into Defined_Color."Defined_Green"
 put (255,207,0) into Defined_Color."Defined_Yellow"
@@ -20,8 +20,4 @@ put (255,207,0) into Defined_Color."Defined_Yellow"
 
 //log (ITPairs).AverageColor ("HEX")
 //log (ITPairs).AverageColor ("DEC")
-log  (ITPairs).PixelMatch (color:(Defined_Color),tolerance:0) 
-
-put  (ITPairs).PixelMatch (color:(Defined_Color),tolerance:0)  into whatever
-
-log whatever
+log  (ITPairs).PixelMatch (color:(Defined_Color),tolerance:5) 

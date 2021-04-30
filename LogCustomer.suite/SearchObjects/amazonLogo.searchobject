@@ -1,0 +1,48 @@
+{
+  "lastmodifieddate" : 1611173149.609385,
+  "ocrcapturestring" : "amazon",
+  "testlocationdata" : [
+    {
+      "connectionserverid" : "18.188.4.44",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "Randy AWS SUT",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "amazon",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_73",
+        "HotSpot" : "[61,25]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "name" : "amazonLogo.png",
+      "capturerect" : [
+        5,
+        78,
+        123,
+        50
+      ]
+    }
+  ],
+  "createddate" : 1611173149.609385,
+  "lastfoundlocation" : [
+    5,
+    78,
+    123,
+    50
+  ],
+  "originalcapturelocation" : [
+    5,
+    78,
+    123,
+    50
+  ],
+  "lastfounddate" : 1611174356.608362,
+  "name" : "amazonLogo"
+}

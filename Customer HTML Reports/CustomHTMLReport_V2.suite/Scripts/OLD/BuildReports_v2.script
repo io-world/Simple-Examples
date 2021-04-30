@@ -1,0 +1,162 @@
+﻿on DefineLocation NewLocation
+	if folder NewLocation exists then
+		LogWarning "Overwritting Folder"
+		
+		delete folder NewLocation
+	end if
+	
+	put NewLocation into my  FolderLocation
+end DefineLocation
+
+on DefineLogs logFolderPath
+	put logFolderPath & "/logfile.json" into LogFile
+	put JSONValue(file LogFile) into my JSONLog 
+end DefineLogs
+
+on BuildFramework
+	put my FolderLocation into FolderLocation
+	create folder  FolderLocation
+	copy file ResourcePath("CompanyLogo.png") to FolderLocation
+end BuildFramework
+
+
+on BuildStatistics
+	me.GrabStatistics
+	me.HTMLStatistics
+end BuildStatistics
+
+
+on GrabStatistics 
+	put (my JSONLog).entries into Reportentries
+	
+	put (capturescreen:0, click:0,  log:0, typetext:0, waitfor:0) into KeyCommands
+	put the number of items of Reportentries into EntiresCount
+	repeat EntiresCount times
+		
+		put item repeatindex() of Reportentries into SingleEntry
+		
+		put  lowercase(SingleEntry.identifier)   into identifier
+		add 1  to KeyCommands.(identifier)
+		add 1 to TotalSteps
+		
+		
+	end repeat
+	
+	put (my JSONLog).createdTimestamp into createdTimestamp
+	split createdTimestamp by space
+	put item 1 of createdTimestamp  into scriptstatistics.date
+	put item 2 of createdTimestamp &  item 3 of createdTimestamp into scriptstatistics.time
+	
+	put KeyCommands into scriptstatistics.ReportStats
+	put TotalSteps into scriptstatistics.TotalSteps
+	put scriptstatistics into my scriptstatistics
+	
+	
+end GrabStatistics
+
+
+on HTMLStatistics
+	put my scriptstatistics into scriptstatistics
+	put scriptstatistics.ReportStats into ReportStats
+	put scriptstatistics.TotalSteps into TotalSteps
+	
+	put keys(ReportStats) into KeysReportsStats
+	put the number of items of KeysReportsStats into ItemCount
+	repeat ItemCount times
+		put item repeatindex() of KeysReportsStats into KeyRS
+		put (ReportStats).(KeyRS) into NumberofTimes
+		put (NumberofTimes / TotalSteps)*100 into  percentage
+		//---------------
+		if percentage <= 20
+			put "20" into PercentageBar
+		else
+			put percentage into PercentageBar
+		end if
+		
+		put <<
+	<p> >>&KeyRS&" ("&NumberofTimes&")"<< </p>
+	<div class="w3-light-grey w3-round-xlarge w3-small">
+	<div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:>>&PercentageBar&<<%"> >>&percentage&<< %</div>
+	</div> >>after HTML.statistics
+	end repeat
+	put HTML.statistics into my HTML.statistics
+end HTMLStatistics
+
+
+
+on HTMLTable PageName
+	put file ResourcePath("TableHeader.html") after HTMLData
+	put me.HTMLTableBody after HTMLData
+	put file ResourcePath("TableFooter.html") after HTMLData
+	
+	put my  FolderLocation &"/"& (PageName) into  HTMLFile
+	create file HTMLFile
+	open file HTMLFile
+	write  HTMLData  to file HTMLFile
+	close file HTMLFile
+end HTMLTable
+
+function HTMLTableBody
+	put (my JSONLog).entries into Reportentries
+	
+	put the number of items of Reportentries into EntriesCount
+	put ("identifier","image","message","timestamp") into columnNames
+	
+	put << <div class="divTableCell">Steps</div> >> after  HTMLTable
+	put << <div class="divTableCell"> Message</div> >> after  HTMLTable
+	put << <div class="divTableCell"> Image</div> >> after  HTMLTable
+	put << <div class="divTableCell"> Text</div> >> after  HTMLTable
+	put << <div class="divTableCell"> Timestamp</div> >> after  HTMLTable
+	
+	repeat EntriesCount times
+		put << <div class="divTableRow"> >> after  HTMLTable
+		put return after  HTMLTable
+		
+		put item repeatindex() of Reportentries into SingleLine
+		put << <div class="divTableCell"> >>&repeatindex()&"</div>" after  HTMLTable
+		put << <div class="divTableCell"> >>&SingleLine.(item 1 of columnNames)&"</div>" after  HTMLTable
+		put << <div class="divTableCell"> >>&SingleLine.(item 2 of columnNames)&"</div>" after  HTMLTable
+		put << <div class="divTableCell"> >>&SingleLine.(item 3 of columnNames)&"</div>" after  HTMLTable
+		put << <div class="divTableCell"> >>&SingleLine.(item 4 of columnNames)&"</div>" after  HTMLTable
+		
+		put return after  HTMLTable
+		put "</div>" after  HTMLTable
+		put return after  HTMLTable
+		put return after  HTMLTable
+	end repeat
+	
+	
+	put HTMLTable into my HTMLTable
+	return HTMLTable
+end HTMLTableBody
+
+
+
+on HTMLReport PageName
+
+	
+	put file ResourcePath("Report.html") into HTMLData
+	replace "html.name" with "RANDY" in HTMLData
+	replace "html.CompanyName" with "COMANYXXXX" in HTMLData
+	replace "html.location" with "LOCATIONXXX" in HTMLData
+	replace "html.email" with "EMAILXXX" in HTMLData
+	replace "html.telephone" with "TELEXXX" in HTMLData
+	replace "html.steptable" with my HTMLTable in HTMLData
+	replace "html.statistics" with my HTML.statistics in HTMLData
+	replace "html.suitename" with "SUITENAMEXXX" in HTMLData
+	replace "html.scriptname" with "SCRIPTNAMEXXX" in HTMLData
+	replace "html.createtimestamp.date" with "THEDATEXX" in HTMLData
+	replace "html.createtimestamp.time" with "THETIMEXXX" in HTMLData
+	
+	
+	put my  FolderLocation &"/"& (PageName) into  HTMLFile
+	create file HTMLFile
+	open file HTMLFile
+	write  HTMLData  to file HTMLFile
+	close file HTMLFile
+	
+	
+end HTMLReport
+
+
+

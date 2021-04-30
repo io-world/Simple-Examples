@@ -1,0 +1,130 @@
+﻿on DefineColorArea ColorSquare
+	put (item 3 of ColorSquare - item 1 of ColorSquare )+1 into ChangeX
+	put (item 4 of ColorSquare - item 2 of ColorSquare)+1  into ChangeY
+	put item (1,2) of ColorSquare into Point1
+	
+	repeat ChangeY times
+		repeat ChangeX times
+			put ColorAtLocation(Point1)  into RGB
+			insert (item 1 of RGB +0, item 2 of RGB +0, item 3 of RGB +0) nested after RGBMatrix
+			
+			
+			insert item 1 of RGB into AllRed
+			insert item 2 of RGB into AllGreen
+			insert item 3 of RGB into AllBlue
+			
+			
+			put Point1 +(0,1) into Point1
+		end repeat
+		put (item 1 of point1, item 2 of ColorSquare) into point1
+		put Point1 +(1,0) into Point1
+		
+		
+	end repeat
+	put RGBMatrix  into my MatrixPixel
+	put (AllRed,AllGreen,AllBlue) into my MatrixRGB
+	put the number of items of RGBMatrix into my PixelCount
+	log "calculating..."
+end DefineColorArea
+
+
+
+function AverageColor (Type)
+	
+	put my MatrixRGB into MatrixRGB
+	insert average(item 1 of MatrixRGB) rounded -1 decimal places into averageColor
+	insert average(item 2 of MatrixRGB) rounded -1 decimal places into averageColor
+	insert average(item 3 of MatrixRGB) rounded -1 decimal places into averageColor
+	
+	if uppercase(Type) = "DEC" then
+		
+		put averageColor into averageColorReturn
+		
+	else if uppercase(Type) = "HEX" then
+		repeat 3 times
+			put  format("%x", item repeatindex() of averageColor) after last character in averageColorReturn
+			put uppercase(averageColorReturn) into averageColorReturn
+		end repeat
+	else
+		logwarning "NO valid Type: DEC or HEX"
+		Exit handler
+		
+	end if
+	
+	return averageColorReturn
+end AverageColor
+
+function ColorCount
+	put my MatrixPixel into MatrixPixel
+	put the number of items of MatrixPixel into PixelCount
+	repeat PixelCount times
+		put item repeatindex() of MatrixPixel into PixelColor
+		put uppercase(format("%02x", item 1 of PixelColor) & format("%02x", item 2 of PixelColor) & format("%02x", item 3 of PixelColor)) into HexColor
+		add 1 to ColorList.(HexColor)
+		
+	end repeat
+	return ColorList
+end ColorCount
+
+
+
+on DefineColorAndTolerance PixelMatchInfo
+	put item 1 of PixelMatchInfo into my CloseColorList
+	put item 2 of PixelMatchInfo into my tolerance
+end DefineColorAndTolerance
+
+
+function PixelMatch 
+	put my MatrixPixel into MatrixPixel
+	put my CloseColorList into CloseColorList
+	put my tolerance into tolerance
+	
+	put keys(CloseColorList) into CloseColorName
+	
+	put the number of items of MatrixPixel into PixelCount
+	put the number of items of CloseColorName into CloseColorCount
+	
+	log "Finding the colors"
+	repeat PixelCount times
+		
+		put item repeatindex() of MatrixPixel into RGB
+		
+		repeat CloseColorCount times
+			put  CloseColorList.(item repeatindex() of CloseColorName) into CloseColor //(R,G,B)
+			repeat 3 times
+				put the abs of ((item repeatindex() of CloseColor) - (item repeatindex() of RGB))  into ColorDiff //1 Color Compare
+				
+				if  ColorDiff <=  tolerance then
+					put True into PixelMatch
+				else
+					put False into PixelMatch
+					exit repeat
+				end if
+				
+			end repeat
+			
+			if (PixelMatch = true)	then
+				put item repeatindex() of  CloseColorName into CCN
+				add 1 to ColorPixelCount.(CCN)
+			end if 
+			
+		end repeat
+		
+		if the counter is a multiple of 1000 then
+			log "Still working on it..."
+		end if
+		
+	end repeat
+	
+	if (ColorPixelCount = "ColorPixelCount") then
+		put 0 into ColorPixelCount
+	end if 
+	
+	return ColorPixelCount
+end PixelMatch
+
+
+
+
+
+

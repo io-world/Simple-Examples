@@ -1,0 +1,73 @@
+{
+  "lastmodifieddate" : 1616002377.4674411,
+  "ocrcapturestring" : "Sort Ascend",
+  "testlocationdata" : [
+    {
+      "name" : "Filter_SearchArea_BR.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "Sort Ascend",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_69",
+        "HotSpot" : "[188,343]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        41,
+        197,
+        91,
+        13
+      ]
+    },
+    {
+      "name" : "Filter_SearchArea_BR.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "Sort Ascend",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Adaptive to Image",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_30",
+        "HotSpot" : "[155,360]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        41,
+        197,
+        91,
+        13
+      ]
+    }
+  ],
+  "createddate" : 1615958146.8452768,
+  "lastfoundlocation" : [
+    41,
+    197,
+    91,
+    13
+  ],
+  "originalcapturelocation" : [
+    41,
+    197,
+    91,
+    13
+  ],
+  "lastfounddate" : 1615994585.8834581,
+  "name" : "Filter_SearchArea_BR"
+}

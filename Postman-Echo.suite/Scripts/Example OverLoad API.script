@@ -1,7 +1,9 @@
 ﻿//Based onRun "Example Post Json"
 
 
+put file "/Users/randyhesse/Desktop/WebFormData6.csv" into var
 
+log var
 
 
 put JSONFormat({"Foot":"shake"}) into requestbody

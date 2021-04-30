@@ -1,0 +1,87 @@
+﻿
+//Opens the Speedtest Application
+to launchSpeedtest
+	TypeText windowsKey & "r"
+	TypeText "C:\Program Files\Speedtest\Speedtest.exe", returnKey
+	WaitFor 30, "speedtestGO"
+end launchSpeedtest
+
+
+//Creates global lists for each of the 3 variables being collected
+//Runs through the Speedtest 10 times and adds the values to the end of the appropriate list after each run - deletes results after each run
+//Logs each list of data collected
+//Closes Speedtest Application
+to collectSpeedtestData
+
+	Click "windowsSearch"
+	TypeText "speedtest"
+	Click "OpenProgram"
+	
+	put empty into global pingSpeedList
+	put empty into global downloadSpeedList
+	put empty into global uploadSpeedList
+	
+	repeat 2 times
+		Click "speedtestGO"
+		Wait 10
+		Wait until ImageFound("speedtestGO")
+		Click "speedtestHistory"
+		Click "resultsHistory"
+		
+		put ReadText("historyPing_TL", "historyPing_BR", contrast:on, contrastcolor:"#191b2e", contrasttolerance:15, validCharacters:[1,2,3,4,5,6,7,8,9,0,"."]) into pingSpeed
+		log pingSpeed
+		put ReadText("historyDownload_TL", "historyDownload_BR",contrast:on, contrastcolor:"#191b2e", contrasttolerance:15, validCharacters:[1,2,3,4,5,6,7,8,9,0,"."]) into downloadSpeed
+		log downloadSpeed
+		put ReadText("historyUpload_TL", "historyUpload_BR", contrast:on, contrastcolor:"#191b2e", contrasttolerance:15, validCharacters:[1,2,3,4,5,6,7,8,9,0,"."]) into uploadSpeed
+		log uploadSpeed
+		put pingSpeed & "," after global pingSpeedList
+		put downloadSpeed & "," after global downloadSpeedList
+		put uploadSpeed & "," after global uploadSpeedList
+		Click "deleteHistory"
+		Click "YesBtn"
+		repeat while ImageFound("speedtestReturnArrow")
+			Click "speedtestReturnArrow"
+			wait 2
+		end repeat
+	end repeat
+	
+	log "The data collected for Ping Speed is as follows - "&global pingSpeedList
+	log "The data collected for Download Speed is as follows - "&global downloadSpeedList
+	log "The data collected for Upload Speed is as follows - "&global uploadSpeedList
+	Typetext altKey, f4
+
+end collectSpeedtestData
+
+
+//Gets the average of all collected values for Ping Speed
+to getAveragePing
+	log the number of items in global pingSpeedList
+	put average(global pingSpeedList) into averagePingSpeed
+	Log "The average Ping Speed is "&averagePingSpeed
+end getAveragePing
+
+//Gets the average of all collected values for Download Speed
+to getAverageDownload
+	log the number of items in global downloadSpeedList
+	put average(global downloadSpeedList) into averageDownloadSpeed
+	Log "The average Download Speed is "&averageDownloadSpeed
+end getAverageDownload
+
+//Gets the average of all collected values for Upload Speed
+to getAverageUpload
+	log the number of items in global uploadSpeedList
+	put average(global uploadSpeedList) into averageUploadSpeed
+	Log "The average Upload Speed is "&averageUploadSpeed
+end getAverageUpload
+
+
+launchSpeedtest
+collectSpeedtestData
+getAveragePing
+getAverageDownload
+getAverageUpload
+
+
+
+
+

@@ -1,0 +1,86 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running errorReporting.script",
+      "timestamp" : "2021-03-03 15:07:28.261 -0700"
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2021-03-03 15:07:28.388 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "errorReporting.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe[returnKey]",
+      "timestamp" : "2021-03-03 15:07:31.153 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "errorReporting.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_errorreporting",
+      "message" : "found at (50, 16)",
+      "identifier" : "waitfor",
+      "image" : "MicrosoftEdgeLoaded",
+      "handlerLine" : 7,
+      "timestamp" : "2021-03-03 15:07:33.742 -0700",
+      "scriptName" : "errorReporting.script"
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "at (494, 56)",
+      "identifier" : "click",
+      "image" : "URLfield",
+      "handlerLine" : 5,
+      "timestamp" : "2021-03-03 15:07:34.516 -0700",
+      "scriptName" : "navigateToWebpage.script"
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[controlKey]a",
+      "timestamp" : "2021-03-03 15:07:36.542 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[backspace]",
+      "timestamp" : "2021-03-03 15:07:38.559 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "https:\/\/www.rogers.com\/customer\/support\/article\/internet-speedtest",
+      "timestamp" : "2021-03-03 15:07:41.368 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_navigatetowebpage",
+      "message" : "[return]",
+      "timestamp" : "2021-03-03 15:07:43.382 -0700",
+      "identifier" : "typetext",
+      "scriptName" : "navigateToWebpage.script",
+      "handlerLine" : 9
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"26.160182\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-03-03 15:07:28 -0700\", Successes:\"1\", TestCase:\"errorReporting.script\", Warnings:\"0\")",
+      "timestamp" : "2021-03-03 15:07:54.429 -0700"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:26 errorReporting.script",
+      "timestamp" : "2021-03-03 15:07:54.464 -0700"
+    }
+  ],
+  "createdTimestamp" : "2021-03-03 15:07:28.263 -0700"
+}

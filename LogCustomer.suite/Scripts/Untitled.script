@@ -1,0 +1,6 @@
+﻿
+
+put (hell:2,HEavan:5) into DataStream
+
+
+put JSONFormat (DataStream) into file ResourcePath ("example.json")

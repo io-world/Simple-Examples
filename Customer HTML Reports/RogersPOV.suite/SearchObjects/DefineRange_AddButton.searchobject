@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1615955912.6820221,
+  "ocrcapturestring" : "Add",
+  "testlocationdata" : [
+    {
+      "name" : "DefineRange_AddButton.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "Add",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_65",
+        "HotSpot" : "[35,18]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        458,
+        474,
+        83,
+        28
+      ]
+    }
+  ],
+  "createddate" : 1615955912.6820211,
+  "lastfoundlocation" : [
+    458,
+    474,
+    83,
+    28
+  ],
+  "originalcapturelocation" : [
+    458,
+    474,
+    83,
+    28
+  ],
+  "lastfounddate" : 1615956241.4385729,
+  "name" : "DefineRange_AddButton"
+}

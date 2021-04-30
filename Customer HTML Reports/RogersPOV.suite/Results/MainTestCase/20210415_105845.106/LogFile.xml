@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="MainTestCase_script" package="RogersPOV.suite" timestamp="2021-04-15 10:58:45.106 -0600"
+ tests="1"  failures="1" errors="0" time="15.655195">
+  <properties>
+   <property name="RunDate" value="2021-04-15 10:58:45.106 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="MainTestCase.script" assertions="1" status="failure"  time="15.651044">
+    <failure type="FAILURE" message="STInvalidDate Value is not a date: '' -- Execution Time 0:00:15 MainTestCase.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

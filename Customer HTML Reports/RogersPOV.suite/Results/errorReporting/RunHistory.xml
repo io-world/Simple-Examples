@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="errorReporting">
+ <run>
+  <RunDate>2021-03-03 15:07:28.257 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>26.171030</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210303_150728.257/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-03 15:58:30.183 -0700</RunDate>
+  <Status>Aborted</Status>
+  <Duration>35.390529</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210303_155830.183/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-03 15:59:42.180 -0700</RunDate>
+  <Status>Aborted</Status>
+  <Duration>32.264152</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210303_155942.180/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-03 16:00:53.795 -0700</RunDate>
+  <Status>Aborted</Status>
+  <Duration>19.623372</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210303_160053.795/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-03 16:03:32.974 -0700</RunDate>
+  <Status>Failure</Status>
+  <Duration>66.528446</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210303_160332.974/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: RSP_testagain</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-03 16:15:24.567 -0700</RunDate>
+  <Status>Aborted</Status>
+  <Duration>28.258600</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210303_161524.567/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-03 16:24:12.640 -0700</RunDate>
+  <Status>Aborted</Status>
+  <Duration>5.606727</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210303_162412.640/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-03 16:25:25.323 -0700</RunDate>
+  <Status>Aborted</Status>
+  <Duration>103.735269</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210303_162525.323/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-04 09:18:35.495 -0700</RunDate>
+  <Status>Success</Status>
+  <Duration>243.324251</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210304_091835.495/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-04 09:30:47.762 -0700</RunDate>
+  <Status>Aborted</Status>
+  <Duration>5.419898</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210304_093047.762/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

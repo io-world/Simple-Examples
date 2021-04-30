@@ -1,0 +1,22 @@
+﻿{
+    CaptureDate = "2021-01-29 18:12:22 +0000";
+    CaptureHost = "Linux_SUT";
+    CaptureScreenSize =     (
+        1024,
+        768
+    );
+    HasAlpha = 1;
+    HotSpotX = 32;
+    HotSpotY = 11;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 6;
+    OriginalLocationY = 4;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+    SearchObjectName = ApplicationsBtn2;
+    tags =     (
+    );
+}

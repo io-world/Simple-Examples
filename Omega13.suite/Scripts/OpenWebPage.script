@@ -1,7 +1,7 @@
 ﻿TypeText windowsKey & "r"
 TypeText "chrome.exe", returnkey
+waitfor 0.5,"Refresh Icon"
 TypeText controlKey & "l" 
-wait 5
-waitfor 5,"Refresh Icon"
-TypeText  "www.amazon.com" , enterKey
+
+TypeText  "www.amazon.com" , returnKey
 

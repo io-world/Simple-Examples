@@ -1,0 +1,79 @@
+﻿# To inspect the images listed in these handlers in the Image panel by choosing the camera icon on the top left-hand panel 
+
+to handle Environment_is_setup
+	
+	//Store the name of the device. This is the name speciifed in the Name column of the connection list. 
+	put connectioninfo().Name into global DeviceName
+	
+	//Set a variable which defines if the device is iOS or Android
+	set global DeviceList to (iPhone_6s_DEV03:"iOS", iPad_Air_DEV01:"iOS", iPad_Air_DEV02:"iOS", Galaxy_S8_DEV04:"Android", Galaxy_S7_DEV05:"Android", iPhone_7_Dev06:"iOS")
+	
+	//Set a variable which defines the applicaiton name on iOS and Android
+	set global AppList to (iOS:"Amazon", Android: "com.amazon.mShop.android.shopping")
+	PressHomeButton
+	
+	wait 2
+	setDeviceOrientation Portrait
+	
+	//Tell eggPlant to only search for images which have the device name in their name, to speed up the execution. 
+	set DeviceList to (iPhone_6s_DEV03:"iPhone", iPad_Air_DEV01:"iPad", iPad_Air_DEV02:"iPad", Galaxy_S8_DEV04:"S8", Galaxy_S7_DEV05:"S8", iPhone_7_Dev06: "iPhone")
+	set the collectionfilter to (Name: DeviceList.(global DeviceName))
+	
+end Environment_is_setup
+
+to handle Launch_Amazon_App
+	//Find the Amazon app and verify it has opened
+	click (text: "Amazon")
+	waitfor 5, "amazon_Header"
+	return Pass
+end Launch_Amazon_App
+
+to handle I_am_on_home_screen
+	waitfor 20, "HomeScreenIcon"
+end I_am_on_home_screen
+
+to handle I_search_for_STR
+	//The paramter allows you to pass in any value you like to search for into this function.
+	params ItemName
+	Click "SearchGlass"
+	
+	typetext itemName
+	
+	typetext return
+	//Confirm that the search has occured by waiting for the filter button to appear
+	WaitFor 30.0, "Filter"
+	wait 2
+	
+	return Pass
+end I_search_for_STR
+
+to handle I_should_see_filter
+	waitfor 20, "Filter"
+end I_should_see_filter
+
+to handle I_got_to_the_home_screen
+	//Go back to the home screen of the amazon application
+	click "amazon_Header"
+end I_got_to_the_home_screen
+
+to handle I_should_see_home_screen_icon
+	waitfor 30, "HomeScreenIcon"
+end I_should_see_home_screen_icon
+
+to handle I_close_the_app
+	typetext HomeKey
+	//Clean up the test environment 
+	killapp (global AppList.(global DeviceList.(global DeviceName)))
+	
+end I_close_the_app
+
+to handle The_test_is_over
+	log "The Gherkin test is over"
+end The_test_is_over
+
+to handle device_is_connected
+	if connectioninfo().status is "connected"
+		show remote
+		return pass
+	end if
+end device_is_connected

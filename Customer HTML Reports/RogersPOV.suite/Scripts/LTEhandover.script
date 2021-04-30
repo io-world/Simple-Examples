@@ -1,0 +1,108 @@
+﻿
+
+
+
+//open spreadsheet
+TypeText windowsKey & "r"
+TypeText "C:\Users\eggplantTest\Desktop\LTE Handover.ods", returnKey
+WaitFor 30.0, "LTEHandover_SheetOpen"
+
+//snap spreadsheet to the left most column
+TypeText homeKey
+
+//select the "Messaging - MS1" tab
+Set the searchRectangle to functions.ScreenPart("BottomHalf")
+put EveryImageLocation(text:"Messaging -") into tabList
+Click the first item of tabList
+set the SearchRectangle to []
+
+//set start and end time initial values
+put "8/28/2020 09:22:29.000" into startTime
+put "8/28/2020 09:22:43.000" into endTime
+
+//setshortened version of start time variable to search on for filter
+put the first 15 characters of startTime into shortStartTime
+log shortStartTime
+
+//this is slow but opens the filter for column a and selects all of the data >= start time and <= end time to show expected range
+If ImageFound("autoFilterButton")
+	Click "autoFilterButton"
+End If
+Click "ColumnA_FilterSelection"
+
+// check to see if all rows are currently visible.  if they are - do long slow filter process.  if the filter has already been done for this range of data - move on to next step after the filter process.  this will only work if the data worksheet is being used more than once for same start and end times.  if you want to change start and end time and use the same sheet then the outer if statement here will have to be removed.
+If ImageFound("Filter_UncheckAll")
+	Click "Filter_SearchItems"
+	TypeText shortStartTime
+	Click "Filter_uncheckSelection"
+	Click "Filter_SearchTopRow"
+	
+	Set the searchRectangle to ["Filter_SearchArea_TL","Filter_SearchArea_BR"]
+	Repeat until ImageFound(text:startTime)
+		TypeText downArrow
+	End Repeat
+	
+	Repeat until ImageFound(text:endTime)
+		Click "Filter_bottomRowSelection"
+		TypeText downArrow
+	End Repeat
+	Click "Filter_bottomRowSelection"
+	set the SearchRectangle to []
+end if
+
+Click "OKbutton"
+
+//open the search function within spreadsheet and search for start time so that sheet snaps to make sure the start time row is in view
+TypeText controlKey, f
+TypeText startTime, return
+Click "closeFindWindow"
+
+Set the searchRectangle to functions.ScreenPart("TopLeftQuadrant")
+repeat until ImageFound("ColumnH_farthestLeft")
+	TypeText rightArrow
+end repeat
+set the SearchRectangle to []
+
+
+put ReadText("ColumnH_TL", "ColumnH_BR", dpi:144, IgnoreNewlines:On) into columnHstart
+put ReadText("ColumnI_TL", "ColumnI_BR", dpi:144) into columnIstart
+put ReadText("ColumnO_TL", "ColumnO_BR", dpi:144) into columnOstart //need to refine readtext for Column O so that eggplant has an easier time with this data
+
+//navigate to show bottom row of filtered data
+Click "farLeftColumn"
+Set the searchRectangle to functions.ScreenPart("LeftHalf")
+
+repeat until ImageFound("bottomOfFilteredData")
+	MoveTo [300,300]
+	TypeText controlKey, downArrow
+end repeat
+set the SearchRectangle to []
+
+put ReadText("ColumnH_lastRow_TL", "ColumnH_lastRow_BR") into columnHend
+put ReadText("ColumnI_lastRow_TL", "ColumnI_lastRow_BR", dpi:144) into columnIend
+put ReadText("ColumnO_TL", "ColumnO_BR", dpi:144) into columnOend
+
+//Log statements to verify start and end data for Column H and I, and to state the message was sent in Column O.
+Log "LTE Serving / Intra-Freq Neighbor Cells | Serving Cell Identity (Column H) went from "& columnHstart& " to " & columnHend &" during the time period from " & startTime & " to " & endTime& "."
+Log "LTE Serving / Intra-Freq Neighbor Cells | Serving Cell DL EARF CN (Column I) went from "& columnIstart& " to " & columnIend &" during the time period from " & startTime & " to " & endTime& "."
+
+If columnOstart is not empty
+	Log "A EUTRAN RRC A3 Event was sent during the time period from " & startTime & " to " & endTime& "."
+else 
+	if columnOend is not empty
+		Log "A EUTRAN RRC A3 Event was sent during the time period from " & startTime & " to " & endTime& "."
+end if
+End If
+
+//close spreadsheet - save changes if popup appears
+TypeText altKey, f4
+If ImageFound(imageName:"SaveDocumentPopup", waitFor:15)
+	Click "SaveButton"
+end if
+
+Click {text:"243", hotspot:[50,50]}
+
+
+
+
+

@@ -1,0 +1,23 @@
+﻿{
+    CaptureDate = "2021-03-17 15:14:25 +0000";
+    CaptureHost = Windows10;
+    CaptureScreenSize =     (
+        1024,
+        768
+    );
+    CropRectangle = "4,3,72,16";
+    HasAlpha = 1;
+    HotSpotX = 37;
+    HotSpotY = 9;
+    ImageDescription = {length = 0, bytes = 0x};
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 47;
+    OriginalLocationY = 586;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = "OKbutton/OKbutton_2";
+    tags =     (
+    );
+}

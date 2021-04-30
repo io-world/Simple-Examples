@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="LTEhandover">
+ <run>
+  <RunDate>2021-03-16 21:42:00.418 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.005844</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210316_214200.418/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in ltehandover:
+Syntax Error at line 5: Syntax Error - can&#x27;t understand &quot;eggplant&quot; at character 14</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-16 21:44:03.470 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.003251</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210316_214403.470/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in ltehandover:
+Syntax Error at line 5: Syntax Error - can&#x27;t understand &quot;eggplant&quot; at character 14</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-17 11:30:55.934 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>162.012940</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210317_113055.934/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-17 11:36:58.543 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>984.885028</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210317_113658.543/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-17 13:22:45.444 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>979.299729</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210317_132245.444/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-17 13:42:58.868 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>70.246713</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210317_134258.868/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-17 13:45:32.723 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1785.508702</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210317_134532.723/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-17 15:17:04.987 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>1312.254518</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210317_151704.987/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-17 15:54:30.095 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>1381.315519</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210317_155430.095/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-24 08:31:09.476 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>37.344042</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210324_083109.476/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-03-24 08:32:11.433 -0600</RunDate>
+  <Status>Aborted</Status>
+  <Duration>20.073739</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210324_083211.433/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

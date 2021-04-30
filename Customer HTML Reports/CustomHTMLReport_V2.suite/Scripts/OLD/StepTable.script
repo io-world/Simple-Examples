@@ -1,0 +1,61 @@
+﻿put ResourcePath ("Table.html") into TableHTMLPath
+create file TableHTMLPath
+open file TableHTMLPath
+
+
+put "/Users/ranhesse/Documents/Simple_Examples/Customer HTML Reports/Sample Suite.suite/Results/Workflow01/20210301_194416.595/LogFile.txt" into LogFile
+replace "logfile.txt" with "logfile.json" in LogFile
+put JSONValue(file LogFile) into JData
+put JData.entries into Reportentries
+
+put the number of items of Reportentries into EntriesCount
+put ("identifier","image","message","timestamp") into columnNames
+
+
+
+write <<
+<!DOCTYPE html>
+<html>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="EPFResultTable.css">
+
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+<body class="w3-light-grey">
+
+<div class="divTable">
+<div class="divTableBody">
+>>  to file TableHTMLPath
+
+
+write << <div class="divTableCell">Steps</div> >> to  file TableHTMLPath
+write << <div class="divTableCell"> Message</div> >> to  file TableHTMLPath
+write << <div class="divTableCell"> Image</div> >> to  file TableHTMLPath
+write << <div class="divTableCell"> Text</div> >> to  file TableHTMLPath
+write << <div class="divTableCell"> Timestamp</div> >> to  file TableHTMLPath
+
+repeat EntriesCount times
+	write << <div class="divTableRow"> >> to  file TableHTMLPath
+	write return to  file TableHTMLPath
+	
+	put item repeatindex() of Reportentries into SingleLine
+	write << <div class="divTableCell"> >>&repeatindex()&"</div>" to  file TableHTMLPath
+	write << <div class="divTableCell"> >>&SingleLine.(item 1 of columnNames)&"</div>" to  file TableHTMLPath
+	write << <div class="divTableCell"> >>&SingleLine.(item 2 of columnNames)&"</div>" to  file TableHTMLPath
+	write << <div class="divTableCell"> >>&SingleLine.(item 3 of columnNames)&"</div>" to  file TableHTMLPath
+	write << <div class="divTableCell"> >>&SingleLine.(item 4 of columnNames)&"</div>" to  file TableHTMLPath
+	
+	
+	write return to  file TableHTMLPath
+	write "</div>" to  file TableHTMLPath
+	write return to  file TableHTMLPath
+	write return to  file TableHTMLPath
+end repeat
+
+
+write "</div></div></body></html>" to  file TableHTMLPath
+close file TableHTMLPath
+

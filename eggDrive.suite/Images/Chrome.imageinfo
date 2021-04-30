@@ -1,0 +1,21 @@
+﻿{
+    CaptureDate = "2021-04-01 16:48:05 +0000";
+    CaptureHost = "Randy AWS Server";
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    HasAlpha = 1;
+    HotSpotX = 12;
+    HotSpotY = 9;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 405;
+    OriginalLocationY = 540;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = Chrome;
+    tags =     (
+    );
+}

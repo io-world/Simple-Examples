@@ -1,0 +1,21 @@
+﻿{
+    CaptureDate = "2021-03-17 21:03:49 +0000";
+    CaptureHost = Windows10;
+    CaptureScreenSize =     (
+        1024,
+        768
+    );
+    HasAlpha = 1;
+    HotSpotX = 9;
+    HotSpotY = 8;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 41;
+    OriginalLocationY = 540;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = "Filter_uncheckSelection";
+    tags =     (
+    );
+}

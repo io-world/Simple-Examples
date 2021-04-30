@@ -1,0 +1,48 @@
+{
+  "lastmodifieddate" : 1611173197.3267422,
+  "ocrcapturestring" : "Q.",
+  "testlocationdata" : [
+    {
+      "connectionserverid" : "18.188.4.44",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "Randy AWS SUT",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "Q.",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[-1033,11]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "name" : "Magnifying Glass.png",
+      "capturerect" : [
+        1459,
+        87,
+        37,
+        34
+      ]
+    }
+  ],
+  "createddate" : 1611173197.3267422,
+  "lastfoundlocation" : [
+    1459,
+    87,
+    37,
+    34
+  ],
+  "originalcapturelocation" : [
+    1459,
+    87,
+    37,
+    34
+  ],
+  "lastfounddate" : 1611174357.7460852,
+  "name" : "Magnifying Glass"
+}

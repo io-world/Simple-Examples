@@ -1,0 +1,73 @@
+{
+  "lastmodifieddate" : 1614812746.3098831,
+  "ocrcapturestring" : "© PING",
+  "testlocationdata" : [
+    {
+      "name" : "RSP_Ping_TL.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "© PING",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[-3,5]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        26,
+        472,
+        43,
+        16
+      ]
+    },
+    {
+      "name" : "RSP_Ping_TL.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "© PING",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_44",
+        "HotSpot" : "[-5,10]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        26,
+        472,
+        43,
+        16
+      ]
+    }
+  ],
+  "createddate" : 1614810015.466501,
+  "lastfoundlocation" : [
+    26,
+    464,
+    43,
+    16
+  ],
+  "originalcapturelocation" : [
+    26,
+    472,
+    43,
+    16
+  ],
+  "lastfounddate" : 1614874864.305115,
+  "name" : "RSP_Ping_TL"
+}

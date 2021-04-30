@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Write1_script" package="Files.suite" timestamp="2021-02-12 08:16:47.105 -0700"
+ tests="1"  failures="1" errors="0" time="0.198968">
+  <properties>
+   <property name="RunDate" value="2021-02-12 08:16:47.105 -0700"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Write1.script" assertions="1" status="failure"  time="0.19356">
+    <failure type="FAILURE" message="STFileAccessException Unable to open file /Users/randyhesse/Desktop/TestRead as requested -- Execution Time 0:00:00 Write1.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

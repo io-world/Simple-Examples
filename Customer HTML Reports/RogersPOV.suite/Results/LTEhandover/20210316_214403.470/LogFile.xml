@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="LTEhandover_script" package="RogersPOV.suite" timestamp="2021-03-16 21:44:03.470 -0600"
+ tests="1"  failures="1" errors="0" time="0.003251">
+  <properties>
+   <property name="RunDate" value="2021-03-16 21:44:03.470 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="LTEhandover.script" assertions="1" status="failure"  time="0.000382">
+    <failure type="FAILURE" message="SenseTalk Compiler Exception in ltehandover:\nSyntax Error at line 5: Syntax Error - can't understand &quot;eggplant&quot; at character 14 -- Execution Time 0:00:00 LTEhandover.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

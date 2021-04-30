@@ -1,0 +1,46 @@
+{
+  "lastmodifieddate" : 1617295695.307816,
+  "testlocationdata" : [
+    {
+      "name" : "Chrome.png",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "Randy AWS Server",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[12,9]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "3.17.204.192",
+      "capturerect" : [
+        405,
+        540,
+        25,
+        19
+      ]
+    }
+  ],
+  "createddate" : 1617295695.3078151,
+  "lastfoundlocation" : [
+    405,
+    540,
+    25,
+    19
+  ],
+  "originalcapturelocation" : [
+    405,
+    540,
+    25,
+    19
+  ],
+  "lastfounddate" : 1617296025.2346249,
+  "name" : "Chrome"
+}

@@ -1,0 +1,183 @@
+﻿2021-03-17 13:22:45.448 -0600	START		Running LTEhandover.script
+2021-03-17 13:22:45.886 -0600	typetext		[windowsKey]r	6	on_ltehandover	LTEhandover.script
+2021-03-17 13:22:48.463 -0600	typetext		C:\Users\eggplantTest\Desktop\LTE Handover.ods[returnKey]	7	on_ltehandover	LTEhandover.script
+2021-03-17 13:22:57.737 -0600	waitfor	LTEHandover_SheetOpen	found at (46, 11)	8	on_ltehandover	LTEhandover.script
+2021-03-17 13:22:57.749 -0600	typetext		[homeKey]	11	on_ltehandover	LTEhandover.script
+2021-03-17 13:22:57.817 -0600	set		SEARCHRECTANGLE = [[0,384],[1024,768]]	14	on_ltehandover	LTEhandover.script
+2021-03-17 13:23:05.243 -0600	everyimagelocation	(TEXT:"Messaging -")	found 3 images	15	on_ltehandover	LTEhandover.script
+2021-03-17 13:23:05.333 -0600	click		at (314, 698)	16	on_ltehandover	LTEhandover.script
+2021-03-17 13:23:05.335 -0600	set		SEARCHRECTANGLE = []	17	on_ltehandover	LTEhandover.script
+2021-03-17 13:23:08.070 -0600	imagefound	autoFilterButton	found at (790, 58)	24	on_ltehandover	LTEhandover.script
+2021-03-17 13:23:08.859 -0600	click	autoFilterButton	at (790, 58)	25	on_ltehandover	LTEhandover.script
+2021-03-17 13:23:11.640 -0600	click	ColumnA_FilterSelection	at (148, 179)	27	on_ltehandover	LTEhandover.script
+2021-03-17 13:23:14.339 -0600	imagefound	Filter_UncheckAll	found at (47, 550)	30	on_ltehandover	LTEhandover.script
+2021-03-17 13:23:15.092 -0600	click	Filter_UncheckAll	at (47, 550)	31	on_ltehandover	LTEhandover.script
+2021-03-17 13:23:17.938 -0600	click	Filter_SearchTopRow	at (80, 398)	32	on_ltehandover	LTEhandover.script
+2021-03-17 13:23:21.337 -0600	set		SEARCHRECTANGLE = ["Filter_SearchArea_TL","Filter_SearchArea_BR"]	34	on_ltehandover	LTEhandover.script
+2021-03-17 13:23:32.047 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	35	on_ltehandover	LTEhandover.script
+2021-03-17 13:23:32.065 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:23:43.349 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:23:43.367 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:23:54.154 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:23:54.173 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:24:05.421 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:24:05.438 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:24:16.448 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:24:16.468 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:24:27.650 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:24:27.667 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:24:38.672 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:24:38.691 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:24:49.683 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:24:49.702 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:25:01.095 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:25:01.115 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:25:12.414 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:25:12.432 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:25:23.539 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:25:23.557 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:25:34.886 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:25:34.906 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:25:46.215 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:25:46.233 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:25:57.235 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:25:57.254 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:26:08.255 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:26:08.275 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:26:19.079 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:26:19.096 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:26:30.439 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:26:30.457 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:26:41.564 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:26:41.584 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:26:52.430 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:26:52.447 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:27:03.365 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:27:03.382 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:27:14.908 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:27:14.927 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:27:26.196 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:27:26.213 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:27:37.693 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:27:37.712 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:27:49.767 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:27:49.785 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:28:01.366 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:28:01.385 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:28:12.603 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:28:12.624 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:28:24.577 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:28:24.598 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:28:36.652 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:28:36.670 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:28:48.023 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:28:48.044 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:28:59.430 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:28:59.451 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:29:10.857 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:29:10.878 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:29:22.044 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:29:22.064 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:29:34.125 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:29:34.147 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:29:45.490 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:29:45.512 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:29:57.055 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:29:57.074 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:30:08.448 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:30:08.468 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:30:20.322 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:30:20.342 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:30:31.323 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:30:31.341 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:30:42.286 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:30:42.307 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:30:53.299 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:30:53.320 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:31:04.112 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:31:04.130 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:31:15.120 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:31:15.142 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:31:26.144 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:31:26.164 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:31:37.203 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:31:37.225 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:31:47.806 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:31:47.824 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:31:58.526 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:31:58.546 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:32:08.881 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:32:08.903 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:32:19.605 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:32:19.628 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:32:30.037 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:32:30.059 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:32:40.860 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:32:40.880 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:32:51.905 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:32:51.925 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:33:02.471 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:33:02.490 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:33:13.635 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:33:13.657 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:33:25.230 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:33:25.248 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:33:36.699 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:33:36.720 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:33:47.804 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:33:47.825 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:33:59.387 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:33:59.408 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:34:10.211 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:34:10.233 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:34:21.541 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:34:21.561 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:34:32.832 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:34:32.854 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:34:43.792 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:34:43.812 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:34:54.929 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:34:54.946 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:35:06.014 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:35:06.034 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:35:17.595 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:35:17.613 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:35:28.643 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:35:28.661 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:35:39.267 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:35:39.285 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:35:50.226 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:35:50.245 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:36:00.617 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:36:00.635 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:36:11.479 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:36:11.498 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:36:22.379 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:36:22.396 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:36:33.469 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:36:33.488 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:36:44.377 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:36:44.395 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:36:55.031 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:36:55.049 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:37:06.190 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:37:06.208 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:37:17.524 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:37:17.543 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:37:28.311 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:37:28.329 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:37:39.445 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:37:39.464 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:37:50.191 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:37:50.211 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:38:01.114 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:38:01.132 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:38:11.720 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:29.000"). Text not found.	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:38:11.737 -0600	typetext		[downArrow]	36	on_ltehandover	LTEhandover.script
+2021-03-17 13:38:14.486 -0600	imagefound	(TEXT:"8/28/2020 09:22:29.000")	found at (119, 524)	37	on_ltehandover	LTEhandover.script
+2021-03-17 13:38:22.667 -0600	imagefound	(TEXT:"8/28/2020 09:22:43.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:43.000"). Text not found.	39	on_ltehandover	LTEhandover.script
+2021-03-17 13:38:23.460 -0600	click	Filter_bottomRowSelection	at (59, 547)	40	on_ltehandover	LTEhandover.script
+2021-03-17 13:38:25.477 -0600	typetext		[downArrow]	41	on_ltehandover	LTEhandover.script
+2021-03-17 13:38:39.058 -0600	imagefound	(TEXT:"8/28/2020 09:22:43.000")	Unable to Find Image (TEXT:"8/28/2020 09:22:43.000"). Text not found.	42	on_ltehandover	LTEhandover.script
+2021-03-17 13:39:04.744 -0600	EndTestCase		(Duration:"979.295138", Errors:"1", Exceptions:"0", StartTime:"2021-03-17 13:22:45 -0600", Successes:"0", TestCase:"LTEhandover.script", Warnings:"0")
+2021-03-17 13:39:04.749 -0600	ABORTED		Execution Time 0:16:19 LTEhandover.script

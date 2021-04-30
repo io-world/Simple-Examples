@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1612804844.544075,
+  "ocrcapturestring" : "Microsoft Edge",
+  "testlocationdata" : [
+    {
+      "name" : "MicrosoftEdgeLoaded\/MicrosoftEdgeLoaded_name.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "capturedocrtext" : "Microsoft Edge",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_73",
+        "HotSpot" : "[39,3]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        184,
+        18,
+        108,
+        17
+      ]
+    }
+  ],
+  "createddate" : 1612804763.877208,
+  "lastfoundlocation" : [
+    184,
+    18,
+    108,
+    17
+  ],
+  "originalcapturelocation" : [
+    184,
+    18,
+    108,
+    17
+  ],
+  "lastfounddate" : 1612804766.9468222,
+  "name" : "MicrosoftEdgeLoaded"
+}

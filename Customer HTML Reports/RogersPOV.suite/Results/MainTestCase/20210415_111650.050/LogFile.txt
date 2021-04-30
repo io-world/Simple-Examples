@@ -1,0 +1,5 @@
+﻿2021-04-15 11:16:50.052 -0600	START		Running MainTestCase.script
+2021-04-15 11:16:50.099 -0600	BeginTestCase		placeCall	2	on_placecall	mainScript.script
+2021-04-15 11:17:05.111 -0600	EndTestCase		(Duration:"15.012214", Errors:"0", Exceptions:"0", StartTime:"2021-04-15 11:16:50 -0600", Successes:"0", TestCase:"placeCall", Warnings:"0")	6	on_placecall	mainScript.script
+2021-04-15 11:17:05.792 -0600	EndTestCase		(Duration:"15.738427", Errors:"1", Exceptions:"0", StartTime:"2021-04-15 11:16:50 -0600", Successes:"0", TestCase:"MainTestCase.script", Warnings:"0")
+2021-04-15 11:17:07.399 -0600	FAILURE	Screen_Error.png	STFileAccessException Unable to open file /theFile as requested -- Execution Time 0:00:15 MainTestCase.script

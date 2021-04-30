@@ -1,0 +1,28 @@
+﻿
+
+
+log "Legs go"
+
+
+
+TypeText windowsKey & "r"
+TypeText "chrome.exe" , returnKey
+WaitFor 8.0, "Refresh Icon"
+CaptureScreen (Name: "GoogleLoaded")
+TypeText controlKey & "l"
+
+BeginTestCase "TestCase04"
+
+TypeText "www.amazon.com" , returnKey
+WaitFor 8.0, "amazon logo"
+log "Amazon has been Open"
+Click "AmazonSearch"
+TypeText "v-moda" , returnKey
+
+EndTestCase "TestCase04"
+
+Click "AmazonsChoice"
+WaitFor 4.2, "AcidtoCart"
+CaptureScreen (Name: "Product")
+TypeText altKey & f4
+

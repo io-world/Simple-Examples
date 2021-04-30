@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="index_script" package="Omega13.suite" timestamp="2021-04-22 10:23:13.688 -0600"
+ tests="1"  failures="0" errors="0" time="11.440822">
+  <properties>
+   <property name="RunDate" value="2021-04-22 10:23:13.688 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="index.script" assertions="1" status="success"  time="11.437752">
+  </testcase>
+ </testsuite>
+</testsuites>

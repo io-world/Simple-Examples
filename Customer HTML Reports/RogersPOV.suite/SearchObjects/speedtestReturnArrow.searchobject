@@ -1,0 +1,45 @@
+{
+  "lastmodifieddate" : 1619470652.3270111,
+  "testlocationdata" : [
+    {
+      "name" : "speedtestReturnArrow\/speedtestReturnArrow_1.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[2,9]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        352,
+        156,
+        24,
+        23
+      ]
+    }
+  ],
+  "createddate" : 1612979726.6864009,
+  "lastfoundlocation" : [
+    352,
+    156,
+    24,
+    23
+  ],
+  "originalcapturelocation" : [
+    352,
+    156,
+    24,
+    23
+  ],
+  "lastfounddate" : 1614196832.902036,
+  "name" : "speedtestReturnArrow"
+}

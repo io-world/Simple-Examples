@@ -1,0 +1,8 @@
+﻿2021-04-22 10:27:37.035 -0600	START		Running index.script
+2021-04-22 10:27:37.128 -0600	typetext		[windowsKey]r	1	on_openwebpage	OpenWebPage.script
+2021-04-22 10:27:37.971 -0600	typetext		chrome.exe[returnKey]	2	on_openwebpage	OpenWebPage.script
+2021-04-22 10:27:43.355 -0600	Exception	Refresh Icon	Unable To Find Any Image On Screen "Refresh Icon" within 0.50 seconds	1	on_overridecommand	/Applications/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2021-04-22 10:27:43.434 -0600	Log		Chrome errored out, restarting Chrome	4	function_attemptrecovery	attemptRecovery.script
+2021-04-22 10:27:48.439 -0600	Throw		Image Not Found - waitfor Error - Unable To Find Any Image On Screen "Refresh Icon" within 0.50 seconds	20	on_overridecommand	/Applications/Eggplant.app/Contents/Resources/EggplantCommon.suite/Scripts/Omega13.script
+2021-04-22 10:27:48.576 -0600	EndTestCase		(Duration:"11.539355", Errors:"1", Exceptions:"2", StartTime:"2021-04-22 10:27:37 -0600", Successes:"0", TestCase:"index.script", Warnings:"0")
+2021-04-22 10:27:48.708 -0600	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "Refresh Icon" within 0.50 seconds -- Execution Time 0:00:11 index.script

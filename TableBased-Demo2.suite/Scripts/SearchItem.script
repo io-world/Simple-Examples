@@ -1,0 +1,18 @@
+//The parameter allows you to pass in any value you like to search for into this function.
+params ItemName
+Click "SearchGlass"
+
+//Verify that the keyboard is open before we start typing, to confirm we can type
+WaitFor 20.0, "Keyboard"
+typetext itemName
+typetext return
+
+//Confirm that the search has occurred by waiting for the filter button to appear
+WaitFor 30.0, "Filter"
+
+//Use the OCR engine in the readtext command to read the price of the item off screen. 
+log "The price of the first item listed for" && ItemName && "is: £" & readtext ("TLPrice", "BRPrice")
+return Pass
+
+
+

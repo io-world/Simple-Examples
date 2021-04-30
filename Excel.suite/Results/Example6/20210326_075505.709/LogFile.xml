@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Example6_script" package="Excel.suite" timestamp="2021-03-26 07:55:05.709 -0600"
+ tests="1"  failures="1" errors="0" time="0.177025">
+  <properties>
+   <property name="RunDate" value="2021-03-26 07:55:05.709 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Example6.script" assertions="1" status="failure"  time="0.174242">
+    <failure type="FAILURE" message="NSInvalidArgumentException *** -[__NSCFConstantString stringByAppendingString:]: nil argument -- Execution Time 0:00:00 Example6.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

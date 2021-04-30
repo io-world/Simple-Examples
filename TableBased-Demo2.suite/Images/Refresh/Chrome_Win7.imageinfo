@@ -1,0 +1,20 @@
+﻿{
+    CaptureDate = "2017-12-07 12:58:16 +0000";
+    CaptureHost = "Windows_7_1";
+    CaptureScreenSize =     (
+        1920,
+        998
+    );
+    HasAlpha = 1;
+    HotSpotX = 12;
+    HotSpotY = 11;
+    ImageDescription = <>;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 63;
+    OriginalLocationY = 37;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+}

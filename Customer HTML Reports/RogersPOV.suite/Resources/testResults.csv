@@ -1,0 +1,11 @@
+The Test Suite started running at  04/26/21 02:22 PM 
+ 
+Test Case Name , Run Success , Run Error , Run Exception , Run Time , Run Duration 
+placeCall , 1 , 0 , 0 , 2021-04-26 09:57:06 -0600 , 5.004246 
+speedTest , 1 , 0 , 0 , 2021-04-26 09:57:11 -0600 , 5.006236 
+handoverSession , 1 , 0 , 0 , 2021-04-26 09:57:16 -0600 , 5.004351 
+The Test Suite complete at  04/26/21 09:57 AMTest Case Name , Run Success , Run Error , Run Exception , Run Time , Run Duration 
+placeCall , 1 , 0 , 0 , 2021-04-26 14:22:26 -0600 , 5.007717 
+speedTest , 1 , 0 , 0 , 2021-04-26 14:22:31 -0600 , 5.008774 
+handoverSession , 1 , 0 , 0 , 2021-04-26 14:22:36 -0600 , 5.010197 
+The Test Suite complete at  04/26/21 02:22 PM

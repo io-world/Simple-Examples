@@ -1,0 +1,61 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running index.script",
+      "timestamp" : "2021-04-22 10:23:13.690 -0600"
+    },
+    {
+      "handlerName" : "on_openwebpage",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2021-04-22 10:23:13.796 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "OpenWebPage.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_openwebpage",
+      "message" : "chrome.exe[returnKey]",
+      "timestamp" : "2021-04-22 10:23:14.643 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "OpenWebPage.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_overridecommand",
+      "message" : "found at (700, 280)",
+      "identifier" : "waitfor",
+      "image" : "Refresh Icon",
+      "handlerLine" : 1,
+      "timestamp" : "2021-04-22 10:23:24.093 -0600",
+      "scriptName" : "\/Applications\/Eggplant.app\/Contents\/Resources\/EggplantCommon.suite\/Scripts\/Omega13.script"
+    },
+    {
+      "handlerName" : "on_openwebpage",
+      "message" : "[controlKey]l",
+      "timestamp" : "2021-04-22 10:23:24.131 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "OpenWebPage.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_openwebpage",
+      "message" : "www.amazon.com[returnKey]",
+      "timestamp" : "2021-04-22 10:23:25.022 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "OpenWebPage.script",
+      "handlerLine" : 6
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"11.437752\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-04-22 10:23:13 -0600\", Successes:\"1\", TestCase:\"index.script\", Warnings:\"0\")",
+      "timestamp" : "2021-04-22 10:23:25.130 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:11 index.script",
+      "timestamp" : "2021-04-22 10:23:25.152 -0600"
+    }
+  ],
+  "createdTimestamp" : "2021-04-22 10:23:13.691 -0600"
+}

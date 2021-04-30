@@ -1,0 +1,45 @@
+{
+  "lastmodifieddate" : 1612972612.15957,
+  "testlocationdata" : [
+    {
+      "name" : "download_TL.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "Windows10",
+      "connectionportnum" : 5901,
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[5,19]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.36.124",
+      "capturerect" : [
+        438,
+        189,
+        16,
+        17
+      ]
+    }
+  ],
+  "createddate" : 1612972612.15957,
+  "lastfoundlocation" : [
+    438,
+    189,
+    16,
+    17
+  ],
+  "originalcapturelocation" : [
+    438,
+    189,
+    16,
+    17
+  ],
+  "lastfounddate" : 1612976556.5851831,
+  "name" : "download_TL"
+}

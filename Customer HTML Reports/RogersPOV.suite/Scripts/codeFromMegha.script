@@ -1,0 +1,111 @@
+﻿
+
+// this is your code from the email
+log "Writing to file"
+put ResourcePath("speedtest.csv") into theFile
+open file theFile
+write "Ping Results" &","& "Download Results" &","& "Jitter Results" &","& "Upload Results" to file theFile
+
+put ADBCallRemote("-s R3CN903V0WM shell am start -a android.intent.action.VIEW -d https://www.rogers.com/customer/support/article/internet-speedtest")
+wait 5
+
+Drag (Image:"ina", WaitFor:21)
+Drop {Image:"image0001", WaitFor:21}
+wait 3
+
+Tap "RSP_Go.png"
+
+repeat 2 times
+	
+	Wait until ImageFound(imageName:"RSP_testagain", waitFor:60)
+	put ReadText("Ping_TL","Ping_BR") into pingResults
+	put ReadText("DOWNLOAD_TL","DOWNLOAD_BR") into downloadResults
+	put ReadText("JITTER_TL","JITTER_BR") into jitterResults
+	put ReadText("UPLOAD_TL","UPLOAD_BR") into uploadResults
+	write return & pingResults &","& downloadResults &","& jitterResults &","& uploadResults to file theFile at eof
+	
+	
+	
+	tap "RSP_testagain"
+end repeat
+close file theFile
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//this is my code to do a similar set of steps
+launchSpeedtest
+log "Writing to file"
+put ResourcePath("speedtest.csv") into theFile
+open file theFile
+repeat 2 times
+	Click "speedtestGO"
+	Wait 10
+	Wait until ImageFound("speedtestGO")
+	Click "speedtestHistory"
+	Click "resultsHistory"
+	
+	put ReadText("historyPing_TL", "historyPing_BR", contrast:on, contrastcolor:"#191b2e", contrasttolerance:5, validCharacters:[1,2,3,4,5,6,7,8,9,0,"."]) into pingSpeed
+	log pingSpeed
+	put ReadText("historyDownload_TL", "historyDownload_BR",contrast:on, contrastcolor:"#191b2e", contrasttolerance:5, validCharacters:[1,2,3,4,5,6,7,8,9,0,"."]) into downloadSpeed
+	log downloadSpeed
+	put ReadText("historyUpload_TL", "historyUpload_BR", contrast:on, contrastcolor:"#191b2e", contrasttolerance:5, validCharacters:[1,2,3,4,5,6,7,8,9,0,"."]) into uploadSpeed
+	log uploadSpeed
+	
+	write return & pingSpeed &","& downloadSpeed &","& uploadSpeed to file theFile at eof
+	Click "deleteHistory"
+	Click "YesBtn"
+	repeat while ImageFound("speedtestReturnArrow")
+		Click "speedtestReturnArrow"
+		wait 2
+	end repeat
+end repeat
+close file theFile
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+//Opens the Speedtest Application
+to launchSpeedtest
+	TypeText windowsKey & "r"
+	TypeText "C:\Program Files\Speedtest\Speedtest.exe", returnKey
+	WaitFor 30, "speedtestGO"
+end launchSpeedtest
+
+
+//Creates global lists for each of the 3 variables being collected
+//Runs through the Speedtest 10 times and adds the values to the end of the appropriate list after each run - deletes results after each run
+//Logs each list of data collected
+//Closes Speedtest Application
+to collectSpeedtestData
+	put empty into global pingSpeedList
+	put empty into global downloadSpeedList
+	put empty into global uploadSpeedList
+	
+	repeat 5 times
+		Click "speedtestGO"
+		Wait 10
+		Wait until ImageFound("speedtestGO")
+		Click "speedtestHistory"
+		Click "resultsHistory"
+		
+		put ReadText("historyPing_TL", "historyPing_BR", contrast:on, contrastcolor:"#191b2e", contrasttolerance:15, validCharacters:[1,2,3,4,5,6,7,8,9,0,"."]) into pingSpeed
+		log pingSpeed
+		put ReadText("historyDownload_TL", "historyDownload_BR",contrast:on, contrastcolor:"#191b2e", contrasttolerance:15, validCharacters:[1,2,3,4,5,6,7,8,9,0,"."]) into downloadSpeed
+		log downloadSpeed
+		put ReadText("historyUpload_TL", "historyUpload_BR", contrast:on, contrastcolor:"#191b2e", contrasttolerance:15, validCharacters:[1,2,3,4,5,6,7,8,9,0,"."]) into uploadSpeed
+		log uploadSpeed
+		put pingSpeed & "," after global pingSpeedList
+		put downloadSpeed & "," after global downloadSpeedList
+		put uploadSpeed & "," after global uploadSpeedList
+		Click "deleteHistory"
+		Click "YesBtn"
+		repeat while ImageFound("speedtestReturnArrow")
+			Click "speedtestReturnArrow"
+			wait 2
+		end repeat
+	end repeat
+	
+	log "The data collected for Ping Speed is as follows - "&global pingSpeedList
+	log "The data collected for Download Speed is as follows - "&global downloadSpeedList
+	log "The data collected for Upload Speed is as follows - "&global uploadSpeedList
+	Click "closeWindow"
+end collectSpeedtestData

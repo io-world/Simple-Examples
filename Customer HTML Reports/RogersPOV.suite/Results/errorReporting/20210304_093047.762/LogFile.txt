@@ -1,0 +1,5 @@
+﻿2021-03-04 09:30:47.768 -0700	START		Running errorReporting.script
+2021-03-04 09:30:48.051 -0700	typetext		[windowsKey]r	4	on_errorreporting	errorReporting.script
+2021-03-04 09:30:50.824 -0700	typetext		C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe[returnKey]	5	on_errorreporting	errorReporting.script
+2021-03-04 09:30:53.182 -0700	EndTestCase		(Duration:"5.41309", Errors:"1", Exceptions:"0", StartTime:"2021-03-04 09:30:47 -0700", Successes:"0", TestCase:"errorReporting.script", Warnings:"0")
+2021-03-04 09:30:53.185 -0700	ABORTED		Execution Time 0:00:05 errorReporting.script

@@ -1,0 +1,11 @@
+﻿
+
+
+
+
+put new "PixelData"  into PXD
+(PXD)."DefineColorArea" (691,789,755,853)
+log (PXD).MatrixPixel
+
+
+log (PXD).ColorCount
